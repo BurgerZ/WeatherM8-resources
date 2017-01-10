@@ -159,8 +159,6 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="view_indexes_item_today">Azi</string>
     <string name="view_indexes_item_tommorrow">Mâine</string>
 
-    <string name="widget_update_date_string">Actualizat %s</string>
-    <string name="widget_update_updating_string">Updating…</string>
     <string name="wind_unit">%1$s km/h</string>
     <string name="wind_unit_mph">%1$s mile/h</string>
     <string name="wind_unit_ms">%1$s m/s</string>
