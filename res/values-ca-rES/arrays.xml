@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Pequín</item>
+        <item>Amsterdam</item>
+        <item>Varsòvia</item>
+        <item>Vílnius</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Roma</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Kharagandí</item>
+        <item>Oriol</item>
+        <item>Berlín</item>
+        <item>Praga</item>
+        <item>Moscou</item>
+        <item>St. Petersburg</item>
+        <item>Chicago</item>
+        <item>Nova York</item>
+        <item>París</item>
+        <item>Londres</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Serè</item>
+        <item>Ennuvolat</item>
+        <item>Cobert</item>
+        <item>Emboirat</item>
+        <item>Temporal fort</item>
+        <item>Aiguat</item>
+        <item>Temporal</item>
+        <item>Tempesta</item>
+        <item>Xàfecs</item>
+        <item>Pluja forta</item>
+        <item>Pluja moderada</item>
+        <item>Pluja feble</item>
+        <item>Aiguaneu</item>
+        <item>Torb</item>
+        <item>Neu</item>
+        <item>Neu forta</item>
+        <item>Neu moderada</item>
+        <item>Neu feble</item>
+        <item>Temporal fort de sorra</item>
+        <item>Temporal de sorra</item>
+        <item>Sorra</item>
+        <item>Ventós</item>
+        <item>Pedra</item>
+        <item>Pols</item>
+        <item>Calitja</item>
+        <item>Pluja gelant</item>
+        <item>Sense dades</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Icona del temps</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Molt baix</item>
+        <item>Baix</item>
+        <item>Mig</item>
+        <item>Alt</item>
+        <item>Molt alt</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minuts</item>
+        <item>1 hora</item>
+        <item>2 hores</item>
+        <item>6 hores</item>
+        <item>12 hores</item>
+        <item>24 hores</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+</resources>

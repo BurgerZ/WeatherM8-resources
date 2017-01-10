@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Weather M8</string>
+    <string name="app_version">Version: %s</string>
+    <string name="location_management">Locations</string>
+    <string name="gps_hint">GPS</string>
+    <string name="network_unavailable">"Can't connect to the network."</string>
+    <string name="act_find_city_hot_title">Add</string>
+    <string name="act_find_city_hint">Enter location</string>
+    <string name="act_set_city_find_side">Locating…</string>
+    <string name="act_set_city_find_side_error">"Can't locate device"</string>
+    <string name="button_add_city">Add city</string>
+    <string name="locate_fail_detail_err">"Can't locate device
+Tap the button below to add city manually or try to locate again"</string>
+    <string name="act_set_city_swipe_hint">Swipe left to delete city</string>
+    <string name="button_allow">OK</string>
+    <string name="button_not_allow">Cancel</string>
+    <string name="act_weather_find_city_net_no_good">"Can't connect to the network."</string>
+    <string name="act_weather_find_city_click_retry">Retry</string>
+    <string name="act_weather_find_city_searching">Searching…</string>
+    <string name="location_tag">Locate</string>
+    <string name="act_weather_find_city_no_result">No results</string>
+    <string name="act_weather_find_city_added">Added</string>
+    <string name="view_forecast_item_yesterday">Yesterday</string>
+    <string name="view_indexes_item_today">Today</string>
+    <string name="view_indexes_item_tommorrow">Tomorrow</string>
+    <string name="activity_main_update_time">Updated %1$s</string>
+    <string name="activity_main_expire_time">Expires %1$s</string>
+    <string name="activity_main_update_time_expire">Data expired</string>
+    <string name="activity_main_update_time_right_now">just now</string>
+    <string name="activity_main_refresh_fail">"Couldn't connect to network"</string>
+    <string name="activity_find_city_dialog_cancel">Cancel</string>
+    <string name="activity_find_city_dialog_set">Settings</string>
+    <string name="activity_find_city_dialog_title">Location access</string>
+    <string name="activity_find_city_dialog_message">Let Weather view your location</string>
+    <string name="activity_main_time_format">E</string>
+    <string name="activity_detail_time_format">E</string>
+    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="first_start_network_msg">"This app requires active Internet connection to get weather data.
+        Application uses permissions:
+        \u2022 Access device location to get your current coordinates.
+        \u2022 Access photos, media and files to save screenshots for \"Share\" feature."</string>
+    <string name="first_start_network_title">Internet connection and location access</string>
+
+    <string name="get_accounts_msg">This app requires access to the device accounts list to check your purchases and turn off the ads.</string>
+    <string name="get_accounts_title">Accounts access</string>
+
+    <string name="international_detail_menu_title">Details</string>
+    <string name="share_menu_title">Share</string>
+
+    <string name="common_auto">Auto</string>
+    <string name="common_recommended">Recommended</string>
+
+    <string name="network_error">Could not connect the server.\nCheck your network settings.</string>
+    <string name="network_in_quiet_hours">You are in Quiet Hours now. Updates cancelled.</string>
+    <string name="network_in_roaming">You have settings to disable updates in roaming.</string>
+    <string name="network_wifi_only">Updates set to Wi-Fi only.</string>
+
+    <!-- Preferences -->
+    <string name="settings_menu_title">Settings</string>
+    <string name="settings_autoupdate_weather_title">Auto update</string>
+    <string name="settings_autoupdate_weather_summary">Update weather forecasts automatically</string>
+    <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
+    <string name="settings_update_wifi_only_title">Update only on Wi-Fi</string>
+    <string name="settings_update_interval_title">Update interval</string>
+    <string name="settings_update_quiet_hours_end_time_title">End</string>
+    <string name="settings_update_quiet_hours_start_time_title">Start</string>
+    <string name="settings_update_quiet_hours_title">Quiet hours</string>
+    <string name="settings_weather_transfer_title">Weather description transfer</string>
+    <string name="settings_weather_transfer_summary">Show weather description day to night transfer</string>
+    <string name="settings_weather_spider_title">Update source</string>
+    <string name="settings_weather_realtime_spider_title">Realtime data</string>
+    <string name="settings_weather_forecast_spider_title">Forecast data</string>
+    <string name="settings_weather_station_title">Meteo station</string>
+    <string name="settings_app_locale_title">Language</string>
+    <string name="settings_app_theme_title">Theme</string>
+    <string name="settings_app_theme_light">Light</string>
+    <string name="settings_app_theme_dark">Dark</string>
+    <string name="settings_weather_details_title">Weather details</string>
+    <string name="settings_weather_details_summary">Select weather details to show on the main screen</string>
+    <string name="settings_category_units">Units</string>
+    <string name="settings_pressure_unit">Pressure</string>
+    <string name="settings_pressure_unit_atm">atm</string>
+    <string name="settings_pressure_unit_hpa">hPa</string>
+    <string name="settings_pressure_unit_mb">mb</string>
+    <string name="settings_pressure_unit_mm">mmHg</string>
+    <string name="settings_pressure_unit_in">inHg</string>
+    <string name="settings_wind_unit">Wind speed</string>
+    <string name="settings_wind_unit_kmh">km/h</string>
+    <string name="settings_wind_unit_knot">knot</string>
+    <string name="settings_wind_unit_ms">m/s</string>
+    <string name="settings_wind_unit_mph">mph</string>
+    <string name="settings_temp_unit">Temperature</string>
+    <string name="settings_visibility_unit">Visibility</string>
+    <string name="settings_visibility_unit_kilometers">km</string>
+    <string name="settings_visibility_unit_meters">m</string>
+    <string name="settings_visibility_unit_miles">miles</string>
+
+    <string name="settings_realtime_feelslike_as_main_title">Feelslike as main temperature</string>
+    <string name="settings_realtime_feelslike_as_main_summary">Show realfeel temperature as a main weather temperature</string>
+
+    <string name="settings_pressure_level_title">Display pressure for</string>
+
+    <string name="settings_city_base">City Database</string>
+
+    <string name="settings_notifications_title">Notifications</string>
+    <string name="settings_notifications_summary">Weather notifications settings</string>
+    <string name="settings_notification_title">Show Notification</string>
+    <string name="settings_notification_summary">Show current weather conditions in the notification area</string>
+
+    <string name="settings_notification_priority_title">Minimum priority</string>
+    <string name="settings_notification_priority_summary">Minimum-priority notifications appears only in notification shade</string>
+
+    <string name="settings_notify_type_title">Notification icon</string>
+
+    <string name="settings_alerts_title">Manage alerts</string>
+
+    <string name="settings_icons_title">Weather icons</string>
+    <string name="settings_icons_builtin_title">Built-in weather icons</string>
+    <string name="settings_icons_theme_details_title">Theme details</string>
+
+    <string name="settings_widgets_title">Widgets</string>
+    <string name="settings_widgets_not_found">No installed widgets found</string>
+
+    <string name="settings_ads_title">Advertisement and Donations</string>
+    <string name="settings_ads_explanation">"Why you see an advertising?
+Writing applications for Android is a hobby for me, which I do in my personal free time. So please treat with understanding to the appearance of a certain number of banners. Displaying ads in application stimulates the further development."</string>
+    <string name="settings_ads_remove_title">Remove ads</string>
+    <string name="settings_ads_remove_summary">Remove ads for a week (once a month)</string>
+    <string name="settings_ads_yandex">Yandex Money</string>
+    <string name="settings_about">About</string>
+    <string name="settings_translations">Translations</string>
+    <string name="settings_translations_summary">Credits to the application translators</string>
+    <string name="settings_thirdparty">Third-party libraries and resources</string>
+    <string name="settings_permissions">Permissions</string>
+    <string name="settings_help">Help</string>
+    <string name="settings_feedback">Send feedback</string>
+    <string name="settings_dialog_enter_timezone">Enter Time Zone for selected city (%s), for example GMT+03:00:</string>
+
+    <string name="feedback_title">Title</string>
+    <string name="feedback_title_hint">Describe the issue briefly</string>
+    <string name="feedback_description">Description</string>
+    <string name="feedback_description_hint">Describe the issue or suggestion fully</string>
+    <string name="feedback_add_images">Add images</string>
+    <string name="feedback_select_upload_settings">Upload app settings</string>
+    <string name="feedback_action_send">Send</string>
+    <string name="feedback_fill_required">Required fields cannot be left blank</string>
+    <string name="feedback_sending">Sending feedback…</string>
+    <string name="feedback_sent">Thanks for your feedback!</string>
+    <string name="feedback_error">Error sending feedback</string>
+
+    <string name="share_btn_cancel">Cancel</string>
+    <string name="share_btn_confirm">Share</string>
+    <string name="share_subject">Share</string>
+    <string name="share_button">Share</string>
+    <string name="share_weather_save_pic_fail">"Couldn't take screenshot"</string>
+    <string name="share_weather_desc_split">,</string>
+    <string name="share_weather_desc">\#Weather M8# Today %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s, %2$s</string>
+    <string name="hourly_forcast_now">Now</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_drawer_on_top">Daily forecast</string>
+    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+
+    <!-- Weather details -->
+    <string name="more_details">More details</string>
+    <string name="weather_details_title">Weather details</string>
+    <string name="weather_details_wind_title">Wind</string>
+    <string name="weather_details_real_feel_title">Feels like</string>
+    <string name="weather_details_uv_index_title">UV Index</string>
+    <string name="weather_details_pressure_title">Pressure</string>
+    <string name="weather_details_humidity_title">Humidity</string>
+    <string name="weather_details_visibility_title">Visibility</string>
+    <string name="weather_details_precipitation_prob_title">Precipitation</string>
+    <string name="weather_details_daylight_hours_title">Daylight hours</string>
+    <string name="weather_details_timezone_title">Time Zone</string>
+    <string name="weather_details_elevation_title">Elevation</string>
+
+    <string name="weather_details_wind_connect">%1$s %2$s</string>
+    <string name="weather_details_pressure">%1$s hPa</string>
+    <string name="weather_details_pressure_atm">%1$s atm</string>
+    <string name="weather_details_pressure_mb">%1$s mb</string>
+    <string name="weather_details_pressure_mm">%1$s mmHg</string>
+    <string name="weather_details_pressure_in">%1$s inHg</string>
+    <string name="weather_details_humidity">%1$s%%</string>
+    <string name="weather_details_visibility">%1$s km</string>
+    <string name="weather_details_visibility_meters">%1$s m</string>
+    <string name="weather_details_visibility_miles">%1$s miles</string>
+
+    <string name="weather_details_update_date_string">Observation time: %s</string>
+
+    <string name="time_units_hour">h</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
+
+    <!-- Weather alerts -->
+    <string name="activity_main_alert">Alerts: %1$d</string>
+
+    <string name="daily_forcast_no_wind">Still</string>
+    <string name="daily_forcast_whirl_wind">Whirl wind</string>
+    <string name="delete">Delete</string>
+
+    <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit_knot">%1$sknot</string>
+    <string name="wind_unit_ms">%1$sm/s</string>
+    <string name="wind_unit_mph">%1$smph</string>
+
+    <string name="hourly_forecast_title">Hourly Forecast</string>
+
+    <!-- Widgets -->
+    <string name="widget_update_date_string">Updated %s</string>
+    <string name="widget_update_updating_string">Updating…</string>
+    <!-- Widget config -->
+    <string name="widget_config_title">Widget config</string>
+    <string name="widget_config_custom_clock_font_onoff_title">Custom clock font</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">Turn it off if widget clock is not updating</string>
+    <string name="widget_config_clock_font_title">Clock font</string>
+    <string name="widget_config_clock_color_title">Clock color</string>
+    <string name="widget_config_clock_font_size_title">Clock font size</string>
+    <string name="widget_config_date_font_size_title">Date font size</string>
+    <string name="widget_config_dateformat_title">Date format</string>
+    <string name="widget_config_realtime_font_title">Realtime data font</string>
+    <string name="widget_config_realtime_font_size_title">Realtime data text size</string>
+    <string name="widget_config_font_title">Text font</string>
+    <string name="widget_config_font_size_title">Text size</string>
+    <string name="widget_config_text_color_title">Text color</string>
+    <string name="widget_config_show_alarm_title">Show next alarm</string>
+    <string name="widget_config_use_background_title">Show widget background</string>
+    <string name="widget_config_background_color_title">Background color</string>
+    <string name="widget_config_background_type_title">Background type</string>
+    <string name="widget_config_background_type_solid">Solid</string>
+    <string name="widget_config_background_type_border">Border</string>
+
+    <string name="widget_config_show_cityname_title">Show city name</string>
+    <string name="widget_config_show_local_time_title">Show local time</string>
+    <string name="widget_config_show_leading_zero_title">Show leading zero</string>
+
+    <string name="widget_config_click_settings">Click widget areas settings</string>
+    <string name="widget_config_click_apps">Select application</string>
+    <string name="widget_config_click_clock">Clock</string>
+    <string name="widget_config_click_date">Date</string>
+    <string name="widget_config_click_weather_icon">Weather icon</string>
+    <string name="widget_config_click_temperature">Temperature</string>
+
+    <!-- Moon Phases -->
+    <string name="menu_moon_phases">Moon Phases</string>
+    <string name="moon_age">Age: %1$s days %2$s hours %3$s minutes</string>
+    <string name="moon_newmoon">New Moon</string>
+    <string name="moon_waxingcrescent">Waxing crescent</string>
+    <string name="moon_firstquarter">First quarter</string>
+    <string name="moon_waxinggibbous">Waxing gibbous</string>
+    <string name="moon_full">Full Moon</string>
+    <string name="moon_waninggibbous">Waning gibbous</string>
+    <string name="moon_lastquarter">Last quarter</string>
+    <string name="moon_waningcrescent">Waning crescent</string>
+    <string name="moon_illuminated">Illuminated: %s%%</string>
+    <string name="moon_since">Date: %1$s %2$s</string>
+    <string name="moon_distanse">Moon distance: %s км</string>
+    <string name="moon_angle">Moon angle: %s</string>
+    <string name="moon_zodiac">Zodiac: %s</string>
+
+    <string name="zodiac_aries">Aries</string>
+    <string name="zodiac_taurus">Taurus</string>
+    <string name="zodiac_gemini">Gemini</string>
+    <string name="zodiac_cancer">Cancer</string>
+    <string name="zodiac_leo">Leo</string>
+    <string name="zodiac_virgo">Virgo</string>
+    <string name="zodiac_libra">Libra</string>
+    <string name="zodiac_scorpio">Scorpio</string>
+    <string name="zodiac_sagittarius">Sagittarius</string>
+    <string name="zodiac_capricorn">Capricorn</string>
+    <string name="zodiac_aquarius">Aquarius</string>
+    <string name="zodiac_pisces">Pisces</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="dialog_color_picker">Color Picker</string>
+
+    <string name="date_time_am">am</string>
+    <string name="date_time_pm">pm</string>
+
+</resources>
+

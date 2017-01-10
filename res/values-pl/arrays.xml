@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Pekin</item>
+        <item>Amsterdam</item>
+        <item>Warszawa</item>
+        <item>Wilno</item>
+        <item>Ryga</item>
+        <item>Madryt</item>
+        <item>Perm</item>
+        <item>Rzym</item>
+        <item>Dubaj</item>
+        <item>Mińsk</item>
+        <item>Błagodarnyj</item>
+        <item>Karaganda</item>
+        <item>Orzeł</item>
+        <item>Berlin</item>
+        <item>Praga</item>
+        <item>Moskwa</item>
+        <item>St. Petersburg</item>
+        <item>Chicago</item>
+        <item>Nowy Jork</item>
+        <item>Paryż</item>
+        <item>Londyn</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Słonecznie</item>
+        <item>Zachmurzenie</item>
+        <item>Pochmurno</item>
+        <item>Mgliście</item>
+        <item>Ciężkie ulewy</item>
+        <item>Ulewa</item>
+        <item>Ulewa</item>
+        <item>Burza</item>
+        <item>Deszcz</item>
+        <item>Deszcz - silne opady</item>
+        <item>Deszcz - umiarkowane</item>
+        <item>Przelotne opady</item>
+        <item>Deszcz ze śniegiem</item>
+        <item>Burza śnieżna</item>
+        <item>Śnieg</item>
+        <item>Silne opady śniegu</item>
+        <item>Śnieg - umiarkowane opady</item>
+        <item>Przelotne opady śniegu</item>
+        <item>Silna burza piaskowa</item>
+        <item>Burza piaskowa</item>
+        <item>Piach</item>
+        <item>Wietrznie</item>
+        <item>Hail</item>
+        <item>Pył</item>
+        <item>Grad</item>
+        <item>Marznący deszcz</item>
+        <item>Brak pogody</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Płn.</item>
+        <item>Płn.-Wsch.</item>
+        <item>Wsch.</item>
+        <item>Płd.-Wsch.</item>
+        <item>Płd.</item>
+        <item>Płd.-Zach.</item>
+        <item>Zach.</item>
+        <item>Płn.-Zach</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Ikona pogody</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Bardzo niski</item>
+        <item>Niski</item>
+        <item>Średni</item>
+        <item>Wysoki</item>
+        <item>Bardzo wysoki</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minut</item>
+        <item>godzina</item>
+        <item>2 godziny</item>
+        <item>6 godzin</item>
+        <item>12 godzin</item>
+        <item>24 godziny</item>
+    </string-array>
+</resources>

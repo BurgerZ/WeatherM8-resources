@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+         <item>Пекін</item> 
+        <item>Амстэрдам</item>
+         <item>Варшава</item> 
+        <item>Вільня</item> 
+        <item>Рыга</item>
+         <item>Мадрыд</item>
+         <item>Перм</item> 
+        <item>Рым</item> 
+        <item>Дубай</item> 
+        <item>Мінск</item>
+         <item>Благадарны</item> 
+        <item>Караганда</item>
+         <item>Арол</item> 
+        <item>Берлін</item> 
+        <item>Прага</item> 
+        <item>Масква</item> 
+        <item>Санкт-Пецярбург</item>
+         <item>Чыкага</item> 
+        <item>Нью-Ёрк</item> 
+        <item>Парыж</item> 
+        <item>Лондан</item> 
+        <item>Лос-Анджэлес</item>
+         <item>Калінінград</item> 
+    </string-array>
+    <string-array name="weather_type">
+        <item>Ясна</item>
+        <item>Воблачна</item>
+        <item>Пахмурна</item>
+        <item>Туман</item>
+        <item>Бура</item>
+        <item>Лівень</item>
+        <item>Моцны лівень</item>
+        <item>Навальніца</item>
+        <item>Дождж</item>
+        <item>Лівень</item>
+        <item>Дождж</item>
+        <item>Невялікі дождж</item>
+        <item>Снег з дажджом</item>
+        <item>Завіруха</item>
+        <item>Снег</item>
+        <item>Снегапад</item>
+        <item>Лёгкі снег</item>
+        <item>Невялікі снег</item>
+        <item>Пылавы шторм</item>
+        <item>Пясчаная бура</item>
+        <item>Умераны пыл</item>
+        <item>Ветрана</item>
+        <item>Град</item>
+        <item>Пыл</item>
+        <item>Смуга</item>
+        <item>Ледзяны дождж</item>
+        <item>Няма дадзеных</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Пн</item>
+        <item>ПнУ</item>
+        <item>У</item>
+        <item>ПдУ</item>
+        <item>Пд</item>
+        <item>ПдЗ</item>
+        <item>З</item>
+        <item>ПнЗ</item>
+    </string-array>
+
+    <string-array name="weather_notif_type_entries">
+        <item>"Іконка надвор'я"</item>
+        <item>Тэмпература</item>
+    </string-array>
+
+    <string-array name="weather_indexes_uv_level">
+        <item>Нізкі</item>
+        <item>Умераны</item>
+        <item>Высокі</item>
+        <item>Вельмі высокі</item>
+        <item>Экстрэмальны</item>
+    </string-array>
+
+    <string-array name="update_check_interval_entries">
+        <item>30 хвілін</item>
+        <item>1 гадзіна</item>
+        <item>2 гадзіны</item>
+        <item>6 гадзін</item>
+        <item>12 гадзін</item>
+        <item>24 гадзіны</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Узровень мора</item>
+        <item>Узровень горада</item>
+    </string-array>
+</resources>

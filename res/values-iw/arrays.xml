@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>בייג\'ינג</item>
+        <item>אמסטרדם</item>
+        <item>Warsaw</item>
+        <item>ורשה</item>
+        <item>ריגה</item>
+        <item>מדריד</item>
+        <item>פרם</item>
+        <item>רומא</item>
+        <item>דובאי</item>
+        <item>מינסק</item>
+        <item>בלאגודרניי</item>
+        <item>קרגנדה</item>
+        <item>אוראל</item>
+        <item>ברלין</item>
+        <item>פראג</item>
+        <item>מוסקבה</item>
+        <item>סנט פטרסבורג</item>
+        <item>שיקגו</item>
+        <item>ניו יורק</item>
+        <item>פריז</item>
+        <item>לונדון</item>
+        <item>לוס אנג\'לס</item>
+        <item>קלינינגרד</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>שִׁמשִׁי</item>
+        <item>מְעוּנָן</item>
+        <item>מְעוּנָן</item>
+        <item>מעורפל</item>
+        <item>סופת גשמים כבדים</item>
+        <item>מַבּוּל</item>
+        <item>גֶשֶׁם זַעַף</item>
+        <item>סוּפַת רַעֲמִים</item>
+        <item>מָטָר</item>
+        <item>גשמים כבדים</item>
+        <item>גשם מתון</item>
+        <item>גשם קל</item>
+        <item>גשם ושלג מעורב</item>
+        <item>סוּפַת שֶׁלֶג</item>
+        <item>שֶׁלֶג</item>
+        <item>שלג כבד</item>
+        <item>שלג חלש</item>
+        <item>שלג קל</item>
+        <item>סופת חול חזקה</item>
+        <item>סופת חול</item>
+        <item>חוֹל</item>
+        <item>סוער</item>
+        <item>בָּרָד</item>
+        <item>אָבָק</item>
+        <item>עֲרָפֶל</item>
+        <item>גשם קפוא</item>
+        <item>אין מזג אוויר</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>צ</item>
+        <item>צמז</item>
+        <item>מז</item>
+        <item>דמז</item>
+        <item>ד</item>
+        <item>דמע</item>
+        <item>מע</item>
+        <item>צמע</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>סמל מזג אוויר</item>
+        <item>טֶמפֶּרָטוּרָה</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>מאוד חלש</item>
+        <item>Weak</item>
+        <item>בינוני</item>
+        <item>חזק</item>
+        <item>חזק מאוד</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 דקות</item>
+        <item>1 שעה</item>
+        <item>2 שעות</item>
+        <item>6 שעות</item>
+        <item>12 שעות</item>
+        <item>24 שעות</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>פשוט</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>גובה פני הים</item>
+        <item>רמת מיקום</item>
+    </string-array>
+</resources>

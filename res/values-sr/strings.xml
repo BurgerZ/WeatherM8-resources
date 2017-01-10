@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather M8</string>
+    <string name="app_version">Verzija: %s</string>
+    <string name="location_management">Lokacije</string>
+    <string name="gps_hint">GPS</string>
+    <string name="network_unavailable">"Ne mogu da se povežem na mrežu."</string>
+    <string name="act_find_city_hot_title">Dodaj</string>
+    <string name="act_find_city_hint">Unesite lokaciju</string>
+    <string name="act_set_city_find_side">Lociranje…</string>
+    <string name="act_set_city_find_side_error">"Ne mogu da lociram uređaj"</string>
+    <string name="button_add_city">Dodaj grad</string>
+    <string name="locate_fail_detail_err">"Ne mogu da lociram uređaj
+Dodirnite dugme ispod da bi grad dodali ručno ili pokušajte da locirate ponovo"</string>
+    <string name="act_set_city_swipe_hint">Prevucite prstom nalevo za brisanje grada</string>
+    <string name="button_allow">Potvrdi</string>
+    <string name="button_not_allow">Odustani</string>
+    <string name="act_weather_find_city_net_no_good">"Ne mogu da se povežem na mrežu."</string>
+    <string name="act_weather_find_city_click_retry">Pokušaj ponovo</string>
+    <string name="act_weather_find_city_searching">Pretraga…</string>
+    <string name="location_tag">Lociraj</string>
+    <string name="act_weather_find_city_no_result">Nema rezultata</string>
+    <string name="act_weather_find_city_added">Dodato</string>
+    <string name="view_forecast_item_yesterday">Juče</string>
+    <string name="view_indexes_item_today">Danas</string>
+    <string name="view_indexes_item_tommorrow">Sutra</string>
+    <string name="activity_main_update_time">Ažurirano %1$s</string>
+    <string name="activity_main_expire_time">Ističe %1$s</string>
+    <string name="activity_main_update_time_right_now">upravo sada</string>
+    <string name="activity_main_refresh_fail">"Ne mogu da se povežem na mrežu"</string>
+    <string name="activity_find_city_dialog_cancel">Odustani</string>
+    <string name="activity_find_city_dialog_set">Podešavanja</string>
+    <string name="activity_find_city_dialog_title">Pristup lokaciji</string>
+    <string name="activity_find_city_dialog_message">Dopusti Prognozi da vidi tvoju lokaciju</string>
+    <string name="activity_main_time_format">E</string>
+    <string name="activity_detail_time_format">E</string>
+    <string name="hour_minute_time_format">SS:mm</string>
+    <string name="first_start_network_msg">"Ova aplikacija zahteva aktivnu Internet konekciju da bi dobila podatke o vremenu.
+        Aplikacija koristi dozvole:
+        \u2022 Pristup lokaciji uređaja da biste dobili vaše trenutne koordinate.
+        \u2022 Pristup slikama, medijima i fajlovima da bi sačuvali slike ekrana \"Podeli\" karakteristika."</string>
+    <string name="first_start_network_title">Internet konekcija i pristup lokaciji</string>
+    <string name="international_detail_menu_title">Detalji</string>
+    <string name="share_menu_title">Podeli</string>
+
+    <!-- Preferences -->
+    <string name="settings_menu_title">Podešavanja</string>
+    <string name="settings_autoupdate_weather_title">Auto ažuriranje</string>
+    <string name="settings_autoupdate_weather_summary">Ažuriranje vremenske prognoze automatski</string>
+    <string name="settings_update_interval_title">Interval ažuriranja</string>
+    <string name="settings_weather_transfer_title">Prenos opisa vremena</string>
+    <string name="settings_weather_transfer_summary">Prikazati promenu vremena od dana do noći</string>
+    <string name="settings_weather_spider_title">Izvor ažuriranja</string>
+    <string name="settings_app_locale_title">Jezik</string>
+    <string name="settings_app_theme_title">Tema</string>
+    <string name="settings_app_theme_light">Svetla</string>
+    <string name="settings_app_theme_dark">Tamna</string>
+    <string name="settings_weather_details_title">Detalji vremena</string>
+    <string name="settings_weather_details_summary">Izabrite detalje vremena koji će se prikazati na ekranu</string>
+    <string name="settings_category_units">Jedinice</string>
+    <string name="settings_pressure_unit">Pritisak</string>
+    <string name="settings_pressure_unit_mb">mb</string>
+    <string name="settings_pressure_unit_mm">mmHg</string>
+    <string name="settings_pressure_unit_in">inHg</string>
+    <string name="settings_wind_unit">Brzina vetra</string>
+    <string name="settings_wind_unit_kmh">km/h</string>
+    <string name="settings_wind_unit_ms">m/s</string>
+    <string name="settings_wind_unit_mph">mph</string>
+    <string name="settings_temp_unit">Temperatura</string>
+    <string name="settings_visibility_unit">Vidljivost</string>
+    <string name="settings_visibility_unit_kilometers">km</string>
+    <string name="settings_visibility_unit_meters">m</string>
+    <string name="settings_visibility_unit_miles">milja</string>
+
+    <string name="settings_city_base">Baza Gradova</string>
+
+    <string name="settings_notifications_title">Obaveštenja</string>
+    <string name="settings_notifications_summary">Obaveštenja o vremenu podešavanja</string>
+    <string name="settings_notification_title">Prikaži Obaveštenje</string>
+    <string name="settings_notification_summary">Prikazivanje trenutnih vremenskih uslova u traci obaveštenja</string>
+
+    <string name="settings_notification_priority_title">Minimalni prioritet</string>
+    <string name="settings_notification_priority_summary">Minimalni prioritet obaveštenja prikazuje se samo obaveštenje</string>
+
+    <string name="settings_notify_type_title">Ikona obaveštenja</string>
+
+    <string name="settings_alerts_title">Upravljanje upozorenjima</string>
+
+    <string name="settings_icons_title">Ikona Prognoze</string>
+
+    <string name="settings_about">O nama</string>
+    <string name="settings_translations">Prevod aplikacije</string>
+    <string name="settings_translations_summary">Zasluge prevodiocima aplikacije, prevedite aplikaciju na vaš jezik</string>
+
+    <string name="share_btn_cancel">Odustani</string>
+    <string name="share_btn_confirm">Podeli</string>
+    <string name="share_subject">Podeli</string>
+    <string name="share_button">Podeli</string>
+    <string name="share_weather_save_pic_fail">"Ne mogu da sačuvam sliku ekrana"</string>
+    <string name="share_weather_desc_split">,</string>
+    <string name="share_weather_desc">\#Weather M8# Danas %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s, %2$s</string>
+    <string name="hourly_forcast_now">Sada</string>
+    <string name="sunrise">Izlazak sunca</string>
+    <string name="sunset">Zalazak sunca</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s kasnije.</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_drawer_on_top">Dnevna prognoza</string>
+    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+
+    <!-- Weather details -->
+    <string name="more_details">Više detalja</string>
+    <string name="weather_details_title">Detalji vremena</string>
+    <string name="weather_details_wind_title">Vetar</string>
+    <string name="weather_details_real_feel_title">Subjektivni osećaj</string>
+    <string name="weather_details_uv_index_title">UV Indeks</string>
+    <string name="weather_details_pressure_title">Pritisak</string>
+    <string name="weather_details_humidity_title">Vlažnost</string>
+    <string name="weather_details_visibility_title">Vidljivost</string>
+    <string name="weather_details_precipitation_prob_title">Padavine</string>
+    <string name="weather_details_daylight_hours_title">Letnje računanje vremena</string>
+
+    <string name="weather_details_wind_connect">%1$s %2$s</string>
+    <string name="weather_details_pressure">%1$s hPa</string>
+    <string name="weather_details_pressure_mm">%1$s mmHg</string>
+    <string name="weather_details_pressure_in">%1$s inHg</string>
+    <string name="weather_details_humidity">%1$s%%</string>
+    <string name="weather_details_visibility">%1$s km</string>
+    <string name="weather_details_visibility_meters">%1$s m</string>
+    <string name="weather_details_visibility_miles">%1$s milja</string>
+
+    <string name="time_units_hour">s</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
+
+    <!-- Weather alerts -->
+    <string name="activity_main_alert">Upozorenja: %1$d</string>
+
+
+    <string name="daily_forcast_no_wind">Još</string>
+    <string name="daily_forcast_whirl_wind">Vihor</string>
+    <string name="delete">Obrisati</string>
+
+    <string name="wind_unit">%1$skm/s</string>
+    <string name="wind_unit_ms">%1$sm/s</string>
+    <string name="wind_unit_mph">%1$smph</string>
+
+    <string name="hourly_forecast_title">Podaci na sat vremena</string>
+
+    <!-- Widgets -->
+    <string name="widget_update_date_string">Ažuriran %s</string>
+    <string name="widget_update_updating_string">Ažuriranje…</string>
+    <!-- Widget config -->
+    <string name="widget_config_title">Konfigurisanje vidžeta</string>
+    <string name="widget_config_custom_clock_font_onoff_title">Podešavanje fonta za sat</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">Isključite ga ako se vidžet sata ne ažurira</string>
+    <string name="widget_config_clock_font_title">Font sata</string>
+    <string name="widget_config_text_color_title">Boja teksta</string>
+    <string name="widget_config_show_alarm_title">Prikaži sledeći alarm</string>
+    <string name="widget_config_use_background_title">Prikaži pozadinu vidžeta</string>
+    <string name="widget_config_background_color_title">Boja pozadine</string>
+    <string name="widget_config_background_type_title">Tip pozadine</string>
+    <string name="widget_config_background_type_solid">Jednobojna</string>
+    <string name="widget_config_background_type_border">Ivica</string>
+
+    <!-- Moon Phases -->
+    <string name="menu_moon_phases">Faze meseca</string>
+    <string name="moon_age">Starost: %1$s dana %2$s sati %3$s minuta</string>
+    <string name="moon_newmoon">Mlad Mesec</string>
+    <string name="moon_waxingcrescent">Treća četvrtina</string>
+    <string name="moon_firstquarter">Prvi kvartal</string>
+    <string name="moon_waxinggibbous">Treća četvrtina</string>
+    <string name="moon_full">Pun Mesec</string>
+    <string name="moon_waninggibbous">Treća četvrtina</string>
+    <string name="moon_lastquarter">Poslednja četvrtina</string>
+    <string name="moon_waningcrescent">Treća četvrtina</string>
+    <string name="moon_illuminated">Osvetljen: %s%%</string>
+    <string name="moon_since">Datum: %1$s %2$s</string>
+    <string name="moon_distanse">Udaljenost meseca: %s км</string>
+    <string name="moon_angle">Ugao meseca: %s</string>
+    <string name="moon_zodiac">Zodijak: %s</string>
+
+    <string name="zodiac_aries">Ovan</string>
+    <string name="zodiac_taurus">Bik</string>
+    <string name="zodiac_gemini">Blizanci</string>
+    <string name="zodiac_cancer">Rak</string>
+    <string name="zodiac_leo">Lav</string>
+    <string name="zodiac_virgo">Devica</string>
+    <string name="zodiac_libra">Vaga</string>
+    <string name="zodiac_scorpio">Škorpija</string>
+    <string name="zodiac_sagittarius">Strelac</string>
+    <string name="zodiac_capricorn">Jarac</string>
+    <string name="zodiac_aquarius">Vodolija</string>
+    <string name="zodiac_pisces">Riba</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Pritisnite boju da potvrdite</string>
+    <string name="dialog_color_picker">Izbor Boja</string>
+    <string name="weather_details_pressure_mb">%1$s mb</string>
+
+</resources>
+

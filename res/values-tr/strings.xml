@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather M8</string>
+    <string name="app_version">Version: %s</string>
+    <string name="location_management">Konumlar</string>
+    <string name="gps_hint">GPS</string>
+    <string name="network_unavailable">"Aga baglanilamiyor."</string>
+    <string name="act_find_city_hot_title">Ekle</string>
+    <string name="act_find_city_hint">Konum Giriniz</string>
+    <string name="act_set_city_find_side">Konum Bulunuyor</string>
+    <string name="act_set_city_find_side_error">"Konum Bulunamiyor."</string>
+    <string name="button_add_city">Sehir Ekle</string>
+    <string name="locate_fail_detail_err">"Konum Bulunamiyor.Lutfen Sehrinizi manuel ekleyiniz veya tekrar deneyiniz."</string>
+    <string name="act_set_city_swipe_hint">Sola Kaydirarak Sehri Siliniz.</string>
+    <string name="button_allow">Tamam</string>
+    <string name="button_not_allow">Iptal</string>
+    <string name="act_weather_find_city_net_no_good">"Aga baglanilamiyor."</string>
+    <string name="act_weather_find_city_click_retry">Tekrar</string>
+    <string name="act_weather_find_city_searching">Araniyor</string>
+    <string name="location_tag">Konum</string>
+    <string name="act_weather_find_city_no_result">Sonuc Yok</string>
+    <string name="act_weather_find_city_added">Eklendi</string>
+    <string name="view_forecast_item_yesterday">Dun</string>
+    <string name="view_indexes_item_today">Bugun</string>
+    <string name="view_indexes_item_tommorrow">Yarin</string>
+    <string name="activity_main_update_time">Guncellendi %1$s</string>
+    <string name="activity_main_update_time_right_now">Simdi</string>
+    <string name="activity_main_refresh_fail">"Aga Baglanilamiyor"</string>
+    <string name="activity_find_city_dialog_cancel">Iptal</string>
+    <string name="activity_find_city_dialog_set">Ayarlar</string>
+    <string name="activity_find_city_dialog_title">Konum Erisimi</string>
+    <string name="activity_find_city_dialog_message">Konumunuzun Hava Durumu</string>
+    <string name="activity_main_time_format">E</string>
+    <string name="activity_detail_time_format">E</string>
+    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="first_start_network_msg">"Bu uygulama hava durumu bilgilerini sunabilmek icin, aktif bir internet baglantisi gerektirmektedir.
+        Uygulama Izinleri:
+        \u2022 Cihaz Erisimi ve Bulundugunuz Konum Bilgileri.
+        \u2022 Fotograflara,medyaya videolara Ekran Goruntusu alabilmek icin erisim. \"Share\" feature."</string>
+    <string name="first_start_network_title">Internet Baglantisi ve Konum Erisimleri</string>
+    <string name="international_detail_menu_title">Detaylar</string>
+    <string name="share_menu_title">Paylas</string>
+
+    <!-- Preferences -->
+    <string name="settings_menu_title">Ayarlar</string>
+    <string name="settings_autoupdate_weather_title">Otomatik Guncellestirme</string>
+    <string name="settings_autoupdate_weather_summary">Hava Durumunu Otomatik Olarak Guncellestir</string>
+    <string name="settings_weather_transfer_title">Hava Durumu Tanimlama </string>
+    <string name="settings_weather_transfer_summary">Geceden Gunduze Hava Durumu</string>
+    <string name="settings_weather_spider_title">Kaynagi Guncelle</string>
+    <string name="settings_weather_details_title">Hava Durumu Detaylari</string>
+    <string name="settings_weather_details_summary">Ana Ekranda Goruntulenecek detaylari seciniz.</string>
+    <string name="settings_category_units">Birimler</string>
+    <string name="settings_pressure_unit">Basinc</string>
+    <string name="settings_pressure_unit_mb">mb</string>
+    <string name="settings_pressure_unit_mm">mmHg</string>
+    <string name="settings_pressure_unit_in">inHg</string>
+    <string name="settings_wind_unit">Ruzgar Hizi</string>
+    <string name="settings_wind_unit_kmh">km/s</string>
+    <string name="settings_wind_unit_ms">m/s</string>
+    <string name="settings_wind_unit_mph">mph</string>
+    <string name="settings_temp_unit">Sicaklik</string>
+    <string name="settings_visibility_unit">Gorus Mesafesi</string>
+    <string name="settings_visibility_unit_kilometers">km</string>
+    <string name="settings_visibility_unit_meters">m</string>
+    <string name="settings_visibility_unit_miles">miles</string>
+
+    <string name="settings_city_base">Sehir Veritabani</string>
+
+    <string name="settings_notifications_title">Bildirimler</string>
+    <string name="settings_notifications_summary">Hava Durumu Bildirim Ayarlari</string>
+    <string name="settings_notification_title">Bildirim Goster</string>
+    <string name="settings_notification_summary">Su Anki Hava Sartlarini, Bildirim Alaninda Goster</string>
+
+    <string name="settings_notification_priority_title">Dusuk Oncelik</string>
+    <string name="settings_notification_priority_summary">Dusuk - oncelik, bildirimler en dusuk seviyede bildirilecektir.</string>
+
+    <string name="settings_notify_type_title">Bildirim Ikonu </string>
+
+    <string name="settings_about">Hakkinda</string>
+    <string name="settings_translations">Uygulama Cevirileri</string>
+    <string name="settings_translations_summary">Uygulamayi Kendi Dilinize Cevirin.</string>
+
+    <string name="share_btn_cancel">Iptal</string>
+    <string name="share_btn_confirm">Paylas</string>
+    <string name="share_subject">Paylas</string>
+    <string name="share_button">Paylas</string>
+    <string name="share_weather_save_pic_fail">"Ekran Goruntusu Alinamadi"</string>
+    <string name="share_weather_desc_split">,</string>
+    <string name="share_weather_desc">\#Weather M8# Bugun %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
+    <string name="hourly_forcast_now">Simdi</string>
+    <string name="sunrise">Gun Dogumu</string>
+    <string name="sunset">Gun Batimi</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s sonra.</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_drawer_on_top">Genis Hava Tahmini</string>
+    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+
+    <!-- Weather details -->
+    <string name="more_details">Daha Fazla Bilgi</string>
+    <string name="weather_details_title">Hava Durumu Detaylari</string>
+    <string name="weather_details_wind_title">Ruzgar</string>
+    <string name="weather_details_real_feel_title">Hissedilen</string>
+    <string name="weather_details_uv_index_title">UV Indeksi</string>
+    <string name="weather_details_pressure_title">Basinc</string>
+    <string name="weather_details_humidity_title">Nem</string>
+    <string name="weather_details_visibility_title">Gorus Mesafesi</string>
+    <string name="weather_details_precipitation_prob_title">Yagis</string>
+    <string name="weather_details_daylight_hours_title">Gun Suresi</string>
+
+    <string name="weather_details_wind_connect">%1$s %2$s</string>
+    <string name="weather_details_pressure">%1$s hPa</string>
+    <string name="weather_details_pressure_mm">%1$s mmHg</string>
+    <string name="weather_details_pressure_in">%1$s inHg</string>
+    <string name="weather_details_humidity">%1$s%%</string>
+    <string name="weather_details_visibility">%1$s km</string>
+    <string name="weather_details_visibility_meters">%1$s m</string>
+    <string name="weather_details_visibility_miles">%1$s mil</string>
+
+    <string name="time_units_hour">s</string>
+    <string name="time_units_minute">d</string>
+    <string name="time_units_second">s</string>
+
+    <!-- Weather alerts -->
+
+    <string name="daily_forcast_no_wind">Yine</string>
+    <string name="daily_forcast_whirl_wind">Kasirga</string>
+    <string name="delete">Sil</string>
+
+    <string name="wind_unit">%1$skm/s</string>
+    <string name="wind_unit_ms">%1$sm/s</string>
+    <string name="wind_unit_mph">%1$smph</string>
+
+    <string name="hourly_forecast_title">Saatlik Tahmin</string>
+
+    <!-- Widgets -->
+
+    <!-- Moon Phases -->
+    <string name="menu_moon_phases">Ay Evreleri</string>
+    <string name="moon_age">Süre: %1$s gün %2$s saat %3$s dakika</string>
+    <string name="moon_newmoon">Yeni Ay</string>
+    <string name="moon_waxingcrescent">Hilal</string>
+    <string name="moon_firstquarter">Ilk Dordun</string>
+    <string name="moon_waxinggibbous">Siskin Ay</string>
+    <string name="moon_full">Dolunay</string>
+    <string name="moon_waninggibbous">Azalan Kambur</string>
+    <string name="moon_lastquarter">Son Dordun</string>
+    <string name="moon_waningcrescent">Azalan Hilal</string>
+    <string name="moon_illuminated">Illuminated: %s%%</string>
+    <string name="moon_since">Tarih: %1$s %2$s</string>
+    <string name="moon_distanse">Ay Mesafesi: %s км</string>
+    <string name="moon_angle">Ay Acisi: %s</string>
+    <string name="moon_zodiac">Zodyak: %s</string>
+
+    <string name="zodiac_aries">Koc</string>
+    <string name="zodiac_taurus">Boga Burcu</string>
+    <string name="zodiac_gemini">Ikizler Burcu</string>
+    <string name="zodiac_cancer">Yengec Burcu</string>
+    <string name="zodiac_leo">Aslan Burcu</string>
+    <string name="zodiac_virgo">Basak Burcu</string>
+    <string name="zodiac_libra">Terazi Burcu</string>
+    <string name="zodiac_scorpio">Akrep Burcu</string>
+    <string name="zodiac_sagittarius">Yay Burcu</string>
+    <string name="zodiac_capricorn">Oglak Burcu</string>
+    <string name="zodiac_aquarius">Kova Burcu</string>
+    <string name="zodiac_pisces">Balik Burcu</string>
+    <string name="activity_main_alert">Alârm: %1$d</string>
+    <string name="widget_update_date_string">Güncellenmiş %s</string>
+    <string name="widget_update_updating_string">Güncelleniyor…</string>
+    <string name="settings_alerts_title">Uyarıları Yönet</string>
+    <string name="settings_update_interval_title">Güncelleme aralığı</string>
+    <string name="settings_icons_title">Hava simgeleri</string>
+    <string name="settings_app_locale_title">Dil</string>
+    <string name="activity_main_expire_time">Sona eriyor %1$s</string>
+    <string name="weather_details_pressure_mb">%1$s mb</string>
+
+</resources>
+

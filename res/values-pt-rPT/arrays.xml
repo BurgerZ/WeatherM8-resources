@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Aveiro</item>
+        <item>Beja</item>
+        <item>Braga</item>
+        <item>Bragança</item>
+        <item>Castelo Branco</item>
+        <item>Coimbra</item>
+        <item>Évora</item>
+        <item>Faro</item>
+        <item>Funchal</item>
+        <item>Guarda</item>
+        <item>Leiria</item>
+        <item>Lisboa</item>
+        <item>Ponta Delgada</item>
+        <item>Portalegre</item>
+        <item>Porto</item>
+        <item>Santarém</item>
+        <item>Setúbal</item>
+        <item>Viana do Castelo</item>
+        <item>Vila Real</item>
+        <item>Viseu</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Baixo</item>
+        <item>Moderado</item>
+        <item>Elevado</item>
+        <item>Muito elevado</item>
+        <item>Extremo</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Ícone do tempo</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Céu limpo</item>
+        <item>Com nuvens</item>
+        <item>Céu nublado</item>
+        <item>Nevoeiro</item>
+        <item>Chuva torrencial</item>
+        <item>Aguaceiros</item>
+        <item>Tempestade</item>
+        <item>Trovoada</item>
+        <item>Chuviscos</item>
+        <item>Chuva forte</item>
+        <item>Chuva moderada</item>
+        <item>Chuva fraca</item>
+        <item>Chuva com neve</item>
+        <item>Nevão</item>
+        <item>Neve</item>
+        <item>Neve forte</item>
+        <item>Neve moderada</item>
+        <item>Neve fraca</item>
+        <item>Tempestade de areia forte</item>
+        <item>Tempestade de areia moderada</item>
+        <item>Tempestade de areia fraca</item>
+        <item>Ventoso</item>
+        <item>Granizo</item>
+        <item>Poeiras</item>
+        <item>Neblina</item>
+        <item>Chuva gelada</item>
+        <item>Sem informação</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Norte</item>
+        <item>Nordeste</item>
+        <item>Este</item>
+        <item>Sudeste</item>
+        <item>Sul</item>
+        <item>Sudoeste</item>
+        <item>Oeste</item>
+        <item>Noroeste</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Nível do mar</item>
+        <item>Nível do local</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simples</item>
+    </string-array>
+</resources>

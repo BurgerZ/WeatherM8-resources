@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Amsterdam</item>
+        <item>Warsaw</item>
+        <item>Vilnius</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Rome</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Orel</item>
+        <item>Berlin</item>
+        <item>Praha</item>
+        <item>Moscow</item>
+        <item>St. Petersburg</item>
+        <item>Chicago</item>
+        <item>New York</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sunny</item>
+        <item>Cloudy</item>
+        <item>Overcast</item>
+        <item>Foggy</item>
+        <item>Heavy rainstorm</item>
+        <item>Downpour</item>
+        <item>Rainstorm</item>
+        <item>Thunderstorm</item>
+        <item>Shower</item>
+        <item>Heavy rainfall</item>
+        <item>Moderate rain</item>
+        <item>Light rain</item>
+        <item>Rain and snow mixed</item>
+        <item>Blizzard</item>
+        <item>Snow</item>
+        <item>Heavy snow</item>
+        <item>Moderate snow</item>
+        <item>Light snow</item>
+        <item>Strong sandstorm</item>
+        <item>Sand storm</item>
+        <item>Sand</item>
+        <item>Windy</item>
+        <item>Hail</item>
+        <item>Dust</item>
+        <item>Haze</item>
+        <item>Freezing rain</item>
+        <item>No weather</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Weather Icon</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Weakest</item>
+        <item>Weak</item>
+        <item>Mid-range</item>
+        <item>Strong</item>
+        <item>Strongest</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>6 hours</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Sea level</item>
+        <item>Location level</item>
+    </string-array>
+</resources>

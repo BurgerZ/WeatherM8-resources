@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string-array name="hot_city">
+        <item>پکن</item>
+        <item>آمستردام</item>
+        <item>ورشو</item>
+        <item>ویلنیوس</item>
+        <item>ریگا</item>
+        <item>مادرید</item>
+        <item>پرم</item>
+        <item>رم</item>
+        <item>دبی</item>
+        <item>مینسک</item>
+        <item>بلاگودارنی</item>
+        <item>کاراگاندا</item>
+        <item>اریول</item>
+        <item>برلین</item>
+        <item>پراگ</item>
+        <item>مسکو</item>
+        <item>سنپترزبورگ</item>
+        <item>شیکاگو</item>
+        <item>نیویورک</item>
+        <item>پاریس</item>
+        <item>لندن</item>
+        <item>لس آنجلس</item>
+        <item>کالینینگراد</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>آفتابی</item>
+        <item>نیمه ابری</item>
+        <item>تمام ابری</item>
+        <item>مه آلود</item>
+        <item>رگبار سنگین</item>
+        <item>بارش متوالی</item>
+        <item>رگبار خفیف</item>
+        <item>رعد و برق</item>
+        <item>دوش باران</item>
+        <item>باران سنگین</item>
+        <item>باران نیمه سنگین</item>
+        <item>باران سبک</item>
+        <item>مخلوط برف و باران</item>
+        <item>کولاک</item>
+        <item>برف</item>
+        <item>برف سنگین</item>
+        <item>برف نیمه سنگین</item>
+        <item>برف سبک</item>
+        <item>طوفان شن قوی</item>
+        <item>طوفان شن</item>
+        <item>شن</item>
+        <item>پر باد</item>
+        <item>تگرگ</item>
+        <item>گرد و خاک</item>
+        <item>مه</item>
+        <item>باران منجمد</item>
+        <item>فاقد هواشناسی</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>آیکون آب و هوا</item>
+        <item>دما</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>بسیار کم</item>
+        <item>کم</item>
+        <item>متوسط</item>
+        <item>زیاد</item>
+        <item>بسیار زیاد</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 دقیقه</item>
+        <item>1 ساعت</item>
+        <item>2 ساعت</item>
+        <item>6 ساعت</item>
+        <item>12 ساعت</item>
+        <item>24 ساعت</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>ساده</item>
+    </string-array>
+</resources>

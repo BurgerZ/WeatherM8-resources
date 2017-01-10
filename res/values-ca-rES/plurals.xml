@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">fa %d mins</item>
+        <item quantity="one">fa %d min</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">fa %d hores</item>
+        <item quantity="one">fa %d hora</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">fa %d dies</item>
+        <item quantity="one">fa %d dia</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Serè</item>
+        <item quantity="one">Serè</item>
+    </plurals>
+</resources>

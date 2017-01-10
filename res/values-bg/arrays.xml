@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string-array name="hot_city">
+        <item>Пекин</item>
+        <item>Амстердам</item>
+        <item>Варшава</item>
+        <item>Вилнюс</item>
+        <item>Рига</item>
+        <item>Мадрид</item>
+        <item>Перм</item>
+        <item>Рим</item>
+        <item>Дубай</item>
+        <item>Минск</item>
+        <item>Благодарни</item>
+        <item>Караганда</item>
+        <item>Орел</item>
+        <item>Берлин</item>
+        <item>Прага</item>
+        <item>Москва</item>
+        <item>Петербург</item>
+        <item>Чикаго</item>
+        <item>Ню Йорк</item>
+        <item>Париж</item>
+        <item>Лондон</item>
+        <item>Лос Анджелис</item>
+        <item>Калининград</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Слънчево</item>
+        <item>Облачно</item>
+        <item>Заоблачаване</item>
+        <item>Мъгла</item>
+        <item>Силен дъжд</item>
+        <item>Проливен дъжд</item>
+        <item>Буря с дъжд</item>
+        <item>Гръмотевична буря</item>
+        <item>Преваляване</item>
+        <item>Силни валежи</item>
+        <item>Умерени валежи</item>
+        <item>Леки превалявания</item>
+        <item>Смес от дъжд и сняг</item>
+        <item>Снежна буря</item>
+        <item>Сняг</item>
+        <item>Силен снеговалеж</item>
+        <item>Превалявания от сняг</item>
+        <item>Лек снеговалеж</item>
+        <item>Силна пясъчна буря</item>
+        <item>Пясъчна буря</item>
+        <item>Песъчливо</item>
+        <item>Ветровито</item>
+        <item>Градушка</item>
+        <item>Запрашено</item>
+        <item>Мараня</item>
+        <item>Леден дъжд</item>
+        <item>Няма прогноза</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>С</item>
+        <item>СИ</item>
+        <item>И</item>
+        <item>ЮИ</item>
+        <item>Ю</item>
+        <item>ЮЗ</item>
+        <item>З</item>
+        <item>СЗ</item>
+    </string-array>
+
+    <string-array name="weather_notif_type_entries">
+        <item>Икона за време</item>
+        <item>Температура</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>6 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Съвсем слабо</item>
+        <item>Слабо</item>
+        <item>Средно</item>
+        <item>Силно</item>
+        <item>Много силно</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Морско равнище</item>
+        <item>В населено място</item>
+    </string-array>
+</resources>

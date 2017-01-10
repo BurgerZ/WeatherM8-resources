@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Amsterdam</item>
+        <item>Warsaw</item>
+        <item>Vilnius</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Rome</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Orel</item>
+        <item>Berlin</item>
+        <item>Praha</item>
+        <item>Moscow</item>
+        <item>St. Petersburg</item>
+        <item>Chicago</item>
+        <item>New York</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Thấp nhất</item>
+        <item>Thấp</item>
+        <item>Trung bình</item>
+        <item>Mạnh</item>
+        <item>Mạnh nhất</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Weather Icon</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Nắng</item>
+        <item>Nhiều mây</item>
+        <item>U Ám</item>
+        <item>Có sương mù</item>
+        <item>Mưa bão rất lớn</item>
+        <item>Mưa bão lớn</item>
+        <item>Mưa bão</item>
+        <item>Dông</item>
+        <item>Mưa rào</item>
+        <item>Mưa to</item>
+        <item>Mưa vừa</item>
+        <item>Mưa nhỏ</item>
+        <item>Mưa và tuyết</item>
+        <item>Bão tuyết</item>
+        <item>Tuyết</item>
+        <item>Tuyết nặng</item>
+        <item>Tuyết rơi vừa</item>
+        <item>Tuyết ít</item>
+        <item>Bão cát lớn</item>
+        <item>Bão cát</item>
+        <item>Cát</item>
+        <item>Gió</item>
+        <item>Kêu</item>
+        <item>Bụi</item>
+        <item>Sương mù</item>
+        <item>Mưa đá</item>
+        <item>không có thời tiết</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>B</item>
+        <item>ĐB</item>
+        <item>Đ</item>
+        <item>ĐN</item>
+        <item>N</item>
+        <item>TN</item>
+        <item>T</item>
+        <item>TB</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+        <item>6 giờ</item>
+        <item>12 giờ</item>
+        <item>24 giờ</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+</resources>

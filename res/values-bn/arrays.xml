@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="hot_city">
+    <item>বেইজিং</item>
+    <item>আমস্টারডাম</item>
+    <item>বর্ষায়</item>
+    <item>ভিলনিয়াস</item>
+    <item>রিগা</item>
+    <item>মাদ্রিদ</item>
+    <item>পেরম</item>
+    <item>রোম</item>
+    <item>দুবাই</item>
+    <item>মিনস্ক</item>
+    <item>ব্লগদারনিয়</item>
+    <item>কারগান্ডা</item>
+    <item>ওড়েল</item>
+    <item>বার্লিন</item>
+    <item>প্রহা</item>
+    <item>মস্কো</item>
+    <item>সেন্ট পিটার্সবার্গে</item>
+    <item>শিকাগো</item>
+    <item>নিউ ইয়র্ক</item>
+    <item>প্যারিস</item>
+    <item>লন্ডন</item>
+    <item>লস এঞ্জেলেস</item>
+    <item>কালিনিনগ্রাদ</item>
+  </string-array>
+  <string-array name="weather_type">
+    <item>সূর্যতুল্য</item>
+    <item>মেঘলা</item>
+    <item>মেঘাচ্ছন্ন</item>
+    <item>কুয়াশাচ্ছন্ন</item>
+    <item>অতি ঝড়বৃষ্টি</item>
+    <item>প্রবল বর্ষণ</item>
+    <item>ঝড়বৃষ্টি</item>
+    <item>বজ্রঝড়</item>
+    <item>বৃষ্টি</item>
+    <item>অতি বৃষ্টিপাত</item>
+    <item>মন্দ বৃষ্টি</item>
+    <item>মৃদু বৃষ্টি</item>
+    <item>বৃষ্টি ও তুষার মিশিয়ে</item>
+    <item>প্রবল তুষারঝড়</item>
+    <item>তুষার</item>
+    <item>অতি তুষার</item>
+    <item>মন্দ তুষার</item>
+    <item>মৃদু তুষার</item>
+    <item>প্রবল বালুঝড়</item>
+    <item>বালু ঝড়</item>
+    <item>বালিময়</item>
+    <item>ঝড়ো</item>
+    <item>শিল</item>
+    <item>ধূলিকণা</item>
+    <item>আবছায়া</item>
+    <item>তুষার বৃষ্টি</item>
+    <item>কোন আবহাওয়া নেই</item>
+  </string-array>
+  <string-array name="wind_direction">
+    <item>উ</item>
+    <item>উ-পূ</item>
+    <item>পূ</item>
+    <item>দ-পূ</item>
+    <item>দ</item>
+    <item>প-দ</item>
+    <item>প</item>
+    <item>উ-প</item>
+  </string-array>
+  <string-array name="weather_notif_type_entries">
+    <item>আবহাওয়া প্রতীক</item>
+    <item>তাপমাত্রা</item>
+  </string-array>
+  <string-array name="weather_indexes_uv_level">
+    <item>খুব দুর্বল</item>
+    <item>দুর্বল</item>
+    <item>মধ্য-পরিসর</item>
+    <item>প্রবল</item>
+    <item>খুব প্রবল</item>
+  </string-array>
+  <string-array name="update_check_interval_entries">
+    <item>30 মিনিট</item>
+    <item>1 ঘন্টা</item>
+    <item>2 ঘন্টা</item>
+    <item>6 ঘন্টা</item>
+    <item>12 ঘন্টা</item>
+    <item>24 ঘন্টা</item>
+  </string-array>
+  <string-array name="weather_icons_entries">
+    <item>এমআইইউআই8</item>
+    <item>য়ুন ওএস</item>
+    <item>সরল</item>
+  </string-array>
+</resources>

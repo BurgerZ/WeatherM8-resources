@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Peking</item>
+        <item>Amsterodam</item>
+        <item>Varšava</item>
+        <item>Vilnius</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Řím</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Orel</item>
+        <item>Berlín</item>
+        <item>Praha</item>
+        <item>Moskva</item>
+        <item>St. Petersburg</item>
+        <item>Chicago</item>
+        <item>New York</item>
+        <item>Paříš</item>
+        <item>Londýn</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Slunečno</item>
+        <item>Oblačno</item>
+        <item>Zataženo</item>
+        <item>Mlhavo</item>
+        <item>Silný liják</item>
+        <item>Liják</item>
+        <item>Liják</item>
+        <item>Bouřka</item>
+        <item>Přeháňky</item>
+        <item>Silný déšť</item>
+        <item>Mírný déšť</item>
+        <item>Lehký déšť</item>
+        <item>Déšť se sněhem</item>
+        <item>Blizard</item>
+        <item>Sníh</item>
+        <item>Silné sněžení</item>
+        <item>Mírné sněžení</item>
+        <item>Slabé sněžení</item>
+        <item>Silná písečná bouře</item>
+        <item>Písečná bouře</item>
+        <item>Písek</item>
+        <item>Větrno</item>
+        <item>Kroupy</item>
+        <item>Prach</item>
+        <item>Opar</item>
+        <item>Mrznoucí déšť</item>
+        <item>Žádné počasí</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Ikona počasí</item>
+        <item>Teplota</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Nejslabší</item>
+        <item>Slabý</item>
+        <item>Střední</item>
+        <item>Silný</item>
+        <item>Nejsilnější</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>6 hodin</item>
+        <item>12 hodin</item>
+        <item>24 hodin</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Hladinu moře</item>
+        <item>Hladinu polohy</item>
+    </string-array>
+</resources>

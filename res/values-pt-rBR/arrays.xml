@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+    	<item>Porto Alegre</item>    
+		<item>Florianópolis</item>
+        <item>Curitiba</item>
+        <item>São Paulo</item>
+        <item>Belo Horizonte</item>
+        <item>Rio de Janeiro</item>
+        <item>Vitória</item>
+        <item>Salvador</item>
+        <item>Aracaju</item>
+        <item>Maceió</item>
+        <item>Recife</item>
+        <item>João Pessoa</item>
+		<item>Natal</item>
+		<item>Fortaleza</item>
+		<item>Teresina</item>
+		<item>São Luís</item>
+		<item>Belém</item>
+		<item>Macapá</item>
+		<item>Boa Vista</item>
+		<item>Manaus</item>
+		<item>Rio Branco</item>
+		<item>Porto Velho</item>
+		<item>Cuiabá</item>
+		<item>Palmas</item>
+		<item>Brasília</item>
+		<item>Goiânia</item>
+		<item>Campo Grande</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Ensolarado</item>
+        <item>Parcialmente Nublado</item>
+        <item>Nublado</item>
+        <item>Névoa</item>
+        <item>Tempestade Forte</item>
+        <item>Aguaceiro</item>
+        <item>Tempestade</item>
+        <item>Tempestade Moderada</item>
+        <item>Chuva</item>
+        <item>Chuva Forte</item>
+        <item>Chuva Moderada</item>
+        <item>Chuva Leve</item>
+        <item>Chuva e Neve</item>
+        <item>Nevasca</item>
+        <item>Neve</item>
+        <item>Neve Forte</item>
+        <item>Neve Moderada</item>
+        <item>Pouca Neve</item>
+        <item>Tempestade de Areia Forte</item>
+        <item>Tempestade de Areia Moderada</item>
+        <item>Tempestade de Areia Leve</item>
+        <item>Ventania</item>
+        <item>Chuva de Granizo</item>
+        <item>Poeira</item>
+        <item>Neblina</item>
+        <item>Chuva com Sensação Fria</item>
+        <item>Sem Informações de Tempo</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Norte</item>
+        <item>Nordeste</item>
+        <item>Leste</item>
+        <item>Sudeste</item>
+        <item>Sul</item>
+        <item>Sudoeste</item>
+        <item>Oeste</item>
+        <item>Noroeste</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Ícone de Tempo</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Fraquíssimo</item>
+        <item>Fraco</item>
+        <item>Médio</item>
+        <item>Forte</item>
+        <item>Fortíssimo</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simples</item>
+    </string-array>
+</resources>

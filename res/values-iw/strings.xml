@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather M8</string>
+    <string name="app_version">%s :גרסה</string>
+    <string name="location_management">מיקומים</string>
+    <string name="gps_hint">GPS</string>
+    <string name="network_unavailable">".לא ניתן להתחבר לרשת"</string>
+    <string name="act_find_city_hot_title">להוסיף</string>
+    <string name="act_find_city_hint">הזן מיקום</string>
+    <string name="act_set_city_find_side">איתור ...</string>
+    <string name="act_set_city_find_side_error">"לא ניתן לאתר מכשיר"</string>
+    <string name="button_add_city">הוספת עיר</string>
+    <string name="locate_fail_detail_err">"לא ניתן לאתר מכשיר
+הקש על הכפתור למטה כדי להוסיף את העיר באופן ידני או לנסות לאתר שוב"</string>
+    <string name="act_set_city_swipe_hint">תחלק שמאלה כדי למחוק עיר</string>
+    <string name="button_allow">אישור</string>
+    <string name="button_not_allow">בטל</string>
+    <string name="act_weather_find_city_net_no_good">".לא ניתן להתחבר לרשת"</string>
+    <string name="act_weather_find_city_click_retry">נסה שוב</string>
+    <string name="act_weather_find_city_searching">מחפש ...</string>
+    <string name="location_tag">אתר</string>
+    <string name="act_weather_find_city_no_result">אין תוצאות</string>
+    <string name="act_weather_find_city_added">נוסף</string>
+    <string name="view_forecast_item_yesterday">אתמול</string>
+    <string name="view_indexes_item_today">היום</string>
+    <string name="view_indexes_item_tommorrow">מחר</string>
+    <string name="activity_main_update_time">%1$s מעודכן</string>
+    <string name="activity_main_expire_time">%1$s פג תוקף</string>
+    <string name="activity_main_update_time_right_now">עכשיו</string>
+    <string name="activity_main_refresh_fail">"לא ניתן להתחבר לרשת"</string>
+    <string name="activity_find_city_dialog_cancel">בטל</string>
+    <string name="activity_find_city_dialog_set">הגדרות</string>
+    <string name="activity_find_city_dialog_title">גישה למיקום</string>
+    <string name="activity_find_city_dialog_message">הרשה למזג אוויר להציג את המיקום שלך</string>
+    <string name="activity_main_time_format">E</string>
+    <string name="activity_detail_time_format">E</string>
+    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="first_start_network_msg">".יישום זה דורש חיבור אינטרנט פעיל כדי לקבל נתוני מזג אוויר
+        :היישום משתמש בהרשאות
+        \u2022 .גישה למיקום המכשיר כדי לקבל קואורדינטות נוכחיות שלך
+        \u2022 .גישה לתמונות, מדיה וקבצים לשמירת צילומי מסך עבור אפשרות שיטוף"</string>
+    <string name="first_start_network_title">חיבור לאינטרנט וגישת מיקום</string>
+    <string name="international_detail_menu_title">פרטים</string>
+    <string name="share_menu_title">שטף</string>
+
+    <string name="common_auto">אוטומטי</string>
+    <string name="common_recommended">מומלץ</string>
+
+    <string name="network_error">לא ניתן להתחבר לשרת.\nבדוק את הגדרות הרשת.</string>
+    <string name="network_in_quiet_hours">.אתה נמצא שעות שקטות עכשיו. עדכונים בוטלו</string>
+    <string name="network_in_roaming">.יש לך הגדרות להשבית עדכונים במצב נדידה</string>
+    <string name="network_wifi_only">עדכונים מוגדרים דרך וי-פי בלבד</string>
+
+    <!-- Preferences -->
+    <string name="settings_menu_title">הגדרות</string>
+    <string name="settings_autoupdate_weather_title">עדכון אוטומטי</string>
+    <string name="settings_autoupdate_weather_summary">עדכון אוטומטי של תחזיות מזג אוויר</string>
+    <string name="settings_update_wifi_only_summary">עדכון אוטומטי של תחזית מזג אוויר רק כאשר חיבור רשת וי-פי קיים</string>
+    <string name="settings_update_wifi_only_title">עדכונים דרך וי-פי בלבד</string>
+    <string name="settings_update_interval_title">מרווח זמן לעדכון</string>
+    <string name="settings_weather_transfer_title">העברת תיאור מזג אוויר</string>
+    <string name="settings_weather_transfer_summary">הצג תיאור מזג האוויר בהעברה מיום ללילה</string>
+    <string name="settings_weather_spider_title">מקור עדכון</string>
+    <string name="settings_weather_realtime_spider_title">נתוני זמן אמת</string>
+    <string name="settings_weather_forecast_spider_title">נתוני תחזית</string>
+    <string name="settings_weather_station_title">תחנת מטאו</string>
+    <string name="settings_app_locale_title">שפה</string>
+    <string name="settings_app_theme_title">ערכת נושא</string>
+    <string name="settings_app_theme_light">אוֹר</string>
+    <string name="settings_app_theme_dark">חושך</string>
+    <string name="settings_weather_details_title">פרטי מזג אוויר</string>
+    <string name="settings_weather_details_summary">בחרו פרטי מזג אוויר להצגה על המסך הראשי</string>
+    <string name="settings_category_units">יחידות</string>
+    <string name="settings_pressure_unit">לחץ</string>
+    <string name="settings_pressure_unit_mb">mb</string>
+    <string name="settings_pressure_unit_mm">mmHg</string>
+    <string name="settings_pressure_unit_in">inHg</string>
+    <string name="settings_wind_unit">מהירות רוח</string>
+    <string name="settings_wind_unit_kmh">קמ"ש</string>
+    <string name="settings_wind_unit_ms">מ/ש</string>
+    <string name="settings_wind_unit_mph">מ"ש</string>
+    <string name="settings_temp_unit">טמפרטורה</string>
+    <string name="settings_visibility_unit">רְאוּת</string>
+    <string name="settings_visibility_unit_kilometers">ק"מ</string>
+    <string name="settings_visibility_unit_meters">\'מ</string>
+    <string name="settings_visibility_unit_miles">מייל</string>
+
+    <string name="settings_realtime_feelslike_as_main_title">מרגיש כמו טמפרטורה ראשית</string>
+    <string name="settings_realtime_feelslike_as_main_summary">צג תחושת טמפרטורה אמיתית כמו טמפרטורת מזג אוויר ראשית</string>
+
+    <string name="settings_pressure_level_title">תצוגת לחץ עבור</string>
+
+    <string name="settings_city_base">בסיס נתונים של ערים</string>
+
+    <string name="settings_notifications_title">התראות</string>
+    <string name="settings_notifications_summary">הגדרות התראות מזג אוויר</string>
+    <string name="settings_notification_title">הצג התראות</string>
+    <string name="settings_notification_summary">הצג תנאי מזג האוויר הנוכחיים באזור התראות</string>
+
+    <string name="settings_notification_priority_title">עדיפות מינימום</string>
+    <string name="settings_notification_priority_summary">התראות בעדיפות מינימום מופיע רק בלוח התראות</string>
+
+    <string name="settings_notify_type_title">אייקון התראות</string>
+
+    <string name="settings_alerts_title">נהל התראות</string>
+
+    <string name="settings_icons_title">אייקונים של מזג האוויר</string>
+    <string name="settings_icons_builtin_title">אייקונים של מזג האוויר מובנים</string>
+    <string name="settings_icons_theme_details_title">לפרטי עיצוב</string>
+    <string name="settings_ads_title">פרסום ותרומות</string>
+    <string name="settings_ads_explanation">"?למה אתה רואה פרסום
+,כתיבת יישומי אנדרואיד הוא תחביב בשבילי 
+זה מה שאני עושה בשעות הפנאי האישיות שלי. 
+.אז בבקשה לקבל בהבנה הופעת מספר מסוים של באנרים 
+.הצגת פרסומות ביישום מעודדת פיתוח נוסף"</string>
+    <string name="settings_ads_remove_title">הסר פרסומות</string>
+    <string name="settings_ads_remove_summary">הסר פרסומות במשך שבוע (פעם בחודש)</string>
+    <string name="settings_ads_yandex">Yandex כסף</string>
+    <string name="settings_about">הודות</string>
+    <string name="settings_translations">תרגומים</string>
+    <string name="settings_translations_summary">תודות למתרגמי היישום</string>
+    <string name="settings_thirdparty">ספריות ומשאבים של צד שלישי</string>
+    <string name="settings_help">עזרה</string>
+    <string name="settings_feedback">שלח משוב</string>
+    <string name="settings_dialog_enter_timezone">זן אזור זמן עבור לעיר שנבחרה (%s), לדוגמה: GMT+03:00</string>
+
+    <string name="feedback_title">כותרת</string>
+    <string name="feedback_title_hint">תאר את הבעיה בקצרה</string>
+    <string name="feedback_description">תיאור</string>
+    <string name="feedback_description_hint">תאר את הבעיה או הצעה מלאה</string>
+    <string name="feedback_add_images">הוסף תמונות</string>
+    <string name="feedback_select_upload_settings">העלה הגדרות אפליקציה</string>
+    <string name="feedback_action_send">שלח</string>
+    <string name="feedback_fill_required">שדות חובה לא ניתן להשאיר ריקים</string>
+    <string name="feedback_sending">שולח משוב ...</string>
+    <string name="feedback_sent">תודה על המשוב שלך!</string>
+    <string name="feedback_error">שגיאה בשליחת משוב</string>
+
+    <string name="share_btn_cancel">בטל</string>
+    <string name="share_btn_confirm">שטף</string>
+    <string name="share_subject">שטף</string>
+    <string name="share_button">שטף</string>
+    <string name="share_weather_save_pic_fail">"לא ניתן לקחת צילום מסך"</string>
+    <string name="share_weather_desc_split">,</string>
+    <string name="share_weather_desc">\#Weather M8# Today %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s, %2$s</string>
+    <string name="hourly_forcast_now">עכשיו</string>
+    <string name="sunrise">זריחה</string>
+    <string name="sunset">שקיעה</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s יותר מאוחר.</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_drawer_on_top">תחזית יומית</string>
+    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+
+    <!-- Weather details -->
+    <string name="more_details">פרטים נוספים</string>
+    <string name="weather_details_title">פרטי מזג אוויר</string>
+    <string name="weather_details_wind_title">רוח</string>
+    <string name="weather_details_real_feel_title">מרגיש כמו</string>
+    <string name="weather_details_uv_index_title">UV Index</string>
+    <string name="weather_details_pressure_title">לחץ</string>
+    <string name="weather_details_humidity_title">לחות</string>
+    <string name="weather_details_visibility_title">ראות</string>
+    <string name="weather_details_precipitation_prob_title">משקע</string>
+    <string name="weather_details_daylight_hours_title">שעות אור יום</string>
+    <string name="weather_details_timezone_title">אזור זמן</string>
+    <string name="weather_details_elevation_title">גובה</string>
+
+    <string name="weather_details_wind_connect">%1$s %2$s</string>
+    <string name="weather_details_pressure">%1$s hPa</string>
+    <string name="weather_details_pressure_mm">%1$s mmHg</string>
+    <string name="weather_details_pressure_in">%1$s inHg</string>
+    <string name="weather_details_humidity">%1$s%%</string>
+    <string name="weather_details_visibility">%1$s km</string>
+    <string name="weather_details_visibility_meters">%1$s m</string>
+    <string name="weather_details_visibility_miles">%1$s miles</string>
+
+    <string name="weather_details_update_date_string">זמן תצפית: %s</string>
+
+    <string name="time_units_hour">h</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
+
+    <!-- Weather alerts -->
+    <string name="activity_main_alert">התראות: %1$d</string>
+
+    <string name="daily_forcast_no_wind">עוד</string>
+    <string name="daily_forcast_whirl_wind">סופה</string>
+    <string name="delete">מחק</string>
+
+    <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit_ms">%1$sm/s</string>
+    <string name="wind_unit_mph">%1$smph</string>
+
+    <string name="hourly_forecast_title">תחזית לפי שעה</string>
+
+    <!-- Widgets -->
+    <string name="widget_update_date_string">%s מעודכן</string>
+    <string name="widget_update_updating_string">...מעדכן</string>
+    <!-- Widget config -->
+    <string name="widget_config_title">תצורת יישומון</string>
+    <string name="widget_config_custom_clock_font_onoff_title">גופן שעון מותאם אישית</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">לכבות אותו אם שעון יישומון אינו מעדכן</string>
+    <string name="widget_config_clock_font_title">גופן שעון</string>
+    <string name="widget_config_clock_color_title">צבע שעון</string>
+    <string name="widget_config_clock_font_size_title">גודל גופן שעון</string>
+    <string name="widget_config_date_font_size_title">גודל גופן תאריך</string>
+    <string name="widget_config_dateformat_title">פורמט תאריך</string>
+    <string name="widget_config_realtime_font_title">גופן נתוני זמן אמת</string>
+    <string name="widget_config_realtime_font_size_title">גודל טקסט נתוני זמן אמת</string>
+    <string name="widget_config_font_title">גופן טקסט</string>
+    <string name="widget_config_font_size_title">גודל טקסט</string>
+    <string name="widget_config_text_color_title">צבע טקסט</string>
+    <string name="widget_config_show_alarm_title">הצג את ההתראה הבאה</string>
+    <string name="widget_config_use_background_title">הצג רקע יישומון</string>
+    <string name="widget_config_background_color_title">צבע רקע</string>
+    <string name="widget_config_background_type_title">סוג רקע</string>
+    <string name="widget_config_background_type_solid">מוצק</string>
+    <string name="widget_config_background_type_border">גבול</string>
+
+    <string name="widget_config_show_cityname_title">הצג שם עיר</string>
+    <string name="widget_config_show_local_time_title">הצג לפי שעון מקומי</string>
+
+    <string name="widget_config_click_settings">לחץ על הגדרות אזורי יישומון</string>
+    <string name="widget_config_click_apps">בחר ישום</string>
+    <string name="widget_config_click_clock">שעון</string>
+    <string name="widget_config_click_date">תאריך</string>
+    <string name="widget_config_click_weather_icon">אייקון מזג האוויר</string>
+    <string name="widget_config_click_temperature">טמפרטורה</string>
+
+    <!-- Moon Phases -->
+    <string name="menu_moon_phases">שלבי הירח</string>
+    <string name="moon_age">%1$s days %2$s hours %3$s minutes :גיל</string>
+    <string name="moon_newmoon">ירח חדש</string>
+    <string name="moon_waxingcrescent">לקראת מילוא</string>
+    <string name="moon_firstquarter">רבע ראשון</string>
+    <string name="moon_waxinggibbous">גבנון שעווה</string>
+    <string name="moon_full">ירח מלא</string>
+    <string name="moon_waninggibbous">מולד לבן</string>
+    <string name="moon_lastquarter">רבע אחרון</string>
+    <string name="moon_waningcrescent">סהר יחסר</string>
+    <string name="moon_illuminated">%s%% :מואר</string>
+    <string name="moon_since">%2$s %1$s :תאריך</string>
+    <string name="moon_distanse">ק"מ %s :ףמרחק ירח</string>
+    <string name="moon_angle">%s :זוית ירח</string>
+    <string name="moon_zodiac">%s :גַלגַל הַמַזָלוֹת</string>
+
+    <string name="zodiac_aries">טלה</string>
+    <string name="zodiac_taurus">שור</string>
+    <string name="zodiac_gemini">תאומים</string>
+    <string name="zodiac_cancer">סרטן</string>
+    <string name="zodiac_leo">אריה</string>
+    <string name="zodiac_virgo">בתולה</string>
+    <string name="zodiac_libra">מאזניים</string>
+    <string name="zodiac_scorpio">עקרב</string>
+    <string name="zodiac_sagittarius">Sagittarius</string>
+    <string name="zodiac_capricorn">גדי</string>
+    <string name="zodiac_aquarius">דלי</string>
+    <string name="zodiac_pisces">דגים</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">לחץ על צבע כדי להחיל</string>
+    <string name="dialog_color_picker">בוחר צבעים</string>
+
+    <string name="date_time_am">בוקר</string>
+    <string name="date_time_pm">אחר"צ</string>
+    <string name="weather_details_pressure_mb">%1$s mb</string>
+
+</resources>
+

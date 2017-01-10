@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Amsterdam</item>
+        <item>Warsaw</item>
+        <item>Vilnius</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Rome</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Orel</item>
+        <item>Berlin</item>
+        <item>Praha</item>
+        <item>Moscow</item>
+        <item>St. Petersburg</item>
+        <item>Chicago</item>
+        <item>New York</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sunny</item>
+        <item>Berawan</item>
+        <item>Mendung</item>
+        <item>Berkabut</item>
+        <item>Badai petir</item>
+        <item>Hujan deras</item>
+        <item>Hujan badai</item>
+        <item>Hujan badai</item>
+        <item>Hujan lebat</item>
+        <item>Hujan deras</item>
+        <item>Hujan sedang</item>
+        <item>Gerimis</item>
+        <item>Bersalju</item>
+        <item>Badai salju</item>
+        <item>Hujan salju</item>
+        <item>Hujan salju lebat</item>
+        <item>Hujan salju sedang</item>
+        <item>Hujan salju ringan</item>
+        <item>Badai lebat</item>
+        <item>Badai pasir lebat</item>
+        <item>Pasir</item>
+        <item>Berangin</item>
+        <item>Hujan es</item>
+        <item>Berdebu</item>
+        <item>Embun</item>
+        <item>Hujan beku</item>
+        <item>Tidak ada cuaca</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Ikon cuaca</item>
+        <item>Temperatur</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+    <string-array name="hot_city">
+        <item>Peking</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moskau</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Istanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapur</item>
+        <item>Berlin</item>
+        <item>Rom</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seoul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sonnig</item>
+        <item>Wolkig</item>
+        <item>Bedeckt</item>
+        <item>Neblig</item>
+        <item>Starkregen</item>
+        <item>Platzregen</item>
+        <item>Regensturm</item>
+        <item>Gewitter</item>
+        <item>Schauer</item>
+        <item>Starkregen</item>
+        <item>Mäßiger Regen</item>
+        <item>Leichter Regen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Schneefall</item>
+        <item>Starker Schneefall</item>
+        <item>Mäßiger Schneefall</item>
+        <item>Leichter Schneefall</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Sand</item>
+        <item>Windig</item>
+        <item>Hagel</item>
+        <item>Staub</item>
+        <item>Nebel</item>
+        <item>Gefrierender Regen</item>
+        <item>"?"</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>N</item>
+        <item>NO</item>
+        <item>O</item>
+        <item>SO</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Wetter Symbol</item>
+        <item>Temperatur</item>
+    </string-array>
+</resources>

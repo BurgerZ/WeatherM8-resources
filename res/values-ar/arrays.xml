@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>بكين</item>
+        <item>امستردام</item>
+        <item>وارسو</item>
+        <item>فلنيوس</item>
+        <item>ريغا</item>
+        <item>مدريد</item>
+        <item>بيرم</item>
+        <item>روما</item>
+        <item>دبي</item>
+        <item>مينسك</item>
+        <item>بلاغودارني</item>
+        <item> قراغاندي</item>
+        <item>أُريل</item>
+        <item>برلين</item>
+        <item>براغ</item>
+        <item>موسكو</item>
+        <item>سانت بترسبورغ</item>
+        <item>شيكاگو</item>
+        <item>نيويورك</item>
+        <item>باريس</item>
+        <item>لندن</item>
+        <item>لوس انجيلوس</item>
+        <item>كالينينغراد</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>مشمس</item>
+        <item>غائم جزئيا</item>
+        <item>غائم</item>
+        <item>ضبابي</item>
+        <item>امطار عاصفية شديدة</item>
+        <item>تساقطات</item>
+        <item>امطار عاصفية</item>
+        <item>عاصفة رعدية</item>
+        <item>تساقطات قليلة</item>
+        <item>امطار غزيرة</item>
+        <item>امطار</item>
+        <item>امطار خفيفة</item>
+        <item>مطر و ثلوج</item>
+        <item>عاصفة ثلجية</item>
+        <item>ثلوج</item>
+        <item>تساقطات ثلجية شديدة</item>
+        <item>تساقطات ثلجية متوسطة</item>
+        <item>تساقطات ثلجية خفيفة</item>
+        <item>عاصفة رملية قوية</item>
+        <item>عاصفة رملية</item>
+        <item>رمال</item>
+        <item>عاصفي</item>
+        <item>برَد</item>
+        <item>غبار</item>
+        <item>ضباب</item>
+        <item>مطر متجمد</item>
+        <item>غير متوفر</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>شمال</item>
+        <item>شمال شرقي</item>
+        <item>شرق</item>
+        <item>جنوب شرقي</item>
+        <item>جنوب</item>
+        <item>جنوب غربي</item>
+        <item>غرب</item>
+        <item>شمال غربي</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>ايقونة الطقس</item>
+        <item>درجة الحرارة</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>اضعف</item>
+        <item>ضعيف</item>
+        <item>متوسط</item>
+        <item>قوي</item>
+        <item>اقوى</item>
+    </string-array>
+
+</resources>

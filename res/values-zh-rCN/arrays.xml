@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Amsterdam</item>
+        <item>Warsaw</item>
+        <item>Vilnius</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Rome</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Orel</item>
+        <item>Berlin</item>
+        <item>Praha</item>
+        <item>Moscow</item>
+        <item>St. Petersburg</item>
+        <item>Chicago</item>
+        <item>New York</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>最弱</item>
+        <item>弱</item>
+        <item>中等</item>
+        <item>强</item>
+        <item>最强</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>天气图标</item>
+        <item>温度</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>雾</item>
+        <item>特大暴雨</item>
+        <item>大暴雨</item>
+        <item>暴雨</item>
+        <item>雷阵雨</item>
+        <item>阵雨</item>
+        <item>大雨</item>
+        <item>中雨</item>
+        <item>小雨</item>
+        <item>雨夹雪</item>
+        <item>暴雪</item>
+        <item>阵雪</item>
+        <item>大雪</item>
+        <item>中雪</item>
+        <item>小雪</item>
+        <item>强沙尘暴</item>
+        <item>沙尘暴</item>
+        <item>沙尘</item>
+        <item>扬沙</item>
+        <item>冰雹</item>
+        <item>浮尘</item>
+        <item>霾</item>
+        <item>冻雨</item>
+        <item>没有天气</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>北风</item>
+        <item>东北风</item>
+        <item>东风</item>
+        <item>东南风</item>
+        <item>南风</item>
+        <item>西南风</item>
+        <item>西风</item>
+        <item>西北风</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 分钟</item>
+        <item>1 小时</item>
+        <item>2 小时</item>
+        <item>6 小时</item>
+        <item>12 小时</item>
+        <item>24 小时</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+</resources>

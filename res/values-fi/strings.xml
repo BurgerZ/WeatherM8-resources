@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather M8</string>
+    <string name="app_version">Versio: %s</string>
+    <string name="location_management">Paikat</string>
+    <string name="gps_hint">GPS</string>
+    <string name="network_unavailable">"Ei yhteyttä verkkoon"</string>
+    <string name="act_find_city_hot_title">Lisää</string>
+    <string name="act_find_city_hint">Aseta paikka</string>
+    <string name="act_set_city_find_side">Paikantaa…</string>
+    <string name="act_set_city_find_side_error">"Ei voida paikantaa laitetta"</string>
+    <string name="button_add_city">Lisää kaupunki</string>
+    <string name="locate_fail_detail_err">"Ei voida paikantaa laitetta
+Napauta alhaalta lisätäksesi kaupungin/paikan manuaalisesti"</string>
+    <string name="act_set_city_swipe_hint">Vedä vasemmalla poistaaksesi kaupungin</string>
+    <string name="button_allow">OK</string>
+    <string name="button_not_allow">Peruuta</string>
+    <string name="act_weather_find_city_net_no_good">"Ei yhteyttä verkkoon"</string>
+    <string name="act_weather_find_city_click_retry">Uudelleen</string>
+    <string name="act_weather_find_city_searching">Etsii…</string>
+    <string name="location_tag">Paikanna</string>
+    <string name="act_weather_find_city_no_result">Ei tuloksia</string>
+    <string name="act_weather_find_city_added">Lisätty</string>
+    <string name="view_forecast_item_yesterday">Eilen</string>
+    <string name="view_indexes_item_today">Tänään</string>
+    <string name="view_indexes_item_tommorrow">Huomenna</string>
+    <string name="activity_main_update_time">Päivitetty %1$s</string>
+    <string name="activity_main_expire_time">Vanhenee %1$s</string>
+    <string name="activity_main_update_time_right_now">Hetki sitten</string>
+    <string name="activity_main_refresh_fail">"Ei voinut yhdistää verkkoon"</string>
+    <string name="activity_find_city_dialog_cancel">Peruuta</string>
+    <string name="activity_find_city_dialog_set">Asetukset</string>
+    <string name="activity_find_city_dialog_title">Paikat</string>
+    <string name="activity_find_city_dialog_message">Anna ohjelman paikantaa laitteesi</string>
+    <string name="activity_main_time_format">E</string>
+    <string name="activity_detail_time_format">E</string>
+    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="first_start_network_msg">"Tämä aplikaatio tarvitsee aktiivisen yhteyden verkkoon, jotta sää tietoja voidaan noutaa.
+        Application uses permissions:
+        \u2022 Access device location to get your current coordinates.
+        \u2022 Access photos, media and files to save screenshots for \"Share\" feature."</string>
+    <string name="first_start_network_title">Internet connection and location access</string>
+    <string name="international_detail_menu_title">Detailit</string>
+    <string name="share_menu_title">Jaa</string>
+
+    <string name="common_auto">Automaattinen</string>
+    <string name="common_recommended">Suositeltu</string>
+
+    <string name="network_error">Ei voitu yhdistää serveriin.\nTarkista internet yhteys.</string>
+    <string name="network_in_quiet_hours">Olet nyt Quiet tunnit. Päivitykset peruttu.</string>
+    <string name="network_in_roaming">You have settings to disable updates in roaming.</string>
+    <string name="network_wifi_only">Päivitä vain Wi-Fi yhteydellä.</string>
+
+    <!-- Preferences -->
+    <string name="settings_menu_title">Asetukset</string>
+    <string name="settings_autoupdate_weather_title">Automaattinen päivitys</string>
+    <string name="settings_autoupdate_weather_summary">Päivittää säätiedot automaattisesti</string>
+    <string name="settings_update_wifi_only_summary">Päivittää säätiedot vain kun Wi-Fi yhteys on muodostettu</string>
+    <string name="settings_update_wifi_only_title">Päivitä vain Wi-Fi yhteydellä</string>
+    <string name="settings_update_interval_title">Päivitysväli</string>
+    <string name="settings_weather_transfer_title">Weather description transfer</string>
+    <string name="settings_weather_transfer_summary">Show weather description day to night transfer</string>
+    <string name="settings_weather_spider_title">Säätietojen toimittaja</string>
+    <string name="settings_weather_realtime_spider_title">Reaaliaikaisen sään tuottaja</string>
+    <string name="settings_weather_forecast_spider_title">Sääennustusten tuottaja</string>
+    <string name="settings_weather_station_title">Meteo station</string>
+    <string name="settings_app_locale_title">Kieli</string>
+    <string name="settings_app_theme_title">Teema</string>
+    <string name="settings_app_theme_light">Valoisa</string>
+    <string name="settings_app_theme_dark">Tumma</string>
+    <string name="settings_weather_details_title">Säätiedot</string>
+    <string name="settings_weather_details_summary">Näytä pääikkunassa näytettävät tiedot</string>
+    <string name="settings_category_units">Yksiköt</string>
+    <string name="settings_pressure_unit">Paine</string>
+    <string name="settings_pressure_unit_mb">mb</string>
+    <string name="settings_pressure_unit_mm">mmHg</string>
+    <string name="settings_pressure_unit_in">inHg</string>
+    <string name="settings_wind_unit">Tuulen nopeus</string>
+    <string name="settings_wind_unit_kmh">km/h</string>
+    <string name="settings_wind_unit_ms">m/s</string>
+    <string name="settings_wind_unit_mph">mph</string>
+    <string name="settings_temp_unit">Lämpötila</string>
+    <string name="settings_visibility_unit">Näkyvyys</string>
+    <string name="settings_visibility_unit_kilometers">km</string>
+    <string name="settings_visibility_unit_meters">m</string>
+    <string name="settings_visibility_unit_miles">mailit</string>
+
+    <string name="settings_realtime_feelslike_as_main_title">Tuntuu kuin pää lämpötilana</string>
+    <string name="settings_realtime_feelslike_as_main_summary">Näytä reaaliaikainen lämpötila päälämpötilana</string>
+
+    <string name="settings_pressure_level_title">Näytä paine</string>
+
+    <string name="settings_city_base">Paikkakunnat</string>
+
+    <string name="settings_notifications_title">Ilmoitukset</string>
+    <string name="settings_notifications_summary">Sää ilmoitusten asetukset</string>
+    <string name="settings_notification_title">Näytä ilmoitukset</string>
+    <string name="settings_notification_summary">Näytä voimassa oleva sää ilmoitukset palkissa</string>
+
+    <string name="settings_notification_priority_title">Pienin prioriteetti</string>
+    <string name="settings_notification_priority_summary">Pienin prioriteetti ilmoitus ilmestyy vain ilmoitus alueelle</string>
+
+    <string name="settings_notify_type_title">Ilmoitus ikoni</string>
+
+    <string name="settings_alerts_title">Hallinoi varoituksia</string>
+
+    <string name="settings_icons_title">Sää ikonit</string>
+    <string name="settings_icons_builtin_title">Sisään rakennetut sää ikonit</string>
+    <string name="settings_icons_theme_details_title">Teeman tiedot</string>
+    <string name="settings_ads_title">Mainokset ja lahjoitukset</string>
+    <string name="settings_ads_explanation">"Miksi näen mainoksia?
+Applikaatioiden tuottaminen Android alustalle on harrastus itselleni, jota teen omalla vapaa-ajallani. Pyydän ymmärrystä, jotta rahoitan toimintaani mainoksien kautta."</string>
+    <string name="settings_ads_remove_title">Poista mainokset</string>
+    <string name="settings_ads_remove_summary">Poista mainokset viikkoksi (kerran kuussa)</string>
+    <string name="settings_ads_yandex">Yandex Raha</string>
+    <string name="settings_about">Tietoa</string>
+    <string name="settings_translations">Käännökset</string>
+    <string name="settings_translations_summary">Aplikaation käännösten krediitit. Käännä aplikaatio omalle kiellellesi</string>
+    <string name="settings_thirdparty">Kolmansien osapuolien tietokonnat ja resurssit</string>
+    <string name="settings_help">Apua</string>
+    <string name="settings_dialog_enter_timezone">Aseta aikavyöhyke valitulle paikalle (%s), for example GMT+03:00:</string>
+
+    <string name="share_btn_cancel">Peruuta</string>
+    <string name="share_btn_confirm">Jaa</string>
+    <string name="share_subject">Jaa</string>
+    <string name="share_button">Jaa</string>
+    <string name="share_weather_save_pic_fail">"Ei voitu ottaa kuvakaappausta"</string>
+    <string name="share_weather_desc_split">,</string>
+    <string name="share_weather_desc">\#Weather M8# Tänään %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s, %2$s</string>
+    <string name="hourly_forcast_now">Nyt</string>
+    <string name="sunrise">Aurinko nousee</string>
+    <string name="sunset">Aurinko laskee</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s myöhemmin.</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_drawer_on_top">Päivittäinen ennuste</string>
+    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+
+    <!-- Weather details -->
+    <string name="more_details">Lisätietoja</string>
+    <string name="weather_details_title">Lisätietoa säästä</string>
+    <string name="weather_details_wind_title">Tuuli</string>
+    <string name="weather_details_real_feel_title">Tuntuu kuin</string>
+    <string name="weather_details_uv_index_title">UV Indeksi</string>
+    <string name="weather_details_pressure_title">Paine</string>
+    <string name="weather_details_humidity_title">Ilmankosteus</string>
+    <string name="weather_details_visibility_title">Näkyvyys</string>
+    <string name="weather_details_precipitation_prob_title">Sademäärä</string>
+    <string name="weather_details_daylight_hours_title">Päivänvaloa</string>
+    <string name="weather_details_timezone_title">Aikavyöhyke</string>
+    <string name="weather_details_elevation_title">Korkeus</string>
+
+    <string name="weather_details_wind_connect">%1$s %2$s</string>
+    <string name="weather_details_pressure">%1$s hPa</string>
+    <string name="weather_details_pressure_mm">%1$s mmHg</string>
+    <string name="weather_details_pressure_in">%1$s inHg</string>
+    <string name="weather_details_humidity">%1$s%%</string>
+    <string name="weather_details_visibility">%1$s km</string>
+    <string name="weather_details_visibility_meters">%1$s m</string>
+    <string name="weather_details_visibility_miles">%1$s mailia</string>
+
+    <string name="weather_details_update_date_string">Ajanjakso: %s</string>
+
+    <string name="time_units_hour">h</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
+
+    <!-- Weather alerts -->
+    <string name="activity_main_alert">Varoitukset: %1$d</string>
+
+    <string name="daily_forcast_no_wind">Tyyntä</string>
+    <string name="daily_forcast_whirl_wind">Tuulta</string>
+    <string name="delete">Poista</string>
+
+    <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit_ms">%1$sm/s</string>
+    <string name="wind_unit_mph">%1$smph</string>
+
+    <string name="hourly_forecast_title">Sääennuste tunneittain</string>
+
+    <!-- Widgets -->
+    <string name="widget_update_date_string">Päivitetty %s</string>
+    <string name="widget_update_updating_string">Päivitetään…</string>
+    <!-- Widget config -->
+    <string name="widget_config_title">Widget asetukset</string>
+    <string name="widget_config_custom_clock_font_onoff_title">Muokatun kellon fontti</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">Ota pois päältä jollei widget kello päivity</string>
+    <string name="widget_config_clock_font_title">Kellon fontti</string>
+    <string name="widget_config_clock_color_title">Kellon väri</string>
+    <string name="widget_config_clock_font_size_title">Kellon fontti koko</string>
+    <string name="widget_config_date_font_size_title">Päivämäärän fontti koko</string>
+    <string name="widget_config_dateformat_title">Päivämäärän muoto</string>
+    <string name="widget_config_realtime_font_title">Reaaliaikaisen tiedon fontti</string>
+    <string name="widget_config_realtime_font_size_title">Reaaliaikaisen tiedon tekstin koko</string>
+    <string name="widget_config_font_title">Tekstin fontti</string>
+    <string name="widget_config_font_size_title">Tekstin koko</string>
+    <string name="widget_config_text_color_title">Tekstin väri</string>
+    <string name="widget_config_show_alarm_title">Näytä seuraava hälytys</string>
+    <string name="widget_config_use_background_title">Näytä widget tausta</string>
+    <string name="widget_config_background_color_title">Taustaväri</string>
+    <string name="widget_config_background_type_title">Taustan tyyppi</string>
+    <string name="widget_config_background_type_solid">Kiinteä</string>
+    <string name="widget_config_background_type_border">Reunuksellinen</string>
+
+    <string name="widget_config_show_cityname_title">Näytä kaupunki</string>
+    <string name="widget_config_show_local_time_title">Näytä paikallinen aika</string>
+
+    <string name="widget_config_click_settings">Valite widget asetus</string>
+    <string name="widget_config_click_apps">Valitse toiminto</string>
+    <string name="widget_config_click_clock">Kellonaika</string>
+    <string name="widget_config_click_date">Päivämäärä</string>
+    <string name="widget_config_click_weather_icon">Sää ikoni</string>
+    <string name="widget_config_click_temperature">Lämpötila</string>
+
+    <!-- Moon Phases -->
+    <string name="menu_moon_phases">Kuun vaiheet</string>
+    <string name="moon_age">Ikä: %1$s päivää %2$s tuntia %3$s minuuttia</string>
+    <string name="moon_newmoon">Uusi kuu</string>
+    <string name="moon_waxingcrescent">Kuun vaiheet</string>
+    <string name="moon_firstquarter">Ensimmäinen neljännes</string>
+    <string name="moon_waxinggibbous">Viimeinen neljännes</string>
+    <string name="moon_full">Täysikuu</string>
+    <string name="moon_waninggibbous">Kuun vaiheet</string>
+    <string name="moon_lastquarter">Viimeinen neljännes</string>
+    <string name="moon_waningcrescent">Ensimmäinen neljännes</string>
+    <string name="moon_illuminated">Valaistu: %s%%</string>
+    <string name="moon_since">Päivä: %1$s %2$s</string>
+    <string name="moon_distanse">Kuun etäisyys: %s км</string>
+    <string name="moon_angle">Kuun kulma: %s</string>
+    <string name="moon_zodiac">Horoskooppimerkki: %s</string>
+
+    <string name="zodiac_aries">Oinas</string>
+    <string name="zodiac_taurus">Härkä</string>
+    <string name="zodiac_gemini">Kaksoset</string>
+    <string name="zodiac_cancer">Rapu</string>
+    <string name="zodiac_leo">Leijona</string>
+    <string name="zodiac_virgo">Neitsyt</string>
+    <string name="zodiac_libra">Vaaka</string>
+    <string name="zodiac_scorpio">Skorppiooni</string>
+    <string name="zodiac_sagittarius">Jousimies</string>
+    <string name="zodiac_capricorn">Kauris</string>
+    <string name="zodiac_aquarius">Vesimies</string>
+    <string name="zodiac_pisces">Kalat</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Paina valitaksesi väri</string>
+    <string name="dialog_color_picker">Värivalinta</string>
+
+    <string name="date_time_am">am</string>
+    <string name="date_time_pm">pm</string>
+    <string name="weather_details_pressure_mb">%1$s mb</string>
+
+</resources>

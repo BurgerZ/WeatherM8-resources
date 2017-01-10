@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Πεκίνο</item>
+        <item>Άμστερνταμ</item>
+        <item>Βαρσοβία</item>
+        <item>Βίλνιους</item>
+        <item>Ρίγα</item>
+        <item>Μαδρίτη</item>
+        <item>Πέρμ</item>
+        <item>Ρώμη</item>
+        <item>Ντουμπάι</item>
+        <item>Μίνσκ</item>
+        <item>Μπλάγκονταρνι</item>
+        <item>Καρακάντα</item>
+        <item>Ορέλ</item>
+        <item>Βερολίνο</item>
+        <item>Πράγα</item>
+        <item>Μόσχα</item>
+        <item>Αγία Πετρούπολη</item>
+        <item>Σικάγο</item>
+        <item>Νέα Υόρκη</item>
+        <item>Παρίσι</item>
+        <item>Λονδίνο</item>
+        <item>Λος Άντζελες</item>
+        <item>Καλίνινγκραντ</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Ηλιόλουστος</item>
+        <item>Συννεφιασμένος</item>
+        <item>Νεφελώδης</item>
+        <item>Ομιχλώδης</item>
+        <item>Βαριά νεροποντή</item>
+        <item>Νεροποντή</item>
+        <item>Νεροποντή</item>
+        <item>Καταιγίδα</item>
+        <item>"Ντούζ"</item>
+        <item>Έντονες βροχοπτώσεις</item>
+        <item>Μέτρια βροχόπτωση</item>
+        <item>Ασθενής βροχή</item>
+        <item>Χιονόνερο</item>
+        <item>Χιονοθύελλα</item>
+        <item>Χιόνι</item>
+        <item>Βαριά χιονόπτωση</item>
+        <item>Μέτρια χιονόπτωση</item>
+        <item>Ελαφριά χιονόπτωση</item>
+        <item>Ισχυρή αμμοθύελλα</item>
+        <item>Αμμοθύελλα</item>
+        <item>Άμμος</item>
+        <item>Ανεμώδης</item>
+        <item>Χαλάζι</item>
+        <item>Σκόνη</item>
+        <item>Ομίχλη</item>
+        <item>Παγωμένη βροχή</item>
+        <item>Δεν υπάρχει καιρός</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Β</item>
+        <item>ΒΑ</item>
+        <item>Α</item>
+        <item>ΝΑ</item>
+        <item>Ν</item>
+        <item>ΝΔ</item>
+        <item>Δ</item>
+        <item>ΒΔ</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Εικονίδιο Καιρού</item>
+        <item>Θερμοκρασία</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Ασθενέστερες</item>
+        <item>Ασθενής</item>
+        <item>Μέτρια</item>
+        <item>Ισχυρός</item>
+        <item>Πολύ Ισχυρός</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+        <item>6 ώρες</item>
+        <item>12 ώρες</item>
+        <item>24 ώρες</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Απλό</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d perccel ezelőtt </item>
+        <item quantity="one">%d perccel ezelőtt</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+       <item quantity="other">%d órával ezelőtt</item>
+        <item quantity="one">%d órával ezelőtt</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">%d nappal ezelőtt</item>
+        <item quantity="one">%d nappal ezelőtt</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Tiszta</item>
+        <item quantity="one">Napos</item>
+    </plurals>
+</resources>

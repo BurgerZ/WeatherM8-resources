@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Peking</item>
+        <item>Amsterdam</item>
+        <item>Varšava</item>
+        <item>Vilna</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Rim</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Orel</item>
+        <item>Berlin</item>
+        <item>Prag</item>
+        <item>Moskva</item>
+        <item>St. Peterburg</item>
+        <item>Čikago</item>
+        <item>New York</item>
+        <item>Pariz</item>
+        <item>London</item>
+        <item>Los Anđeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sunčano</item>
+        <item>Oblačno</item>
+        <item>Tmurno</item>
+        <item>Maglovito</item>
+        <item>Jak pljusak</item>
+        <item>Provala oblaka</item>
+        <item>Pljusak</item>
+        <item>Oluja</item>
+        <item>Kratak pljusak</item>
+        <item>Jaka kiša</item>
+        <item>Srednja kiša</item>
+        <item>Slaba kiša</item>
+        <item>Susnežica</item>
+        <item>Vejavica</item>
+        <item>Sneg</item>
+        <item>Mećava</item>
+        <item>Srednji sneg</item>
+        <item>Slabi sneg</item>
+        <item>Jaka peščana oluja</item>
+        <item>Peščana oluja</item>
+        <item>Peščan</item>
+        <item>Vetrovito</item>
+        <item>Grad</item>
+        <item>Prašina</item>
+        <item>Izmaglica</item>
+        <item>Ledena kiša</item>
+        <item>Nema prognoze</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Severni</item>
+        <item>Severoistočni</item>
+        <item>Istočni</item>
+        <item>Jugoistočni</item>
+        <item>Jug</item>
+        <item>Jugozapadni</item>
+        <item>Zapadni</item>
+        <item>Severozapadni</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Vreme Ikona</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Najslabije</item>
+        <item>Slabo</item>
+        <item>Srednji-opseg</item>
+        <item>Jak</item>
+        <item>Najjači</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>2 sata</item>
+        <item>6 sati</item>
+        <item>12 sati</item>
+        <item>24 sati</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Jednostavan</item>
+    </string-array>
+</resources>
