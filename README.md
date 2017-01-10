@@ -5,37 +5,39 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files
 ===========
 
 # Translators:
-en **Andrei Zhukouski**
-ru **Andrei Zhukouski**
-be **Аляксандр Кавальчук**
-pt-PT **Lippe35**
-pt-BR **Lineu Junior**
-in **Anggit Pramudita**
-uk **Євген Гіль**
-de **MIUI Germany**
-ro **Igor Sorocean**
-tr **Murat Turan**
-bg **Емил Филев**
-ar **Ismail Jarmouni**
-pl **trybit** (supportsamsung.pl)
-cs **Miloslav Kubín**
-sk **Luboš Belobruch**
-hr **MASVA, MIUI Adria**
-es **Nicolás Berrutti**
-ca-ES **Jaime Muñoz Martín**
-fr **Nicolas Zeller**
-nl **Jelger Postma**
-it **Ignis_su**
-hu **Gergő Bancsi**
-zh-CN **i Silence**
-sr **Milan Andrejić**
-el **Dimitrios Skodras**
-hi **-Abhishek-** (newindiago@gmail.com)
-bn **-Abhishek-** (newindiago@gmail.com)
-vi **Nguyễn Minh Chất**
-fa **رحمان رحمانی پرست** (iranbee.com)
-iw **Alex Travitsky**
-fi **Kalle Lahtinen**
+|Directory|Language|Translator|
+|----|----|----|
+|values|English|**Andrei Zhukouski**|
+|values-ru|Russian|**Andrei Zhukouski**|
+|values-be|Belarussian|**Аляксандр Кавальчук**|
+|values-pt-PT|Portuguese|**Lippe35** |
+|values-pt-BR|Portuguese Brasil|**Lineu Junior** |
+|values-in|Indonesian|**Anggit Pramudita** |
+|values-uk|Ukrainian|**Євген Гіль** |
+|values-de|Deutch|**MIUI Germany** |
+|values-ro|Romanian|**Igor Sorocean** |
+|values-tr|Turkish|**Murat Turan**|
+|values-bg|Bulgarian|**Емил Филев**|
+|values-ar|Arabic|**Ismail Jarmouni**|
+|values-pl|Polish|**trybit** (supportsamsung.pl)|
+|values-cs|Czech|**Miloslav Kubín**|
+|values-sk|Slovak|**Luboš Belobruch**|
+|values-hr|Croatian|**MASVA, MIUI Adria**|
+|values-es|Spanish|**Nicolás Berrutti**|
+|values-ca-ES|Catalan|**Jaime Muñoz Martín**|
+|values-fr|French|**Nicolas Zeller**|
+|values-nl|Dutch|**Jelger Postma**|
+|values-it|Italian|**Ignis_su**|
+|values-hu|Hungarian|**Gergő Bancsi**|
+|values-zh-CN|Chinese (PRC)|**i Silence**|
+|values-sr|Serbian|**Milan Andrejić**|
+|values-el|Greek|**Dimitrios Skodras**|
+|values-hi|Hindi|**-Abhishek-** (newindiago@gmail.com)|
+|values-bn|Bengali|**-Abhishek-** (newindiago@gmail.com)|
+|values-vi|Vietnamese|**Nguyễn Minh Chất**|
+|values-fa|Persian|**رحمان رحمانی پرست** (iranbee.com)|
+|values-iw|Hebrew|**Alex Travitsky**|
+|values-fi|Finnish|**Kalle Lahtinen**|
 
 Weather Mate (Weather M8) © 2016 - 2017 zaa.bz, **Andrei Zhukouski**
 
