@@ -83,4 +83,8 @@
         <item>12 ore</item>
         <item>24 ore</item>
     </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Nivelul mării</item>
+        <item>Nivelul locaţiei</item>
+    </string-array>
 </resources>
