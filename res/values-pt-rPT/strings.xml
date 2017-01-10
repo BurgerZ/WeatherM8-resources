@@ -240,4 +240,6 @@ Verifique as suas definições de rede"</string>
     <string name="settings_update_quiet_hours_start_time_title">Hora de início</string>
     <string name="settings_update_quiet_hours_title">Modo não actualizar</string>
     <string name="settings_wind_unit_knot">nós</string>
+    <string name="weather_details_pressure_atm">%1$s atm</string>
+    <string name="wind_unit_knot">%1$snós</string>
 </resources>
