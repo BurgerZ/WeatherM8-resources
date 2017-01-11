@@ -28,7 +28,7 @@
     <string name="daily_forcast_drawer_on_top">Prognoză extinsă</string>
     <string name="daily_forcast_no_wind">Nu adie vântul</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s mai târziu.</string>
     <string name="daily_forcast_whirl_wind">Tornadă</string>
     <string name="daily_forcast_wind_connect">%1$s %2$s</string>
     <string name="delete">Ștergeți</string>
@@ -63,17 +63,21 @@
     <string name="weather_details_pressure_title">Presiune</string>
     <string name="weather_details_real_feel_title">Temperatură resimțită</string>
     <string name="weather_details_title">Detalii meteo</string>
-    <string name="weather_details_uv_index_title">Index UV</string>
+    <string name="weather_details_uv_index_title">Indice UV</string>
     <string name="weather_details_visibility">%1$s km</string>
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s mile</string>
     <string name="weather_details_visibility_title">Vizibilitate</string>
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">Vânt</string>
+    <string name="weather_details_timezone_title">Fus orar</string>
+    <string name="weather_details_elevation_title">Altitudine</string>
+    <string name="weather_details_update_date_string">Timp de observare: %s</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+
+    <string name="time_units_hour">" o"</string>
+    <string name="time_units_minute">" m"</string>
+    <string name="time_units_second">" s"</string>
 
     <string name="international_detail_menu_title">Detalii</string>
     <string name="locate_fail_detail_err">"Nu se poate localiza dispozitivul
@@ -193,14 +197,14 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_help">Ajutor</string>
     <string name="settings_feedback">Trimiteţi feedback</string>
     <string name="settings_dialog_enter_timezone">Introduceţi fusul orar pentru orașul selectat (%s), de examplu GMT+03:00:</string>
-    
+
     <!-- Widgets -->
     <string name="widget_update_date_string">Actualizat %s</string>
     <string name="widget_update_updating_string">Actualizare…</string>
     <!-- Widget config -->
     <string name="widget_config_title">Configurare widget</string>
     <string name="widget_config_custom_clock_font_onoff_title">Font personalizat pentru ceas</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">Opriți-l în cazul în care widget-ul ceasului nu se actualizează</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">Dezactivaţi în cazul în care widget-ul ceasului nu se actualizează</string>
     <string name="widget_config_clock_font_title">Font ceas</string>
     <string name="widget_config_clock_color_title">Culoare ceas</string>
     <string name="widget_config_clock_font_size_title">Dimensiune font ceas</string>
@@ -222,14 +226,26 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="widget_config_show_local_time_title">Afişare timp local</string>
     <string name="widget_config_show_leading_zero_title">Afişare zero din faţă</string>
 
-    <string name="widget_config_click_settings">Setări clic suprafaţă widget</string>
+    <string name="widget_config_click_settings">Setări clic pe suprafaţa widget-ului</string>
     <string name="widget_config_click_apps">Selectaţi aplicaţia</string>
     <string name="widget_config_click_clock">Ceas</string>
     <string name="widget_config_click_date">Dată</string>
     <string name="widget_config_click_weather_icon">Pictogramă meteo</string>
     <string name="widget_config_click_temperature">Temperatură</string>
-    
+
     <!-- Color picker -->
     <string name="press_color_to_apply">Apăsați pe culoare pentru a aplica</string>
     <string name="dialog_color_picker">Selector de culoare</string>
+
+    <string name="feedback_title">Titlu</string>
+    <string name="feedback_title_hint">Descrieți problema pe scurt</string>
+    <string name="feedback_description">Descriere</string>
+    <string name="feedback_description_hint">Descrieți problema sau sugestia complet</string>
+    <string name="feedback_add_images">Adăugaţi imagini</string>
+    <string name="feedback_select_upload_settings">Încărcați setările aplicației</string>
+    <string name="feedback_action_send">Trimiteţi</string>
+    <string name="feedback_fill_required">Câmpurile obligatorii nu pot fi lăsate goale</string>
+    <string name="feedback_sending">Trimitere feedback…</string>
+    <string name="feedback_sent">Mulţumesc pentru feedback!</string>
+    <string name="feedback_error">Eroare la trimiterea feedback-ului</string>
 </resources>
