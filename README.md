@@ -21,7 +21,9 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files
 |values-ar|Arabic|**Ismail Jarmouni**|
 |values-pl|Polish|**trybit** (supportsamsung.pl)|
 |values-cs|Czech|**Miloslav Kubín**|
+|values-sl|Slovenian|**Boštjan Rebolj**|
 |values-sk|Slovak|**Luboš Belobruch**|
+|values-sr|Serbian|**Milan Andrejić**|
 |values-hr|Croatian|**MASVA, MIUI Adria**|
 |values-es|Spanish|**Nicolás Berrutti**|
 |values-ca-ES|Catalan|**Jaime Muñoz Martín**|
@@ -30,7 +32,6 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files
 |values-it|Italian|**Ignis_su**|
 |values-hu|Hungarian|**Gergő Bancsi**|
 |values-zh-CN|Chinese (PRC)|**i Silence**|
-|values-sr|Serbian|**Milan Andrejić**|
 |values-el|Greek|**Dimitrios Skodras**|
 |values-hi|Hindi|**-Abhishek-** (newindiago@gmail.com)|
 |values-bn|Bengali|**-Abhishek-** (newindiago@gmail.com)|
