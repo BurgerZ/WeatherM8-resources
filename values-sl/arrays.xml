@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Amsterdam</item>
+        <item>Warsaw</item>
+        <item>Vilnius</item>
+        <item>Ljubljana</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Rome</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Orel</item>
+        <item>Berlin</item>
+        <item>Praha</item>
+        <item>Moscow</item>
+        <item>St. Petersburg</item>
+        <item>Chicago</item>
+        <item>New York</item>
+        <item>Paris</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Najslabši</item>
+        <item>Slab</item>
+        <item>Srednji</item>
+        <item>Močan</item>
+        <item>Najmočnejši</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Ikona vremena</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sončno</item>
+        <item>Oblačno</item>
+        <item>Delno oblačno</item>
+        <item>Megleno</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Nevihta</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Zmeren dež</item>
+        <item>Miren dež</item>
+        <item>Dež s snegom</item>
+        <item>Metež</item>
+        <item>Sneg</item>
+        <item>Gost sneg</item>
+        <item>Miren sneg</item>
+        <item>Žled</item>
+        <item>Močna peščena nevihta</item>
+        <item>Peščena nevihta</item>
+        <item>Slaba peščena nevihta</item>
+        <item>Vetrovno</item>
+        <item>Toča</item>
+        <item>Prašno</item>
+        <item>Meglica</item>
+        <item>Leden dež</item>
+        <item>Ni napovedi</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Nivo morja</item>
+        <item>Nivo lokacije</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minut</item>
+        <item>1 ura</item>
+        <item>2 uri</item>
+        <item>6 ur</item>
+        <item>12 ur</item>
+        <item>24 ur</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+</resources>
