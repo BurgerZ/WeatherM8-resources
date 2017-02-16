@@ -90,4 +90,12 @@
         <item>Уровень моря</item>
         <item>Уровень города</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Хорошее</item>
+        <item>Среднее</item>
+        <item>Неподходящее для особо восприимчивых</item>
+        <item>Нездоровое</item>
+        <item>Очень нездоровое</item>
+        <item>Опасное</item>
+    </string-array>
 </resources>

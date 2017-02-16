@@ -106,4 +106,20 @@
         <item>Sea level</item>
         <item>Location level</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Unhealthy for sensitive groups</item>
+        <item>Unhealthy</item>
+        <item>Very unhealthy</item>
+        <item>Hazardous</item>
+    </string-array>
 </resources>
