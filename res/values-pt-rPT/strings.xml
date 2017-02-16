@@ -10,7 +10,7 @@
     <string name="act_weather_find_city_net_no_good">Não foi possível ligar à rede</string>
     <string name="act_weather_find_city_no_result">Sem resultados</string>
     <string name="act_weather_find_city_searching">A procurar…</string>
-    <string name="activity_detail_time_format">E</string>
+    <string name="activity_detail_time_format">EEEE</string>
     <string name="activity_find_city_dialog_cancel">Cancelar</string>
     <string name="activity_find_city_dialog_message">Permitir que o Weather M8 verifique a sua localização</string>
     <string name="activity_find_city_dialog_set">Definições</string>
@@ -18,10 +18,10 @@
     <string name="activity_main_alert">Alertas: %1$d</string>
     <string name="activity_main_expire_time">Expira %1$s</string>
     <string name="activity_main_refresh_fail">Não foi possível ligar à rede</string>
-    <string name="activity_main_time_format">E</string>
+    <string name="activity_main_time_format">E, d MMMM</string>
     <string name="activity_main_update_time">Actualizado %1$s</string>
     <string name="activity_main_update_time_right_now">agora mesmo</string>
-    <string name="app_name">Weather M8</string>
+    <string name="app_name">Tempo M8</string>
     <string name="app_version">Versão: %s</string>
     <string name="button_add_city">Adicionar local</string>
     <string name="button_allow">OK</string>
@@ -29,9 +29,9 @@
     <string name="daily_forcast_drawer_on_top">Previsão diária</string>
     <string name="daily_forcast_no_wind">Fraco</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s mais tarde</string>
+    <string name="daily_forcast_weather_transfer">%1$s / %2$s</string>
     <string name="daily_forcast_whirl_wind">Vento forte</string>
-    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+    <string name="daily_forcast_wind_connect">Vento %2$s %1$s</string>
     <string name="delete">Eliminar</string>
     <string name="first_start_network_msg">"Esta aplicação necessita de ligar à Internet para funcionar normalmente
         São necessárias as seguintes permissões:
@@ -92,8 +92,6 @@ Toque no botão abaixo para adicionar o local manualmente ou tente localizar nov
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">milhas</string>
-    <string name="settings_weather_details_summary">Seleccionar os detalhes do tempo que vão aparecer no ecrã inicial</string>
-    <string name="settings_weather_details_title">Detalhes do tempo</string>
     <string name="settings_weather_spider_title">Base de dados de actualização</string>
     <string name="settings_weather_transfer_summary">Mostrar informação do tempo do dia para a noite</string>
     <string name="settings_weather_transfer_title">Transferência de informação do tempo</string>
@@ -106,7 +104,7 @@ Toque no botão abaixo para adicionar o local manualmente ou tente localizar nov
     <string name="share_button">Partilhar</string>
     <string name="share_menu_title">Partilhar</string>
     <string name="share_subject">Partilhar</string>
-    <string name="share_weather_desc">\#Weather M8# Hoje %1$s %2$s</string>
+    <string name="share_weather_desc">\#Tempo M8# Hoje: %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Não foi possível tirar captura de ecrã</string>
@@ -228,9 +226,6 @@ Verifique as suas definições de rede"</string>
     <string name="settings_widgets_title">Widgets</string>
     <string name="weather_details_elevation_title">Elevação</string>
     <string name="weather_details_timezone_title">Fuso horário</string>
-    <string name="date_time_am">am</string>
-    <string name="date_time_pm">pm</string>
-    <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
     <string name="widget_config_show_leading_zero_title">Mostrar zero nas horas</string>
     <string name="get_accounts_msg">Esta aplicação necessita de ter acesso às contas do dispositivo para verificar as suas compras e remover os anúncios</string>
     <string name="get_accounts_title">Acesso a contas</string>
@@ -242,14 +237,14 @@ Verifique as suas definições de rede"</string>
     <string name="settings_wind_unit_knot">nós</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
     <string name="wind_unit_knot">%1$snós</string>
-    <string name="aqi_main_title">Qualidade do ar</string>
+    <string name="aqi_data_source">%s</string>
+    <string name="aqi_detail_24_hours">Previsão horária</string>
+    <string name="aqi_detail_5_days">Previsão diária</string>
+    <string name="aqi_detail_unit">Unidade: µg/m³ (CO: mg/m³)</string>
     <string name="aqi_main_publish_time">Actualizado %1$s</string>
-    <string name="aqi_ring_top_pollution">Principais poluentes</string>
+    <string name="aqi_main_title">Qualidade do ar</string>
     <string name="aqi_ring_desc">Índice de Qualidade do ar</string>
+    <string name="aqi_ring_top_pollution">Principais poluentes</string>
     <string name="aqi_sub_desc">IQA</string>
     <string name="aqi_detail_subtitle">IQA %1$s</string>
-    <string name="aqi_detail_5_days">Previsão diária</string>
-    <string name="aqi_detail_24_hours">Previsão horária</string>
-    <string name="aqi_detail_unit">Unidade: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_data_source">%s</string>
 </resources>
