@@ -22,17 +22,6 @@
         <item>Vila Real</item>
         <item>Viseu</item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Baixo</item>
-        <item>Moderado</item>
-        <item>Elevado</item>
-        <item>Muito elevado</item>
-        <item>Extremo</item>
-    </string-array>
-    <string-array name="weather_notif_type_entries">
-        <item>Ícone do tempo</item>
-        <item>Temperatura</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Céu limpo</item>
         <item>Com nuvens</item>
@@ -72,9 +61,16 @@
         <item>Oeste</item>
         <item>Noroeste</item>
     </string-array>
-    <string-array name="pressure_level_entries">
-        <item>Nível do mar</item>
-        <item>Nível do local</item>
+    <string-array name="weather_notif_type_entries">
+        <item>Ícone do tempo</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Baixo</item>
+        <item>Moderado</item>
+        <item>Elevado</item>
+        <item>Muito elevado</item>
+        <item>Extremo</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>30 minutos</item>
@@ -88,5 +84,25 @@
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simples</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Nível do mar</item>
+        <item>Nível do local</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bom</item>
+        <item>Moderado</item>
+        <item>Pouco saudável para grupos sensíveis</item>
+        <item>Pouco saudável</item>
+        <item>Muito pouco saudável</item>
+        <item>Perigoso</item>
     </string-array>
 </resources>
