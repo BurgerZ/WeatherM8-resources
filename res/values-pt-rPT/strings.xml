@@ -21,7 +21,7 @@
     <string name="activity_main_time_format">E, d MMMM</string>
     <string name="activity_main_update_time">Actualizado %1$s</string>
     <string name="activity_main_update_time_right_now">agora mesmo</string>
-    <string name="app_name">Tempo M8</string>
+    <string name="app_name">Weather M8</string>
     <string name="app_version">Versão: %s</string>
     <string name="button_add_city">Adicionar local</string>
     <string name="button_allow">OK</string>
@@ -104,7 +104,7 @@ Toque no botão abaixo para adicionar o local manualmente ou tente localizar nov
     <string name="share_button">Partilhar</string>
     <string name="share_menu_title">Partilhar</string>
     <string name="share_subject">Partilhar</string>
-    <string name="share_weather_desc">\#Tempo M8# Hoje: %1$s %2$s</string>
+    <string name="share_weather_desc">\#Weather M8# Hoje: %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Não foi possível tirar captura de ecrã</string>
