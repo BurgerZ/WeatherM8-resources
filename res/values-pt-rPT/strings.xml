@@ -245,6 +245,7 @@ Verifique as suas definições de rede"</string>
     <string name="aqi_main_title">Qualidade do ar</string>
     <string name="aqi_ring_desc">Índice de Qualidade do ar</string>
     <string name="aqi_ring_top_pollution">Principais poluentes</string>
-    <string name="aqi_sub_desc">IQA</string>
+    <string name="activity_main_update_time_expire">Dados expiraram</string>
     <string name="aqi_detail_subtitle">IQA %1$s</string>
+    <string name="aqi_sub_desc">IQA</string>
 </resources>
