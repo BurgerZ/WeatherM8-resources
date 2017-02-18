@@ -92,8 +92,10 @@ Toque no botão abaixo para adicionar o local manualmente ou tente localizar nov
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">milhas</string>
+    <string name="settings_weather_details_summary">Seleccionar os detalhes do tempo que vão aparecer no ecrã inicial</string>
+    <string name="settings_weather_details_title">Detalhes do tempo</string>
     <string name="settings_weather_spider_title">Base de dados de actualização</string>
-    <string name="settings_weather_transfer_summary">Mostrar informação do tempo do dia para a noite</string>
+    <string name="settings_weather_transfer_summary">Mostrar descrição da informação do tempo do dia para a noite</string>
     <string name="settings_weather_transfer_title">Transferência de informação do tempo</string>
     <string name="settings_wind_unit">Velocidade do vento</string>
     <string name="settings_wind_unit_kmh">km/h</string>
@@ -226,8 +228,9 @@ Verifique as suas definições de rede"</string>
     <string name="settings_widgets_title">Widgets</string>
     <string name="weather_details_elevation_title">Elevação</string>
     <string name="weather_details_timezone_title">Fuso horário</string>
+    <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
     <string name="widget_config_show_leading_zero_title">Mostrar zero nas horas</string>
-    <string name="get_accounts_msg">Esta aplicação necessita de ter acesso às contas do dispositivo para verificar as suas compras e remover os anúncios</string>
+    <string name="get_accounts_msg">Esta aplicação necessita de ter acesso à lista de contas do dispositivo para verificar as suas compras e remover os anúncios</string>
     <string name="get_accounts_title">Acesso a contas</string>
     <string name="settings_permissions">Permissões</string>
     <string name="settings_pressure_unit_atm">atm</string>
