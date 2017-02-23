@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-         <item>Пекин</item> 
+        <item>Пекин</item>
         <item>Амстердам</item>
-         <item>Варшава</item> 
-        <item>Вильнюс</item> 
+        <item>Варшава</item>
+        <item>Вильнюс</item>
         <item>Рига</item>
-         <item>Мадрид</item>
-         <item>Пермь</item> 
-        <item>Рим</item> 
-        <item>Дубай</item> 
+        <item>Мадрид</item>
+        <item>Пермь</item>
+        <item>Рим</item>
+        <item>Дубай</item>
         <item>Минск</item>
-         <item>Благодарный</item> 
+        <item>Благодарный</item>
         <item>Караганда</item>
-         <item>Орел</item> 
-        <item>Берлин</item> 
-        <item>Прага</item> 
-        <item>Москва</item> 
+        <item>Орел</item>
+        <item>Берлин</item>
+        <item>Прага</item>
+        <item>Москва</item>
         <item>Санкт-Петербург</item>
-         <item>Чикаго</item> 
-        <item>Нью-Йорк</item> 
-        <item>Париж</item> 
-        <item>Лондон</item> 
+        <item>Чикаго</item>
+        <item>Нью-Йорк</item>
+        <item>Париж</item>
+        <item>Лондон</item>
         <item>Лос-анджелес</item>
-         <item>Калининград</item> 
+        <item>Калининград</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>

@@ -72,6 +72,9 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_weather_realtime_spider_title">Realtime data</string>
     <string name="settings_weather_forecast_spider_title">Forecast data</string>
     <string name="settings_weather_station_title">Meteo station</string>
+    <string name="settings_aqi_title">@string/aqi_main_title</string>
+    <string name="settings_aqi_max_distance_title">AQI check radius</string>
+    <string name="settings_aqi_max_distance_summary">Get air quality data from the weather stations, located at a distance within %1$s</string>
     <string name="settings_app_locale_title">Language</string>
     <string name="settings_app_theme_title">Theme</string>
     <string name="settings_app_theme_light">Light</string>

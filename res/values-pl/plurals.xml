@@ -13,7 +13,7 @@
         <item quantity="one">%d dzień temu</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Czysto</item>
+        <item quantity="other">Bezchmurnie</item>
         <item quantity="one">Słonecznie</item>
     </plurals>
 </resources>

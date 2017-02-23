@@ -70,6 +70,9 @@
     <string name="settings_weather_realtime_spider_title">Текущие данные</string>
     <string name="settings_weather_forecast_spider_title">Прогноз</string>
     <string name="settings_weather_station_title">Метеостанция</string>
+    <string name="settings_aqi_title">@string/aqi_main_title</string>
+    <string name="settings_aqi_max_distance_title">Радиус проверки</string>
+    <string name="settings_aqi_max_distance_summary">Получать данные о качестве воздуха от метеостанций, удаленных на расстояние не более %1$s</string>
     <string name="settings_app_locale_title">Язык</string>
     <string name="settings_app_theme_title">Тема</string>
     <string name="settings_app_theme_light">Светлая</string>
