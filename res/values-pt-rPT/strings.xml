@@ -175,6 +175,9 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_weather_forecast_spider_title">Dados de previsão</string>
     <string name="settings_weather_realtime_spider_title">Dados actuais</string>
     <string name="settings_weather_station_title">Estação meteorológica</string>
+	<string name="settings_aqi_title">@string/aqi_main_title</string>
+	<string name="settings_aqi_max_distance_title">Actualização do IQA</string>
+	<string name="settings_aqi_max_distance_summary">Obtenha os dados do índice da qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
     <string name="weather_details_update_date_string">Última actualização: %s</string>
     <string name="widget_config_background_color_title">Cor de fundo</string>
     <string name="widget_config_background_type_border">Com limite</string>
@@ -230,6 +233,17 @@ Verifique as suas definições de rede"</string>
     <string name="weather_details_timezone_title">Fuso horário</string>
     <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
     <string name="widget_config_show_leading_zero_title">Mostrar zero nas horas</string>
+    <string name="activity_main_update_time_expire">Dados expiraram</string>
+    <string name="aqi_data_source">%s</string>
+    <string name="aqi_detail_24_hours">Previsão horária</string>
+    <string name="aqi_detail_5_days">Previsão diária</string>
+    <string name="aqi_detail_subtitle">IQA %1$s</string>
+    <string name="aqi_detail_unit">Unidade: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_main_publish_time">Actualizado %1$s</string>
+    <string name="aqi_main_title">Qualidade do ar</string>
+    <string name="aqi_ring_desc">Índice de qualidade do ar</string>
+    <string name="aqi_ring_top_pollution">Principais poluentes</string>
+    <string name="aqi_sub_desc">IQA</string>
     <string name="get_accounts_msg">Esta aplicação necessita de ter acesso à lista de contas do dispositivo para verificar as suas compras e remover os anúncios</string>
     <string name="get_accounts_title">Acesso a contas</string>
     <string name="settings_permissions">Permissões</string>
@@ -240,15 +254,4 @@ Verifique as suas definições de rede"</string>
     <string name="settings_wind_unit_knot">nós</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
     <string name="wind_unit_knot">%1$snós</string>
-    <string name="aqi_data_source">%s</string>
-    <string name="aqi_detail_24_hours">Previsão horária</string>
-    <string name="aqi_detail_5_days">Previsão diária</string>
-    <string name="aqi_detail_unit">Unidade: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_main_publish_time">Actualizado %1$s</string>
-    <string name="aqi_main_title">Qualidade do ar</string>
-    <string name="aqi_ring_desc">Índice de qualidade do ar</string>
-    <string name="aqi_ring_top_pollution">Principais poluentes</string>
-    <string name="activity_main_update_time_expire">Dados expiraram</string>
-    <string name="aqi_detail_subtitle">IQA %1$s</string>
-    <string name="aqi_sub_desc">IQA</string>
 </resources>
