@@ -19,7 +19,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files
 |values-tr|Turkish|**Murat Turan**|
 |values-bg|Bulgarian|**Емил Филев**|
 |values-ar|Arabic|**Ismail Jarmouni**|
-|values-pl|Polish|**trybit** (supportsamsung.pl)|
+|values-pl|Polish|**trybit**, **Jan Folta (@GUTEK@)**|
 |values-cs|Czech|**Miloslav Kubín**|
 |values-sl|Slovenian|**Boštjan Rebolj**|
 |values-sk|Slovak|**Luboš Belobruch**|
