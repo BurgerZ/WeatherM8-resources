@@ -177,7 +177,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_weather_station_title">Estação meteorológica</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_max_distance_title">Actualização do IQA</string>
-    <string name="settings_aqi_max_distance_summary">Obter os dados do índice da qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
+    <string name="settings_aqi_max_distance_summary">Obter os dados do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
     <string name="weather_details_update_date_string">Última actualização: %s</string>
     <string name="widget_config_background_color_title">Cor de fundo</string>
     <string name="widget_config_background_type_border">Com limite</string>
