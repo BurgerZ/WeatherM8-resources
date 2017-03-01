@@ -175,9 +175,6 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_weather_forecast_spider_title">Dados de previsão</string>
     <string name="settings_weather_realtime_spider_title">Dados actuais</string>
     <string name="settings_weather_station_title">Estação meteorológica</string>
-    <string name="settings_aqi_title">@string/aqi_main_title</string>
-    <string name="settings_aqi_max_distance_title">Actualização do IQA</string>
-    <string name="settings_aqi_max_distance_summary">Obter os dados do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
     <string name="weather_details_update_date_string">Última actualização: %s</string>
     <string name="widget_config_background_color_title">Cor de fundo</string>
     <string name="widget_config_background_type_border">Com limite</string>
@@ -254,4 +251,9 @@ Verifique as suas definições de rede"</string>
     <string name="settings_wind_unit_knot">nós</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
     <string name="wind_unit_knot">%1$snós</string>
+    <string name="settings_aqi_max_distance_summary">Obter os dados do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
+    <string name="settings_aqi_max_distance_title">Actualização do IQA</string>
+    <string name="settings_aqi_title">@string/aqi_main_title</string>
+    <string name="settings_aqi_onoff_summary">Mostrar informação do índice de qualidade do ar para o local actual (se disponível)</string>
+    <string name="settings_aqi_onoff_title">Informação do IQA</string>
 </resources>
