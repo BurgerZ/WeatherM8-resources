@@ -112,9 +112,9 @@ Toque no botão abaixo para adicionar o local manualmente ou tente localizar nov
     <string name="share_weather_save_pic_fail">Não foi possível tirar captura de ecrã</string>
     <string name="sunrise">Nascer do sol</string>
     <string name="sunset">Pôr do sol</string>
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+    <string name="time_units_hour">" h"</string>
+    <string name="time_units_minute">" m"</string>
+    <string name="time_units_second">" s"</string>
     <string name="view_forecast_item_yesterday">Ontem</string>
     <string name="view_indexes_item_today">Hoje</string>
     <string name="view_indexes_item_tommorrow">Amanhã</string>
@@ -251,7 +251,7 @@ Verifique as suas definições de rede"</string>
     <string name="settings_wind_unit_knot">nós</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
     <string name="wind_unit_knot">%1$snós</string>
-    <string name="settings_aqi_max_distance_summary">Obter os dados do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
+    <string name="settings_aqi_max_distance_summary">Obter dados do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
     <string name="settings_aqi_max_distance_title">Actualização do IQA</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_summary">Mostrar informação do índice de qualidade do ar para o local actual (se disponível)</string>
