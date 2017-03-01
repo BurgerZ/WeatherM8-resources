@@ -84,9 +84,20 @@
         <item>12 horas</item>
         <item>24 horas</item>
     </string-array>
-    <string-array name="weather_icons_entries">
-        <item>MIUI 8</item>
-        <item>YunOS</item>
-        <item>Simples</item>
+    <string-array name="aqi_value">
+        <item>Bom</item>
+        <item>Moderado</item>
+        <item>Pouco saudável para grupos sensíveis</item>
+        <item>Pouco saudável</item>
+        <item>Muito pouco saudável</item>
+        <item>Perigoso</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
     </string-array>
 </resources>

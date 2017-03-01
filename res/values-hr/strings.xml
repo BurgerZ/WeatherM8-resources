@@ -48,7 +48,7 @@
     <string name="feedback_sending">Slanje pov. informacije…</string>
     <string name="feedback_sent">Hvala vam na pov. informacijama!</string>
     <string name="feedback_title">Naslov</string>
-    <string name="feedback_title_hint">Opišite problem ukratko</string>
+    <string name="feedback_title_hint">Kratki naslov</string>
   <string name="first_start_network_msg">"Ovoj je aplikaciji potrebno povezivanje s internetom da dobije podatke o vremenu.
        Aplikacija koristi ova dopuštenja:
         • Pristup lokaciji uređaja da dobije vaše trenutne koordinate.
@@ -81,14 +81,14 @@ Dodirnite na tipku u nastavku da ručno dodate grad ili pokušajte locirati pono
     <string name="more_details">Više detalja</string>
   <string name="network_error">"Ne mogu se povezati s poslužiteljem.
 Provjerite postavke mreže."</string>
-    <string name="network_in_quiet_hours">Sada se u tihim satima. Ažuriranja su otkazana.</string>
+    <string name="network_in_quiet_hours">Sada ste u tihim satima. Ažuriranja su otkazana.</string>
     <string name="network_in_roaming">U postavkama onemogućite ažuriranja u roamingu.</string>
     <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
-    <string name="network_wifi_only">Ažuriranja postavljen samo na Wi-Fi.</string>
+    <string name="network_wifi_only">Ažuriranja postavljena samo na Wi-Fi.</string>
     <string name="press_color_to_apply">Pritisnite na boju za primjenu</string>
     <string name="settings_about">O aplikaciji</string>
   <string name="settings_ads_explanation">Zašto vidite oglase?
-Pisanje aplikacija za Android je hobi za mene, i to radim u svoje slobodno vrijeme. Zato vas molim postupajte s razumijevanjem s pojavom određenog broja bannera. Prikazivanje oglasa u aplikaciji potiče daljnji razvoj."</string>
+Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Zato vas molim postupajte s razumijevanjem s pojavom određenog broja oglasa. Prikazivanje oglasa u potiče daljnji razvoj aplikacije."</string>
     <string name="settings_ads_remove_summary">Uklonite oglase na tjedan dana (jednom mjesečno)</string>
     <string name="settings_ads_remove_title">Ukloni oglase</string>
     <string name="settings_ads_title">Oglasi i donacije</string>
@@ -127,7 +127,7 @@ Pisanje aplikacija za Android je hobi za mene, i to radim u svoje slobodno vrije
     <string name="settings_temp_unit">Temperatura</string>
     <string name="settings_thirdparty">Podaci i resursi drugih aplikacija</string>
     <string name="settings_translations">Prijevod aplikacije</string>
-    <string name="settings_translations_summary">Zasluge prevoditeljima aplikacije koji su preveli aplikaciju na vaš jezik</string>
+    <string name="settings_translations_summary">Zasluge prevoditeljima koji su preveli aplikaciju na vaš jezik</string>
     <string name="settings_update_interval_title">Interval ažuriranja</string>
     <string name="settings_update_wifi_only_summary">Automatski ažuriraj vremensku prognozu samo kada je uspostavljena Wi-Fi veza</string>
     <string name="settings_update_wifi_only_title">Ažuriraj samo preko Wi-Fi-ja</string>

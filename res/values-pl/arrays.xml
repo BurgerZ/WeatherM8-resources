@@ -23,36 +23,36 @@
         <item>Paryż</item>
         <item>Londyn</item>
         <item>Los Angeles</item>
-        <item>Kaliningrad</item>
+		<item>Kaliningrad</item>
     </string-array>
     <string-array name="weather_type">
         <item>Słonecznie</item>
         <item>Zachmurzenie</item>
         <item>Pochmurno</item>
         <item>Mgliście</item>
-        <item>Ciężkie ulewy</item>
+        <item>Mocne ulewy</item>
         <item>Ulewa</item>
         <item>Ulewa</item>
         <item>Burza</item>
         <item>Deszcz</item>
-        <item>Deszcz - silne opady</item>
-        <item>Deszcz - umiarkowane</item>
+        <item>Silne opady deszczu</item>
+        <item>Umiarkowany deszcz</item>
         <item>Przelotne opady</item>
         <item>Deszcz ze śniegiem</item>
         <item>Burza śnieżna</item>
         <item>Śnieg</item>
         <item>Silne opady śniegu</item>
-        <item>Śnieg - umiarkowane opady</item>
+        <item>Umiarkowany śnieg</item>
         <item>Przelotne opady śniegu</item>
         <item>Silna burza piaskowa</item>
         <item>Burza piaskowa</item>
         <item>Piach</item>
         <item>Wietrznie</item>
-        <item>Hail</item>
-        <item>Pył</item>
         <item>Grad</item>
+        <item>Pył</item>
+        <item>Zamglenie</item>
         <item>Marznący deszcz</item>
-        <item>Brak pogody</item>
+		<item>Brak pogody</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Płn.</item>
@@ -62,25 +62,62 @@
         <item>Płd.</item>
         <item>Płd.-Zach.</item>
         <item>Zach.</item>
-        <item>Płn.-Zach</item>
+		<item>Płn.-Zach</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
         <item>Ikona pogody</item>
-        <item>Temperatura</item>
+		<item>Temperatura</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Bardzo niski</item>
         <item>Niski</item>
         <item>Średni</item>
         <item>Wysoki</item>
-        <item>Bardzo wysoki</item>
+		<item>Bardzo wysoki</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>30 minut</item>
-        <item>godzina</item>
+        <item>1 godzina</item>
         <item>2 godziny</item>
         <item>6 godzin</item>
         <item>12 godzin</item>
-        <item>24 godziny</item>
+		<item>24 godziny</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Proste</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Poziomu morza</item>
+        <item>Lokalnej wysokości</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Dobra</item>
+        <item>Średnia</item>
+        <item>Niezdrowa dla osób wrażliwych</item>
+        <item>Niezdrowa</item>
+        <item>Bardzo niezdrowa</item>
+        <item>Zagrożenie dla życia</item>
     </string-array>
 </resources>

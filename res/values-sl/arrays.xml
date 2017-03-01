@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Zagorje ob Savi</item>
+        <item>Jezersko</item>
+        <item>Koper</item>
+        <item>Postojna</item>
+        <item>Ljubljana</item>
+        <item>Lendava</item>
+        <item>Jesenice</item>
+        <item>Bled</item>
+        <item>Kisovec</item>
+        <item>Velenje</item>
+        <item>Vrhnika</item>
+        <item>Ig</item>
+        <item>Brezice</item>
+        <item>Rogaska Slatina</item>
+        <item>Kranj</item>
+        <item>Kranjska gora</item>
+        <item>Kamnik</item>
+        <item>Logatec</item>
+        <item>Nova Gorica</item>
+        <item>Murska Sobota</item>
+        <item>Slovenj Gradec</item>
+        <item>Kocevje</item>
+        <item>Lasko</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Najslabši</item>
+        <item>Slab</item>
+        <item>Srednji</item>
+        <item>Močan</item>
+        <item>Najmočnejši</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Ikona vremena</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sončno</item>
+        <item>Oblačno</item>
+        <item>Delno oblačno</item>
+        <item>Megleno</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Nevihta</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Rahel dež</item>
+        <item>Rahel dež</item>
+        <item>Dež s snegom</item>
+        <item>Metež</item>
+        <item>Sneg</item>
+        <item>Gost sneg</item>
+        <item>Rahel sneg</item>
+        <item>Žled</item>
+        <item>Močna peščena nevihta</item>
+        <item>Peščena nevihta</item>
+        <item>Slaba peščena nevihta</item>
+        <item>Vetrovno</item>
+        <item>Toča</item>
+        <item>Prašno</item>
+        <item>Meglica</item>
+        <item>Leden dež</item>
+        <item>Ni napovedi</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Nivo morja</item>
+        <item>Nivo lokacije</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>30 minut</item>
+        <item>1 ura</item>
+        <item>2 uri</item>
+        <item>6 ur</item>
+        <item>12 ur</item>
+        <item>24 ur</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Dobro</item>
+        <item>Zmerno</item>
+        <item>Nezdravo za občutljive</item>
+        <item>Nezdravo</item>
+        <item>Zelo nezdravo</item>
+        <item>Tvegano</item>
+    </string-array>
+</resources>

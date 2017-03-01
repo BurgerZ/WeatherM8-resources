@@ -72,6 +72,11 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_weather_realtime_spider_title">Realtime data</string>
     <string name="settings_weather_forecast_spider_title">Forecast data</string>
     <string name="settings_weather_station_title">Meteo station</string>
+    <string name="settings_aqi_title">@string/aqi_main_title</string>
+    <string name="settings_aqi_onoff_title">Air Quality information</string>
+    <string name="settings_aqi_onoff_summary">Show air quality index information for your locations (if available)</string>
+    <string name="settings_aqi_max_distance_title">AQI check radius</string>
+    <string name="settings_aqi_max_distance_summary">Get air quality data from the weather stations, located at a distance within %1$s</string>
     <string name="settings_app_locale_title">Language</string>
     <string name="settings_app_theme_title">Theme</string>
     <string name="settings_app_theme_light">Light</string>
@@ -128,6 +133,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="settings_ads_remove_title">Remove ads</string>
     <string name="settings_ads_remove_summary">Remove ads for a week (once a month)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
+    <string name="settings_ads_webmoney">Webmoney</string>
     <string name="settings_about">About</string>
     <string name="settings_translations">Translations</string>
     <string name="settings_translations_summary">Credits to the application translators</string>
@@ -282,5 +288,34 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>
 
+    <!-- AQI -->
+    <string name="aqi_main_title">Air Quality</string>
+    <string name="aqi_main_publish_time">Updated at %1$s</string>
+
+    <string name="aqi_ring_top_pollution">Major pollutants</string>
+    <string name="aqi_ring_desc">Air Quality Index</string>
+
+    <string name="aqi_sub_desc">AQI</string>
+
+    <string name="aqi_detail_subtitle">AQI %1$s</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_so2">SO₂</string>
+    <string name="aqi_detail_no2">NO₂</string>
+    <string name="aqi_detail_co">CO</string>
+    <string name="aqi_detail_o3">O₃</string>
+
+    <string name="top_pollution_pm25">PM2.5</string>
+    <string name="top_pollution_pm10">PM10</string>
+    <string name="top_pollution_so2">SO2</string>
+    <string name="top_pollution_no2">NO2</string>
+    <string name="top_pollution_co">CO</string>
+    <string name="top_pollution_o3">O3</string>
+
+    <string name="aqi_detail_5_days">Daily forecast</string>
+    <string name="aqi_detail_24_hours">Hourly forecast</string>
+
+    <string name="aqi_detail_unit">Unit: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_data_source">%s</string>
 </resources>
 
