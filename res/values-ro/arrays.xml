@@ -87,4 +87,12 @@
         <item>Nivelul mării</item>
         <item>Nivelul locaţiei</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Bună</item>
+        <item>Moderată</item>
+        <item>Cu risc pentru persoanele sensibile</item>
+        <item>Nocivă</item>
+        <item>Foarte nocivă</item>
+        <item>Periculoasă</item>
+    </string-array>
 </resources>
