@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-        <item>Beijing</item>
-        <item>Amsterdam</item>
-        <item>Warsaw</item>
-        <item>Vilnius</item>
+        <item>Zagorje ob Savi</item>
+        <item>Jezersko</item>
+        <item>Koper</item>
+        <item>Postojna</item>
         <item>Ljubljana</item>
-        <item>Madrid</item>
-        <item>Perm</item>
-        <item>Rome</item>
-        <item>Dubai</item>
-        <item>Minsk</item>
-        <item>Blagodarnyy</item>
-        <item>Karaganda</item>
-        <item>Orel</item>
-        <item>Berlin</item>
-        <item>Praha</item>
-        <item>Moscow</item>
-        <item>St. Petersburg</item>
-        <item>Chicago</item>
-        <item>New York</item>
-        <item>Paris</item>
-        <item>London</item>
-        <item>Los Angeles</item>
-        <item>Kaliningrad</item>
+        <item>Lendava</item>
+        <item>Jesenice</item>
+        <item>Bled</item>
+        <item>Kisovec</item>
+        <item>Velenje</item>
+        <item>Vrhnika</item>
+        <item>Ig</item>
+        <item>Brezice</item>
+        <item>Rogaska Slatina</item>
+        <item>Kranj</item>
+        <item>Kranjska gora</item>
+        <item>Kamnik</item>
+        <item>Logatec</item>
+        <item>Nova Gorica</item>
+        <item>Murska Sobota</item>
+        <item>Slovenj Gradec</item>
+        <item>Kocevje</item>
+        <item>Lasko</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Najslabši</item>
@@ -47,13 +47,13 @@
         <item>Nevihta</item>
         <item>Dež</item>
         <item>Dež</item>
-        <item>Zmeren dež</item>
-        <item>Miren dež</item>
+        <item>Rahel dež</item>
+        <item>Rahel dež</item>
         <item>Dež s snegom</item>
         <item>Metež</item>
         <item>Sneg</item>
         <item>Gost sneg</item>
-        <item>Miren sneg</item>
+        <item>Rahel sneg</item>
         <item>Žled</item>
         <item>Močna peščena nevihta</item>
         <item>Peščena nevihta</item>
@@ -87,9 +87,19 @@
         <item>12 ur</item>
         <item>24 ur</item>
     </string-array>
-    <string-array name="weather_icons_entries">
-        <item>MIUI 8</item>
-        <item>YunOS</item>
-        <item>Simple</item>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Dobro</item>
+        <item>Zmerno</item>
+        <item>Nezdravo za občutljive</item>
+        <item>Nezdravo</item>
+        <item>Zelo nezdravo</item>
+        <item>Tvegano</item>
 </resources>
