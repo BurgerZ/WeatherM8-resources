@@ -260,6 +260,8 @@
     <string name="moon_since">Дата: %1$s %2$s</string>
     <string name="moon_distanse">Расстояние: %s км</string>
     <string name="moon_angle">Угол: %s</string>
+    <string name="moon_rise">Восход: %s</string>
+    <string name="moon_set">Закат: %s</string>
     <string name="moon_zodiac">Зодиак: %s</string>
 
     <string name="zodiac_aries">Овен</string>
