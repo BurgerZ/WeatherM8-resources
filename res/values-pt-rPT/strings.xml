@@ -255,7 +255,6 @@ Verifique as suas definições de rede"</string>
     <string name="wind_unit_knot">%1$snós</string>
     <string name="settings_aqi_max_distance_summary">Obter informação do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
     <string name="settings_aqi_max_distance_title">Actualização do IQA</string>
-    <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_summary">Mostrar informação do índice de qualidade do ar para o local actual (se disponível)</string>
     <string name="settings_aqi_onoff_title">Informação do IQA</string>
 </resources>
