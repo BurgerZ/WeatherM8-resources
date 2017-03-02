@@ -99,6 +99,8 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="moon_waxingcrescent">Semilună în creștere</string>
     <string name="moon_waxinggibbous">Lună în creştere</string>
     <string name="moon_zodiac">Zodiac: %s</string>
+    <string name="moon_rise">Răsărit: %s</string>
+    <string name="moon_set">Apus: %s</string>
 
     <string name="network_unavailable">"Nu se poate conecta la rețea."</string>
     <string name="settings_about">Despre</string>
