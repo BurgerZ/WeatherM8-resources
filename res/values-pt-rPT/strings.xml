@@ -62,6 +62,8 @@ Toque no botão abaixo para adicionar o local manualmente ou tente localizar nov
     <string name="moon_waxingcrescent">Lua crescente</string>
     <string name="moon_waxinggibbous">Lua crescente</string>
     <string name="moon_zodiac">Zodíaco: %s</string>
+    <string name="moon_rise">Nascer da lua: %s</string>
+    <string name="moon_set">Pôr da lua: %s</string>
     <string name="more_details">Mais detalhes</string>
     <string name="network_unavailable">Não foi possível ligar à rede</string>
     <string name="settings_about">Acerca de</string>
