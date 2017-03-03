@@ -20,9 +20,26 @@
     <string name="activity_main_refresh_fail">"Ne mogu se povezati na mrežu"</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Ažurirano %1$s</string>
+    <string name="activity_main_update_time_expire">Podaci su istekli</string>
     <string name="activity_main_update_time_right_now">upravo sada</string>
     <string name="app_name">Weather M8</string>
     <string name="app_version">Verzija: %s</string>
+    <string name="aqi_data_source">%s</string>
+    <string name="aqi_detail_24_hours">Prognoza svakog sata</string>
+    <string name="aqi_detail_5_days">Dnevna prognozat</string>
+    <string name="aqi_detail_co">CO</string>
+    <string name="aqi_detail_no2">NO₂</string>
+    <string name="aqi_detail_o3">O₃</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_so2">SO₂</string>
+    <string name="aqi_detail_subtitle">AQI %1$s</string>
+    <string name="aqi_detail_unit">Jedinica: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_main_publish_time">Ažurirano %1$s</string>
+    <string name="aqi_main_title">Kvaliteta zraka</string>
+    <string name="aqi_ring_desc">Index kvalitete zraka</string>
+    <string name="aqi_ring_top_pollution">Veliki zagađivači</string>
+    <string name="aqi_sub_desc">AQI</string>
     <string name="button_add_city">Dodaj grad</string>
     <string name="button_allow">U redu</string>
     <string name="button_not_allow">Odustani</string>
@@ -49,17 +66,19 @@
     <string name="feedback_sent">Hvala vam na pov. informacijama!</string>
     <string name="feedback_title">Naslov</string>
     <string name="feedback_title_hint">Kratki naslov</string>
-  <string name="first_start_network_msg">"Ovoj je aplikaciji potrebno povezivanje s internetom da dobije podatke o vremenu.
+    <string name="first_start_network_msg">"Ovoj je aplikaciji potrebno povezivanje s internetom da dobije podatke o vremenu.
        Aplikacija koristi ova dopuštenja:
         • Pristup lokaciji uređaja da dobije vaše trenutne koordinate.
         • Pristup fotografijma, medijima i datotekama za spremanje snimke zaslona za značajku \"Podijeli\"."</string>
     <string name="first_start_network_title">Povezivanje s internetom i pristup lokaciji</string>
+    <string name="get_accounts_msg">Ovoj je aplikaciji potreban pristup popisu računa uređaja da provjeri vašu kupovinu i isključi oglase.</string>
+    <string name="get_accounts_title">Pristup računima</string>
     <string name="gps_hint">GPS</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Sada</string>
     <string name="hourly_forecast_title">Prognoza po satu</string>
     <string name="international_detail_menu_title">Detalji</string>
-  <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
+    <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
 Dodirnite na tipku u nastavku da ručno dodate grad ili pokušajte locirati ponovno"</string>
     <string name="location_management">Lokacije</string>
     <string name="location_tag">Lociraj</string>
@@ -72,6 +91,8 @@ Dodirnite na tipku u nastavku da ručno dodate grad ili pokušajte locirati pono
     <string name="moon_illuminated">Osvijetljenost: %s%%</string>
     <string name="moon_lastquarter">Zadnja četvrtina</string>
     <string name="moon_newmoon">Novi Mjesec</string>
+    <string name="moon_rise">Uspon: %s</string>
+    <string name="moon_set">Postavljen: %s</string>
     <string name="moon_since">Datum: %1$s %2$s</string>
     <string name="moon_waningcrescent">Mlađak</string>
     <string name="moon_waninggibbous">Druga četvrt</string>
@@ -79,7 +100,7 @@ Dodirnite na tipku u nastavku da ručno dodate grad ili pokušajte locirati pono
     <string name="moon_waxinggibbous">Uštap</string>
     <string name="moon_zodiac">Hor. znak: %s</string>
     <string name="more_details">Više detalja</string>
-  <string name="network_error">"Ne mogu se povezati s poslužiteljem.
+    <string name="network_error">"Ne mogu se povezati s poslužiteljem.
 Provjerite postavke mreže."</string>
     <string name="network_in_quiet_hours">Sada ste u tihim satima. Ažuriranja su otkazana.</string>
     <string name="network_in_roaming">U postavkama onemogućite ažuriranja u roamingu.</string>
@@ -87,17 +108,22 @@ Provjerite postavke mreže."</string>
     <string name="network_wifi_only">Ažuriranja postavljena samo na Wi-Fi.</string>
     <string name="press_color_to_apply">Pritisnite na boju za primjenu</string>
     <string name="settings_about">O aplikaciji</string>
-  <string name="settings_ads_explanation">Zašto vidite oglase?
+    <string name="settings_ads_explanation">Zašto vidite oglase?
 Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Zato vas molim postupajte s razumijevanjem s pojavom određenog broja oglasa. Prikazivanje oglasa u potiče daljnji razvoj aplikacije."</string>
     <string name="settings_ads_remove_summary">Uklonite oglase na tjedan dana (jednom mjesečno)</string>
     <string name="settings_ads_remove_title">Ukloni oglase</string>
     <string name="settings_ads_title">Oglasi i donacije</string>
+    <string name="settings_ads_webmoney">Webmoney</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_alerts_title">Upravljaj upozorenjima</string>
     <string name="settings_app_locale_title">Jezik</string>
     <string name="settings_app_theme_dark">Tamna</string>
     <string name="settings_app_theme_light">Svijetla</string>
     <string name="settings_app_theme_title">Tema</string>
+    <string name="settings_aqi_max_distance_summary">Nabavite podatke o kvaliteti zraka  iz meteoroloških stanica, koji se nalazi na udaljenosti unutar %1$s</string>
+    <string name="settings_aqi_max_distance_title">Provjeri AQI radijus</string>
+    <string name="settings_aqi_onoff_summary">Prikaži ifrormaciju o kvaliteti zraka za vašu lokaciju (ako je dostupna)</string>
+    <string name="settings_aqi_onoff_title">Ifrormacija o kvaliteti zraka</string>
     <string name="settings_autoupdate_weather_summary">Ažuriraj vremensku prognozu automatski</string>
     <string name="settings_autoupdate_weather_title">Autom. ažuriraj</string>
     <string name="settings_category_units">Jedinice</string>
@@ -116,8 +142,10 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="settings_notifications_summary">Postavke obavijesti vremena</string>
     <string name="settings_notifications_title">Obavijesti</string>
     <string name="settings_notify_type_title">Ikona obavijesti</string>
+    <string name="settings_permissions">Dopuštenja</string>
     <string name="settings_pressure_level_title">Prikaži tlak za</string>
     <string name="settings_pressure_unit">Tlak</string>
+    <string name="settings_pressure_unit_atm">atm</string>
     <string name="settings_pressure_unit_hpa">hPa</string>
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_pressure_unit_mb">mb</string>
@@ -129,6 +157,9 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="settings_translations">Prijevod aplikacije</string>
     <string name="settings_translations_summary">Zasluge prevoditeljima koji su preveli aplikaciju na vaš jezik</string>
     <string name="settings_update_interval_title">Interval ažuriranja</string>
+    <string name="settings_update_quiet_hours_end_time_title">Kraj</string>
+    <string name="settings_update_quiet_hours_start_time_title">Početak</string>
+    <string name="settings_update_quiet_hours_title">Tihi sati</string>
     <string name="settings_update_wifi_only_summary">Automatski ažuriraj vremensku prognozu samo kada je uspostavljena Wi-Fi veza</string>
     <string name="settings_update_wifi_only_title">Ažuriraj samo preko Wi-Fi-ja</string>
     <string name="settings_visibility_unit">Vidljivost</string>
@@ -147,6 +178,7 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="settings_widgets_title">Widgeti</string>
     <string name="settings_wind_unit">Brzina vjetra</string>
     <string name="settings_wind_unit_kmh">km/h</string>
+    <string name="settings_wind_unit_knot">knot</string>
     <string name="settings_wind_unit_mph">mph</string>
     <string name="settings_wind_unit_ms">m/s</string>
     <string name="share_btn_cancel">Odustani</string>
@@ -172,6 +204,7 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="weather_details_humidity_title">Vlaga</string>
     <string name="weather_details_precipitation_prob_title">Oborine</string>
     <string name="weather_details_pressure">%1$s hPa</string>
+    <string name="weather_details_pressure_atm">%1$s atm</string>
     <string name="weather_details_pressure_in">%1$s inHg</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
     <string name="weather_details_pressure_mm">%1$s mmHg</string>
@@ -218,6 +251,7 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="widget_update_date_string">Ažurirano %s</string>
     <string name="widget_update_updating_string">Ažuriranje…</string>
     <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit_knot">%1$sknot</string>
     <string name="wind_unit_mph">%1$smph</string>
     <string name="wind_unit_ms">%1$sm/s</string>
     <string name="zodiac_aquarius">Vodenjak</string>
