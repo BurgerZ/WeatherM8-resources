@@ -25,17 +25,6 @@
         <item>Los Angeles</item>
         <item>Kaliningrad</item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Najslabiji</item>
-        <item>Slab</item>
-        <item>Srednji</item>
-        <item>Jak</item>
-        <item>Najjači</item>
-    </string-array>
-    <string-array name="weather_notif_type_entries">
-        <item>Ikona vremena</item>
-        <item>Temperatura</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Sunčano</item>
         <item>Oblačno</item>
@@ -75,9 +64,16 @@
         <item>Z</item>
         <item>SZ</item>
     </string-array>
-    <string-array name="pressure_level_entries">
-        <item>Razina mora</item>
-        <item>Razina lokacije</item>
+    <string-array name="weather_notif_type_entries">
+        <item>Ikona vremena</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Najslabiji</item>
+        <item>Slab</item>
+        <item>Srednji</item>
+        <item>Jak</item>
+        <item>Najjači</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>30 minuta</item>
@@ -91,5 +87,37 @@
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Razina mora</item>
+        <item>Razina lokacije</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Dobar</item>
+        <item>Umjeren</item>
+        <item>Nezdrav za osjetljive</item>
+        <item>Nezdrav</item>
+        <item>Jako nezdrav</item>
+        <item>Opasan</item>
     </string-array>
 </resources>
