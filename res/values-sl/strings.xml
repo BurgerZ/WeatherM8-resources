@@ -253,4 +253,8 @@ Preverite nastavitve omrežja."</string>
     <string name="settings_wind_unit_knot">vozel</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
     <string name="wind_unit_knot">%1$vozel</string>
+    <string name="settings_aqi_max_distance_summary">Pridobi podatke od vremenskih postaj oddaljenih do %1$s</string>
+    <string name="settings_aqi_max_distance_title">AQI radij preverjanja</string>
+    <string name="settings_aqi_onoff_summary">Pokaži indeks kakovosti zraka za vašo lokacijo (če je možno)</string>
+    <string name="settings_aqi_onoff_title">Informacije kakovosti zraka</string>
 </resources>
