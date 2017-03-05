@@ -62,6 +62,8 @@ Tapnite tipko v nadaljevanju da ročno dodate mesto ali poskusite locirati ponov
     <string name="moon_waxingcrescent">Prva četrtina</string>
     <string name="moon_waxinggibbous">Polna luna</string>
     <string name="moon_zodiac">Hor. znak: %s</string>
+    <string name="moon_rise">Vzhod meseca: %s</string>
+    <string name="moon_set">Zahod meseca: %s</string>
     <string name="more_details">Več podrobnosti</string>
     <string name="network_unavailable">Ne morem se povezati na omrežje.</string>
     <string name="settings_about">O aplikaciji</string>
