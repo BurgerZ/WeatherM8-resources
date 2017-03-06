@@ -62,6 +62,8 @@ Tapnite tipko v nadaljevanju da ročno dodate mesto ali poskusite locirati ponov
     <string name="moon_waxingcrescent">Prva četrtina</string>
     <string name="moon_waxinggibbous">Polna luna</string>
     <string name="moon_zodiac">Hor. znak: %s</string>
+    <string name="moon_rise">Vzhod meseca: %s</string>
+    <string name="moon_set">Zahod meseca: %s</string>
     <string name="more_details">Več podrobnosti</string>
     <string name="network_unavailable">Ne morem se povezati na omrežje.</string>
     <string name="settings_about">O aplikaciji</string>
@@ -253,4 +255,8 @@ Preverite nastavitve omrežja."</string>
     <string name="settings_wind_unit_knot">vozel</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
     <string name="wind_unit_knot">%1$vozel</string>
+    <string name="settings_aqi_max_distance_summary">Pridobi podatke od vremenskih postaj oddaljenih do %1$s</string>
+    <string name="settings_aqi_max_distance_title">AQI radij preverjanja</string>
+    <string name="settings_aqi_onoff_summary">Pokaži indeks kakovosti zraka za vašo lokacijo (če je možno)</string>
+    <string name="settings_aqi_onoff_title">Informacije kakovosti zraka</string>
 </resources>
