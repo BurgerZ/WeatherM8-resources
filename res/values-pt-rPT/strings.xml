@@ -168,7 +168,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_app_theme_dark">Escuro</string>
     <string name="settings_app_theme_light">Claro</string>
     <string name="settings_app_theme_title">Tema</string>
-    <string name="settings_sound_volume">Sound volume</string>
+    <string name="settings_sound_volume">Volume de notificação</string>
     <string name="settings_help">Ajuda</string>
     <string name="settings_pressure_level_title">Mostrar pressão para</string>
     <string name="settings_pressure_unit_hpa">hPa</string>
