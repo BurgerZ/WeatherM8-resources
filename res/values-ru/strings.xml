@@ -79,6 +79,7 @@
     <string name="settings_app_theme_title">Тема</string>
     <string name="settings_app_theme_light">Светлая</string>
     <string name="settings_app_theme_dark">Темная</string>
+    <string name="settings_sound_volume">Громкость звука</string>
     <string name="settings_category_units">Единицы измерения</string>
     <string name="settings_pressure_unit">Давление</string>
     <string name="settings_pressure_unit_atm">атм</string>

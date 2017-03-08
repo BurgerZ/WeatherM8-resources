@@ -81,6 +81,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_app_theme_title">Theme</string>
     <string name="settings_app_theme_light">Light</string>
     <string name="settings_app_theme_dark">Dark</string>
+    <string name="settings_sound_volume">Sound volume</string>
     <string name="settings_weather_details_title">Weather details</string>
     <string name="settings_weather_details_summary">Select weather details to show on the main screen</string>
     <string name="settings_category_units">Units</string>
