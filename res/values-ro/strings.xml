@@ -124,6 +124,7 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_pressure_unit_mb">mb</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
+    <string name="settings_sound_volume">Volum sunet</string>
     <string name="settings_temp_unit">Temperatură</string>
     <string name="settings_translations">Traducere aplicaţie</string>
     <string name="settings_translations_summary">Mulţumiri traducătorilor aplicației</string>
