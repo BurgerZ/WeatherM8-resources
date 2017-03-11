@@ -152,6 +152,7 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_realtime_feelslike_as_main_summary">Prikaži temperaturu stvar. osjećaja kao glavnu temperaturu</string>
     <string name="settings_realtime_feelslike_as_main_title">Stvar. osjećaj kao glavna temperatura</string>
+	<string name="settings_sound_volume">Glasnoća zvuka</string>
     <string name="settings_temp_unit">Temperatura</string>
     <string name="settings_thirdparty">Podaci i resursi drugih aplikacija</string>
     <string name="settings_translations">Prijevod aplikacije</string>
