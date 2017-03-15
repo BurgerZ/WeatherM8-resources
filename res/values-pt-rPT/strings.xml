@@ -111,6 +111,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_app_theme_dark">Escuro</string>
     <string name="settings_app_theme_light">Claro</string>
     <string name="settings_app_theme_title">Tema</string>
+    <string name="settings_aqi_max_distance_closest">Estação mais próxima</string>
     <string name="settings_aqi_max_distance_summary">Obter informação do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
     <string name="settings_aqi_max_distance_title">Actualização do IQA</string>
     <string name="settings_aqi_onoff_summary">Mostrar informação do índice de qualidade do ar para o local actual (se disponível)</string>
