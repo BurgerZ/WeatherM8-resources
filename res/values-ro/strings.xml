@@ -268,5 +268,6 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_aqi_max_distance_summary">Obţineţi date privind calitatea aerului de la stațiile meteorologice situate în raza de %1$s</string>
     <string name="settings_aqi_onoff_title">Informații de calitate a aerului</string>
     <string name="settings_aqi_onoff_summary">Afișare informații despre indicele de calitate a aerului pentru locațiile dvs. (dacă sunt disponibile)</string>
+    <string name="settings_aqi_max_distance_closest">Cea mai apropiată staţie</string>
 
 </resources>
