@@ -120,6 +120,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="settings_app_theme_dark">Temna</string>
     <string name="settings_app_theme_light">Svetla</string>
     <string name="settings_app_theme_title">Tema</string>
+ <string name="settings_aqi_max_distance_closest">Najbližja postaja</string>
     <string name="settings_aqi_max_distance_summary">Pridobi podatke od vremenskih postaj oddaljenih do %1$s</string>
     <string name="settings_aqi_max_distance_title">AQI radij preverjanja</string>
     <string name="settings_aqi_onoff_summary">Pokaži indeks kakovosti zraka za vašo lokacijo (če je možno)</string>
