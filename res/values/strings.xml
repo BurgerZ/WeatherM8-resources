@@ -75,6 +75,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">Air Quality information</string>
     <string name="settings_aqi_onoff_summary">Show air quality index information for your locations (if available)</string>
+    <string name="settings_aqi_max_distance_closest">Closest station</string>
     <string name="settings_aqi_max_distance_title">AQI check radius</string>
     <string name="settings_aqi_max_distance_summary">Get air quality data from the weather stations, located at a distance within %1$s</string>
     <string name="settings_app_locale_title">Language</string>
