@@ -79,6 +79,9 @@
         <item>30 phút</item>
         <item>1 giờ</item>
         <item>2 giờ</item>
+        <item>3 giờ</item>
+        <item>4 giờ</item>
+        <item>5 giờ</item>
         <item>6 giờ</item>
         <item>12 giờ</item>
         <item>24 giờ</item>
@@ -87,5 +90,33 @@
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Tốt</item>
+        <item>Bình thường</item>
+        <item>Không lành mạnh cho nhóm nhạy cảm</item>
+        <item>Không lành mạnh</item>
+        <item>Rất không lành mạnh</item>
+        <item>Nguy hiểm</item>
     </string-array>
 </resources>
