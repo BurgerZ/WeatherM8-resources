@@ -154,7 +154,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="settings_realtime_feelslike_as_main_summary">Prikaži temperaturo realnega občutka kot glavno temperaturo</string>
     <string name="settings_realtime_feelslike_as_main_title">Real. občutek kot glavna temperatura</string>
     <string name="settings_sound_volume">Glasnost zvoka</string>
-	<string name="settings_show_plus_sign_temp_summary">Pokaži znak + za pozitivne temperature</string>
+    <string name="settings_show_plus_sign_temp_summary">Pokaži znak + za pozitivne temperature</string>
     <string name="settings_show_plus_sign_temp_title">Pokaži znak +</string>
     <string name="settings_temp_unit">Temperatura</string>
     <string name="settings_thirdparty">Podatki in viri drugih aplikacij</string>
