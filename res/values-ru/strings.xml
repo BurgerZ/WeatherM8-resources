@@ -102,6 +102,9 @@
     <string name="settings_realtime_feelslike_as_main_title">Ощущаемая как основная температура</string>
     <string name="settings_realtime_feelslike_as_main_summary">В качестве основной будет отображаться ощущаемая температура</string>
 
+    <string name="settings_show_plus_sign_temp_title">Показывать "+" для температур</string>
+    <string name="settings_show_plus_sign_temp_summary">Отображение знака "+" перед положительными значениями температур</string>
+
     <string name="settings_pressure_level_title">Показывать давление для</string>
 
     <string name="settings_city_base">База городов</string>

@@ -106,6 +106,9 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_realtime_feelslike_as_main_title">Feelslike as main temperature</string>
     <string name="settings_realtime_feelslike_as_main_summary">Show realfeel temperature as a main weather temperature</string>
 
+    <string name="settings_show_plus_sign_temp_title">Show "+" sign</string>
+    <string name="settings_show_plus_sign_temp_summary">Show "+" sign for positive temperatures</string>
+
     <string name="settings_pressure_level_title">Display pressure for</string>
 
     <string name="settings_city_base">City Database</string>

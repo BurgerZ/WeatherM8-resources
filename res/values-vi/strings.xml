@@ -233,7 +233,7 @@ Viết ứng dụng cho Android là một sở thích của tôi, mà tôi làm 
     <string name="get_accounts_title">Cảnh báo</string>
     <string name="moon_rise">Mọc: %s</string>
     <string name="moon_set">Lặn: %s</string>
-    <string name="settings_aqi_max_distance_summary">Nhận dữ liệu về chất lượng không khí từ các trạm thời tiết, từ xa ở khoảng cách không quá 1%$s</string>
+    <string name="settings_aqi_max_distance_summary">Nhận dữ liệu về chất lượng không khí từ các trạm thời tiết, từ xa ở khoảng cách không quá %1$s</string>
     <string name="settings_aqi_max_distance_title">Kiểm tra phạm vi</string>
     <string name="settings_aqi_onoff_summary">Hiển thị thông tin về chất lượng không khí cho các thành phố được lựa chọn (nếu thông tin đó là có sẵn)</string>
     <string name="settings_aqi_onoff_title">Thông tin về chất lượng không khí</string>
