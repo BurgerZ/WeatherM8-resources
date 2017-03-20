@@ -144,7 +144,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_realtime_feelslike_as_main_summary">Mostrar informação da sensação térmica como a temperatura principal</string>
     <string name="settings_realtime_feelslike_as_main_title">Sensação térmica</string>
-    <string name="settings_show_plus_sign_temp_summary">Mostrar sinal "+" para as temperaturas positivas</string>
+    <string name="settings_show_plus_sign_temp_summary">Mostrar sinal "+" para temperaturas positivas</string>
     <string name="settings_show_plus_sign_temp_title">Mostrar sinal "+"</string>
     <string name="settings_sound_volume">Volume de notificação</string>
     <string name="settings_temp_unit">Temperatura</string>
