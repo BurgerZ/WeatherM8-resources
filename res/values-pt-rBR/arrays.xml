@@ -42,32 +42,32 @@
     </string-array>
     <string-array name="weather_type">
         <item>Ensolarado</item>
-        <item>Parcialmente Nublado</item>
+        <item>Parcialmente nublado</item>
         <item>Nublado</item>
         <item>Névoa</item>
-        <item>Tempestade Forte</item>
+        <item>Tempestade forte</item>
         <item>Aguaceiro</item>
         <item>Tempestade</item>
-        <item>Tempestade Moderada</item>
+        <item>Tempestade moderada</item>
         <item>Chuva</item>
-        <item>Chuva Forte</item>
-        <item>Chuva Moderada</item>
-        <item>Chuva Leve</item>
-        <item>Chuva e Neve</item>
+        <item>Chuva forte</item>
+        <item>Chuva moderada</item>
+        <item>Chuva leve</item>
+        <item>Chuva e neve</item>
         <item>Nevasca</item>
         <item>Neve</item>
-        <item>Neve Forte</item>
-        <item>Neve Moderada</item>
-        <item>Pouca Neve</item>
-        <item>Tempestade de Areia Forte</item>
-        <item>Tempestade de Areia Moderada</item>
-        <item>Tempestade de Areia Leve</item>
+        <item>Neve forte</item>
+        <item>Neve moderada</item>
+        <item>Pouca neve</item>
+        <item>Tempestade de areia forte</item>
+        <item>Tempestade de areia moderada</item>
+        <item>Tempestade de areia leve</item>
         <item>Ventania</item>
-        <item>Chuva de Granizo</item>
+        <item>Chuva de granizo</item>
         <item>Poeira</item>
         <item>Neblina</item>
-        <item>Chuva com Sensação Fria</item>
-        <item>Sem Informações de Tempo</item>
+        <item>Chuva com sensação fria</item>
+        <item>Sem informações de tempo</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Norte</item>
