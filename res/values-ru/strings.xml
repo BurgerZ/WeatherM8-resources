@@ -73,12 +73,14 @@
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">Информация о качестве воздуха</string>
     <string name="settings_aqi_onoff_summary">Отображать информацию о качестве воздуха для выбранных городов (если такая информация доступна)</string>
+    <string name="settings_aqi_max_distance_closest">Ближайшая станция</string>
     <string name="settings_aqi_max_distance_title">Радиус проверки</string>
     <string name="settings_aqi_max_distance_summary">Получать данные о качестве воздуха от метеостанций, удаленных на расстояние не более %1$s</string>
     <string name="settings_app_locale_title">Язык</string>
     <string name="settings_app_theme_title">Тема</string>
     <string name="settings_app_theme_light">Светлая</string>
     <string name="settings_app_theme_dark">Темная</string>
+    <string name="settings_sound_volume">Громкость звука</string>
     <string name="settings_category_units">Единицы измерения</string>
     <string name="settings_pressure_unit">Давление</string>
     <string name="settings_pressure_unit_atm">атм</string>
@@ -99,6 +101,9 @@
 
     <string name="settings_realtime_feelslike_as_main_title">Ощущаемая как основная температура</string>
     <string name="settings_realtime_feelslike_as_main_summary">В качестве основной будет отображаться ощущаемая температура</string>
+
+    <string name="settings_show_plus_sign_temp_title">Показывать "+" для температур</string>
+    <string name="settings_show_plus_sign_temp_summary">Отображение знака "+" перед положительными значениями температур</string>
 
     <string name="settings_pressure_level_title">Показывать давление для</string>
 

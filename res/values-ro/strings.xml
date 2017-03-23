@@ -124,6 +124,7 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_pressure_unit_mb">mb</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
+    <string name="settings_sound_volume">Volum sunet</string>
     <string name="settings_temp_unit">Temperatură</string>
     <string name="settings_translations">Traducere aplicaţie</string>
     <string name="settings_translations_summary">Mulţumiri traducătorilor aplicației</string>
@@ -184,7 +185,7 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_app_locale_title">Limba</string>
     <string name="activity_main_expire_time">Expiră %1$s</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
-    <string name="settings_realtime_feelslike_as_main_title">\'Se simte a fi\' ca temperatură principală</string>
+    <string name="settings_realtime_feelslike_as_main_title">\"Se simte a fi\" ca temperatură principală</string>
     <string name="settings_realtime_feelslike_as_main_summary">Se afişează temperatura resimţită ca temperatură meteo principală</string>
     <string name="settings_pressure_level_title">Afişare presiune pentru</string>
     <string name="settings_widgets_title">Widget-uri</string>
@@ -199,6 +200,8 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_help">Ajutor</string>
     <string name="settings_feedback">Trimiteţi feedback</string>
     <string name="settings_dialog_enter_timezone">Introduceţi fusul orar pentru orașul selectat (%s), de examplu GMT+03:00:</string>
+    <string name="settings_show_plus_sign_temp_title">Afişarea semnului \"+\"</string>
+    <string name="settings_show_plus_sign_temp_summary">Se afişează semnul \"+\" pentru temperaturile pozitive</string>
 
     <!-- Widgets -->
     <string name="widget_update_date_string">Actualizat %s</string>
@@ -267,5 +270,6 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_aqi_max_distance_summary">Obţineţi date privind calitatea aerului de la stațiile meteorologice situate în raza de %1$s</string>
     <string name="settings_aqi_onoff_title">Informații de calitate a aerului</string>
     <string name="settings_aqi_onoff_summary">Afișare informații despre indicele de calitate a aerului pentru locațiile dvs. (dacă sunt disponibile)</string>
+    <string name="settings_aqi_max_distance_closest">Cea mai apropiată staţie</string>
 
 </resources>

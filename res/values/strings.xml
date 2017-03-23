@@ -75,12 +75,14 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">Air Quality information</string>
     <string name="settings_aqi_onoff_summary">Show air quality index information for your locations (if available)</string>
+    <string name="settings_aqi_max_distance_closest">Closest station</string>
     <string name="settings_aqi_max_distance_title">AQI check radius</string>
     <string name="settings_aqi_max_distance_summary">Get air quality data from the weather stations, located at a distance within %1$s</string>
     <string name="settings_app_locale_title">Language</string>
     <string name="settings_app_theme_title">Theme</string>
     <string name="settings_app_theme_light">Light</string>
     <string name="settings_app_theme_dark">Dark</string>
+    <string name="settings_sound_volume">Sound volume</string>
     <string name="settings_weather_details_title">Weather details</string>
     <string name="settings_weather_details_summary">Select weather details to show on the main screen</string>
     <string name="settings_category_units">Units</string>
@@ -103,6 +105,9 @@ Tap the button below to add city manually or try to locate again"</string>
 
     <string name="settings_realtime_feelslike_as_main_title">Feelslike as main temperature</string>
     <string name="settings_realtime_feelslike_as_main_summary">Show realfeel temperature as a main weather temperature</string>
+
+    <string name="settings_show_plus_sign_temp_title">Show "+" sign</string>
+    <string name="settings_show_plus_sign_temp_summary">Show "+" sign for positive temperatures</string>
 
     <string name="settings_pressure_level_title">Display pressure for</string>
 
