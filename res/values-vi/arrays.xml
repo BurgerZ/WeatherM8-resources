@@ -75,6 +75,10 @@
         <item>T</item>
         <item>TB</item>
     </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Khí áp mực biển</item>
+        <item>Cấp vị trí</item>
+    </string-array>
     <string-array name="update_check_interval_entries">
         <item>30 phút</item>
         <item>1 giờ</item>
