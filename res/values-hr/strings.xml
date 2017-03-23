@@ -191,6 +191,8 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Ne mogu napraviti snimku zaslona"</string>
+	<string name="settings_show_plus_sign_temp_title">Prikaži "+" znak</string>
+    <string name="settings_show_plus_sign_temp_summary">Prikaži "+" znak za pozitivne temperature</string>
     <string name="sunrise">Izlazak sunca</string>
     <string name="sunset">Zalazak sunca</string>
     <string name="time_units_hour">h</string>
