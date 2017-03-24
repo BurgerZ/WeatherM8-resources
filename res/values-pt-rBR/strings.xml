@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_hint">Procurar localização</string>
-    <string name="act_find_city_hot_title">Seleccionar</string>
+    <string name="act_find_city_hot_title">Selecionar</string>
     <string name="act_set_city_find_side">Localizando…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
     <string name="act_set_city_swipe_hint">Deslize para a esquerda para deletar cidade</string>
@@ -20,28 +20,52 @@
     <string name="activity_main_refresh_fail">Não foi possível conectar à rede</string>
     <string name="activity_main_time_format">E, d MMMM</string>
     <string name="activity_main_update_time">Atualizado %1$s</string>
+    <string name="activity_main_update_time_expire">Dados expiraram</string>
     <string name="activity_main_update_time_right_now">agora mesmo</string>
     <string name="app_name">Weather M8</string>
     <string name="app_version">Versão: %s</string>
+    <string name="aqi_data_source">%s</string>
+    <string name="aqi_detail_24_hours">Previsão horária</string>
+    <string name="aqi_detail_5_days">Previsão diária</string>
+    <string name="aqi_detail_subtitle">IQA %1$s</string>
+    <string name="aqi_detail_unit">Unidade: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_main_publish_time">Atualizado %1$s</string>
+    <string name="aqi_main_title">Qualidade do ar</string>
+    <string name="aqi_ring_desc">Índice de qualidade do ar</string>
+    <string name="aqi_ring_top_pollution">Principais poluentes</string>
+    <string name="aqi_sub_desc">IQA</string>
     <string name="button_add_city">Adicionar cidade</string>
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Cancelar</string>
-    <string name="daily_forcast_drawer_on_top">Previsão Diária</string>
-    <string name="daily_forcast_no_wind">Ainda</string>
+    <string name="common_auto">Procurar automaticamente</string>
+    <string name="common_recommended">(Recomendado)</string>
+    <string name="daily_forcast_drawer_on_top">Previsão diária</string>
+    <string name="daily_forcast_no_wind">Fraco</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s após</string>
-    <string name="daily_forcast_whirl_wind">Redemoinho de vento</string>
+    <string name="daily_forcast_weather_transfer">%1$s / %2$s</string>
+    <string name="daily_forcast_whirl_wind">Vento forte</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="date_time_am">am</string>
-    <string name="date_time_pm">pm</string>
     <string name="delete">Deletar</string>
-    <string name="dialog_color_picker">Escolha a cor</string>
-    <string name="first_start_network_msg">"Este aplicativo necessidade conexão de rede para procurar os dados metereológicos.
+    <string name="dialog_color_picker">Escolher cor</string>
+    <string name="feedback_action_send">Enviar</string>
+    <string name="feedback_add_images">Adicionar imagens</string>
+    <string name="feedback_description">Descrição</string>
+    <string name="feedback_description_hint">Inserir comentário</string>
+    <string name="feedback_error">Erro ao enviar comentário</string>
+    <string name="feedback_fill_required">Os campos obrigatórios não podem ficar vazios</string>
+    <string name="feedback_select_upload_settings">Adicionar definições do aplicativo</string>
+    <string name="feedback_sending">A enviar comentário…</string>
+    <string name="feedback_sent">Obrigado por enviar o seu comentário!</string>
+    <string name="feedback_title">Título</string>
+    <string name="feedback_title_hint">Inserir título</string>
+    <string name="first_start_network_msg">"Este aplicativo necessidade conexão de rede para procurar os dados metereológicos
         Permissões de uso do aplicativo:
-        \u2022 Acessar a localização do dispositivo e as coordenadas atuais.
-        \u2022 Acessar fotos, media e arquivos e salvar capturas de tela para \"Share\" feature."</string>
+        \u2022 Acessar a localização do dispositivo e as coordenadas atuais
+        \u2022 Acessar fotos, media e arquivos para salvar as capturas de tela para Compartilhar"</string>
     <string name="first_start_network_title">Conexão à Internet e localizar acesso</string>
-    <string name="gps_hint">GPS</string>
+    <string name="get_accounts_msg">Este aplicativo necessita de ter acesso à lista de contas do dispositivo para verificar as suas compras e remover os anúncios</string>
+    <string name="get_accounts_title">Acesso a contas</string>
+    <string name="gps_hint">Localização actual</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Agora</string>
     <string name="hourly_forecast_title">Previsão de hora em hora</string>
@@ -149,7 +173,7 @@
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">Vento</string>
     <string name="widget_config_background_color_title">Cor de fundo</string>
-    <string name="widget_config_background_type_border">Com bordas</string>
+    <string name="widget_config_background_type_border">Com limite</string>
     <string name="widget_config_background_type_solid">Sólido</string>
     <string name="widget_config_background_type_title">Tipo de fundo</string>
     <string name="widget_config_clock_font_title">Fonte do relógio</string>
@@ -159,8 +183,8 @@
     <string name="widget_config_realtime_font_title">Fonte dos dados em tempo real</string>
     <string name="widget_config_show_alarm_title">Mostrar próximo alarme</string>
     <string name="widget_config_text_color_title">Cor do texto</string>
-    <string name="widget_config_title">Configurações de widget</string>
-    <string name="widget_config_use_background_title">Mostrar fundo do Widget</string>
+    <string name="widget_config_title">Configurações do widget</string>
+    <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
     <string name="widget_update_date_string">Atualizado %s</string>
     <string name="widget_update_updating_string">Atualizando…</string>
     <string name="wind_unit">%1$skm/h</string>
