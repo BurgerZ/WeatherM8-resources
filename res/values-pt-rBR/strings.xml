@@ -141,11 +141,11 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">milhas</string>
-    <string name="settings_weather_details_summary">Seleccionar os detalhes do tempo que vão aparecer na tela inicial</string>
+    <string name="settings_weather_details_summary">Selecionar os detalhes do tempo que vão aparecer na tela inicial</string>
     <string name="settings_weather_details_title">Detalhes do tempo</string>
     <string name="settings_weather_forecast_spider_title">Dados de previsão</string>
-    <string name="settings_weather_realtime_spider_title">Dados actuais</string>
-    <string name="settings_weather_spider_title">Base de dados de actualização</string>
+    <string name="settings_weather_realtime_spider_title">Dados atuais</string>
+    <string name="settings_weather_spider_title">Base de dados de atualização</string>
     <string name="settings_weather_station_title">Estação meteorológica</string>
     <string name="settings_weather_transfer_summary">Mostrar descrição da informação do tempo do dia para a noite</string>
     <string name="settings_weather_transfer_title">Transferência de informação do tempo</string>
