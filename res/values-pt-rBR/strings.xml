@@ -94,10 +94,10 @@ Toque no botão abaixo para adicionar o local manualmente ou tente localizar nov
     <string name="more_details">Mais detalhes</string>
     <string name="network_error">"Não foi possível conectar ao servidor
 Verifique as suas definições de rede"</string>
-    <string name="network_in_quiet_hours">O modo não actualizar está ligado</string>
+    <string name="network_in_quiet_hours">O modo não atualizar está ligado</string>
     <string name="network_in_roaming">Tem definições para desativar as atualizações em roaming</string>
-    <string name="network_unavailable">Não foi possível ligar à rede</string>
-    <string name="network_wifi_only">Actualizações disponíveis apenas em Wi-fi</string>
+    <string name="network_unavailable">Não foi possível conectar à rede</string>
+    <string name="network_wifi_only">Atualizações disponíveis apenas em Wi-fi</string>
     <string name="press_color_to_apply">Toque na cor para aplicar</string>
     <string name="settings_about">Acerca de</string>
     <string name="settings_ads_explanation">"Porque é que o aplicativo tem anúncios?
