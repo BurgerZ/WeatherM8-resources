@@ -56,13 +56,13 @@
     </string-array>
     <string-array name="wind_direction">
         <item>Пн</item>
-        <item>ПнС</item>
-        <item>С</item>
-        <item>ПдС</item>
+        <item>ПнСх</item>
+        <item>Сх</item>
+        <item>ПдСх</item>
         <item>Пд</item>
-        <item>ПдЗ</item>
-        <item>З</item>
-        <item>СЗ</item>
+        <item>ПдЗх</item>
+        <item>Зх</item>
+        <item>СхЗх</item>
     </string-array>
 
     <string-array name="weather_notif_type_entries">
