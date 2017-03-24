@@ -65,7 +65,7 @@
     <string name="first_start_network_title">Conexão à Internet e acesso à localização</string>
     <string name="get_accounts_msg">Este aplicativo necessita de ter acesso à lista de contas do dispositivo para verificar as suas compras e remover os anúncios</string>
     <string name="get_accounts_title">Acesso a contas</string>
-    <string name="gps_hint">Localização actual</string>
+    <string name="gps_hint">Localização atual</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Agora</string>
     <string name="hourly_forecast_title">Previsão horária</string>
@@ -95,7 +95,7 @@ Toque no botão abaixo para adicionar o local manualmente ou tente localizar nov
     <string name="network_error">"Não foi possível conectar ao servidor
 Verifique as suas definições de rede"</string>
     <string name="network_in_quiet_hours">O modo não actualizar está ligado</string>
-    <string name="network_in_roaming">Tem definições para desactivar as actualizações em roaming</string>
+    <string name="network_in_roaming">Tem definições para desativar as atualizações em roaming</string>
     <string name="network_unavailable">Não foi possível ligar à rede</string>
     <string name="network_wifi_only">Actualizações disponíveis apenas em Wi-fi</string>
     <string name="press_color_to_apply">Toque na cor para aplicar</string>
