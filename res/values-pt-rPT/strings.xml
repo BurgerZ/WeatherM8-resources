@@ -169,7 +169,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_weather_station_title">Estação meteorológica</string>
     <string name="settings_weather_transfer_summary">Mostrar descrição da informação do tempo do dia para a noite</string>
     <string name="settings_weather_transfer_title">Transferência de informação do tempo</string>
-    <string name="settings_widgets_not_found">Sem Widgets definidos</string>
+    <string name="settings_widgets_not_found">Sem widgets definidos</string>
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_wind_unit">Velocidade do vento</string>
     <string name="settings_wind_unit_kmh">km/h</string>
@@ -228,7 +228,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="widget_config_clock_color_title">Cor do relógio</string>
     <string name="widget_config_clock_font_size_title">Tamanho da fonte do relógio</string>
     <string name="widget_config_clock_font_title">Fonte do relógio</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">Desligar se o relógio no Widget não estiver a actualizar</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">Desligar se o relógio no widget não estiver a actualizar</string>
     <string name="widget_config_custom_clock_font_onoff_title">Editar fonte do relógio</string>
     <string name="widget_config_date_font_size_title">Tamanho da fonte da data</string>
     <string name="widget_config_dateformat_title">Formato da data</string>
@@ -241,8 +241,8 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="widget_config_show_leading_zero_title">Mostrar zero nas horas</string>
     <string name="widget_config_show_local_time_title">Mostrar hora local</string>
     <string name="widget_config_text_color_title">Cor do texto</string>
-    <string name="widget_config_title">Definições do Widget</string>
-    <string name="widget_config_use_background_title">Mostrar fundo do Widget</string>
+    <string name="widget_config_title">Definições do widget</string>
+    <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
     <string name="widget_update_date_string">Actualizado %s</string>
     <string name="widget_update_updating_string">A actualizar…</string>
     <string name="wind_unit">%1$skm/h</string>
