@@ -62,26 +62,29 @@
         Permissões de uso do aplicativo:
         \u2022 Acessar a localização do dispositivo e as coordenadas atuais
         \u2022 Acessar fotos, media e arquivos para salvar as capturas de tela para Compartilhar"</string>
-    <string name="first_start_network_title">Conexão à Internet e localizar acesso</string>
+    <string name="first_start_network_title">Conexão à Internet e acesso à localização</string>
     <string name="get_accounts_msg">Este aplicativo necessita de ter acesso à lista de contas do dispositivo para verificar as suas compras e remover os anúncios</string>
     <string name="get_accounts_title">Acesso a contas</string>
     <string name="gps_hint">Localização actual</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Agora</string>
-    <string name="hourly_forecast_title">Previsão de hora em hora</string>
+    <string name="hourly_forecast_title">Previsão horária</string>
     <string name="international_detail_menu_title">Detalhes</string>
-    <string name="locate_fail_detail_err">"Não foi possível localizar. Clique no botão abaixo para adicionar a cidade manualmente ou tente localizar novamente"</string>
-    <string name="location_management">Localidades</string>
-    <string name="location_tag">Localidade</string>
-    <string name="menu_moon_phases">Fases da Lua</string>
+    <string name="locate_fail_detail_err">"Não foi possível localizar
+Toque no botão abaixo para adicionar o local manualmente ou tente localizar novamente"</string>
+    <string name="location_management">Localização</string>
+    <string name="location_tag">Localizar</string>
+    <string name="menu_moon_phases">Fases da lua</string>
     <string name="moon_age">Idade: %1$s dias %2$s horas %3$s minutos</string>
-    <string name="moon_angle">Ângulo da Lua: %s</string>
-    <string name="moon_distanse">Distância da Lua: %s км</string>
-    <string name="moon_firstquarter">Lua crescente</string>
+    <string name="moon_angle">Ângulo da lua: %s</string>
+    <string name="moon_distanse">Distância da lua: %s Km</string>
+    <string name="moon_firstquarter">Quarto crescente</string>
     <string name="moon_full">Lua cheia</string>
     <string name="moon_illuminated">Iluminação: %s%%</string>
-    <string name="moon_lastquarter">Lua minguante</string>
+    <string name="moon_lastquarter">Quarto minguante</string>
     <string name="moon_newmoon">Lua nova</string>
+    <string name="moon_rise">Nascer da lua: %s</string>
+    <string name="moon_set">Pôr da lua: %s</string>
     <string name="moon_since">Data: %1$s %2$s</string>
     <string name="moon_waningcrescent">Lua minguante</string>
     <string name="moon_waninggibbous">Lua minguante</string>
@@ -89,15 +92,20 @@
     <string name="moon_waxinggibbous">Lua crescente</string>
     <string name="moon_zodiac">Zodíaco: %s</string>
     <string name="more_details">Mais detalhes</string>
-    <string name="network_unavailable">"Não foi possível conectar à rede"</string>
-    <string name="press_color_to_apply">Pressione a cor para adicionar</string>
-    <string name="settings_about">Sobre</string>
-    <string name="settings_ads_explanation">"Por que você está vendo uma propaganda?
-	Desenvolver aplicativos para Android é um hobby para mim, onde ocupo o meu tempo livre. Espero que você compreenda a existência de anúncios publicitários. A presença deles estimulam o meu trabalho para desenvolver o aplicativo."</string>
+    <string name="network_error">"Não foi possível conectar ao servidor
+Verifique as suas definições de rede"</string>
+    <string name="network_in_quiet_hours">O modo não actualizar está ligado</string>
+    <string name="network_in_roaming">Tem definições para desactivar as actualizações em roaming</string>
+    <string name="network_unavailable">Não foi possível ligar à rede</string>
+    <string name="network_wifi_only">Actualizações disponíveis apenas em Wi-fi</string>
+    <string name="press_color_to_apply">Toque na cor para aplicar</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="settings_ads_explanation">"Porque é que o aplicativo tem anúncios?
+Programar aplicativos Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios no aplicativo estimula o desenvolvimento de futuras versões"</string>
     <string name="settings_ads_remove_summary">Remover anúncios por uma semana (uma vez por mês)</string>
     <string name="settings_ads_remove_title">Remover anúncios</string>
-    <string name="settings_ads_title">Propagandas e Doações</string>
-    <string name="settings_alerts_title">Gerenciar alertas</string>
+    <string name="settings_ads_title">Anúncios e doações</string>
+    <string name="settings_alerts_title">Ativar alertas</string>
     <string name="settings_app_locale_title">Idioma</string>
     <string name="settings_app_theme_dark">Escuro</string>
     <string name="settings_app_theme_light">Claro</string>
