@@ -119,7 +119,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_autoupdate_weather_title">Atualização automática</string>
     <string name="settings_category_units">Unidades</string>
     <string name="settings_city_base">Banco de dados</string>
-    <string name="settings_dialog_enter_timezone">Inserir fuso horário para o local seleccionado (%s), por exemplo GMT+03:00:</string>
+    <string name="settings_dialog_enter_timezone">Inserir fuso horário para o local selecionado (%s), por exemplo GMT+03:00:</string>
     <string name="settings_feedback">Enviar comentários</string>
     <string name="settings_help">Ajuda</string>
     <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
