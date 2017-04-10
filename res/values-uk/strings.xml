@@ -41,7 +41,6 @@
     <string name="first_start_network_title">Попередження</string>
 	
 	<string name="get_accounts_msg">Додатку необхідний доступ до списку акаунтів, зареєстрованих на пристрої, для перевірки Ваших покупок та відключення реклами.</string>
-    <string name="first_start_network_title">Попередження</string>
 	
 	<string name="international_detail_menu_title">Докладний прогноз</string>
     <string name="share_menu_title">Поділитися</string>
@@ -286,8 +285,6 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">Натисніть на колір, щоб застосувати</string>
     <string name="dialog_color_picker">Вибір кольору</string>
-    <string name="settings_pressure_unit_hpa">гПа</string>
-    <string name="weather_details_pressure_mb">%1$s мбар</string>
 	
 	 <!-- AQI -->
     <string name="aqi_main_title">Якість повітря</string>
