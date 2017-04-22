@@ -1,10 +1,10 @@
-# WeatherM8-resources
-Weather Mate (Weather M8) by **Andrei Zhukouski** translation files
+# Weather M8 Resources
+Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 
-<dl><dd><a href=" target="_blank"><img src="http://i.imgur.com/bhoWULv.png" border="0" alt="Weather M8"></a></dd></dl>
+<dl><dd><a href="https://play.google.com/store/apps/details?id=pro.burgerz.miweather8" target="_blank"><img src="http://i.imgur.com/bhoWULv.png" alt="Weather M8"></a></dd></dl>
 ===========
 
-# Translators:
+## Translators:
 |Directory|Language|Translator|
 |----|----|----|
 |values|English|**Andrei Zhukouski**|
@@ -40,6 +40,8 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files
 |values-iw|Hebrew|**Alex Travitsky**|
 |values-fi|Finnish|**Kalle Lahtinen**|
 
-Weather Mate (Weather M8) © 2016 - 2017 zaa.bz, **Andrei Zhukouski**
+## Download
+**Weather M8** can be downloaded on [Google Play Store](https://play.google.com/store/apps/details?id=pro.burgerz.miweather8)
 
-Download in Google Play Store https://play.google.com/store/apps/details?id=pro.burgerz.miweather8
+## Copyright
+Weather Mate (Weather M8) © 2016-2017 zaa.bz, **Andrei Zhukouski**
