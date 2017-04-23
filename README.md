@@ -2,7 +2,6 @@
 Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 
 <dl><dd><a href="https://play.google.com/store/apps/details?id=pro.burgerz.miweather8" target="_blank"><img src="http://i.imgur.com/bhoWULv.png" alt="Weather M8"></a></dd></dl>
-===========
 
 ## Translators:
 |Directory|Language|Translator|
@@ -19,7 +18,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-tr|Turkish|**Murat Turan**|
 |values-bg|Bulgarian|**Емил Филев**|
 |values-ar|Arabic|**Ismail Jarmouni**|
-|values-pl|Polish|**trybit**, **Jan Folta (@GUTEK@)**|
+|values-pl|Polish|**trybit**, **Jan Folta Gutek**|
 |values-cs|Czech|**Miloslav Kubín**|
 |values-sl|Slovenian|**Boštjan Rebolj**|
 |values-sk|Slovak|**Luboš Belobruch**|
@@ -33,10 +32,10 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-hu|Hungarian|**Gergő Bancsi**|
 |values-zh-CN|Chinese (PRC)|**i Silence**|
 |values-el|Greek|**Dimitrios Skodras**|
-|values-hi|Hindi|**-Abhishek-** (newindiago@gmail.com)|
-|values-bn|Bengali|**-Abhishek-** (newindiago@gmail.com)|
+|values-hi|Hindi|**Abhishek**|
+|values-bn|Bengali|**Abhishek**|
 |values-vi|Vietnamese|**Nguyễn Minh Chất**|
-|values-fa|Persian|**رحمان رحمانی پرست** (iranbee.com)|
+|values-fa|Persian|**رحمان رحمانی پرست**|
 |values-iw|Hebrew|**Alex Travitsky**|
 |values-fi|Finnish|**Kalle Lahtinen**|
 
