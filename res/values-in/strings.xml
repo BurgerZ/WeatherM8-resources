@@ -54,17 +54,17 @@ Ketuk tombol untuk menambah secara manual atau coba lagi"</string>
 
     <!-- Preferences -->
     <string name="settings_menu_title">Pengaturan</string>
-    <string name="settings_autoupdate_weather_title">Update otomatis</string>
-    <string name="settings_autoupdate_weather_summary">Update cuaca secara otomatis</string>
+    <string name="settings_autoupdate_weather_title">Perbarui otomatis</string>
+    <string name="settings_autoupdate_weather_summary">Perbarui cuaca secara otomatis</string>
     <string name="settings_update_wifi_only_summary">Secara otomatis memperbarui ramalan cuaca hanya saat terkoneksi ke Wi-Fi</string>
-    <string name="settings_update_wifi_only_title">Pembaruan hanya di Wi-Fi</string>
+    <string name="settings_update_wifi_only_title">Perbarui hanya di Wi-Fi</string>
     <string name="settings_update_interval_title">Jangka waktu pembaruan</string>
     <string name="settings_update_quiet_hours_end_time_title">Selesai</string>
     <string name="settings_update_quiet_hours_start_time_title">Mulai</string>
     <string name="settings_update_quiet_hours_title">Jam tenang</string>
     <string name="settings_weather_transfer_title">Transfer deskripsi cuaca</string>
     <string name="settings_weather_transfer_summary">Tunjukkan deskripsi cuaca siang hari untuk pemindahan saat malam</string>
-    <string name="settings_weather_spider_title">Pembaruan sumber</string>
+    <string name="settings_weather_spider_title">Sumber Pembaruan</string>
     <string name="settings_weather_realtime_spider_title">Data real time</string>
     <string name="settings_weather_forecast_spider_title">Data ramalan cuaca</string>
     <string name="settings_weather_station_title">Stasiun metro</string>
@@ -72,8 +72,8 @@ Ketuk tombol untuk menambah secara manual atau coba lagi"</string>
     <string name="settings_aqi_onoff_title">Informasi Kualitas Udara</string>
     <string name="settings_aqi_onoff_summary">Tampilkan informasi indeks kualitas udara untuk lokasi Anda (jika tersedia)</string>
     <string name="settings_aqi_max_distance_closest">Stasiun terdekat</string>
-    <string name="settings_aqi_max_distance_title">AQI memeriksa radius</string>
-    <string name="settings_aqi_max_distance_summary">Dapatkan data kualitas udara dari stasiun cuaca, yang jaraknya berjarak %1$s</string>
+    <string name="settings_aqi_max_distance_title">Cek radius AQI</string>
+    <string name="settings_aqi_max_distance_summary">Dapatkan data kualitas udara dari stasiun cuaca, yang berjarak %1$s</string>
     <string name="settings_app_locale_title">Bahasa</string>
     <string name="settings_app_theme_title">Tema</string>
     <string name="settings_app_theme_light">Terang</string>
@@ -99,7 +99,7 @@ Ketuk tombol untuk menambah secara manual atau coba lagi"</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">mil</string>
 
-    <string name="settings_realtime_feelslike_as_main_title">Terasa sama seperti suhu utama</string>
+    <string name="settings_realtime_feelslike_as_main_title">Terasa seperti suhu utama</string>
     <string name="settings_realtime_feelslike_as_main_summary">Tunjukkan suhu sesungguhnya sebagai suhu cuaca utama</string>
 
     <string name="settings_show_plus_sign_temp_title">Tampilkan tanda "+"</string>
@@ -119,7 +119,7 @@ Ketuk tombol untuk menambah secara manual atau coba lagi"</string>
 
     <string name="settings_notify_type_title">Ikon pemberitahuan</string>
 
-    <string name="settings_alerts_title">Kelola peringatan</string>
+    <string name="settings_alerts_title">Kelola lansiran</string>
 
     <string name="settings_icons_title">Ikon cuaca</string>
     <string name="settings_icons_builtin_title">Ikon cuaca yang terintegrasi</string>
