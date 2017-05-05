@@ -242,7 +242,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="widget_config_text_color_title">Cor do texto</string>
     <string name="widget_config_title">Definições do widget</string>
     <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
-    <string name="widget_update_date_string">Actualizado %s</string>
+    <string name="widget_update_date_string">Actualizado às %s</string>
     <string name="widget_update_updating_string">A actualizar…</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="wind_unit_knot">%1$snós</string>
