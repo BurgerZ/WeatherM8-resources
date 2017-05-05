@@ -208,6 +208,11 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="time_units_minute">m</string>
     <string name="time_units_second">s</string>
 
+    <string name="hourly_forecast_detail_date">d MMM, E</string>
+    <string name="daily_forecast_detail_date">d MMM</string>
+    <string name="weather_update_date">d MMMM</string>
+    <string name="weather_short_month_update_date">d MMM</string>
+
     <!-- Weather alerts -->
     <string name="activity_main_alert">Alerts: %1$d</string>
 
