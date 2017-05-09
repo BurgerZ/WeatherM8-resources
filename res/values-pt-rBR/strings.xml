@@ -113,7 +113,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_aqi_max_distance_closest">Estação mais próxima</string>
     <string name="settings_aqi_max_distance_summary">Obter informação do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
     <string name="settings_aqi_max_distance_title">Atualização do IQA</string>
-    <string name="settings_aqi_onoff_summary">Mostrar informação do índice de qualidade do ar para o local actual (se disponível)</string>
+    <string name="settings_aqi_onoff_summary">Mostrar informação do índice de qualidade do ar para o local atual (se disponível)</string>
     <string name="settings_aqi_onoff_title">Informação do IQA</string>
     <string name="settings_autoupdate_weather_summary">Atualizar informações de tempo automaticamente</string>
     <string name="settings_autoupdate_weather_title">Atualização automática</string>
@@ -242,7 +242,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="widget_config_text_color_title">Cor do texto</string>
     <string name="widget_config_title">Configurações do widget</string>
     <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
-    <string name="widget_update_date_string">Atualizado às %s</string>
+    <string name="widget_update_date_string">Atualizado %s</string>
     <string name="widget_update_updating_string">Atualizando…</string>
     <string name="wind_unit">%1$skm/h</string>
     <string name="wind_unit_knot">%1$snós</string>
