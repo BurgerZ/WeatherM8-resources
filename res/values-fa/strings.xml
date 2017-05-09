@@ -4,10 +4,10 @@
     <string name="app_version">نسخه: %s</string>
     <string name="location_management">مکان</string>
     <string name="gps_hint">مکان فعلی</string>
-    <string name="network_unavailable">"نمی تواند به شبکه متصل شود."</string>
+    <string name="network_unavailable">"نمی توان به شبکه متصل شد."</string>
     <string name="act_find_city_hot_title">اضافه کردن</string>
     <string name="act_find_city_hint">وارد کردن مکان</string>
-    <string name="act_set_city_find_side">مکا یابی...</string>
+    <string name="act_set_city_find_side">مکانیابی...</string>
     <string name="act_set_city_find_side_error">"دستگاه قادر به مکانیابی نیست"</string>
     <string name="button_add_city">اضافه کردن شهر</string>
     <string name="locate_fail_detail_err">"دستگاه قادر به مکانیابی نیست
@@ -15,7 +15,7 @@
     <string name="act_set_city_swipe_hint">برای حذف شهر, به سمت چپ بکشید</string>
     <string name="button_allow">اجازه</string>
     <string name="button_not_allow">لغو</string>
-    <string name="act_weather_find_city_net_no_good">"نمی تواند به شبکه متصل شود."</string>
+    <string name="act_weather_find_city_net_no_good">"نمی توان به شبکه متصل شد."</string>
     <string name="act_weather_find_city_click_retry">دوباره</string>
     <string name="act_weather_find_city_searching">جستجو...</string>
     <string name="location_tag">مکانیابی</string>
@@ -26,44 +26,75 @@
     <string name="view_indexes_item_tommorrow">فردا</string>
     <string name="activity_main_update_time">به روز رسانی %1$s</string>
     <string name="activity_main_expire_time">تاریخ انقضا %1$s</string>
+    <string name="activity_main_update_time_expire">منقضی شده</string>
     <string name="activity_main_update_time_right_now">همین حالا</string>
-    <string name="activity_main_refresh_fail">"نمی تواند به شبکه متصل شود"</string>
+    <string name="activity_main_refresh_fail">"نمی توان به شبکه متصل شد"</string>
     <string name="activity_find_city_dialog_cancel">لغو</string>
     <string name="activity_find_city_dialog_set">تنظیمات</string>
     <string name="activity_find_city_dialog_title">دسترسی به موقعیت مکانی</string>
-    <string name="activity_find_city_dialog_message">به هواشناسی اجازه دهید موقعیت مکانی شما را مشاهده کند</string>
+    <string name="activity_find_city_dialog_message">به برنامه اجازه دهید موقعیت مکانی شما را مشاهده کند</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_detail_time_format">E</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="first_start_network_msg">"این برنامه برای به دست آوردن اطلاعات هواشناسی, نیازمند اتصال به اینترنت است.
         مجوز های لازم برای نرم افزار:
         \u2022 اجازه دسترسی برای یافتن موقعیت مکانی دستگاه.
-        \u2022 اجازه دسترسی به عکس ها, فیلم ها و فایل ها برای ذخیره تصویر برای ویژگی \"اشتراک\"."</string>
+        \u2022 اجازه دسترسی به عکس ها, فیلم ها و فایل ها, برای \"اشتراک\"."</string>
     <string name="first_start_network_title">اتصال به اینترنت و دسترسی به موقعیت مکانی</string>
+	
+    <string name="get_accounts_msg">این برنامه برای خاموش کردن تبلیغات, نیازمند دسترسی به لیست حساب های خریداران نرم افزار می باشد.</string>
+    <string name="get_accounts_title">دسترسی به حساب</string>
+	
     <string name="international_detail_menu_title">جزئیات</string>
     <string name="share_menu_title">اشتراک</string>
 
-    <!-- Settings -->
+    <string name="common_auto">خودکار</string>
+    <string name="common_recommended">توصیه شده</string>
+
+    <string name="network_error">نمی توان به سرور وصل شد.\nتنظیمات شبکه خود را بررسی کنید.</string>
+    <string name="network_in_quiet_hours">شما اکنون در حالت استراحت هستید. به روز رسانی لغو شده است.</string>
+    <string name="network_in_roaming">شما باید برای به روز رسانی, رومینگ خود را تنظیم نمایید.</string>
+    <string name="network_wifi_only">به روز رسانی فقط با وای فای</string>
+
+    <!-- Preferences -->
     <string name="settings_menu_title">تنظیمات</string>
     <string name="settings_autoupdate_weather_title">به روز رسانی خودکار</string>
     <string name="settings_autoupdate_weather_summary">به روز رسانی خودکار پیش بینی آب و هوا</string>
+    <string name="settings_update_wifi_only_summary">به روز رسانی خودکار پیش بینی وضعیت هوا, تنها زمانی که اتصال وای فای ایجاد شد.</string>
+    <string name="settings_update_wifi_only_title">به روز رسانی فقط با وای فای</string>
     <string name="settings_update_interval_title">فاصله به روز رسانی</string>
+    <string name="settings_update_quiet_hours_end_time_title">پایان</string>
+    <string name="settings_update_quiet_hours_start_time_title">شروع</string>
+    <string name="settings_update_quiet_hours_title">حالت استراحت</string>
     <string name="settings_weather_transfer_title">انتقال جزئیات آب و هوا</string>
     <string name="settings_weather_transfer_summary">انتقال نمایش جزئیات آب و هوای روز به شب</string>
     <string name="settings_weather_spider_title">منبع به روز رسانی</string>
+    <string name="settings_weather_realtime_spider_title">داده های واقعی</string>
+    <string name="settings_weather_forecast_spider_title">داده های پیش بینی</string>
+    <string name="settings_weather_station_title">ایستگاه هواشناسی</string>
+    <string name="settings_aqi_title">@string/aqi_main_title</string>
+    <string name="settings_aqi_onoff_title">اطلاعات کیفیت هوا</string>
+    <string name="settings_aqi_onoff_summary">نمایش اطلاعات شاخص کیفیت هوا برای مکان شما. (در صورت موجود بودن)</string>
+    <string name="settings_aqi_max_distance_closest">نزدیکترین ایستگاه</string>
+    <string name="settings_aqi_max_distance_title">بررسی شعاع AQI یا ایستگاه شاخص کیفیت هوا</string>
+    <string name="settings_aqi_max_distance_summary">دریافت اطلاعات کیفیت هوا از ایستگاه های آب و هوا, واقع در فاصله درونی %1$s</string>
     <string name="settings_app_locale_title">زبان</string>
     <string name="settings_app_theme_title">پوسته</string>
     <string name="settings_app_theme_light">روشن</string>
     <string name="settings_app_theme_dark">تاریک</string>
+    <string name="settings_sound_volume">میزان صدا</string>
     <string name="settings_weather_details_title">جزئیات آب و هوا</string>
     <string name="settings_weather_details_summary">انتخاب جزئیات آب و هوا برای مشاهده در صفحه نمایش اصلی</string>
     <string name="settings_category_units">واحد</string>
     <string name="settings_pressure_unit">فشار</string>
+    <string name="settings_pressure_unit_atm">atm</string>
+    <string name="settings_pressure_unit_hpa">hPa</string>
     <string name="settings_pressure_unit_mb">mb</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_wind_unit">سرعت باد</string>
     <string name="settings_wind_unit_kmh">km/h</string>
+    <string name="settings_wind_unit_knot">knot</string>
     <string name="settings_wind_unit_ms">m/s</string>
     <string name="settings_wind_unit_mph">mph</string>
     <string name="settings_temp_unit">دما</string>
@@ -71,6 +102,14 @@
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">miles</string>
+
+    <string name="settings_realtime_feelslike_as_main_title">احساس واقعی به جای دمای اصلی</string>
+    <string name="settings_realtime_feelslike_as_main_summary">نمایش دمای احساس واقعی به جای دمای اصلی</string>
+
+    <string name="settings_show_plus_sign_temp_title">نمایش علامت "+"</string>
+    <string name="settings_show_plus_sign_temp_summary">نمایش علامت "+" برای دماهای مثبت</string>
+
+    <string name="settings_pressure_level_title">نمایش فشار برای</string>
 
     <string name="settings_city_base">پایگاه داده شهر</string>
 
@@ -87,17 +126,45 @@
     <string name="settings_alerts_title">مدیریت هشدار</string>
 
     <string name="settings_icons_title">آیکون های هواشناسی</string>
+    <string name="settings_icons_builtin_title">آیکون های هواشناسی توکار</string>
+    <string name="settings_icons_theme_details_title">جزئیات پوسته</string>
 
+    <string name="settings_widgets_title">ابزارک ها</string>
+    <string name="settings_widgets_not_found">فاقد ابزارک های نصب شده</string>
+
+    <string name="settings_ads_title">تبلیغات و کمک مالی</string>
+    <string name="settings_ads_explanation">"چرا تبلیغات می بینید؟
+نوشتن برنامه های کاربردی برای اندروید, یک سرگرمی برای من است که در وقت آزاد انجام می دهم. اما به عنوان یک منبع درآمد برای تحریک ما این تبلیغات نمایش داده می شود. پس با مشاهده این تبلیغات به ما کمک کنید."</string>
+    <string name="settings_ads_remove_title">حذف تبلیغات</string>
+    <string name="settings_ads_remove_summary">حذف تبلیغات برای یک هفته (یک بار در ماه)</string>
+    <string name="settings_ads_yandex">یاندکس مانی</string>
+    <string name="settings_ads_webmoney">وب مانی</string>
     <string name="settings_about">درباره</string>
     <string name="settings_translations">ترجمه نرم افزار</string>
-    <string name="settings_translations_summary">امتیاز به مترجم نرم افزار که این برنامه را به زبان شما ترجمه کرده</string>
+    <string name="settings_translations_summary">امتیاز به مترجم این نرم افزار که برنامه را به زبان شما ترجمه کرده</string>
     <string name="settings_thirdparty">کتابخانه های شخص ثالث و منابع</string>
+    <string name="settings_permissions">مجوزها</string>
+    <string name="settings_help">کمک</string>
+    <string name="settings_feedback">ارسال بازخورد</string>
+    <string name="settings_dialog_enter_timezone">برای انتخاب شهر (%s), منطقه زمانی را وارد کنید. مثلا GMT+03:00:</string>
+
+    <string name="feedback_title">عنوان</string>
+    <string name="feedback_title_hint">توضیح مشکل به صورت خلاصه</string>
+    <string name="feedback_description">توضیح</string>
+    <string name="feedback_description_hint">توضیح مشکل یا پیشنهاد به صورت کامل</string>
+    <string name="feedback_add_images">اضافه کردن تصویر</string>
+    <string name="feedback_select_upload_settings">بارگذاری تنظیمات برنامه</string>
+    <string name="feedback_action_send">ارسال</string>
+    <string name="feedback_fill_required">بخش های مورد نیاز, نمی توانند خالی باشند</string>
+    <string name="feedback_sending">ارسال بازخورد...</string>
+    <string name="feedback_sent">به خاطر ارسال بازخورد متشکریم!</string>
+    <string name="feedback_error">خطا در ارسال بازخورد</string>
 
     <string name="share_btn_cancel">لغو</string>
     <string name="share_btn_confirm">اشتراک</string>
     <string name="share_subject">اشتراک</string>
     <string name="share_button">اشتراک</string>
-    <string name="share_weather_save_pic_fail">"نمی توان تصویر بگیرد"</string>
+    <string name="share_weather_save_pic_fail">"نمی تواند تصویر بگیرد"</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#هواشناسی M8# امروز %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
@@ -120,15 +187,21 @@
     <string name="weather_details_visibility_title">دید</string>
     <string name="weather_details_precipitation_prob_title">بارش</string>
     <string name="weather_details_daylight_hours_title">طول روز</string>
+    <string name="weather_details_timezone_title">منطقه زمانی</string>
+    <string name="weather_details_elevation_title">ارتفاع</string>
 
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_pressure">%1$s hPa</string>
+    <string name="weather_details_pressure_atm">%1$s atm</string>
+    <string name="weather_details_pressure_mb">%1$s mb</string>
     <string name="weather_details_pressure_mm">%1$s mmHg</string>
     <string name="weather_details_pressure_in">%1$s inch</string>
     <string name="weather_details_humidity">%1$s%%</string>
     <string name="weather_details_visibility">%1$s km</string>
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s miles</string>
+
+    <string name="weather_details_update_date_string">زمان مشاهده: %s</string>
 
     <string name="time_units_hour">ساعت</string>
     <string name="time_units_minute">دقیقه</string>
@@ -137,11 +210,12 @@
     <!-- Weather alerts -->
     <string name="activity_main_alert">هشدارها: %1$d</string>
 
-    <string name="daily_forcast_no_wind">همیشه</string>
+    <string name="daily_forcast_no_wind">جاری</string>
     <string name="daily_forcast_whirl_wind">گردباد</string>
     <string name="delete">حذف</string>
 
     <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_knot">%1$sknot</string>
     <string name="wind_unit_ms">%1$s m/s</string>
     <string name="wind_unit_mph">%1$s mph</string>
 
@@ -151,19 +225,36 @@
     <string name="widget_update_date_string">به روز رسانی %s</string>
     <string name="widget_update_updating_string">به روز رسانی...</string>
     <!-- Widget config -->
-    <string name="widget_config_title">پیکربندی ویجت</string>
+    <string name="widget_config_title">پیکربندی ابزارک</string>
     <string name="widget_config_custom_clock_font_onoff_title">انتخاب فونت ساعت</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">اگر ویجت ساعت به روز نبود خاموش باشد</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">اگر ابزارک ساعت به روز نبود, خاموش باشد</string>
     <string name="widget_config_clock_font_title">فونت ساعت</string>
+    <string name="widget_config_clock_color_title">رنگ ساعت</string>
+    <string name="widget_config_clock_font_size_title">اندازه فونت ساعت</string>
+    <string name="widget_config_date_font_size_title">اندازه فونت تاریخ</string>
+    <string name="widget_config_dateformat_title">فرمت تاریخ</string>
     <string name="widget_config_realtime_font_title">فونت داده بهنگام</string>
+    <string name="widget_config_realtime_font_size_title">اندازه متن داده های بهنگام</string>
     <string name="widget_config_font_title">فونت متن</string>
+    <string name="widget_config_font_size_title">اندازه متن</string>
     <string name="widget_config_text_color_title">رنگ متن</string>
     <string name="widget_config_show_alarm_title">نمایش هشدار بعدی</string>
-    <string name="widget_config_use_background_title">نمایش پس زمینه ویجت</string>
+    <string name="widget_config_use_background_title">نمایش پس زمینه ابزارک</string>
     <string name="widget_config_background_color_title">رنگ پس زمینه</string>
     <string name="widget_config_background_type_title">نوع پس زمینه</string>
     <string name="widget_config_background_type_solid">تو پر</string>
     <string name="widget_config_background_type_border">حاشیه دار</string>
+
+    <string name="widget_config_show_cityname_title">نمایش نام شهر</string>
+    <string name="widget_config_show_local_time_title">نمایش زمان محلی</string>
+    <string name="widget_config_show_leading_zero_title">نمایش صفر پیشین</string>
+
+    <string name="widget_config_click_settings">برای تنظیمات مکان های ابزارک کلیک کنید</string>
+    <string name="widget_config_click_apps">انتخاب برنامه</string>
+    <string name="widget_config_click_clock">ساعت</string>
+    <string name="widget_config_click_date">تاریخ</string>
+    <string name="widget_config_click_weather_icon">آیکون هواشناسی</string>
+    <string name="widget_config_click_temperature">دما</string>
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">وضعیت ماه</string>
@@ -180,6 +271,8 @@
     <string name="moon_since">تاریخ: %1$s %2$s</string>
     <string name="moon_distanse">فاصله ماه: %s کیلومتر</string>
     <string name="moon_angle">زاویه ماه: %s</string>
+    <string name="moon_rise">طلوع: %s</string>
+    <string name="moon_set">جهت: %s</string>
     <string name="moon_zodiac">برج فلکی: %s</string>
 
     <string name="zodiac_aries">حمل</string>
@@ -202,35 +295,33 @@
     <string name="date_time_am">صبح</string>
     <string name="date_time_pm">بعدازظهر</string>
 
-    <string name="common_auto">خودکار</string>
-    <string name="common_recommended">توصیه شده</string>
-    <string name="settings_ads_explanation">"چرا تبلیغات می بینید؟ نوشتن برنامه های کاربردی برای اندروید, یک سرگرمی برای من است که در وقت آزاد انجام می دهم. اما به عنوان یک منبع درآمد برای تحریک ما این تبلیغات نمایش داده می شود. پس با مشاهده این تبلیغات به ما کمک کنید."</string>
-    <string name="settings_ads_remove_summary">حذف تبلیغات برای یک هفته (یک بار در ماه)</string>
-    <string name="settings_ads_remove_title">حذف تبلیغات</string>
-    <string name="settings_ads_title">تبلیغات و کمک های مالی</string>
-    <string name="settings_ads_yandex">پول یاندکس</string>
-    <string name="settings_help">کمک</string>
-    <string name="settings_realtime_feelslike_as_main_summary">نمایش درجه حرارت احساس شونده به جای درجه حرارت واقعی</string>
-    <string name="settings_realtime_feelslike_as_main_title">دمای احساسی بجای دمای واقعی</string>
-    <string name="settings_weather_forecast_spider_title">داده های پیش بینی</string>
-    <string name="settings_weather_realtime_spider_title">داده های بهنگام</string>
-    <string name="settings_weather_station_title">ایستگاه هواشناسی</string>
-    <string name="weather_details_update_date_string">زمان مشاهده: %s</string>
-    <string name="widget_config_click_apps">انتخاب نرم افزار</string>
-    <string name="widget_config_click_clock">ساعت</string>
-    <string name="widget_config_click_date">تاریخ</string>
-    <string name="widget_config_click_settings">برای تنظیمات مکان ویجت کلیک کنید</string>
-    <string name="widget_config_click_temperature">دما</string>
-    <string name="widget_config_click_weather_icon">آیکون هواشناسی</string>
-    <string name="widget_config_clock_color_title">رنگ ساعت</string>
-    <string name="widget_config_clock_font_size_title">اندازه فونت ساعت</string>
-    <string name="widget_config_date_font_size_title">اندازه فونت تاریخ</string>
-    <string name="widget_config_dateformat_title">فرمت تاریخ</string>
-    <string name="widget_config_font_size_title">اندازه متن</string>
-    <string name="widget_config_realtime_font_size_title">اندازه متن داده های بهنگام</string>
-    <string name="widget_config_show_cityname_title">نمایش نام شهر</string>
-    <string name="widget_config_show_local_time_title">نمایش زمان محلی</string>
-    <string name="weather_details_pressure_mb">%1$s mb</string>
+    <!-- AQI -->
+    <string name="aqi_main_title">کیفیت هوا</string>
+    <string name="aqi_main_publish_time">به روز شده در %1$s</string>
 
+    <string name="aqi_ring_top_pollution">آلاینده های عمده</string>
+    <string name="aqi_ring_desc">شاخص کیفیت هوا</string>
+
+    <string name="aqi_sub_desc">AQI</string>
+
+    <string name="aqi_detail_subtitle">AQI %1$s</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_so2">SO₂</string>
+    <string name="aqi_detail_no2">NO₂</string>
+    <string name="aqi_detail_co">CO</string>
+    <string name="aqi_detail_o3">O₃</string>
+
+    <string name="top_pollution_pm25">PM2.5</string>
+    <string name="top_pollution_pm10">PM10</string>
+    <string name="top_pollution_so2">SO2</string>
+    <string name="top_pollution_no2">NO2</string>
+    <string name="top_pollution_co">CO</string>
+    <string name="top_pollution_o3">O3</string>
+
+    <string name="aqi_detail_5_days">پیش بینی روزانه</string>
+    <string name="aqi_detail_24_hours">پیش بینی ساعتی</string>
+
+    <string name="aqi_detail_unit">واحد: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_data_source">%s</string>
 </resources>
-
