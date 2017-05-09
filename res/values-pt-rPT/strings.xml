@@ -45,7 +45,7 @@
     <string name="daily_forcast_weather_transfer">%1$s / %2$s</string>
     <string name="daily_forcast_whirl_wind">Vento forte</string>
     <string name="daily_forcast_wind_connect">Vento %2$s %1$s</string>
-    <string name="daily_forecast_detail_date">d. MMM</string>
+    <string name="daily_forecast_detail_date">d. MMMM</string>
     <string name="delete">Eliminar</string>
     <string name="dialog_color_picker">Escolher cor</string>
     <string name="feedback_action_send">Enviar</string>
@@ -69,7 +69,7 @@
     <string name="gps_hint">Localização actual</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Agora</string>
-    <string name="hourly_forecast_detail_date">d. MMM, E</string>
+    <string name="hourly_forecast_detail_date">d. MMMM, E</string>
     <string name="hourly_forecast_title">Previsão horária</string>
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
@@ -218,7 +218,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="weather_details_visibility_title">Visibilidade</string>
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">Vento</string>
-    <string name="weather_short_month_update_date">d. MMM</string>
+    <string name="weather_short_month_update_date">d. MMMM</string>
     <string name="weather_update_date">d. MMMM</string>
     <string name="widget_config_background_color_title">Cor de fundo</string>
     <string name="widget_config_background_type_border">Com limite</string>
