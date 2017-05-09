@@ -51,6 +51,7 @@
     <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
     <string name="daily_forcast_whirl_wind">Vihor</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+  <string name="daily_forecast_detail_date">d MMM</string>
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>
     <string name="delete">Izbriši</string>
@@ -76,6 +77,7 @@
     <string name="gps_hint">GPS</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Sada</string>
+  <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="hourly_forecast_title">Prognoza po satu</string>
     <string name="international_detail_menu_title">Detalji</string>
     <string name="locate_fail_detail_err">"Ne mogu locirati uređaj
@@ -100,16 +102,17 @@ Dodirnite na tipku u nastavku da ručno dodate grad ili pokušajte locirati pono
     <string name="moon_waxinggibbous">Uštap</string>
     <string name="moon_zodiac">Hor. znak: %s</string>
     <string name="more_details">Više detalja</string>
-    <string name="network_error">"Ne mogu se povezati s poslužiteljem.
-Provjerite postavke mreže."</string>
+    <string name="network_error">"Ne mogu se povezati s poslužiteljem.\nProvjerite postavke mreže."</string>
     <string name="network_in_quiet_hours">Sada ste u tihim satima. Ažuriranja su otkazana.</string>
     <string name="network_in_roaming">U postavkama onemogućite ažuriranja u roamingu.</string>
     <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
     <string name="network_wifi_only">Ažuriranja postavljena samo na Wi-Fi.</string>
     <string name="press_color_to_apply">Pritisnite na boju za primjenu</string>
+    <string name="radar_title">Radar</string>
     <string name="settings_about">O aplikaciji</string>
     <string name="settings_ads_explanation">Zašto vidite oglase?
 Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Zato vas molim postupajte s razumijevanjem s pojavom određenog broja oglasa. Prikazivanje oglasa u potiče daljnji razvoj aplikacije."</string>
+    <string name="settings_ads_menu_hide_title">Sakrij ovu stavku izbornika</string>
     <string name="settings_ads_remove_summary">Uklonite oglase na tjedan dana (jednom mjesečno)</string>
     <string name="settings_ads_remove_title">Ukloni oglase</string>
     <string name="settings_ads_title">Oglasi i donacije</string>
@@ -120,6 +123,7 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="settings_app_theme_dark">Tamna</string>
     <string name="settings_app_theme_light">Svijetla</string>
     <string name="settings_app_theme_title">Tema</string>
+    <string name="settings_aqi_max_distance_closest">Najbliža postaja</string>
     <string name="settings_aqi_max_distance_summary">Nabavite podatke o kvaliteti zraka  iz meteoroloških stanica, koji se nalazi na udaljenosti unutar %1$s</string>
     <string name="settings_aqi_max_distance_title">Provjeri AQI radijus</string>
     <string name="settings_aqi_onoff_summary">Prikaži ifrormaciju o kvaliteti zraka za vašu lokaciju (ako je dostupna)</string>
@@ -152,7 +156,9 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_realtime_feelslike_as_main_summary">Prikaži temperaturu stvar. osjećaja kao glavnu temperaturu</string>
     <string name="settings_realtime_feelslike_as_main_title">Stvar. osjećaj kao glavna temperatura</string>
-	<string name="settings_sound_volume">Glasnoća zvuka</string>
+    <string name="settings_show_plus_sign_temp_summary">Prikaži znak "+" za pozitivne temperature</string>
+    <string name="settings_show_plus_sign_temp_title">Prikaži znak "+"</string>
+    <string name="settings_sound_volume">Glasnoća zvuka</string>
     <string name="settings_temp_unit">Temperatura</string>
     <string name="settings_thirdparty">Podaci i resursi drugih aplikacija</string>
     <string name="settings_translations">Prijevod aplikacije</string>
@@ -191,13 +197,17 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Ne mogu napraviti snimku zaslona"</string>
-	<string name="settings_show_plus_sign_temp_title">Prikaži "+" znak</string>
-    <string name="settings_show_plus_sign_temp_summary">Prikaži "+" znak za pozitivne temperature</string>
     <string name="sunrise">Izlazak sunca</string>
     <string name="sunset">Zalazak sunca</string>
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
     <string name="time_units_second">s</string>
+    <string name="top_pollution_co">CO</string>
+    <string name="top_pollution_no2">NO2</string>
+    <string name="top_pollution_o3">O3</string>
+    <string name="top_pollution_pm10">PM10</string>
+    <string name="top_pollution_pm25">PM2.5</string>
+    <string name="top_pollution_so2">SO2</string>
     <string name="view_forecast_item_yesterday">Jučer</string>
     <string name="view_indexes_item_today">Danas</string>
     <string name="view_indexes_item_tommorrow">Sutra</string>
@@ -223,6 +233,8 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="weather_details_visibility_title">Vidljivost</string>
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">Vjetar</string>
+    <string name="weather_short_month_update_date">d MMM</string>
+    <string name="weather_update_date">d MMMM</string>
     <string name="widget_config_background_color_title">Boja pozadine</string>
     <string name="widget_config_background_type_border">Okvir</string>
     <string name="widget_config_background_type_solid">Solid</string>
