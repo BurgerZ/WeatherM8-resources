@@ -56,7 +56,7 @@ Klepněte na tlačítko níže nebo zkuste získat polohu později"</string>
     <string name="moon_illuminated">Měsíční svit: %s%%</string>
     <string name="moon_lastquarter">Poslední čtvrt</string>
     <string name="moon_newmoon">Nov</string>
-    <string name="moon_since">Datum: %1$s %2$s</string>
+    <string name="moon_since">Datum: %1$s. %2$s</string>
     <string name="moon_waningcrescent">Ubývající srpek</string>
     <string name="moon_waninggibbous">Ubývající měsíc</string>
     <string name="moon_waxingcrescent">Dorůstající srpek</string>
@@ -166,7 +166,7 @@ Programování aplikací pro Android je můj koníček, kterým se zabývám ve 
     <string name="settings_app_theme_dark">Tmavý</string>
     <string name="settings_app_theme_light">Světlý</string>
     <string name="settings_app_theme_title">Motiv</string>
-    <string name="settings_help">Pomoc</string>
+    <string name="settings_help">Nápověda</string>
     <string name="settings_pressure_level_title">Zobrazit tlak pro</string>
     <string name="settings_realtime_feelslike_as_main_summary">Zobrazit pocitovou teplotu jako hlavní teplotu počasí</string>
     <string name="settings_realtime_feelslike_as_main_title">Pocitová teplota jako hlavní teplota</string>
@@ -275,11 +275,13 @@ Zkontrolujte síťové nastavení."</string>
     <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_so2">SO2</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
-    <string name="widget_config_show_leading_zero_title">Zobrazit začátek</string>
+    <string name="widget_config_show_leading_zero_title">Zobrazit nulu na začátku hodin</string>
     <string name="wind_unit_knot">%1$s kn</string>
     <string name="settings_ads_menu_hide_title">Skrýt tuto položku menu</string>
     <string name="hourly_forecast_detail_date">d. MMM, E</string>
     <string name="daily_forecast_detail_date">d. MMM</string>
     <string name="weather_update_date">d. MMMM</string>
     <string name="weather_short_month_update_date">d. MMM</string>
+    <string name="widget_dateformat_default_value">d. MMMM yyyy</string>
+    <string name="radar_title">Radar</string>
 </resources>

@@ -19,7 +19,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-bg|Bulgarian|**Емил Филев**|
 |values-ar|Arabic|**Ismail Jarmouni**|
 |values-pl|Polish|**trybit**, **Jan Folta Gutek**|
-|values-cs|Czech|**Miloslav Kubín**|
+|values-cs|Czech|**Miloslav Kubín** / **Ladislav Loun**|
 |values-sl|Slovenian|**Boštjan Rebolj**|
 |values-sk|Slovak|**Luboš Belobruch**|
 |values-sr|Serbian|**Milan Andrejić**|
