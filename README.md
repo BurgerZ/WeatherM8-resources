@@ -10,7 +10,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-ru|Russian|**Andrei Zhukouski**|
 |values-be|Belarussian|**Аляксандр Кавальчук**|
 |values-pt-PT|Portuguese|**Lippe35** |
-|values-pt-BR|Portuguese Brasil|**Lineu Junior** |
+|values-pt-BR|Portuguese Brasil|**Lineu Junior**, **Lippe35** |
 |values-in|Indonesian|**Anggit Pramudita**, **Diki Ananta** |
 |values-uk|Ukrainian|**Євген Гіль** |
 |values-de|Deutch|**MIUI Germany** |
