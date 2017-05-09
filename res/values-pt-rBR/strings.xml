@@ -99,6 +99,7 @@ Verifique as suas definições de rede"</string>
     <string name="network_unavailable">Não foi possível conectar à rede</string>
     <string name="network_wifi_only">Atualizações disponíveis apenas em Wi-fi</string>
     <string name="press_color_to_apply">Toque na cor para aplicar</string>
+    <string name="radar_title">Radar</string>
     <string name="settings_about">Acerca de</string>
     <string name="settings_ads_explanation">"Porque é que o aplicativo tem anúncios?
 Programar aplicativos Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios no aplicativo estimula o desenvolvimento de futuras versões"</string>
