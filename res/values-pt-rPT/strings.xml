@@ -103,6 +103,7 @@ Verifique as suas definições de rede"</string>
     <string name="settings_about">Acerca de</string>
     <string name="settings_ads_explanation">"Porque é que a aplicação tem anúncios?
 Programar aplicações Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios na aplicação estimula o desenvolvimento de futuras versões"</string>
+    <string name="settings_ads_menu_hide_title">Ocultar este item do menu</string>
     <string name="settings_ads_remove_summary">Remover anúncios por uma semana (uma vez por mês)</string>
     <string name="settings_ads_remove_title">Remover anúncios</string>
     <string name="settings_ads_title">Anúncios e doações</string>
