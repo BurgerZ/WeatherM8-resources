@@ -212,6 +212,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="daily_forecast_detail_date">d MMM</string>
     <string name="weather_update_date">d MMMM</string>
     <string name="weather_short_month_update_date">d MMM</string>
+    <string name="widget_dateformat_default_value">d MMMM yyyy</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">Alerts: %1$d</string>

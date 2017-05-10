@@ -86,4 +86,12 @@
         <item>12 ore</item>
         <item>24 ore</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Buona</item>
+        <item>Moderata</item>
+        <item>Malsano per i gruppi sensibili</item>
+        <item>Malsano</item>
+        <item>Molto malsano</item>
+        <item>Pericoloso</item>
+    </string-array>
 </resources>
