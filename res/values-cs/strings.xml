@@ -250,7 +250,6 @@ Zkontrolujte síťové nastavení."</string>
     <string name="get_accounts_title">Přístup ke kontaktům a účtům</string>
     <string name="moon_rise">Východ: %s</string>
     <string name="moon_set">Západ: %s</string>
-    <string name="radar_title">Radar</string>
     <string name="settings_ads_webmoney">Webmoney</string>
     <string name="settings_aqi_max_distance_closest">Nejbližší stanice</string>
     <string name="settings_aqi_max_distance_summary">Získat údaje pro kvalitu ovzduší z meteo stanice do vzdálenosti %1$s od polohy</string>
