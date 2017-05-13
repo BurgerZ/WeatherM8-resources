@@ -60,9 +60,9 @@
     <string name="feedback_title">Título</string>
     <string name="feedback_title_hint">Inserir título</string>
     <string name="first_start_network_msg">"Esta aplicação necessita de ligar à Internet para funcionar normalmente
-      São necessárias as seguintes permissões:
-      • Acesso à localização para obter as coordenadas actuais
-      • Acesso a fotos, multimédia e ficheiros para guardar as capturas de ecrã para Partilhar"</string>
+        São necessárias as seguintes permissões:
+        \u2022 Acesso à localização para obter as coordenadas actuais
+        \u2022 Acesso a fotos, multimédia e ficheiros para guardar as capturas de ecrã para Partilhar"</string>
     <string name="first_start_network_title">Ligação à Internet e acesso à localização</string>
     <string name="get_accounts_msg">Esta aplicação necessita de ter acesso à lista de contas do dispositivo para verificar as suas compras e remover os anúncios</string>
     <string name="get_accounts_title">Acesso a contas</string>
