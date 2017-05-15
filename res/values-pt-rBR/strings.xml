@@ -132,6 +132,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_menu_title">Configurações</string>
     <string name="settings_notification_priority_summary">Alertas de baixa prioridade aparecem apenas na barra de notificações</string>
     <string name="settings_notification_priority_title">Baixa prioridade</string>
+    <string name="settings_notification_statusbar_color_title">Cor do ícone de notificação</string>
     <string name="settings_notification_summary">Mostrar condições de tempo na barra de notificação</string>
     <string name="settings_notification_title">Mostrar notificação</string>
     <string name="settings_notifications_summary">Configurações de notificação</string>
