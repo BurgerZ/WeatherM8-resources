@@ -122,6 +122,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_notification_priority_summary">Minimum-priority notifications appears only in notification shade</string>
 
     <string name="settings_notify_type_title">Notification icon</string>
+    <string name="settings_notification_statusbar_color_title">Notification icon color</string>
 
     <string name="settings_alerts_title">Manage alerts</string>
 
