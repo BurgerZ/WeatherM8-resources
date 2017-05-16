@@ -80,6 +80,9 @@ Klepněte na tlačítko níže nebo zkuste získat polohu později"</string>
     <string name="settings_notifications_summary">Nastavit upozornění na počasí</string>
     <string name="settings_notifications_title">Upozornění</string>
     <string name="settings_notify_type_title">Ikona upozornění</string>
+    
+    <string name="settings_notification_statusbar_color_title">Barva ikony upozornění</string>
+
     <string name="settings_pressure_unit">Tlak</string>
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_pressure_unit_mb">mb</string>
