@@ -51,8 +51,7 @@
     <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
     <string name="daily_forcast_whirl_wind">Vihar</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="date_time_am">am</string>
-    <string name="date_time_pm">pm</string>
+    <string name="daily_forecast_detail_date">d MMM</string>
     <string name="delete">Izbriši</string>
     <string name="dialog_color_picker">Izbira barve</string>
     <string name="feedback_action_send">Pošlji</string>
@@ -76,6 +75,7 @@
     <string name="gps_hint">GPS</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Zdaj</string>
+    <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="hourly_forecast_title">Napoved po urah</string>
     <string name="international_detail_menu_title">Podrobnosti</string>
     <string name="locate_fail_detail_err">"Ne morem locirati napravo
@@ -107,6 +107,7 @@ Preverite nastavitve omrežja."</string>
     <string name="network_unavailable">Ne morem se povezati na omrežje.</string>
     <string name="network_wifi_only">Posodabljanje nastavljeno na samo WiFi.</string>
     <string name="press_color_to_apply">Pritisnite na barvo za potrditev</string>
+    <string name="radar_title">Radar</string>
     <string name="settings_about">O aplikaciji</string>
     <string name="settings_ads_explanation">"Zakaj vidite oglase?
 Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas prosim za razumevanje pri pojavu pasic. Prikazovanje oglasov v aplikaciji pomaga nadaljnjemu razvoju."</string>
@@ -138,6 +139,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="settings_menu_title">Nastavitve</string>
     <string name="settings_notification_priority_summary">Obvestila minimalne važnosti se pojavljajo samo v plošči obvestil</string>
     <string name="settings_notification_priority_title">Minimalna važnost</string>
+    <string name="settings_notification_statusbar_color_title">Barva ikone obvestil</string>
     <string name="settings_notification_summary">Prikaži trenutne vremenske pogoje v področju obvestil</string>
     <string name="settings_notification_title">Prikaži obvestila</string>
     <string name="settings_notifications_summary">Nastavitve obvestil vremena</string>
@@ -224,6 +226,8 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="weather_details_visibility_title">Vidljivost</string>
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">Veter</string>
+    <string name="weather_short_month_update_date">d MMM</string>
+    <string name="weather_update_date">d MMMM</string>
     <string name="widget_config_background_color_title">Barva ozadja</string>
     <string name="widget_config_background_type_border">Okvir</string>
     <string name="widget_config_background_type_solid">Solid</string>
@@ -252,6 +256,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="widget_config_text_color_title">Barva teksta</string>
     <string name="widget_config_title">Konfig. pripomočkov</string>
     <string name="widget_config_use_background_title">Prikaži ozadje pripomočka</string>
+    <string name="widget_dateformat_default_value">d MMMM yyyy</string>
     <string name="widget_update_date_string">Posodobljeno %s</string>
     <string name="widget_update_updating_string">Posodabljanje…</string>
     <string name="wind_unit">%1$skm/h</string>
