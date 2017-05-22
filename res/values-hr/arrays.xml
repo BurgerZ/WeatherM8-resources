@@ -76,6 +76,7 @@
         <item>Najjači</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minuta</item>
         <item>30 minuta</item>
         <item>1 sat</item>
         <item>2 sata</item>

@@ -76,6 +76,7 @@
         <item>Nagyon erős</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 percenként</item>
         <item>30 percenként</item>
         <item>óránként</item>
         <item>2 óránként</item>

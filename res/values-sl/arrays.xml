@@ -80,6 +80,7 @@
         <item>Nivo lokacije</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minut</item>
         <item>30 minut</item>
         <item>1 ura</item>
         <item>2 uri</item>

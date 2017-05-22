@@ -76,6 +76,7 @@
         <item>Πολύ Ισχυρός</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 λεπτά</item>
         <item>30 λεπτά</item>
         <item>1 ώρα</item>
         <item>2 ώρες</item>

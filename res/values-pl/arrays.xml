@@ -76,6 +76,7 @@
 		<item>Bardzo wysoki</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minut</item>
         <item>30 minut</item>
         <item>1 godzina</item>
         <item>2 godziny</item>

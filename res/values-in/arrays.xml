@@ -76,6 +76,7 @@
         <item>Paling kuat</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 menit</item>
         <item>30 menit</item>
         <item>1 jam</item>
         <item>2 jam</item>

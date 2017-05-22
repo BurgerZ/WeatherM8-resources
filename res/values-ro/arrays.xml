@@ -76,6 +76,7 @@
         <item>NV</item>
      </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 de minute</item>
         <item>30 de minute</item>
         <item>O oră</item>
         <item>2 ore</item>

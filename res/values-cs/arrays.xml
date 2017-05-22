@@ -80,6 +80,7 @@
         <item>Nadmořskou výšku polohy</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minut</item>
         <item>30 minut</item>
         <item>1 hodina</item>
         <item>2 hodiny</item>

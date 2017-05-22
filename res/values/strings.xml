@@ -93,6 +93,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_wind_unit">Wind speed</string>
+    <string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_knot">knot</string>
     <string name="settings_wind_unit_ms">m/s</string>
@@ -223,6 +224,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="delete">Delete</string>
 
     <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit_bft">%1$sbft</string>
     <string name="wind_unit_knot">%1$sknot</string>
     <string name="wind_unit_ms">%1$sm/s</string>
     <string name="wind_unit_mph">%1$smph</string>

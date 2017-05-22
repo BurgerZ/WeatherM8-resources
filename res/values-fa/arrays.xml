@@ -78,6 +78,7 @@
         <item>بسیار زیاد</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 دقیقه</item>
         <item>30 دقیقه</item>
         <item>1 ساعت</item>
         <item>2 ساعت</item>

@@ -76,6 +76,7 @@
         <item>Molto Forti</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minuti</item>
         <item>30 minuti</item>
         <item>1 ora</item>
         <item>2 ore</item>

@@ -76,6 +76,7 @@
         <item>Екстремальний</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 хвилин</item>
         <item>30 хвилин</item>
         <item>1 година</item>
         <item>2 години</item>

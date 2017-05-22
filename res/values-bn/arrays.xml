@@ -76,6 +76,7 @@
     <item>খুব প্রবল</item>
   </string-array>
   <string-array name="update_check_interval_entries">
+    <item>15 মিনিট</item>
     <item>30 মিনিট</item>
     <item>1 ঘন্টা</item>
     <item>2 ঘন্টা</item>
