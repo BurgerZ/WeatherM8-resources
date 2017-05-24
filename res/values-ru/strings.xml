@@ -129,12 +129,14 @@
     <string name="settings_widgets_not_found">Нет установленных виджетов</string>
 
     <string name="settings_ads_title">Реклама и пожертвования</string>
+    <string name="settings_ads_donations_title">Купить мне пива</string>
     <string name="settings_ads_explanation">"Почему в приложении реклама?
 Написание приложений для Android для меня является хобби, которым я занимаюсь в свое личное свободное время. Поэтому прошу отнестись с пониманием к появлению в программе некоторого количества рекламных баннеров. Отображение рекламы в приложении стимулирует меня к дальнейшей разработке."</string>
     <string name="settings_ads_menu_hide_title">Скрыть этот пункт меню</string>
     <string name="settings_ads_remove_title">Отключить рекламу</string>
     <string name="settings_ads_remove_summary">Отключить рекламу на неделю (один раз в месяц)</string>
     <string name="settings_ads_yandex">Яндекс Деньги</string>
+    <string name="settings_ads_donation_expl">Пожертвование с помощью Google Play путем нажатия на одну из кнопок, расположенных ниже, НЕ отключит рекламу в приложении. Для ее отключения вы должны воспользоваться кнопкой \"Отключить рекламу\".</string>
     <string name="settings_about">О приложении</string>
     <string name="settings_translations">Перевод приложения</string>
     <string name="settings_translations_summary">Список переводчиков приложения</string>
@@ -231,6 +233,8 @@
     <string name="widget_config_dateformat_title">Формат даты</string>
     <string name="widget_config_realtime_font_title">Шрифт текущих данных</string>
     <string name="widget_config_realtime_font_size_title">Размер текста текущих данных</string>
+    <string name="widget_config_realtime_icon_size_title">Размер иконки текущей погоды</string>
+    <string name="widget_config_forecast_icon_size_title">Размер иконок погоды прогноза</string>
     <string name="widget_config_text_color_title">Цвет текста</string>
     <string name="widget_config_font_title">Шрифт текста</string>
     <string name="widget_config_font_size_title">Размер текста</string>
