@@ -183,6 +183,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="settings_widgets_not_found">Ni najdenih nameščenih pripomočkov</string>
     <string name="settings_widgets_title">Pripomočki</string>
     <string name="settings_wind_unit">Hitrost vetra</string>
+	<string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_knot">vozel</string>
     <string name="settings_wind_unit_mph">mph</string>
@@ -260,6 +261,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="widget_update_date_string">Posodobljeno %s</string>
     <string name="widget_update_updating_string">Posodabljanje…</string>
     <string name="wind_unit">%1$skm/h</string>
+	<string name="wind_unit_bft">%1$sbft</string>
     <string name="wind_unit_knot">%1$vozel</string>
     <string name="wind_unit_mph">%1$smph</string>
     <string name="wind_unit_ms">%1$sm/s</string>
