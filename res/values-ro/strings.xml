@@ -273,5 +273,9 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_aqi_onoff_summary">Afișare informații despre indicele de calitate a aerului pentru locațiile dvs. (dacă sunt disponibile)</string>
     <string name="settings_aqi_max_distance_closest">Cea mai apropiată staţie</string>
     <string name="settings_notification_statusbar_color_title">Culoare pictogramă de notificare</string>
+    <string name="settings_ads_donations_title">Cumpăraţi-mi o bere</string>
+    <string name="settings_ads_donation_expl">Donarea prin Google Play apăsând aceste butoane nu va duce la eliminarea anunțurilor. Pentru a le elimina, ar trebui să utilizați butonul "\Eliminați anunțurile\".</string>
+    <string name="widget_config_realtime_icon_size_title">Dimensiunea curentă a pictogramei meteo</string>
+    <string name="widget_config_forecast_icon_size_title">Dimensiunea pictogramei prognozei meteo</string>
 
 </resources>
