@@ -133,6 +133,7 @@
     <string name="settings_widgets_not_found">未放置小工具</string>
 
     <string name="settings_ads_title">去除廣告與捐款</string>
+    <string name="settings_ads_donations_title">請我喝啤酒</string>
     <string name="settings_ads_explanation">"為什麼你會看到廣告？
 在空閒時間寫Android程式是我的嗜好。所以請理解一定的廣告數量能使此應用發展得更好。"</string>
     <string name="settings_ads_menu_hide_title">隱藏此菜單</string>
@@ -140,6 +141,7 @@
     <string name="settings_ads_remove_summary">移除廣告一周 (每月一次)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
+	<string name="settings_ads_donation_expl">使用底下Google Play捐款按鈕並不會移除廣告。 如果要移除廣告請使用 \"去除廣告\" 按鈕</string>
     <string name="settings_about">關於</string>
     <string name="settings_translations">應用翻譯</string>
     <string name="settings_translations_summary">感謝翻譯者們</string>
@@ -204,9 +206,9 @@
 
     <string name="weather_details_update_date_string">觀測時間: %s</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+    <string name="time_units_hour">時</string>
+    <string name="time_units_minute">分</string>
+    <string name="time_units_second">秒</string>
 
     <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="daily_forecast_detail_date">d MMM</string>
@@ -241,6 +243,8 @@
     <string name="widget_config_dateformat_title">日期格式</string>
     <string name="widget_config_realtime_font_title">溫度字體</string>
     <string name="widget_config_realtime_font_size_title">溫度字體尺寸</string>
+	<string name="widget_config_realtime_icon_size_title">目前天氣圖標大小</string>
+	<string name="widget_config_forecast_icon_size_title">預測天氣圖標大小</string>
     <string name="widget_config_font_title">文字字體</string>
     <string name="widget_config_font_size_title">文字尺寸</string>
     <string name="widget_config_text_color_title">文字顏色</string>
