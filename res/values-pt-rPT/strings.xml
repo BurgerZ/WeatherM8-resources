@@ -103,6 +103,8 @@ Verifique as suas definições de rede"</string>
     <string name="press_color_to_apply">Toque na cor para aplicar</string>
     <string name="radar_title">Radar</string>
     <string name="settings_about">Acerca de</string>
+    <string name="settings_ads_donation_expl">Faça doações via Google Play tocando num dos botões abaixo. As doações não vão remover os anúncios da aplicação. Para remover os anúncios utilize o botão \ "Remover anúncios \"</string>
+    <string name="settings_ads_donations_title">Compre-me uma cerveja</string>
     <string name="settings_ads_explanation">"Porque é que a aplicação tem anúncios?
 Programar aplicações Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios na aplicação estimula o desenvolvimento de futuras versões"</string>
     <string name="settings_ads_menu_hide_title">Ocultar este item do menu</string>
@@ -240,6 +242,8 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="widget_config_dateformat_title">Formato da data</string>
     <string name="widget_config_font_size_title">Tamanho do texto</string>
     <string name="widget_config_font_title">Fonte do texto</string>
+    <string name="widget_config_forecast_icon_size_title">Tamanho dos ícones dos dados de previsão</string>
+    <string name="widget_config_realtime_icon_size_title">Tamanho dos ícones dos dados actuais</string>
     <string name="widget_config_realtime_font_size_title">Tamanho dos dados da temperatura</string>
     <string name="widget_config_realtime_font_title">Fonte dos dados da temperatura</string>
     <string name="widget_config_show_alarm_title">Mostrar próximo alarme</string>
