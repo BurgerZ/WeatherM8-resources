@@ -67,9 +67,9 @@
     <string name="settings_update_quiet_hours_title">勿擾時間</string>
     <string name="settings_weather_transfer_title">天氣描述轉換</string>
     <string name="settings_weather_transfer_summary">顯示天氣描述，日間夜間中轉換</string>
-    <string name="settings_weather_spider_title">天氣預報來源</string>
-    <string name="settings_weather_realtime_spider_title">時實數據</string>
-    <string name="settings_weather_forecast_spider_title">預測數據</string>
+    <string name="settings_weather_spider_title">即時天氣資料來源</string>
+    <string name="settings_weather_realtime_spider_title">即時數據</string>
+    <string name="settings_weather_forecast_spider_title">預報數據</string>
     <string name="settings_weather_station_title">氣象站</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">顯示空氣品質</string>
@@ -86,21 +86,22 @@
     <string name="settings_weather_details_summary">選擇顯示在主屏幕上的天氣詳情</string>
     <string name="settings_category_units">單位</string>
     <string name="settings_pressure_unit">氣壓</string>
-    <string name="settings_pressure_unit_atm">atm</string>
-    <string name="settings_pressure_unit_hpa">hPa</string>
-    <string name="settings_pressure_unit_mb">mb</string>
-    <string name="settings_pressure_unit_mm">mmHg</string>
-    <string name="settings_pressure_unit_in">inHg</string>
+    <string name="settings_pressure_unit_atm">大氣壓</string>
+    <string name="settings_pressure_unit_hpa">百帕</string>
+    <string name="settings_pressure_unit_mb">毫巴</string>
+    <string name="settings_pressure_unit_mm">毫米汞柱</string>
+    <string name="settings_pressure_unit_in">英寸汞柱</string>
     <string name="settings_wind_unit">風速</string>
-    <string name="settings_wind_unit_kmh">km/h</string>
-    <string name="settings_wind_unit_knot">knot</string>
-    <string name="settings_wind_unit_ms">m/s</string>
-    <string name="settings_wind_unit_mph">mph</string>
+    <string name="settings_wind_unit_bft">級</string>
+    <string name="settings_wind_unit_kmh">公里/時</string>
+    <string name="settings_wind_unit_knot">節</string>
+    <string name="settings_wind_unit_ms">公尺/秒</string>
+    <string name="settings_wind_unit_mph">英里/時</string>
     <string name="settings_temp_unit">溫度</string>
     <string name="settings_visibility_unit">能見度</string>
-    <string name="settings_visibility_unit_kilometers">km</string>
-    <string name="settings_visibility_unit_meters">m</string>
-    <string name="settings_visibility_unit_miles">miles</string>
+    <string name="settings_visibility_unit_kilometers">公里</string>
+    <string name="settings_visibility_unit_meters">公尺</string>
+    <string name="settings_visibility_unit_miles">英里</string>
 
     <string name="settings_realtime_feelslike_as_main_title">以體感溫度作為主要溫度</string>
     <string name="settings_realtime_feelslike_as_main_summary">將主要溫度顯示更改為體感溫度</string>
@@ -108,7 +109,7 @@
     <string name="settings_show_plus_sign_temp_title">顯示 "+" 符號</string>
     <string name="settings_show_plus_sign_temp_summary">顯示 "+" 符號當溫度為正溫度</string>
 
-    <string name="settings_pressure_level_title">氣壓顯示基準</string>
+    <string name="settings_pressure_level_title">氣壓數值基準</string>
 
     <string name="settings_city_base">城市數據庫</string>
 
@@ -156,7 +157,7 @@
     <string name="feedback_description">內容</string>
     <string name="feedback_description_hint">詳細的描述問題或建議</string>
     <string name="feedback_add_images">添加圖片</string>
-    <string name="feedback_select_upload_settings">傳送應用設定值</string>
+    <string name="feedback_select_upload_settings">傳送您的應用設定值</string>
     <string name="feedback_action_send">發送</string>
     <string name="feedback_fill_required">必填資料不能空白</string>
     <string name="feedback_sending">發送中…</string>
@@ -194,15 +195,15 @@
     <string name="weather_details_elevation_title">海拔</string>
 
     <string name="weather_details_wind_connect">%1$s %2$s</string>
-    <string name="weather_details_pressure">%1$s hPa</string>
-    <string name="weather_details_pressure_atm">%1$s atm</string>
-    <string name="weather_details_pressure_mb">%1$s mb</string>
-    <string name="weather_details_pressure_mm">%1$s mmHg</string>
-    <string name="weather_details_pressure_in">%1$s inHg</string>
+    <string name="weather_details_pressure">%1$s 百帕</string>
+    <string name="weather_details_pressure_atm">%1$s 大氣壓</string>
+    <string name="weather_details_pressure_mb">%1$s 毫巴</string>
+    <string name="weather_details_pressure_mm">%1$s 毫米汞柱</string>
+    <string name="weather_details_pressure_in">%1$s 英寸汞柱</string>
     <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_visibility">%1$s km</string>
-    <string name="weather_details_visibility_meters">%1$s m</string>
-    <string name="weather_details_visibility_miles">%1$s miles</string>
+    <string name="weather_details_visibility">%1$s 公里</string>
+    <string name="weather_details_visibility_meters">%1$s 公尺</string>
+    <string name="weather_details_visibility_miles">%1$s 英里</string>
 
     <string name="weather_details_update_date_string">觀測時間: %s</string>
 
@@ -222,10 +223,11 @@
     <string name="daily_forcast_whirl_wind">大風</string>
     <string name="delete">刪除</string>
 
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_knot">%1$sknot</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="wind_unit_mph">%1$smph</string>
+    <string name="wind_unit">%1$s公里/時</string>
+    <string name="wind_unit_bft">%1$s級</string>
+    <string name="wind_unit_knot">%1$s節</string>
+    <string name="wind_unit_ms">%1$s公尺/秒</string>
+    <string name="wind_unit_mph">%1$s英里/時</string>
 
     <string name="hourly_forecast_title">每小時預報</string>
 
