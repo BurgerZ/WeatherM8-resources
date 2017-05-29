@@ -173,4 +173,9 @@
     <string name="widget_config_font_title">文本字体</string>
     <string name="widget_config_realtime_font_title">实时数据字体</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
+    <string name="hourly_forecast_detail_date">MMM d, E</string>
+    <string name="daily_forecast_detail_date">MMM d</string>
+    <string name="weather_update_date">MMMM d</string>
+    <string name="weather_short_month_update_date">MMM d</string>
+    <string name="widget_dateformat_default_value">MMMM d yyyy</string>
 </resources>

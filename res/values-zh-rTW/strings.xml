@@ -211,10 +211,11 @@
     <string name="time_units_minute">分</string>
     <string name="time_units_second">秒</string>
 
-    <string name="hourly_forecast_detail_date">d MMM, E</string>
-    <string name="daily_forecast_detail_date">d MMM</string>
-    <string name="weather_update_date">d MMMM</string>
-    <string name="weather_short_month_update_date">d MMM</string>
+    <string name="hourly_forecast_detail_date">MMM d, E</string>
+    <string name="daily_forecast_detail_date">MMM d</string>
+    <string name="weather_update_date">MMMM d</string>
+    <string name="weather_short_month_update_date">MMM d</string>
+    <string name="widget_dateformat_default_value">MMMM d yyyy</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">預警: %1$d</string>
