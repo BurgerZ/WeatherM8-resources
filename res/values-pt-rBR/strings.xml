@@ -10,7 +10,7 @@
     <string name="act_weather_find_city_net_no_good">Não foi possível conectar à rede</string>
     <string name="act_weather_find_city_no_result">Nenhum resultado</string>
     <string name="act_weather_find_city_searching">Procurando…</string>
-    <string name="activity_detail_time_format">EEEE</string>
+    <string name="activity_detail_time_format">E</string>
     <string name="activity_find_city_dialog_cancel">Cancelar</string>
     <string name="activity_find_city_dialog_message">Permitir que o Weather M8 verifique a sua localização</string>
     <string name="activity_find_city_dialog_set">Configurações</string>
@@ -29,7 +29,7 @@
     <string name="aqi_detail_5_days">Previsão diária</string>
     <string name="aqi_detail_subtitle">IQA %1$s</string>
     <string name="aqi_detail_unit">Unidade: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_main_publish_time">Atualizado %1$s</string>
+    <string name="aqi_main_publish_time">Atualizado às %1$s</string>
     <string name="aqi_main_title">Qualidade do ar</string>
     <string name="aqi_ring_desc">Índice de qualidade do ar</string>
     <string name="aqi_ring_top_pollution">Principais poluentes</string>
@@ -103,7 +103,7 @@ Verifique as suas definições de rede"</string>
     <string name="press_color_to_apply">Toque na cor para aplicar</string>
     <string name="radar_title">Radar</string>
     <string name="settings_about">Acerca de</string>
-    <string name="settings_ads_donation_expl">Faça doações via Google Play pressionando um dos botões abaixo. As doações não vão remover os anúncios do aplicativo. Para remover os anúncios utilize o botão \ "Remover anúncios \"</string>
+    <string name="settings_ads_donation_expl">Faça doações via Google Play pressionando um dos botões abaixo. As doações não vão remover os anúncios do aplicativo. Para remover os anúncios utilize o botão \"Remover anúncios\"</string>
     <string name="settings_ads_donations_title">Compre-me uma cerveja</string>
     <string name="settings_ads_explanation">"Porque é que o aplicativo tem anúncios?
 Programar aplicativos Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios no aplicativo estimula o desenvolvimento de futuras versões"</string>
