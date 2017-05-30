@@ -7,7 +7,7 @@
     <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
     <string name="act_find_city_hot_title">Afegeix</string>
     <string name="act_find_city_hint">Introduïu una ubicació</string>
-    <string name="act_set_city_find_side">"S'està localitzant..."</string>
+    <string name="act_set_city_find_side">"S'està localitzant&#8230;"</string>
     <string name="act_set_city_find_side_error">"No es pot localitzar el dispositiu"</string>
     <string name="button_add_city">Afegeix una ciutat</string>
     <string name="locate_fail_detail_err">"No es pot localitzar el dispositiu
@@ -17,7 +17,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="button_not_allow">Cancel·la</string>
     <string name="act_weather_find_city_net_no_good">"No es pot connectar a la xarxa."</string>
     <string name="act_weather_find_city_click_retry">Reintenta</string>
-    <string name="act_weather_find_city_searching">"S'està cercant..."</string>
+    <string name="act_weather_find_city_searching">"S'està cercant&#8230;"</string>
     <string name="location_tag">Ubicació</string>
     <string name="act_weather_find_city_no_result">Cap resultat</string>
     <string name="act_weather_find_city_added">Afegida</string>
@@ -213,6 +213,16 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
+
+    <string name="aqi_ring_top_pollution">Els principals contaminants</string>
+    <string name="aqi_ring_desc">Índex de Qualitat de l\'Aire</string>
+    <string name="aqi_main_title">Qualitat de l\'aire</string>
+    <string name="aqi_main_publish_time">Actualitzat a les %1$s</string>
+    <string name="aqi_detail_unit">Unitat: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_sub_desc">ICA</string>
+    <string name="aqi_detail_subtitle">ICA %1$s</string>
+    <string name="aqi_detail_24_hours">Pronòstic per hora</string>
+    <string name="aqi_detail_5_days">Pronòstic diari</string>
 
 </resources>
 
