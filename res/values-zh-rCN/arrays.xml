@@ -1,57 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-        <item>Beijing</item>
-        <item>Amsterdam</item>
-        <item>Warsaw</item>
-        <item>Vilnius</item>
-        <item>Riga</item>
-        <item>Madrid</item>
-        <item>Perm</item>
-        <item>Rome</item>
-        <item>Dubai</item>
-        <item>Minsk</item>
-        <item>Blagodarnyy</item>
-        <item>Karaganda</item>
-        <item>Orel</item>
-        <item>Berlin</item>
-        <item>Praha</item>
-        <item>Moscow</item>
-        <item>St. Petersburg</item>
-        <item>Chicago</item>
-        <item>New York</item>
-        <item>Paris</item>
-        <item>London</item>
-        <item>Los Angeles</item>
-        <item>Kaliningrad</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>最弱</item>
-        <item>弱</item>
-        <item>中等</item>
-        <item>强</item>
-        <item>最强</item>
-    </string-array>
-    <string-array name="weather_notif_type_entries">
-        <item>天气图标</item>
-        <item>温度</item>
+        <item>北京</item>
+        <item>阿姆斯特丹</item>
+        <item>华沙</item>
+        <item>维尔纽斯</item>
+        <item>里加</item>
+        <item>马德里</item>
+        <item>彼尔姆</item>
+        <item>罗马</item>
+        <item>迪拜</item>
+        <item>明斯克</item>
+        <item>布拉戈达尔内</item>
+        <item>卡拉干达</item>
+        <item>奥廖尔</item>
+        <item>柏林</item>
+        <item>布拉格</item>
+        <item>莫斯科</item>
+        <item>圣彼得堡</item>
+        <item>芝加哥</item>
+        <item>纽约</item>
+        <item>巴黎</item>
+        <item>伦敦</item>
+        <item>洛杉矶</item>
+        <item>加里宁格勒</item>
     </string-array>
     <string-array name="weather_type">
         <item>晴</item>
         <item>多云</item>
         <item>阴</item>
         <item>雾</item>
-        <item>特大暴雨</item>
+        <item>超大暴雨</item>
         <item>大暴雨</item>
         <item>暴雨</item>
         <item>雷阵雨</item>
-        <item>阵雨</item>
+        <item>降雨</item>
         <item>大雨</item>
         <item>中雨</item>
         <item>小雨</item>
         <item>雨夹雪</item>
         <item>暴雪</item>
-        <item>阵雪</item>
+        <item>降雪</item>
         <item>大雪</item>
         <item>中雪</item>
         <item>小雪</item>
@@ -60,7 +49,7 @@
         <item>沙尘</item>
         <item>扬沙</item>
         <item>冰雹</item>
-        <item>浮尘</item>
+        <item>沙尘</item>
         <item>霾</item>
         <item>冻雨</item>
         <item>没有天气</item>
@@ -75,21 +64,64 @@
         <item>西风</item>
         <item>西北风</item>
     </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>天气图标</item>
+        <item>温度</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>微量级</item>
+        <item>低量级</item>
+        <item>中量级</item>
+        <item>过量级</item>
+        <item>危险级</item>
+    </string-array>
     <string-array name="update_check_interval_entries">
-        <item>15 分钟</item>
-        <item>30 分钟</item>
-        <item>1 小时</item>
-        <item>2 小时</item>
-        <item>3 小时</item>
-        <item>4 小时</item>
-        <item>5 小时</item>
-        <item>6 小时</item>
-        <item>12 小时</item>
-        <item>24 小时</item>
+        <item>每 15 分钟</item>
+        <item>每 30 分钟</item>
+        <item>每 1 小时</item>
+        <item>每 2 小时</item>
+        <item>每 3 小时</item>
+        <item>每 4 小时</item>
+        <item>每 5 小时</item>
+        <item>每 6 小时</item>
+        <item>每 12 小时</item>
+        <item>每 24 小时</item>
     </string-array>
     <string-array name="weather_icons_entries">
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>海平面</item>
+        <item>地点海拔</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>良好</item>
+        <item>中等</item>
+        <item>不适于敏感人群</item>
+        <item>不健康</item>
+        <item>非常不健康</item>
+        <item>危险</item>
     </string-array>
 </resources>
