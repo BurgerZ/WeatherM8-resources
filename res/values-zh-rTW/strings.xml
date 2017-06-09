@@ -260,7 +260,7 @@
     <string name="widget_config_background_type_border">邊框</string>
 
     <string name="widget_config_show_cityname_title">顯示城市名稱</string>
-    <string name="widget_config_show_local_time_title">顯示當地時間</string>
+    <string name="widget_config_show_local_time_title">將時鐘顯示變更為當地時間</string>
     <string name="widget_config_show_leading_zero_title">顯示時鐘起首零位</string>
 
     <string name="widget_config_click_settings">小工具點擊功能</string>
