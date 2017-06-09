@@ -179,6 +179,7 @@
     <string name="weather_details_title">Подробности</string>
     <string name="weather_details_wind_title">Ветер</string>
     <string name="weather_details_real_feel_title">Ощущается</string>
+    <string name="weather_details_temperature_title">Температура</string>
     <string name="weather_details_uv_index_title">Индекс УФ</string>
     <string name="weather_details_pressure_title">Давление</string>
     <string name="weather_details_humidity_title">Влажность</string>

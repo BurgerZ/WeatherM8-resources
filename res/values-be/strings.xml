@@ -129,6 +129,7 @@
     <string name="weather_details_title">Падрабязнасці</string>
     <string name="weather_details_wind_title">Вецер</string>
     <string name="weather_details_real_feel_title">Адчуваецца</string>
+    <string name="weather_details_temperature_title">Тэмпература</string>
     <string name="weather_details_uv_index_title">Індэкс УФ</string>
     <string name="weather_details_pressure_title">Ціск</string>
     <string name="weather_details_humidity_title">Вільготнасць</string>

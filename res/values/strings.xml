@@ -186,6 +186,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="weather_details_title">Weather details</string>
     <string name="weather_details_wind_title">Wind</string>
     <string name="weather_details_real_feel_title">Feels like</string>
+    <string name="weather_details_temperature_title">Temperature</string>
     <string name="weather_details_uv_index_title">UV Index</string>
     <string name="weather_details_pressure_title">Pressure</string>
     <string name="weather_details_humidity_title">Humidity</string>
