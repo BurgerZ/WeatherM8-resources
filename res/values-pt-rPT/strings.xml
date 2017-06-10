@@ -44,8 +44,8 @@
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_weather_transfer">%1$s / %2$s</string>
     <string name="daily_forcast_whirl_wind">Vento forte</string>
-    <string name="daily_forcast_wind_connect">Vento %2$s %1$s</string>
-    <string name="daily_forecast_detail_date">d MMM</string>
+    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+    <string name="daily_forecast_detail_date">d MMMM</string>
     <string name="delete">Eliminar</string>
     <string name="dialog_color_picker">Escolher cor</string>
     <string name="feedback_action_send">Enviar</string>
@@ -211,6 +211,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="weather_details_pressure_mm">%1$s mmHg</string>
     <string name="weather_details_pressure_title">Pressão</string>
     <string name="weather_details_real_feel_title">Sensação térmica</string>
+    <string name="weather_details_temperature_title">Temperatura</string>
     <string name="weather_details_timezone_title">Fuso horário</string>
     <string name="weather_details_title">Detalhes do tempo</string>
     <string name="weather_details_update_date_string">Última actualização: %s</string>

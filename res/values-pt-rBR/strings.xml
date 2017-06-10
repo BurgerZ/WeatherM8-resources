@@ -59,7 +59,7 @@
     <string name="feedback_sent">Obrigado por enviar o seu comentário!</string>
     <string name="feedback_title">Título</string>
     <string name="feedback_title_hint">Inserir título</string>
-    <string name="first_start_network_msg">"Este aplicativo necessidade conexão de rede para procurar os dados metereológicos
+    <string name="first_start_network_msg">"Este aplicativo necessita conexão de rede para procurar os dados metereológicos
         Permissões de uso do aplicativo:
         \u2022 Acessar a localização do dispositivo e as coordenadas atuais
         \u2022 Acessar fotos, media e arquivos para salvar as capturas de tela para Compartilhar"</string>
@@ -211,6 +211,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="weather_details_pressure_mm">%1$s mmHg</string>
     <string name="weather_details_pressure_title">Pressão</string>
     <string name="weather_details_real_feel_title">Sensação térmica</string>
+    <string name="weather_details_temperature_title">Temperatura</string>
     <string name="weather_details_timezone_title">Fuso horário</string>
     <string name="weather_details_title">Detalhes do tempo</string>
     <string name="weather_details_update_date_string">Última atualização: %s</string>
