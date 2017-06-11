@@ -18,7 +18,7 @@
     <string name="activity_main_alert">Alertas: %1$d</string>
     <string name="activity_main_expire_time">Expira %1$s</string>
     <string name="activity_main_refresh_fail">Não foi possível conectar à rede</string>
-    <string name="activity_main_time_format">E, d MMMM</string>
+    <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Atualizado %1$s</string>
     <string name="activity_main_update_time_expire">Dados expiraram</string>
     <string name="activity_main_update_time_right_now">agora mesmo</string>
@@ -45,7 +45,7 @@
     <string name="daily_forcast_weather_transfer">%1$s / %2$s</string>
     <string name="daily_forcast_whirl_wind">Vento forte</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="daily_forecast_detail_date">d MMMM</string>
+    <string name="daily_forecast_detail_date">d MMM</string>
     <string name="delete">Deletar</string>
     <string name="dialog_color_picker">Escolher cor</string>
     <string name="feedback_action_send">Enviar</string>
