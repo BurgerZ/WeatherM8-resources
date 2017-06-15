@@ -219,6 +219,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="weather_details_pressure_mm">%1$s mmHg</string>
     <string name="weather_details_pressure_title">Pritisk</string>
     <string name="weather_details_real_feel_title">Realni občutek</string>
+	<string name="weather_details_temperature_title">Temperatura</string>
     <string name="weather_details_timezone_title">Časovni pas</string>
     <string name="weather_details_title">Podrobnosti vremena</string>
     <string name="weather_details_update_date_string">Gledano: %s</string>
