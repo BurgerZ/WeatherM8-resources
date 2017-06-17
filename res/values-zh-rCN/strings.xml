@@ -52,18 +52,18 @@
 
     <string name="network_error">无法连接服务器\n请检查您的网络设置</string>
     <string name="network_in_quiet_hours">您现在处于暂停更新模式。已停止更新</string>
-    <string name="network_in_roaming">您已将设备设为漫游中禁止更新。</string>
-    <string name="network_wifi_only">只有Wi-Fi连接时更新。</string>
+    <string name="network_in_roaming">您已经设置移动数据禁止更新。</string>
+    <string name="network_wifi_only">只有连接Wi-Fi时更新。</string>
 
     <!-- Preferences -->
     <string name="settings_menu_title">设置</string>
     <string name="settings_autoupdate_weather_title">自动更新</string>
     <string name="settings_autoupdate_weather_summary">自动更新天气预报</string>
-    <string name="settings_update_wifi_only_summary">仅在有Wi-Fi连接时更新天气预报</string>
-    <string name="settings_update_wifi_only_title">只在有Wi-Fi连接时更新</string>
+    <string name="settings_update_wifi_only_summary">仅在连接Wi-Fi时更新天气预报</string>
+    <string name="settings_update_wifi_only_title">连接Wi-Fi时更新</string>
     <string name="settings_update_interval_title">更新频率</string>
-    <string name="settings_update_quiet_hours_end_time_title">结束</string>
-    <string name="settings_update_quiet_hours_start_time_title">开始</string>
+    <string name="settings_update_quiet_hours_end_time_title">结束时间</string>
+    <string name="settings_update_quiet_hours_start_time_title">开始时间</string>
     <string name="settings_update_quiet_hours_title">暂停更新</string>
     <string name="settings_weather_transfer_title">天气描述转换</string>
     <string name="settings_weather_transfer_summary">昼夜转换时显示天气描述</string>
@@ -93,17 +93,17 @@
     <string name="settings_pressure_unit_in">英寸汞柱</string>
     <string name="settings_wind_unit">风速</string>
     <string name="settings_wind_unit_bft">级</string>
-    <string name="settings_wind_unit_kmh">公里/时</string>
+    <string name="settings_wind_unit_kmh">千米/时</string>
     <string name="settings_wind_unit_knot">节</string>
-    <string name="settings_wind_unit_ms">公尺/秒</string>
+    <string name="settings_wind_unit_ms">米/秒</string>
     <string name="settings_wind_unit_mph">英里/时</string>
     <string name="settings_temp_unit">温度</string>
     <string name="settings_visibility_unit">能见度</string>
-    <string name="settings_visibility_unit_kilometers">公里</string>
-    <string name="settings_visibility_unit_meters">公尺</string>
+    <string name="settings_visibility_unit_kilometers">千米</string>
+    <string name="settings_visibility_unit_meters">米</string>
     <string name="settings_visibility_unit_miles">英里</string>
 
-    <string name="settings_realtime_feelslike_as_main_title">将体感温度作为主要温度</string>
+    <string name="settings_realtime_feelslike_as_main_title">体感温度作为主要温度</string>
     <string name="settings_realtime_feelslike_as_main_summary">将主要温度显示更改为体感温度</string>
 
     <string name="settings_show_plus_sign_temp_title">显示 "+" 符号</string>
@@ -142,7 +142,7 @@
     <string name="settings_ads_remove_summary">移除广告一周 (每月一次)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-	<string name="settings_ads_donation_expl">使用底下Google Play捐款按钮并不会移除广告。 如果要移除广告请使用 \"去除广告\" 按钮</string>
+	<string name="settings_ads_donation_expl">使用下面的Google Play捐款按钮并不会移除广告。 如果要移除广告请使用 \"去除广告\" 按钮</string>
     <string name="settings_about">关于</string>
     <string name="settings_translations">应用翻译</string>
     <string name="settings_translations_summary">感谢翻译者们</string>
@@ -185,6 +185,7 @@
     <string name="weather_details_title">天气详情</string>
     <string name="weather_details_wind_title">风速</string>
     <string name="weather_details_real_feel_title">体感温度</string>
+    <string name="weather_details_temperature_title">当前温度</string>
     <string name="weather_details_uv_index_title">紫外线指数</string>
     <string name="weather_details_pressure_title">气压</string>
     <string name="weather_details_humidity_title">湿度</string>
@@ -201,8 +202,8 @@
     <string name="weather_details_pressure_mm">%1$s 毫米汞柱</string>
     <string name="weather_details_pressure_in">%1$s 英寸汞柱</string>
     <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_visibility">%1$s 公里</string>
-    <string name="weather_details_visibility_meters">%1$s 公尺</string>
+    <string name="weather_details_visibility">%1$s 千米</string>
+    <string name="weather_details_visibility_meters">%1$s 米</string>
     <string name="weather_details_visibility_miles">%1$s 英里</string>
 
     <string name="weather_details_update_date_string">观测时间: %s</string>
@@ -211,11 +212,11 @@
     <string name="time_units_minute">分</string>
     <string name="time_units_second">秒</string>
 
-    <string name="hourly_forecast_detail_date">MMM d, E</string>
-    <string name="daily_forecast_detail_date">MMM d</string>
-    <string name="weather_update_date">MMMM d</string>
-    <string name="weather_short_month_update_date">MMM d</string>
-    <string name="widget_dateformat_default_value">MMMM d yyyy</string>
+    <string name="hourly_forecast_detail_date">MMM d日, E</string>
+    <string name="daily_forecast_detail_date">MMM d日</string>
+    <string name="weather_update_date">MMMM d日</string>
+    <string name="weather_short_month_update_date">MMM d日</string>
+    <string name="widget_dateformat_default_value">MMMM d日 yyyy</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">预警: %1$d</string>
@@ -224,10 +225,10 @@
     <string name="daily_forcast_whirl_wind">大风</string>
     <string name="delete">删除</string>
 
-    <string name="wind_unit">%1$s公里/时</string>
+    <string name="wind_unit">%1$s千米/时</string>
     <string name="wind_unit_bft">%1$s级</string>
     <string name="wind_unit_knot">%1$s节</string>
-    <string name="wind_unit_ms">%1$s公尺/秒</string>
+    <string name="wind_unit_ms">%1$s米/秒</string>
     <string name="wind_unit_mph">%1$s英里/时</string>
 
     <string name="hourly_forecast_title">每小时预报</string>
