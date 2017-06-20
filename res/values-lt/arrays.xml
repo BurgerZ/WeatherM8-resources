@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Pekinas</item>
+        <item>Amsterdamas</item>
+        <item>Varšuva</item>
+        <item>Vilnius</item>
+        <item>Ryga</item>
+        <item>Madridas</item>
+        <item>Berlynas</item>
+        <item>Roma</item>
+        <item>Dubajus</item>
+        <item>Minskas</item>
+        <item>Kijevas</item>
+        <item>Budapeštas</item>
+        <item>Praha</item>
+        <item>Maskva</item>
+        <item>Snkt. Peterburgas</item>
+        <item>Čikaga</item>
+        <item>Njujorkas</item>
+        <item>Paryžius</item>
+        <item>Londonas</item>
+        <item>Los Angeles</item>
+        <item>Kaliningradas</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Žemas</item>
+        <item>Vidutinis</item>
+        <item>Aukštas</item>
+        <item>Labai aukštas</item>
+        <item>Ekstremalus</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Orų ikonėlė</item>
+        <item>Temperatūra</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Giedra</item>
+        <item>Debesuota</item>
+        <item>Apsiniaukę</item>
+        <item>Rūkas</item>
+        <item>Smarkus lietus</item>
+        <item>Nedidelis lietus</item>
+        <item>Galimai palys</item>
+        <item>Perkūnija</item>
+        <item>Liūtis</item>
+        <item>Smarkus lietus</item>
+        <item>Lietus</item>
+        <item>Silpnas lietus</item>
+        <item>Šlapdriba</item>
+        <item>Pūga</item>
+        <item>Sniegas</item>
+        <item>Snygis</item>
+        <item>Galimai pasnigs</item>
+        <item>Lengvai sninga</item>
+        <item>Smarki smėlio audra</item>
+        <item>Smėlio audra</item>
+        <item>Smėlio rūkas</item>
+        <item>Vėjuota</item>
+        <item>Kruša</item>
+        <item>Dulkėta</item>
+        <item>Migla</item>
+        <item>Ledinis lietus</item>
+        <item>Nėra duomenų</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Š</item>
+        <item>ŠR</item>
+        <item>R</item>
+        <item>PR</item>
+        <item>R</item>
+        <item>PV</item>
+        <item>V</item>
+        <item>ŠV</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Jūros lygis</item>
+        <item>Miesto lygis</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>15 minučių</item>
+        <item>30 minučių</item>
+        <item>1 valanda</item>
+        <item>2 valandos</item>
+        <item>3 valandos</item>
+        <item>4 valandos</item>
+        <item>5 valandos</item>
+        <item>6 valandos</item>
+        <item>12 valandų</item>
+        <item>24 valandos</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Gera</item>
+        <item>Vidutinė</item>
+        <item>Netinkama itin jautriems žmonėms</item>
+        <item>Nesveika</item>
+        <item>Labai nesveika</item>
+        <item>Pavojinga</item>
+    </string-array>
+</resources>
