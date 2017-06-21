@@ -278,5 +278,7 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="widget_config_realtime_icon_size_title">Dimensiunea curentă a pictogramei meteo</string>
     <string name="widget_config_forecast_icon_size_title">Dimensiunea pictogramei prognozei meteo</string>
     <string name="weather_details_temperature_title">Temperatură</string>
-
+    <string name="weather_details_daylight_diff_longer">Cu %1$s mai lung</string>
+    <string name="weather_details_daylight_diff_shorter">Cu %1$s mai scurt</string>
+    
 </resources>
