@@ -209,6 +209,9 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
 
     <string name="weather_details_update_date_string">Observation time: %s</string>
 
+    <string name="weather_details_daylight_diff_longer">%1$s longer</string>
+    <string name="weather_details_daylight_diff_shorter">%1$s shorter</string>
+
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
     <string name="time_units_second">s</string>

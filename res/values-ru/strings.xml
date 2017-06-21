@@ -202,6 +202,9 @@
 
     <string name="weather_details_update_date_string">По состоянию на: %s</string>
 
+    <string name="weather_details_daylight_diff_longer">На %1$s длиннее</string>
+    <string name="weather_details_daylight_diff_shorter">На %1$s короче</string>
+
     <string name="time_units_hour">" ч"</string>
     <string name="time_units_minute">" мин"</string>
     <string name="time_units_second">" сек"</string>
