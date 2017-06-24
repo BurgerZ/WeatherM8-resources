@@ -52,19 +52,19 @@
 
     <string name="network_error">無法連接伺服器\n請檢查您的網路設定</string>
     <string name="network_in_quiet_hours">您現在處於暫停更新模式。已停止更新</string>
-    <string name="network_in_roaming">您已將設備設為漫遊中禁止更新。</string>
-    <string name="network_wifi_only">只在有Wi-Fi連接時更新。</string>
+    <string name="network_in_roaming">您已將設備設為漫遊中禁止更新</string>
+    <string name="network_wifi_only">只在有Wi-Fi連接時更新</string>
 
     <!-- Preferences -->
     <string name="settings_menu_title">設定</string>
     <string name="settings_autoupdate_weather_title">自動更新</string>
     <string name="settings_autoupdate_weather_summary">自動更新天氣預報</string>
-    <string name="settings_update_wifi_only_summary">僅在有Wi-Fi連線時更新天氣預報</string>
-    <string name="settings_update_wifi_only_title">只在有Wi-Fi連線時更新</string>
-    <string name="settings_update_interval_title">更新頻率</string>
+    <string name="settings_update_wifi_only_summary">僅在有Wi-Fi連線時自動更新天氣預報</string>
+    <string name="settings_update_wifi_only_title">只在有Wi-Fi連線時自動更新</string>
+    <string name="settings_update_interval_title">自動更新頻率</string>
     <string name="settings_update_quiet_hours_end_time_title">結束</string>
     <string name="settings_update_quiet_hours_start_time_title">開始</string>
-    <string name="settings_update_quiet_hours_title">暫停更新</string>
+    <string name="settings_update_quiet_hours_title">暫停自動更新</string>
     <string name="settings_weather_transfer_title">天氣描述轉換</string>
     <string name="settings_weather_transfer_summary">顯示天氣描述，日間夜間中轉換</string>
     <string name="settings_weather_spider_title">氣象數據來源</string>
@@ -107,7 +107,7 @@
     <string name="settings_realtime_feelslike_as_main_summary">將主要溫度顯示更改為體感溫度</string>
 
     <string name="settings_show_plus_sign_temp_title">顯示 "+" 符號</string>
-    <string name="settings_show_plus_sign_temp_summary">顯示 "+" 符號當溫度為正溫度</string>
+    <string name="settings_show_plus_sign_temp_summary">當溫度為正溫度時顯示 "+" 符號</string>
 
     <string name="settings_pressure_level_title">氣壓數值基準</string>
 
@@ -142,7 +142,7 @@
     <string name="settings_ads_remove_summary">移除廣告一周 (每月一次)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-	<string name="settings_ads_donation_expl">使用底下Google Play捐款按鈕並不會移除廣告。 如果要移除廣告請使用 \"去除廣告\" 按鈕</string>
+    <string name="settings_ads_donation_expl">使用底下Google Play捐款按鈕並不會移除廣告。如果要移除廣告請使用 \"去除廣告\" 按鈕</string>
     <string name="settings_about">關於</string>
     <string name="settings_translations">應用翻譯</string>
     <string name="settings_translations_summary">感謝翻譯者們</string>
@@ -150,7 +150,7 @@
     <string name="settings_permissions">權限</string>
     <string name="settings_help">幫助</string>
     <string name="settings_feedback">反饋</string>
-    <string name="settings_dialog_enter_timezone">輸入所選城市的時區 (%s)， 例如 GMT+03:00:</string>
+    <string name="settings_dialog_enter_timezone">輸入所選城市的時區(%s)，例如 GMT+03:00</string>
 
     <string name="feedback_title">標題</string>
     <string name="feedback_title_hint">簡單的描述問題</string>
@@ -207,16 +207,16 @@
     <string name="weather_details_visibility_miles">%1$s 英里</string>
 
     <string name="weather_details_update_date_string">觀測時間: %s</string>
-
+	
     <string name="time_units_hour">時</string>
     <string name="time_units_minute">分</string>
     <string name="time_units_second">秒</string>
 
-    <string name="hourly_forecast_detail_date">MMM d, E</string>
-    <string name="daily_forecast_detail_date">MMM d</string>
-    <string name="weather_update_date">MMMM d</string>
-    <string name="weather_short_month_update_date">MMM d</string>
-    <string name="widget_dateformat_default_value">MMMM d yyyy</string>
+    <string name="hourly_forecast_detail_date">MMM d日, E</string>
+    <string name="daily_forecast_detail_date">MMM d日</string>
+    <string name="weather_update_date">MMMM d日</string>
+    <string name="weather_short_month_update_date">MMM d日</string>
+    <string name="widget_dateformat_default_value">MMMM d日 yyyy</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">預警: %1$d</string>
@@ -282,7 +282,7 @@
     <string name="moon_lastquarter">下弦月</string>
     <string name="moon_waningcrescent">殘月</string>
     <string name="moon_illuminated">受照: %s%%</string>
-    <string name="moon_since">日期: %1$s %2$s</string>
+    <string name="moon_since">日期: %1$s %2$s日</string>
     <string name="moon_distanse">月球距離: %s 公里</string>
     <string name="moon_angle">月球角度: %s</string>
     <string name="moon_rise">月出時間: %s</string>
@@ -342,4 +342,3 @@
     <!-- Radar -->
     <string name="radar_title">Radar</string>
 </resources>
-
