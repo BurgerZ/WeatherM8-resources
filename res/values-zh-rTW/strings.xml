@@ -208,6 +208,9 @@
 
     <string name="weather_details_update_date_string">觀測時間: %s</string>
 	
+    <string name="weather_details_daylight_diff_longer">今天日照長了%1$s鐘</string>
+    <string name="weather_details_daylight_diff_shorter">今天日照短了%1$s鐘</string>
+	
     <string name="time_units_hour">時</string>
     <string name="time_units_minute">分</string>
     <string name="time_units_second">秒</string>
