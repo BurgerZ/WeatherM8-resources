@@ -4,7 +4,7 @@
     <string name="app_version">版本: %s</string>
     <string name="location_management">地點</string>
     <string name="gps_hint">GPS</string>
-    <string name="network_unavailable">"無法連接到網絡。"</string>
+    <string name="network_unavailable">"無法連接到網絡"</string>
     <string name="act_find_city_hot_title">新增城市</string>
     <string name="act_find_city_hint">輸入城市名</string>
     <string name="act_set_city_find_side">定位中…</string>
@@ -208,8 +208,8 @@
 
     <string name="weather_details_update_date_string">觀測時間: %s</string>
 	
-    <string name="weather_details_daylight_diff_longer">今天日照長了%1$s鐘</string>
-    <string name="weather_details_daylight_diff_shorter">今天日照短了%1$s鐘</string>
+    <string name="weather_details_daylight_diff_longer">較昨天增加%1$s鐘</string>
+    <string name="weather_details_daylight_diff_shorter">較昨天減少%1$s鐘</string>
 	
     <string name="time_units_hour">時</string>
     <string name="time_units_minute">分</string>
