@@ -59,12 +59,12 @@
     <string name="settings_menu_title">设置</string>
     <string name="settings_autoupdate_weather_title">自动更新</string>
     <string name="settings_autoupdate_weather_summary">自动更新天气预报</string>
-    <string name="settings_update_wifi_only_summary">仅在连接Wi-Fi时更新天气预报</string>
-    <string name="settings_update_wifi_only_title">连接Wi-Fi时更新</string>
-    <string name="settings_update_interval_title">更新频率</string>
+    <string name="settings_update_wifi_only_summary">仅在连接Wi-Fi时自动更新天气预报</string>
+    <string name="settings_update_wifi_only_title">连接Wi-Fi时自动更新</string>
+    <string name="settings_update_interval_title">自动更新频率</string>
     <string name="settings_update_quiet_hours_end_time_title">结束时间</string>
     <string name="settings_update_quiet_hours_start_time_title">开始时间</string>
-    <string name="settings_update_quiet_hours_title">暂停更新</string>
+    <string name="settings_update_quiet_hours_title">暂停自动更新</string>
     <string name="settings_weather_transfer_title">天气描述转换</string>
     <string name="settings_weather_transfer_summary">昼夜转换时显示天气描述</string>
     <string name="settings_weather_spider_title">天气数据来源</string>
@@ -142,7 +142,7 @@
     <string name="settings_ads_remove_summary">移除广告一周 (每月一次)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-	<string name="settings_ads_donation_expl">使用下面的Google Play捐款按钮并不会移除广告。 如果要移除广告请使用 \"去除广告\" 按钮</string>
+	<string name="settings_ads_donation_expl">使用下面的Google Play捐款按钮并不会移除广告。如果要移除广告请使用 \"去除广告\" 按钮</string>
     <string name="settings_about">关于</string>
     <string name="settings_translations">应用翻译</string>
     <string name="settings_translations_summary">感谢翻译者们</string>
@@ -150,7 +150,7 @@
     <string name="settings_permissions">权限</string>
     <string name="settings_help">帮助</string>
     <string name="settings_feedback">反馈</string>
-    <string name="settings_dialog_enter_timezone">输入所选城市的时区 (%s)， 例如 GMT+03:00:</string>
+    <string name="settings_dialog_enter_timezone">输入所选城市的时区(%s)，例如 GMT+03:00:</string>
 
     <string name="feedback_title">标题</string>
     <string name="feedback_title_hint">简单的描述问题</string>
@@ -208,15 +208,18 @@
 
     <string name="weather_details_update_date_string">观测时间: %s</string>
 
-    <string name="time_units_hour">时</string>
-    <string name="time_units_minute">分</string>
-    <string name="time_units_second">秒</string>
+    <string name="weather_details_daylight_diff_longer">长%1$s</string>
+    <string name="weather_details_daylight_diff_shorter">短%1$s</string>
 
-    <string name="hourly_forecast_detail_date">MMM d日, E</string>
-    <string name="daily_forecast_detail_date">MMM d日</string>
-    <string name="weather_update_date">MMMM d日</string>
-    <string name="weather_short_month_update_date">MMM d日</string>
-    <string name="widget_dateformat_default_value">MMMM d日 yyyy</string>
+    <string name="time_units_hour">h</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
+
+    <string name="hourly_forecast_detail_date">MMMd日, E</string>
+    <string name="daily_forecast_detail_date">MMMd日</string>
+    <string name="weather_update_date">MMMMd日</string>
+    <string name="weather_short_month_update_date">MMMd日</string>
+    <string name="widget_dateformat_default_value">MMMMd日 yyyy</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">预警: %1$d</string>
@@ -282,7 +285,7 @@
     <string name="moon_lastquarter">下弦月</string>
     <string name="moon_waningcrescent">残月</string>
     <string name="moon_illuminated">受照: %s%%</string>
-    <string name="moon_since">日期: %1$s %2$s</string>
+    <string name="moon_since">日期: %1$s %2$s日</string>
     <string name="moon_distanse">月球距离: %s 公里</string>
     <string name="moon_angle">月球角度: %s</string>
     <string name="moon_rise">月出时间: %s</string>
