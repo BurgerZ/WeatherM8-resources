@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string name="app_name">El temps M8</string>
     <string name="app_version">Versió: %s</string>
     <string name="location_management">Ubicacions</string>
@@ -12,8 +12,8 @@
     <string name="button_add_city">Afegeix una ciutat</string>
     <string name="locate_fail_detail_err">"No es pot localitzar el dispositiu
 Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-la de nou"</string>
-    <string name="act_set_city_swipe_hint">"Llisqueu cap a l'esquerra per esborrar la ciutat"</string>
-    <string name="button_allow">Accepta</string>
+    <string name="act_set_city_swipe_hint">Llisqueu cap a l'esquerra per esborrar la ciutat</string>
+    <string name="button_allow">D'acord</string>
     <string name="button_not_allow">Cancel·la</string>
     <string name="act_weather_find_city_net_no_good">"No es pot connectar a la xarxa."</string>
     <string name="act_weather_find_city_click_retry">Reintenta</string>
@@ -25,7 +25,8 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="view_indexes_item_today">Avui</string>
     <string name="view_indexes_item_tommorrow">Demà</string>
     <string name="activity_main_update_time">Actualitzat %1$s</string>
-    <string name="activity_main_expire_time">Expira %1$s</string>
+    <string name="activity_main_expire_time">Caduca %1$s</string>
+    <string name="activity_main_update_time_expire">Les dades han caducat</string>
     <string name="activity_main_update_time_right_now">ara mateix</string>
     <string name="activity_main_refresh_fail">"No s'ha pogut connectar a la xarxa"</string>
     <string name="activity_find_city_dialog_cancel">Cancel·la</string>
@@ -40,30 +41,61 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
         \u2022 Accés a la ubicació del dispositu per obtenir les coordenades actuals.
         \u2022 Accés a les fotos, multimèdia i arxius per desar captures de pantalla per a la funció Comparteix."</string>
     <string name="first_start_network_title">Connexió a Internet i accés a la ubicació</string>
+
+    <string name="get_accounts_msg">Aquesta aplicació requereix accés a la llista de comptes del dispositiu per verificar les seves compres i desactivar els anuncis.</string>
+    <string name="get_accounts_title">Accés als comptes</string>
+
     <string name="international_detail_menu_title">Detalls</string>
     <string name="share_menu_title">Comparteix</string>
+
+    <string name="common_auto">Automàtic</string>
+    <string name="common_recommended">Recomanat</string>
+
+    <string name="network_error">No s'ha pogut connectar al servidor.\nComproveu la configuració de xarxa.</string>
+    <string name="network_in_quiet_hours">Sou al mode no molesteu. Actualitzacions cancel·lades.</string>
+    <string name="network_in_roaming">Teniu configuracions per desactivar les actualitzacions en itinerància.</string>
+    <string name="network_wifi_only">Actualitzacions definides només per Wi-Fi.</string>
 
     <!-- Preferences -->
     <string name="settings_menu_title">Configuració</string>
     <string name="settings_autoupdate_weather_title">Actualització automàtica</string>
     <string name="settings_autoupdate_weather_summary">Actualitza la previsió meteorològica automàticament</string>
-    <string name="settings_update_interval_title">"Interval d'actualització"</string>
-    <string name="settings_weather_transfer_title">Transferència de la descripció meteorològica</string>
-    <string name="settings_weather_transfer_summary">Mostra la descripció meteorolàgica dia a nit</string>
-    <string name="settings_weather_spider_title">"Font d'actualització"</string>
+    <string name="settings_update_wifi_only_summary">Actualitzar automàticament la previsió meteorològica només quan s'estableix una connexió Wi-Fi</string>
+    <string name="settings_update_wifi_only_title">Actualitza només amb Wi-Fi</string>
+    <string name="settings_update_interval_title">Interval d'actualització</string>
+    <string name="settings_update_quiet_hours_end_time_title">Fi</string>
+    <string name="settings_update_quiet_hours_start_time_title">Inici</string>
+    <string name="settings_update_quiet_hours_title">Període sense notifications</string>
+    <string name="settings_weather_transfer_title">Transferència de descripcions meteorològiques</string>
+    <string name="settings_weather_transfer_summary">Mostra descripció del clima de la transferència del dia a la nit</string>
+    <string name="settings_weather_spider_title">Font d'actualització</string>
+    <string name="settings_weather_realtime_spider_title">Dades en temps real</string>
+    <string name="settings_weather_forecast_spider_title">Dades de previsió</string>
+    <string name="settings_weather_station_title">Estació meteorològica</string>
+    <string name="settings_aqi_title">@string/aqi_main_title</string>
+    <string name="settings_aqi_onoff_title">Informació sobre la qualitat de l'aire</string>
+    <string name="settings_aqi_onoff_summary">Mostra la informació de l'índex de qualitat de l'aire a les ubicacions (si està disponible)</string>
+    <string name="settings_aqi_max_distance_closest">Estació més propera</string>
+    <string name="settings_aqi_max_distance_title">Radi de verificació IQA</string>
+    <string name="settings_aqi_max_distance_summary">Obtén dades de la qualitat de l'aire de les estacions meteorològiques situades a %1$s</string>
     <string name="settings_app_locale_title">Idioma</string>
     <string name="settings_app_theme_title">Tema</string>
     <string name="settings_app_theme_light">Clar</string>
     <string name="settings_app_theme_dark">Fosc</string>
+    <string name="settings_sound_volume">Volum del so</string>
     <string name="settings_weather_details_title">Detalls meteorològics</string>
     <string name="settings_weather_details_summary">Seleccioneu els detalls del temps per mostrar a la pantalla principal</string>
     <string name="settings_category_units">Unitats</string>
     <string name="settings_pressure_unit">Pressió</string>
+    <string name="settings_pressure_unit_atm">atm</string>
+    <string name="settings_pressure_unit_hpa">hPa</string>
     <string name="settings_pressure_unit_mb">mb</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_wind_unit">Velocitat del vent</string>
+    <string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
+    <string name="settings_wind_unit_knot">nusos</string>
     <string name="settings_wind_unit_ms">m/s</string>
     <string name="settings_wind_unit_mph">mph</string>
     <string name="settings_temp_unit">Temperatura</string>
@@ -72,33 +104,66 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">milles</string>
 
+    <string name="settings_realtime_feelslike_as_main_title">Sensació tèrmica com a temperatura principal</string>
+    <string name="settings_realtime_feelslike_as_main_summary">Mostra la temperatura de sensació real com a temperatura principal</string>
+
+    <string name="settings_show_plus_sign_temp_title">Mostra el signe «+»</string>
+    <string name="settings_show_plus_sign_temp_summary">Mostra el signe «+» per a temperatures positives</string>
+
+    <string name="settings_pressure_level_title">Mostra la pressió per a</string>
+
     <string name="settings_city_base">Base de dades de ciutats</string>
 
     <string name="settings_notifications_title">Notificacions</string>
     <string name="settings_notifications_summary">Configuració de les notificacions del temps</string>
     <string name="settings_notification_title">Mostra les notificacions</string>
-    <string name="settings_notification_summary">"Mostra les condicions climàtiques actuals en l'àrea de notificació"</string>
+    <string name="settings_notification_summary">Mostra les condicions climàtiques actuals en l'àrea de notificació</string>
 
     <string name="settings_notification_priority_title">Prioritat mínima</string>
-    <string name="settings_notification_priority_summary">"Les notificacions de prioritat mínima només apareixen en l'àrea de notificació"</string>
+    <string name="settings_notification_priority_summary">Les notificacions de prioritat mínima només apareixen en l'àrea de notificació</string>
 
     <string name="settings_notify_type_title">Icona de notificació</string>
+    <string name="settings_notification_statusbar_color_title">Color de la icona de notificació</string>
 
     <string name="settings_alerts_title">Gestiona les alertes</string>
-    <string name="settings_realtime_feelslike_as_main_title">Sensació tèrmica com a temperatura principal</string>
-    <string name="settings_realtime_feelslike_as_main_summary">Mostra la temperatura de sensació real com a temperatura principal</string>
+
     <string name="settings_icons_title">Icones del temps</string>
+    <string name="settings_icons_builtin_title">Icones del temps incorporats</string>
+    <string name="settings_icons_theme_details_title">Detalls del tema</string>
+
+    <string name="settings_widgets_title">Ginys</string>
+    <string name="settings_widgets_not_found">No hi ha cap giny instal·lat</string>
+
     <string name="settings_ads_title">Publicitat i donacions</string>
+    <string name="settings_ads_donations_title">Compra'm una cervesa</string>
     <string name="settings_ads_explanation">"Per què estic veient publicitat?
 Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el meu temps lliure. Així que, si us plau, enteneu l'aparició d'un cert nombre de bàners. La publicació d'anuncis en l'aplicació estimula el desenvolupament posterior."</string>
+    <string name="settings_ads_menu_hide_title">Amaga aquest element del menú</string>
     <string name="settings_ads_remove_title">Elimina la publicitat</string>
-    <string name="settings_ads_remove_summary">Evita la publicitat durant una setmana (un cop al mes)</string>
+    <string name="settings_ads_remove_summary">Elimina la publicitat durant una setmana (un cop al mes)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
+    <string name="settings_ads_webmoney">Webmoney</string>
+    <string name="settings_ads_donation_expl">La donació a través de Google Play al pressionar aquests botons NO eliminarà els anuncis. Per eliminar ha d'utilitzar el botó \"Elimina la publicitat\".</string>
     <string name="settings_about">Quant a</string>
-    <string name="settings_translations">"Traduccions de l'aplicació"</string>
-    <string name="settings_translations_summary">"Crèdits als traductors de l'aplicació. En Jaime Muñoz la va traduïr al Català"</string>
+    <string name="settings_translations">Traduccions</string>
+    <string name="settings_translations_summary">Crèdits als traductors de l'aplicació</string>
     <string name="settings_thirdparty">Llibreries i recursos de tercers</string>
+    <string name="settings_permissions">Permisos</string>
     <string name="settings_help">Ajuda</string>
+    <string name="settings_feedback">Envia comentaris</string>
+    <string name="settings_dialog_enter_timezone">Introduïu la zona horària per a la ciutat seleccionada (%s), per exemple GMT+03:00:</string>
+
+    <string name="feedback_title">Títol</string>
+    <string name="feedback_title_hint">Descriviu el problema breument</string>
+    <string name="feedback_description">Descripció</string>
+    <string name="feedback_description_hint">Descriviu el problema o la proposta detalladament</string>
+    <string name="feedback_add_images">Afegeix imatges</string>
+    <string name="feedback_select_upload_settings">Puja la configuració de l'aplicació</string>
+    <string name="feedback_action_send">Envia</string>
+    <string name="feedback_fill_required">Els camps obligatoris no es poden deixar en blanc</string>
+    <string name="feedback_sending">S'estan enviant els comentaris&#8230;</string>
+    <string name="feedback_sent">Gràcies pels comentaris!</string>
+    <string name="feedback_error">S'ha produït un error en enviar els comentaris</string>
 
     <string name="share_btn_cancel">Cancel·la</string>
     <string name="share_btn_confirm">Comparteix</string>
@@ -109,9 +174,9 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="share_weather_desc">\#ElTemps M8# Avui %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="hourly_forcast_now">Ara</string>
-    <string name="sunrise">Sortida del sol</string>
-    <string name="sunset">Posta del sol</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s després.</string>
+    <string name="sunrise">Alba</string>
+    <string name="sunset">Ocàs</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_drawer_on_top">Pronòstic diari</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
@@ -121,15 +186,20 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="weather_details_title">Detalls meteorològics</string>
     <string name="weather_details_wind_title">Vent</string>
     <string name="weather_details_real_feel_title">Sensació tèrmica</string>
+    <string name="weather_details_temperature_title">Temperatura</string>
     <string name="weather_details_uv_index_title">Índex UV</string>
     <string name="weather_details_pressure_title">Pressió</string>
     <string name="weather_details_humidity_title">Humitat</string>
     <string name="weather_details_visibility_title">Visibilitat</string>
     <string name="weather_details_precipitation_prob_title">Precipitació</string>
-    <string name="weather_details_daylight_hours_title">Hores de llum solar</string>
+    <string name="weather_details_daylight_hours_title">Hores de llum</string>
+    <string name="weather_details_timezone_title">Zona horària</string>
+    <string name="weather_details_elevation_title">Altitud</string>
 
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_pressure">%1$s hPa</string>
+    <string name="weather_details_pressure_atm">%1$s atm</string>
+    <string name="weather_details_pressure_mb">%1$s mb</string>
     <string name="weather_details_pressure_mm">%1$s mmHg</string>
     <string name="weather_details_pressure_in">%1$s inHg</string>
     <string name="weather_details_humidity">%1$s%%</string>
@@ -137,9 +207,20 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s milles</string>
 
+    <string name="weather_details_update_date_string">Temps d'observació: %s</string>
+
+    <string name="weather_details_daylight_diff_longer">%1$s més llarg</string>
+    <string name="weather_details_daylight_diff_shorter">%1$s més curt</string>
+
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
     <string name="time_units_second">s</string>
+
+    <string name="hourly_forecast_detail_date">E, d MMM</string>
+    <string name="daily_forecast_detail_date">d MMM</string>
+    <string name="weather_update_date">d MMMM</string>
+    <string name="weather_short_month_update_date">d MMM</string>
+    <string name="widget_dateformat_default_value">d MMMM yyyy</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">Alertes: %1$d</string>
@@ -149,26 +230,32 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="delete">Delete</string>
 
     <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit_bft">%1$sbft</string>
+    <string name="wind_unit_knot">%1$snusos</string>
     <string name="wind_unit_ms">%1$sm/s</string>
     <string name="wind_unit_mph">%1$smph</string>
 
-    <string name="hourly_forecast_title">Previsió per hores</string>
+    <string name="hourly_forecast_title">Previsió horària</string>
 
     <!-- Widgets -->
     <string name="widget_update_date_string">Actualizat fa %s</string>
-    <string name="widget_update_updating_string">"S'està actualitzant…"</string>
+    <string name="widget_update_updating_string">S'està actualitzant&#8230;</string>
     <!-- Widget config -->
     <string name="widget_config_title">Configuració del giny</string>
     <string name="widget_config_custom_clock_font_onoff_title">Font del rellotge personalizada</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">"Desactiva si el giny del rellote no s'actualitza"</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">Desactiva-ho si el giny del rellote no s'actualitza</string>
     <string name="widget_config_clock_font_title">Font del rellotge</string>
+    <string name="widget_config_clock_color_title">Color del rellotge</string>
     <string name="widget_config_clock_font_size_title">Mida de la font del rellotge</string>
     <string name="widget_config_date_font_size_title">Mida de la font de la data</string>
+    <string name="widget_config_dateformat_title">Format de la data</string>
     <string name="widget_config_realtime_font_title">Font de les dades en temps real</string>
     <string name="widget_config_realtime_font_size_title">Mida de les dades en temps real</string>
+    <string name="widget_config_realtime_icon_size_title">Mida de la icona meteorològica actual</string>
+    <string name="widget_config_forecast_icon_size_title">Mida de la icona de la previsió</string>
     <string name="widget_config_font_title">Font del text</string>
     <string name="widget_config_font_size_title">Mida del text</string>
-    <string name="widget_config_text_color_title">Text color</string>
+    <string name="widget_config_text_color_title">Color del text</string>
     <string name="widget_config_show_alarm_title">Mostra la propera alarma</string>
     <string name="widget_config_use_background_title">Mostra el giny en segon plà</string>
     <string name="widget_config_background_color_title">Color del segon plà</string>
@@ -176,9 +263,20 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_background_type_solid">Sòlid</string>
     <string name="widget_config_background_type_border">Vora</string>
 
+    <string name="widget_config_show_cityname_title">Mostra el nom de la ciutat</string>
+    <string name="widget_config_show_local_time_title">Mostra l'hora local</string>
+    <string name="widget_config_show_leading_zero_title">Mostra el zero inicial</string>
+
+    <string name="widget_config_click_settings">Feu clic en la configuració d'àrees del giny</string>
+    <string name="widget_config_click_apps">Seleccioneu una aplicació</string>
+    <string name="widget_config_click_clock">Rellotge</string>
+    <string name="widget_config_click_date">Data</string>
+    <string name="widget_config_click_weather_icon">Icona del temps</string>
+    <string name="widget_config_click_temperature">Temperatura</string>
+
     <!-- Moon Phases -->
-    <string name="menu_moon_phases">Fases llunars</string>
-    <string name="moon_age">Edat: %1$s dies %2$s hores %3$s minuts</string>
+    <string name="menu_moon_phases">Fases lunars</string>
+    <string name="moon_age">Edat: %1$s dies %2$s houres %3$s minuts</string>
     <string name="moon_newmoon">Lluna nova</string>
     <string name="moon_waxingcrescent">Lluna creixent</string>
     <string name="moon_firstquarter">Quart creixent</string>
@@ -189,8 +287,10 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="moon_waningcrescent">Lluna minvant</string>
     <string name="moon_illuminated">Il·luminada: %s%%</string>
     <string name="moon_since">Data: %1$s %2$s</string>
-    <string name="moon_distanse">Distància llunar: %s км</string>
-    <string name="moon_angle">Angle llunar: %s</string>
+    <string name="moon_distanse">Distància lunar: %s км</string>
+    <string name="moon_angle">Angle lunar: %s</string>
+    <string name="moon_rise">Sortida: %s</string>
+    <string name="moon_set">Posta: %s</string>
     <string name="moon_zodiac">Zodíac: %s</string>
 
     <string name="zodiac_aries">Àries</string>
@@ -212,17 +312,38 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>
-    <string name="weather_details_pressure_mb">%1$s mb</string>
 
-    <string name="aqi_ring_top_pollution">Els principals contaminants</string>
-    <string name="aqi_ring_desc">Índex de Qualitat de l\'Aire</string>
-    <string name="aqi_main_title">Qualitat de l\'aire</string>
-    <string name="aqi_main_publish_time">Actualitzat a les %1$s</string>
+    <!-- AQI -->
+    <string name="aqi_main_title">Qualitat de l'aire</string>
+    <string name="aqi_main_publish_time">Actualitzat fa %1$s</string>
+
+    <string name="aqi_ring_top_pollution">Principals contaminants</string>
+    <string name="aqi_ring_desc">Índex de qualitat de l'aire</string>
+
+    <string name="aqi_sub_desc">IQA</string>
+
+    <string name="aqi_detail_subtitle">IQA %1$s</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_so2">SO₂</string>
+    <string name="aqi_detail_no2">NO₂</string>
+    <string name="aqi_detail_co">CO</string>
+    <string name="aqi_detail_o3">O₃</string>
+
+    <string name="top_pollution_pm25">PM2.5</string>
+    <string name="top_pollution_pm10">PM10</string>
+    <string name="top_pollution_so2">SO2</string>
+    <string name="top_pollution_no2">NO2</string>
+    <string name="top_pollution_co">CO</string>
+    <string name="top_pollution_o3">O3</string>
+
+    <string name="aqi_detail_5_days">Previsió diària</string>
+    <string name="aqi_detail_24_hours">Previsió horària</string>
+
     <string name="aqi_detail_unit">Unitat: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_sub_desc">ICA</string>
-    <string name="aqi_detail_subtitle">ICA %1$s</string>
-    <string name="aqi_detail_24_hours">Pronòstic per hora</string>
-    <string name="aqi_detail_5_days">Pronòstic diari</string>
+    <string name="aqi_data_source">%s</string>
 
+    <!-- Radar -->
+    <string name="radar_title">Radar</string>
 </resources>
 
