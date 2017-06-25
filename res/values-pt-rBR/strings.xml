@@ -199,6 +199,8 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="view_forecast_item_yesterday">Ontem</string>
     <string name="view_indexes_item_today">Hoje</string>
     <string name="view_indexes_item_tommorrow">Amanhã</string>
+    <string name="weather_details_daylight_diff_longer">Mais %1$s que ontem</string>
+    <string name="weather_details_daylight_diff_shorter">Menos %1$s que ontem</string>
     <string name="weather_details_daylight_hours_title">Horas diurnas</string>
     <string name="weather_details_elevation_title">Elevação</string>
     <string name="weather_details_humidity">%1$s%%</string>
