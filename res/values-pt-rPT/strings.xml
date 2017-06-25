@@ -45,7 +45,7 @@
     <string name="daily_forcast_weather_transfer">%1$s / %2$s</string>
     <string name="daily_forcast_whirl_wind">Vento forte</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="daily_forecast_detail_date">d MMM</string>
+    <string name="daily_forecast_detail_date">d MMMM</string>
     <string name="delete">Eliminar</string>
     <string name="dialog_color_picker">Escolher cor</string>
     <string name="feedback_action_send">Enviar</string>
