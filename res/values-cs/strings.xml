@@ -290,4 +290,5 @@ Zkontrolujte síťové nastavení."</string>
     <string name="settings_ads_donation_expl">Stisknutím těchto tlačítek pro přispění prostřednictvím služby Google Play NEJSOU odstraněny reklamy. Chcete-li je odstranit, použijte tlačítko \"Odebrat reklamy\".</string>
     <string name="widget_config_realtime_icon_size_title">Velikost ikony aktuálního počasí</string>
     <string name="widget_config_forecast_icon_size_title">Velikost ikony předpovědi počasí</string>    
+    <string name="widget_config_show_date_title">Zobrazit datum</string>
 </resources>
