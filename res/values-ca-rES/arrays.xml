@@ -71,11 +71,11 @@
         <item>Temperatura</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Baix</item> <!-- 0-2.9 -->
-        <item>Moderat</item> <!-- 3-5.9 -->
-        <item>Alt</item> <!-- 6-7.9 -->
-        <item>Molt alt</item> <!-- 8-10.9 -->
-        <item>Extrem</item> <!-- 11+ -->
+        <item>Molt baix</item>
+        <item>Baix</item>
+        <item>Mig</item>
+        <item>Alt</item>
+        <item>Molt alt</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minuts</item>
