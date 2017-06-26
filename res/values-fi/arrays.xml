@@ -92,18 +92,6 @@
         <item>YunOS</item>
         <item>Simple</item>
     </string-array>
-    <string-array name="widget_dateformat_values">
-        <item>d MMMM yyyy</item>
-        <item>d MMM yyyy</item>
-        <item>MMMM d, yyyy</item>
-        <item>MMM d, yyyy</item>
-        <item>dd/MM/yy</item>
-        <item>dd.MM.yy</item>
-        <item>dd/MM/yyyy</item>
-        <item>dd.MM.yyyy</item>
-        <item>MM/dd/yyyy</item>
-        <item>yyyy/MM/dd</item>
-    </string-array>
     <string-array name="pressure_level_entries">
         <item>Merenpinta</item>
         <item>Korkeus</item>
