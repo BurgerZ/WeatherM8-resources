@@ -115,5 +115,15 @@
         <item>dd.MM.yyyy</item>
         <item>MM/dd/yyyy</item>
         <item>yyyy/MM/dd</item>
+        <item>E, d. MMMM yyyy</item>
+        <item>E, d. MMM yyyy</item>
+        <item>E, MMMM d., yyyy</item>
+        <item>E, MMM d., yyyy</item>
+        <item>E, dd/MM/yy</item>
+        <item>E, dd.MM.yy</item>
+        <item>E, dd/MM/yyyy</item>
+        <item>E, dd.MM.yyyy</item>
+        <item>E, MM/dd/yyyy</item>
+        <item>E, yyyy/MM/dd</item>
     </string-array>
 </resources>

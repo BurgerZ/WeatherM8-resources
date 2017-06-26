@@ -71,11 +71,11 @@
         <item>Temperature</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Weakest</item>
-        <item>Weak</item>
-        <item>Mid-range</item>
-        <item>Strong</item>
-        <item>Strongest</item>
+        <item>Low</item> <!-- 0-2.9 -->
+        <item>Moderate</item> <!-- 3-5.9 -->
+        <item>High</item> <!-- 6-7.9 -->
+        <item>Very High</item> <!-- 8-10.9 -->
+        <item>Extreme</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minutes</item>
@@ -105,6 +105,16 @@
         <item>dd.MM.yyyy</item>
         <item>MM/dd/yyyy</item>
         <item>yyyy/MM/dd</item>
+        <item>E, d MMMM yyyy</item>
+        <item>E, d MMM yyyy</item>
+        <item>E, MMMM d, yyyy</item>
+        <item>E, MMM d, yyyy</item>
+        <item>E, dd/MM/yy</item>
+        <item>E, dd.MM.yy</item>
+        <item>E, dd/MM/yyyy</item>
+        <item>E, dd.MM.yyyy</item>
+        <item>E, MM/dd/yyyy</item>
+        <item>E, yyyy/MM/dd</item>
     </string-array>
     <string-array name="pressure_level_entries">
         <item>Sea level</item>
