@@ -257,6 +257,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_font_size_title">Mida del text</string>
     <string name="widget_config_text_color_title">Color del text</string>
     <string name="widget_config_show_alarm_title">Mostra la propera alarma</string>
+	<string name="widget_config_show_date_title">Mostra la data</string>
     <string name="widget_config_use_background_title">Mostra el giny en segon plà</string>
     <string name="widget_config_background_color_title">Color del segon plà</string>
     <string name="widget_config_background_type_title">Tipus de segon plà</string>
