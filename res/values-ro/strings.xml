@@ -280,5 +280,6 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="weather_details_temperature_title">Temperatură</string>
     <string name="weather_details_daylight_diff_longer">Cu %1$s mai lung</string>
     <string name="weather_details_daylight_diff_shorter">Cu %1$s mai scurt</string>
+    <string name="widget_config_show_date_title">Afişare dată</string>
     
 </resources>
