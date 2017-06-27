@@ -208,8 +208,8 @@
 
     <string name="weather_details_update_date_string">观测时间: %s</string>
 
-    <string name="weather_details_daylight_diff_longer">长%1$s</string>
-    <string name="weather_details_daylight_diff_shorter">短%1$s</string>
+    <string name="weather_details_daylight_diff_longer">比昨天长%1$s</string>
+    <string name="weather_details_daylight_diff_shorter">比昨天短%1$s</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
@@ -256,6 +256,7 @@
     <string name="widget_config_font_size_title">文本大小</string>
     <string name="widget_config_text_color_title">文本颜色</string>
     <string name="widget_config_show_alarm_title">显示闹钟</string>
+    <string name="widget_config_show_date_title">显示日期</string>
     <string name="widget_config_use_background_title">显示小工具背景</string>
     <string name="widget_config_background_color_title">背景颜色</string>
     <string name="widget_config_background_type_title">背景类型</string>
@@ -263,8 +264,8 @@
     <string name="widget_config_background_type_border">边框</string>
 
     <string name="widget_config_show_cityname_title">显示城市名称</string>
-    <string name="widget_config_show_local_time_title">将时钟显示变更为当地时间</string>
-    <string name="widget_config_show_leading_zero_title">显示时钟起首零位</string>
+    <string name="widget_config_show_local_time_title">显示当地时间</string>
+    <string name="widget_config_show_leading_zero_title">显示时间开头的零</string>
 
     <string name="widget_config_click_settings">小工具点击功能</string>
     <string name="widget_config_click_apps">选择应用程序</string>

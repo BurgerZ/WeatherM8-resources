@@ -69,11 +69,11 @@
         <item>温度</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>微量级</item>
-        <item>低量级</item>
-        <item>中量级</item>
-        <item>过量级</item>
-        <item>危险级</item>
+        <item>低</item> <!-- 0-2.9 -->
+        <item>中等</item> <!-- 3-5.9 -->
+        <item>高</item> <!-- 6-7.9 -->
+        <item>很高</item> <!-- 8-10.9 -->
+        <item>极高</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>每 15 分钟</item>
@@ -91,6 +91,28 @@
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+        <item>E, d MMMM yyyy</item>
+        <item>E, d MMM yyyy</item>
+        <item>E, MMMM d, yyyy</item>
+        <item>E, MMM d, yyyy</item>
+        <item>E, dd/MM/yy</item>
+        <item>E, dd.MM.yy</item>
+        <item>E, dd/MM/yyyy</item>
+        <item>E, dd.MM.yyyy</item>
+        <item>E, MM/dd/yyyy</item>
+        <item>yyyy/MM/dd,E</item>
     </string-array>
     <string-array name="pressure_level_entries">
         <item>海平面</item>
