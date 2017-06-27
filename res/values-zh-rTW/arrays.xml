@@ -76,16 +76,16 @@
         <item>危險級</item>
     </string-array>
     <string-array name="update_check_interval_entries">
-        <item>每 15 分鐘</item>
-        <item>每 30 分鐘</item>
-        <item>每 1 小時</item>
-        <item>每 2 小時</item>
-        <item>每 3 小時</item>
-        <item>每 4 小時</item>
-        <item>每 5 小時</item>
-        <item>每 6 小時</item>
-        <item>每 12 小時</item>
-        <item>每 24 小時</item>
+        <item>每15分鐘</item>
+        <item>每30分鐘</item>
+        <item>每1小時</item>
+        <item>每2小時</item>
+        <item>每3小時</item>
+        <item>每4小時</item>
+        <item>每5小時</item>
+        <item>每6小時</item>
+        <item>每12小時</item>
+        <item>每24小時</item>
     </string-array>
     <string-array name="weather_icons_entries">
         <item>MIUI 8</item>
