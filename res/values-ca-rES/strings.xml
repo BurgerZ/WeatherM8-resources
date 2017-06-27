@@ -115,7 +115,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_city_base">Base de dades de ciutats</string>
 
     <string name="settings_notifications_title">Notificacions</string>
-    <string name="settings_notifications_summary">Configuració de les notificacions del temps</string>
+    <string name="settings_notifications_summary">Configura les notificacions del temps</string>
     <string name="settings_notification_title">Mostra les notificacions</string>
     <string name="settings_notification_summary">"Mostra les condicions climàtiques actuals en l'àrea de notificació"</string>
 
@@ -257,6 +257,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_font_size_title">Mida del text</string>
     <string name="widget_config_text_color_title">Color del text</string>
     <string name="widget_config_show_alarm_title">Mostra la propera alarma</string>
+	<string name="widget_config_show_date_title">Mostra la data</string>
     <string name="widget_config_use_background_title">Mostra el giny en segon plà</string>
     <string name="widget_config_background_color_title">Color del segon plà</string>
     <string name="widget_config_background_type_title">Tipus de segon plà</string>
@@ -276,7 +277,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Fases lunars</string>
-    <string name="moon_age">Edat: %1$s dies %2$s houres %3$s minuts</string>
+    <string name="moon_age">Edat: %1$s dies %2$s hores %3$s minuts</string>
     <string name="moon_newmoon">Lluna nova</string>
     <string name="moon_waxingcrescent">Lluna creixent</string>
     <string name="moon_firstquarter">Quart creixent</string>
@@ -315,7 +316,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 
     <!-- AQI -->
     <string name="aqi_main_title">"Qualitat de l'aire"</string>
-    <string name="aqi_main_publish_time">Actualitzat fa %1$s</string>
+    <string name="aqi_main_publish_time">Actualitzat a les %1$s</string>
 
     <string name="aqi_ring_top_pollution">Principals contaminants</string>
     <string name="aqi_ring_desc">"Índex de qualitat de l'aire"</string>
