@@ -219,7 +219,7 @@
     <string name="daily_forecast_detail_date">MMMd日</string>
     <string name="weather_update_date">MMMMd日</string>
     <string name="weather_short_month_update_date">MMMd日</string>
-    <string name="widget_dateformat_default_value">MMMMd日 yyyy</string>
+    <string name="widget_dateformat_default_value">yyyy年MMMMd日 </string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">預警：%1$d</string>
@@ -286,7 +286,7 @@
     <string name="moon_lastquarter">下弦月</string>
     <string name="moon_waningcrescent">殘月</string>
     <string name="moon_illuminated">受照：%s%%</string>
-    <string name="moon_since">日期：%1$s %2$s日</string>
+    <string name="moon_since">日期：%1$s%2$s日</string>
     <string name="moon_distanse">月球距離：%s公里</string>
     <string name="moon_angle">月球角度：%s</string>
     <string name="moon_rise">月出時間：%s</string>
