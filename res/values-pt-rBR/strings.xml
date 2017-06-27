@@ -10,7 +10,7 @@
     <string name="act_weather_find_city_net_no_good">Não foi possível conectar à rede</string>
     <string name="act_weather_find_city_no_result">Nenhum resultado</string>
     <string name="act_weather_find_city_searching">Procurando…</string>
-    <string name="activity_detail_time_format">EEEE</string>
+    <string name="activity_detail_time_format">EEE</string>
     <string name="activity_find_city_dialog_cancel">Cancelar</string>
     <string name="activity_find_city_dialog_message">Permitir que o Weather M8 verifique a sua localização</string>
     <string name="activity_find_city_dialog_set">Configurações</string>
