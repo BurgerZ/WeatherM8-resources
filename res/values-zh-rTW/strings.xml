@@ -142,13 +142,13 @@
     <string name="settings_ads_remove_summary">移除廣告一周 (每月一次)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-    <string name="settings_ads_donation_expl">使用底下Google Play捐款按鈕並不會移除廣告。如果要移除廣告請使用 \"去除廣告\" 按鈕</string>
+    <string name="settings_ads_donation_expl">使用底下Google Play捐款按鈕並不會移除廣告。如果要移除廣告請使用 \"去除廣告\" 按鈕。</string>
     <string name="settings_about">關於</string>
     <string name="settings_translations">應用翻譯</string>
     <string name="settings_translations_summary">感謝翻譯者們</string>
     <string name="settings_thirdparty">第三方資料庫與資源</string>
     <string name="settings_permissions">權限</string>
-    <string name="settings_help">幫助</string>
+    <string name="settings_help">幫助(外部連結)</string>
     <string name="settings_feedback">反饋</string>
     <string name="settings_dialog_enter_timezone">輸入所選城市的時區(%s)，例如 GMT+03:00</string>
 
@@ -219,7 +219,7 @@
     <string name="daily_forecast_detail_date">MMMd日</string>
     <string name="weather_update_date">MMMMd日</string>
     <string name="weather_short_month_update_date">MMMd日</string>
-    <string name="widget_dateformat_default_value">MMMMd日 yyyy</string>
+    <string name="widget_dateformat_default_value">yyyy年MMMMd日 </string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">預警：%1$d</string>
@@ -276,7 +276,7 @@
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">月相</string>
-    <string name="moon_age">月齡：%1$s 天 %2$s 小時 %3$s 分鐘</string>
+    <string name="moon_age">月齡：%1$s天%2$s小時%3$s分鐘</string>
     <string name="moon_newmoon">新月</string>
     <string name="moon_waxingcrescent">娥眉月</string>
     <string name="moon_firstquarter">上弦月</string>
@@ -286,7 +286,7 @@
     <string name="moon_lastquarter">下弦月</string>
     <string name="moon_waningcrescent">殘月</string>
     <string name="moon_illuminated">受照：%s%%</string>
-    <string name="moon_since">日期：%1$s %2$s日</string>
+    <string name="moon_since">日期：%1$s%2$s日</string>
     <string name="moon_distanse">月球距離：%s公里</string>
     <string name="moon_angle">月球角度：%s</string>
     <string name="moon_rise">月出時間：%s</string>
@@ -340,7 +340,7 @@
     <string name="aqi_detail_5_days">每日預測</string>
     <string name="aqi_detail_24_hours">小時預測</string>
 
-    <string name="aqi_detail_unit">單位： µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_detail_unit">單位：µg/m³ (CO：mg/m³)</string>
     <string name="aqi_data_source">%s</string>
 
     <!-- Radar -->
