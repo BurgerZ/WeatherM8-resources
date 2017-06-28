@@ -291,4 +291,5 @@ Zkontrolujte síťové nastavení."</string>
     <string name="widget_config_realtime_icon_size_title">Velikost ikony aktuálního počasí</string>
     <string name="widget_config_forecast_icon_size_title">Velikost ikony předpovědi počasí</string>    
     <string name="widget_config_show_date_title">Zobrazit datum</string>
+    <string name="widget_config_show_realtime_icon_title">Zobrazit ikonu aktuálního počasí</string>
 </resources>
