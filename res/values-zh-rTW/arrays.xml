@@ -26,7 +26,7 @@
         <item>東京</item>
     </string-array>
     <string-array name="weather_type">
-        <item>晴</item>
+        <item>無雲</item>
         <item>多雲</item>
         <item>陰</item>
         <item>霧</item>
