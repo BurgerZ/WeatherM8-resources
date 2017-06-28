@@ -13,7 +13,7 @@
         <item quantity="one">%d 天前</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">晴朗</item>
-        <item quantity="one">晴</item>
+        <item quantity="other">無雲</item>
+        <item quantity="one">晴朗</item>
     </plurals>
 </resources>
