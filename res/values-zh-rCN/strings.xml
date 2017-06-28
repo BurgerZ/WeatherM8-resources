@@ -219,7 +219,7 @@
     <string name="daily_forecast_detail_date">MMMd日</string>
     <string name="weather_update_date">MMMMd日</string>
     <string name="weather_short_month_update_date">MMMd日</string>
-    <string name="widget_dateformat_default_value">MMMMd日 yyyy</string>
+    <string name="widget_dateformat_default_value">yyyy年MMMMd日</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">预警: %1$d</string>
@@ -263,6 +263,8 @@
     <string name="widget_config_background_type_solid">实心</string>
     <string name="widget_config_background_type_border">边框</string>
 
+    <string name="widget_config_show_text_shadow_title">显示文本阴影</string>
+    <string name="widget_config_show_realtime_icon_title">显示目前天气图标</string>
     <string name="widget_config_show_cityname_title">显示城市名称</string>
     <string name="widget_config_show_local_time_title">显示当地时间</string>
     <string name="widget_config_show_leading_zero_title">显示时间开头的零</string>
@@ -276,7 +278,7 @@
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">月相</string>
-    <string name="moon_age">月龄: %1$s 天 %2$s 小时 %3$s 分钟</string>
+    <string name="moon_age">月龄:%1$s天%2$s小时%3$s分钟</string>
     <string name="moon_newmoon">新月</string>
     <string name="moon_waxingcrescent">娥眉月</string>
     <string name="moon_firstquarter">上弦月</string>
@@ -286,8 +288,8 @@
     <string name="moon_lastquarter">下弦月</string>
     <string name="moon_waningcrescent">残月</string>
     <string name="moon_illuminated">受照: %s%%</string>
-    <string name="moon_since">日期: %1$s %2$s日</string>
-    <string name="moon_distanse">月球距离: %s 公里</string>
+    <string name="moon_since">日期: %1$s%2$s日</string>
+    <string name="moon_distanse">月球距离: %s公里</string>
     <string name="moon_angle">月球角度: %s</string>
     <string name="moon_rise">月出时间: %s</string>
     <string name="moon_set">月落时间: %s</string>
