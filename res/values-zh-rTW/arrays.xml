@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-        <item>北京</item>
-        <item>阿姆斯特丹</item>
-        <item>華沙</item>
-        <item>維爾紐斯</item>
-        <item>里加</item>
-        <item>馬德里</item>
-        <item>彼爾姆</item>
-        <item>羅馬</item>
-        <item>杜拜</item>
-        <item>明斯克</item>
-        <item>布拉戈達爾內</item>
-        <item>加拉干達</item>
-        <item>奧廖爾</item>
-        <item>柏林</item>
-        <item>布拉格</item>
-        <item>莫斯科</item>
-        <item>聖彼得堡</item>
-        <item>芝加哥</item>
+        <item>臺北</item>
+        <item>新北</item>
+        <item>桃園</item>
+        <item>臺中</item>
+        <item>臺南</item>
+        <item>高雄</item>
+        <item>基隆</item>
+        <item>新竹</item>
+        <item>嘉義</item>
+        <item>苗栗</item>
+        <item>彰化</item>
+        <item>南投</item>
+        <item>雲林</item>
+        <item>屏東</item>
+        <item>宜蘭</item>
+        <item>花蓮</item>
+        <item>臺東</item>
+        <item>澎湖</item>
         <item>紐約</item>
-        <item>巴黎</item>
+        <item>北京</item>
         <item>倫敦</item>
-        <item>洛杉磯</item>
-        <item>加里寧格勒</item>
+        <item>巴黎</item>
+        <item>東京</item>
     </string-array>
     <string-array name="weather_type">
         <item>晴</item>
