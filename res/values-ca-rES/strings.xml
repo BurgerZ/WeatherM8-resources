@@ -171,7 +171,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="share_button">Comparteix</string>
     <string name="share_weather_save_pic_fail">"No s'ha pogut prendre captura de pantalla"</string>
     <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_desc">\#ElTemps M8# Avui %1$s %2$s</string>
+    <string name="share_weather_desc">\#ElTemps M8# Avui a %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="hourly_forcast_now">Ara</string>
     <string name="sunrise">Alba</string>
