@@ -72,6 +72,7 @@
     <string name="hourly_forecast_detail_date">d MMM, EEE</string>
     <string name="hourly_forecast_title">Previsão horária</string>
     <string name="international_detail_menu_title">Detalhes</string>
+    <string name="loading_data">A carregar dados…</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
 Toque no botão abaixo para adicionar o local manualmente ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
