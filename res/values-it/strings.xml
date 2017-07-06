@@ -209,5 +209,6 @@ L'applicazione usa i permessi:
     <string name="aqi_main_publish_time">Aggiornato alle %1$s</string>
     <string name="aqi_ring_desc">"Qualità dell'Aria"</string>
 
+    <string name="radar_date_format">dd.MM HH:mm</string>
 </resources>
 

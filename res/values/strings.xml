@@ -348,5 +348,10 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
 
     <!-- Radar -->
     <string name="radar_title">Radar</string>
+    <string name="radar_tab_cloud">Cloudiness</string>
+    <string name="radar_tab_rain">Rain</string>
+    <string name="radar_date_format">dd/MM HH:mm</string>
+
+    <string name="loading_data">Loading data…</string>
 </resources>
 

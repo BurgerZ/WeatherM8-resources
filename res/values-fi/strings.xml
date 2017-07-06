@@ -250,4 +250,5 @@ Applikaatioiden tuottaminen Android alustalle on harrastus itselleni, jota teen 
     <string name="date_time_pm">pm</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
 
+    <string name="radar_date_format">dd.MM. HH:mm</string>
 </resources>

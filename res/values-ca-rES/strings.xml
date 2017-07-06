@@ -346,4 +346,5 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 
     <!-- Radar -->
     <string name="radar_title">Radar</string>
+    <string name="radar_date_format">dd.MM HH:mm</string>
 </resources>
