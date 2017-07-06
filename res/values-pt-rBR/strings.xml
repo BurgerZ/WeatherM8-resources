@@ -102,7 +102,7 @@ Verifique as suas definições de rede"</string>
     <string name="network_unavailable">Não foi possível conectar à rede</string>
     <string name="network_wifi_only">Atualizações disponíveis apenas em Wi-fi</string>
     <string name="press_color_to_apply">Toque na cor para aplicar</string>
-    <string name="radar_date_format">dd.MM HH:mm</string>
+    <string name="radar_date_format">dd/MM HH:mm</string>
     <string name="radar_tab_cloud">Nebulosidade</string>
     <string name="radar_tab_rain">Precipitação</string>
     <string name="radar_title">Radar</string>
