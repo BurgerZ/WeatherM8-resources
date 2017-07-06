@@ -293,4 +293,8 @@ Zkontrolujte síťové nastavení."</string>
     <string name="widget_config_show_date_title">Zobrazit datum</string>
     <string name="widget_config_show_text_shadow_title">Zobrazit stín textu</string> 
     <string name="widget_config_show_realtime_icon_title">Zobrazit ikonu aktuálního počasí</string>
+    <string name="radar_tab_cloud">Oblačnost</string>
+    <string name="radar_tab_rain">Srážky</string>
+    <string name="radar_date_format">dd.MM HH:mm</string>
+    <string name="loading_data">Načítám data…</string> 
 </resources>
