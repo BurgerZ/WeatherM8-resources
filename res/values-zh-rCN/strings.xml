@@ -346,5 +346,9 @@
     <string name="aqi_data_source">%s</string>
 
     <!-- Radar -->
-    <string name="radar_title">Radar</string>
+    <string name="radar_title">雷达图</string>
+    <string name="radar_tab_cloud">卫星云图</string>
+    <string name="radar_tab_rain">降水图</string>
+    <string name="radar_date_format">MM/dd HH:mm</string>
+    <string name="loading_data">数据加载中…</string>
 </resources>
