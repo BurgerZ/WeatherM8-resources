@@ -18,7 +18,7 @@
     <string name="activity_main_alert">Alertas: %1$d</string>
     <string name="activity_main_expire_time">Expira %1$s</string>
     <string name="activity_main_refresh_fail">Não foi possível ligar à rede</string>
-    <string name="activity_main_time_format">E</string>
+    <string name="activity_main_time_format">E, d MMM</string>
     <string name="activity_main_update_time">Actualizado %1$s</string>
     <string name="activity_main_update_time_expire">Dados expiraram</string>
     <string name="activity_main_update_time_right_now">agora mesmo</string>
@@ -72,6 +72,7 @@
     <string name="hourly_forecast_detail_date">d MMM, EEE</string>
     <string name="hourly_forecast_title">Previsão horária</string>
     <string name="international_detail_menu_title">Detalhes</string>
+    <string name="loading_data">A carregar dados…</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
 Toque no botão abaixo para adicionar o local manualmente ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
@@ -101,6 +102,9 @@ Verifique as suas definições de rede"</string>
     <string name="network_unavailable">Não foi possível ligar à rede</string>
     <string name="network_wifi_only">Actualizações disponíveis apenas em Wi-fi</string>
     <string name="press_color_to_apply">Toque na cor para aplicar</string>
+    <string name="radar_date_format">dd/MM HH:mm</string>
+    <string name="radar_tab_cloud">Nebulosidade</string>
+    <string name="radar_tab_rain">Precipitação</string>
     <string name="radar_title">Radar</string>
     <string name="settings_about">Acerca de</string>
     <string name="settings_ads_donation_expl">Faça doações via Google Play tocando num dos botões abaixo. As doações não vão remover os anúncios da aplicação. Para remover os anúncios utilize o botão \"Remover anúncios\"</string>
@@ -198,7 +202,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="time_units_second">" s"</string>
     <string name="view_forecast_item_yesterday">Ontem</string>
     <string name="view_indexes_item_today">Hoje</string>
-    <string name="view_indexes_item_tommorrow">Amanhã</string>  
+    <string name="view_indexes_item_tommorrow">Amanhã</string>
     <string name="weather_details_daylight_diff_longer">%1$s longo</string>
     <string name="weather_details_daylight_diff_shorter">%1$s curto</string>
     <string name="weather_details_daylight_hours_title">Horas diurnas</string>
@@ -254,6 +258,8 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="widget_config_show_date_title">Mostrar data</string>
     <string name="widget_config_show_leading_zero_title">Mostrar zero nas horas</string>
     <string name="widget_config_show_local_time_title">Mostrar hora local</string>
+    <string name="widget_config_show_realtime_icon_title">Mostrar ícone do tempo actual</string>
+    <string name="widget_config_show_text_shadow_title">Mostrar sombra de texto</string>
     <string name="widget_config_text_color_title">Cor do texto</string>
     <string name="widget_config_title">Definições do widget</string>
     <string name="widget_config_use_background_title">Mostrar fundo do widget</string>

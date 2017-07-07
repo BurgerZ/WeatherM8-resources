@@ -208,8 +208,8 @@
 
     <string name="weather_details_update_date_string">观测时间: %s</string>
 
-    <string name="weather_details_daylight_diff_longer">长%1$s</string>
-    <string name="weather_details_daylight_diff_shorter">短%1$s</string>
+    <string name="weather_details_daylight_diff_longer">比昨天长%1$s</string>
+    <string name="weather_details_daylight_diff_shorter">比昨天短%1$s</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
@@ -219,7 +219,7 @@
     <string name="daily_forecast_detail_date">MMMd日</string>
     <string name="weather_update_date">MMMMd日</string>
     <string name="weather_short_month_update_date">MMMd日</string>
-    <string name="widget_dateformat_default_value">MMMMd日 yyyy</string>
+    <string name="widget_dateformat_default_value">yyyy年MMMMd日</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">预警: %1$d</string>
@@ -256,15 +256,18 @@
     <string name="widget_config_font_size_title">文本大小</string>
     <string name="widget_config_text_color_title">文本颜色</string>
     <string name="widget_config_show_alarm_title">显示闹钟</string>
+    <string name="widget_config_show_date_title">显示日期</string>
     <string name="widget_config_use_background_title">显示小工具背景</string>
     <string name="widget_config_background_color_title">背景颜色</string>
     <string name="widget_config_background_type_title">背景类型</string>
     <string name="widget_config_background_type_solid">实心</string>
     <string name="widget_config_background_type_border">边框</string>
 
+    <string name="widget_config_show_text_shadow_title">显示文本阴影</string>
+    <string name="widget_config_show_realtime_icon_title">显示目前天气图标</string>
     <string name="widget_config_show_cityname_title">显示城市名称</string>
-    <string name="widget_config_show_local_time_title">将时钟显示变更为当地时间</string>
-    <string name="widget_config_show_leading_zero_title">显示时钟起首零位</string>
+    <string name="widget_config_show_local_time_title">显示当地时间</string>
+    <string name="widget_config_show_leading_zero_title">显示时间开头的零</string>
 
     <string name="widget_config_click_settings">小工具点击功能</string>
     <string name="widget_config_click_apps">选择应用程序</string>
@@ -275,7 +278,7 @@
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">月相</string>
-    <string name="moon_age">月龄: %1$s 天 %2$s 小时 %3$s 分钟</string>
+    <string name="moon_age">月龄:%1$s天%2$s小时%3$s分钟</string>
     <string name="moon_newmoon">新月</string>
     <string name="moon_waxingcrescent">娥眉月</string>
     <string name="moon_firstquarter">上弦月</string>
@@ -285,8 +288,8 @@
     <string name="moon_lastquarter">下弦月</string>
     <string name="moon_waningcrescent">残月</string>
     <string name="moon_illuminated">受照: %s%%</string>
-    <string name="moon_since">日期: %1$s %2$s日</string>
-    <string name="moon_distanse">月球距离: %s 公里</string>
+    <string name="moon_since">日期: %1$s%2$s日</string>
+    <string name="moon_distanse">月球距离: %s公里</string>
     <string name="moon_angle">月球角度: %s</string>
     <string name="moon_rise">月出时间: %s</string>
     <string name="moon_set">月落时间: %s</string>
@@ -343,5 +346,9 @@
     <string name="aqi_data_source">%s</string>
 
     <!-- Radar -->
-    <string name="radar_title">Radar</string>
+    <string name="radar_title">雷达图</string>
+    <string name="radar_tab_cloud">卫星云图</string>
+    <string name="radar_tab_rain">降水图</string>
+    <string name="radar_date_format">MM/dd HH:mm</string>
+    <string name="loading_data">数据加载中…</string>
 </resources>

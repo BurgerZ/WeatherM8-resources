@@ -232,9 +232,9 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="weather_details_wind_title">Veter</string>
     <string name="weather_short_month_update_date">d MMM</string>
     <string name="weather_update_date">d MMMM</string>
-	<string name="weather_details_daylight_diff_longer">%1$s dlje</string>
-	<string name="weather_details_daylight_diff_shorter">%1$s manj</string>
-	<string name="widget_config_background_color_title">Barva ozadja</string>
+    <string name="weather_details_daylight_diff_longer">%1$s dlje</string>
+    <string name="weather_details_daylight_diff_shorter">%1$s manj</string>
+    <string name="widget_config_background_color_title">Barva ozadja</string>
     <string name="widget_config_background_type_border">Okvir</string>
     <string name="widget_config_background_type_solid">Solid</string>
     <string name="widget_config_background_type_title">Vrsta ozadja</string>

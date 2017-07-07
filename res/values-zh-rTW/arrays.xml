@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-        <item>北京</item>
-        <item>阿姆斯特丹</item>
-        <item>華沙</item>
-        <item>維爾紐斯</item>
-        <item>里加</item>
-        <item>馬德里</item>
-        <item>彼爾姆</item>
-        <item>羅馬</item>
-        <item>杜拜</item>
-        <item>明斯克</item>
-        <item>布拉戈達爾內</item>
-        <item>加拉干達</item>
-        <item>奧廖爾</item>
-        <item>柏林</item>
-        <item>布拉格</item>
-        <item>莫斯科</item>
-        <item>聖彼得堡</item>
-        <item>芝加哥</item>
+        <item>臺北</item>
+        <item>新北</item>
+        <item>桃園</item>
+        <item>臺中</item>
+        <item>臺南</item>
+        <item>高雄</item>
+        <item>基隆</item>
+        <item>新竹</item>
+        <item>嘉義</item>
+        <item>苗栗</item>
+        <item>彰化</item>
+        <item>南投</item>
+        <item>雲林</item>
+        <item>屏東</item>
+        <item>宜蘭</item>
+        <item>花蓮</item>
+        <item>臺東</item>
+        <item>澎湖</item>
         <item>紐約</item>
-        <item>巴黎</item>
+        <item>北京</item>
         <item>倫敦</item>
-        <item>洛杉磯</item>
-        <item>加里寧格勒</item>
+        <item>巴黎</item>
+        <item>東京</item>
     </string-array>
     <string-array name="weather_type">
-        <item>晴</item>
+        <item>晴朗</item>
         <item>多雲</item>
         <item>陰</item>
         <item>霧</item>
@@ -76,21 +76,43 @@
         <item>危險級</item>
     </string-array>
     <string-array name="update_check_interval_entries">
-        <item>每 15 分鐘</item>
-        <item>每 30 分鐘</item>
-        <item>每 1 小時</item>
-        <item>每 2 小時</item>
-        <item>每 3 小時</item>
-        <item>每 4 小時</item>
-        <item>每 5 小時</item>
-        <item>每 6 小時</item>
-        <item>每 12 小時</item>
-        <item>每 24 小時</item>
+        <item>每15分鐘</item>
+        <item>每30分鐘</item>
+        <item>每1小時</item>
+        <item>每2小時</item>
+        <item>每3小時</item>
+        <item>每4小時</item>
+        <item>每5小時</item>
+        <item>每6小時</item>
+        <item>每12小時</item>
+        <item>每24小時</item>
     </string-array>
     <string-array name="weather_icons_entries">
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>yyyy年MMMMd日</item>
+        <item>d日MMMyyyy年</item>
+        <item>MMMMd日, yyyy</item>
+        <item>MMMd日, yyyy年</item>
+        <item>yy/MM/dd</item>
+        <item>yy.MM.dd</item>
+        <item>yyyy/MM/dd</item>
+        <item>yyyy.MM.dd</item>
+        <item>MM/dd/yyyy</item>
+        <item>dd/MM/yyyy</item>
+        <item>yyyy年MMMMd日, E</item>
+        <item>d日MMMyyyy年, E</item>
+        <item>MMMMd日, yyyy, E</item>
+        <item>MMMd日, yyyy年, E</item>
+        <item>yy/MM/dd, E</item>
+        <item>yy.MM.dd, E</item>
+        <item>yyyy/MM/dd, E</item>
+        <item>yyyy.MM.dd, E</item>
+        <item>MM/dd/yyyy, E</item>
+        <item>dd/MM/yyyy, E</item>
     </string-array>
     <string-array name="pressure_level_entries">
         <item>海平面</item>
