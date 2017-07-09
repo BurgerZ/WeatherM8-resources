@@ -184,5 +184,7 @@
     <string name="activity_main_expire_time">Expire %1$s</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
 
+    <string name="radar_date_format">dd.MM HH:mm</string>
+
 </resources>
 

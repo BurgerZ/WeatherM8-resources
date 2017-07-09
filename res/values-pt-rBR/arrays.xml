@@ -30,11 +30,11 @@
 		<item>Campo Grande</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Baixo</item>
-        <item>Moderado</item>
-        <item>Alto</item>
-        <item>Muito alto</item>
-        <item>Extremo</item>
+        <item>Baixo</item> <!-- 0-2.9 -->
+        <item>Moderado</item> <!-- 3-5.9 -->
+        <item>Alto</item> <!-- 6-7.9 -->
+        <item>Muito alto</item> <!-- 8-10.9 -->
+        <item>Extremo</item> <!-- 11+ -->
     </string-array>
     <string-array name="weather_notif_type_entries">
         <item>Ícone do tempo</item>

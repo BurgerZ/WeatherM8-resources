@@ -194,5 +194,7 @@ Toca el boton para añadir ciudad manualmente o intente una vez más"</string>
     <string name="aqi_sub_desc">ICA</string>
     <string name="aqi_detail_subtitle">ICA %1$s</string>
 
+    <string name="radar_date_format">dd.MM HH:mm</string>
+
 </resources>
 
