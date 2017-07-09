@@ -62,7 +62,7 @@
         <item>Пд</item>
         <item>ПдЗх</item>
         <item>Зх</item>
-        <item>СхЗх</item>
+        <item>ПнЗх</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
         <item>Іконка погоди</item>
