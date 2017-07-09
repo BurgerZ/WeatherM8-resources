@@ -60,7 +60,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_menu_title">Configuració</string>
     <string name="settings_autoupdate_weather_title">Actualització automàtica</string>
     <string name="settings_autoupdate_weather_summary">Actualitza la previsió meteorològica automàticament</string>
-    <string name="settings_update_wifi_only_summary">"Actualitzar automàticament la previsió meteorològica només quan s'estableix una connexió Wi-Fi"</string>
+    <string name="settings_update_wifi_only_summary">"Actualitza automàticament la previsió meteorològica només quan s'estableix una connexió Wi-Fi"</string>
     <string name="settings_update_wifi_only_title">Actualitza només amb Wi-Fi</string>
     <string name="settings_update_interval_title">"Interval d'actualització"</string>
     <string name="settings_update_quiet_hours_end_time_title">Fi</string>
@@ -143,7 +143,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="settings_ads_remove_summary">Elimina la publicitat durant una setmana (un cop al mes)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-    <string name="settings_ads_donation_expl">"La donació a través de Google Play al pressionar aquests botons NO eliminarà els anuncis. Per eliminar ha d'utilitzar el botó \"Elimina la publicitat\"."</string>
+    <string name="settings_ads_donation_expl">"La donació a través de Google Play en prémer aquests botons NO eliminarà la publicitat. Per eliminar-la heu d'utilitzar el botó \"Elimina la publicitat\"."</string>
     <string name="settings_about">Quant a</string>
     <string name="settings_translations">Traduccions</string>
     <string name="settings_translations_summary">"Crèdits als traductors de l'aplicació"</string>
@@ -207,10 +207,10 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s milles</string>
 
-    <string name="weather_details_update_date_string">"Temps d'observació: %s"</string>
+    <string name="weather_details_update_date_string">"Hora d'observació: %s"</string>
 
-    <string name="weather_details_daylight_diff_longer">%1$s més llarg</string>
-    <string name="weather_details_daylight_diff_shorter">%1$s més curt</string>
+    <string name="weather_details_daylight_diff_longer">%1$s més</string>
+    <string name="weather_details_daylight_diff_shorter">%1$s menys</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
