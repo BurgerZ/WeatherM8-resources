@@ -78,6 +78,7 @@
     <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="hourly_forecast_title">Napoved po urah</string>
     <string name="international_detail_menu_title">Podrobnosti</string>
+	<string name="loading_data">Nalaganje…</string>
     <string name="locate_fail_detail_err">"Ne morem locirati napravo
 Tapnite tipko da ročno dodate mesto ali poskusite ponovno"</string>
     <string name="location_management">Lokacije</string>
@@ -108,6 +109,9 @@ Preverite nastavitve omrežja."</string>
     <string name="network_wifi_only">Posodabljanje nastavljeno na samo WiFi.</string>
     <string name="press_color_to_apply">Pritisnite na barvo za potrditev</string>
     <string name="radar_title">Radar</string>
+	<string name="radar_tab_cloud">Oblačno</string>
+	<string name="radar_tab_rain">Dež</string>
+	<string name="radar_date_format">dd/MM HH:mm</string>
     <string name="settings_about">O aplikaciji</string>
     <string name="settings_ads_explanation">"Zakaj vidite oglase?
 Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas prosim za razumevanje pri pojavu pasic. Prikazovanje oglasov v aplikaciji pomaga nadaljnjemu razvoju."</string>
@@ -261,6 +265,8 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="widget_config_show_cityname_title">Prikaži ime mesta</string>
     <string name="widget_config_show_leading_zero_title">Prikaži začetno ničlo</string>
     <string name="widget_config_show_local_time_title">Prikaži lokalni čas</string>
+	<string name="widget_config_show_realtime_icon_title">Prikaži trenutno ikono vremena</string>
+	<string name="widget_config_show_text_shadow_title">Prikaži senco teksta</string>
     <string name="widget_config_text_color_title">Barva teksta</string>
     <string name="widget_config_title">Konfig. pripomočkov</string>
     <string name="widget_config_use_background_title">Prikaži ozadje pripomočka</string>
