@@ -77,8 +77,7 @@
     <string name="hourly_forcast_now">Zdaj</string>
     <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="hourly_forecast_title">Napoved po urah</string>
-    <string name="international_detail_menu_title">Podrobnosti</string>
-	<string name="loading_data">Nalaganje…</string>
+    <string name="international_detail_menu_title">Podrobnosti</string>	<string name="loading_data">Nalaganje…</string>
     <string name="locate_fail_detail_err">"Ne morem locirati napravo
 Tapnite tipko da ročno dodate mesto ali poskusite ponovno"</string>
     <string name="location_management">Lokacije</string>
@@ -108,19 +107,14 @@ Preverite nastavitve omrežja."</string>
     <string name="network_unavailable">Ne morem se povezati na omrežje.</string>
     <string name="network_wifi_only">Posodabljanje nastavljeno na samo WiFi.</string>
     <string name="press_color_to_apply">Pritisnite na barvo za potrditev</string>
-    <string name="radar_title">Radar</string>
-	<string name="radar_tab_cloud">Oblačno</string>
-	<string name="radar_tab_rain">Dež</string>
-	<string name="radar_date_format">dd/MM HH:mm</string>
+    <string name="radar_title">Radar</string>		<string name="radar_tab_cloud">Oblačno</string>	<string name="radar_tab_rain">Dež</string>	<string name="radar_date_format">dd/MM HH:mm</string>
     <string name="settings_about">O aplikaciji</string>
     <string name="settings_ads_explanation">"Zakaj vidite oglase?
 Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas prosim za razumevanje pri pojavu pasic. Prikazovanje oglasov v aplikaciji pomaga nadaljnjemu razvoju."</string>
     <string name="settings_ads_remove_summary">Odstranite oglase za teden dni (enkrat mesečno)</string>
-    <string name="settings_ads_remove_title">Odstrani oglase</string>
-	<string name="settings_ads_donation_expl">Donacija preko Google Play s pritiskom na gumb zgoraj NE BO odstranila oglasov. Za odstranitev uporabite \"Odstrani oglase\" gumb.</string>
+    <string name="settings_ads_remove_title">Odstrani oglase</string>	<string name="settings_ads_donation_expl">Donacija preko Google Play s pritiskom na gumb zgoraj NE BO odstranila oglasov. Za odstranitev uporabite \"Odstrani oglase\" gumb.</string>
     <string name="settings_ads_title">Oglasi in donacije</string>
-    <string name="settings_ads_webmoney">Webmoney</string>
-	<string name="settings_ads_donations_title">Plačajte mi pivo</string>
+    <string name="settings_ads_webmoney">Webmoney</string>	<string name="settings_ads_donations_title">Plačajte mi pivo</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_alerts_title">Urejaj opozorila</string>
     <string name="settings_app_locale_title">Jezik</string>
@@ -188,8 +182,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="settings_weather_transfer_title">Prenos opisa vremena</string>
     <string name="settings_widgets_not_found">Ni najdenih nameščenih pripomočkov</string>
     <string name="settings_widgets_title">Pripomočki</string>
-    <string name="settings_wind_unit">Hitrost vetra</string>
-	<string name="settings_wind_unit_bft">bft</string>
+    <string name="settings_wind_unit">Hitrost vetra</string>	<string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_knot">vozel</string>
     <string name="settings_wind_unit_mph">mph</string>
@@ -222,8 +215,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="weather_details_pressure_mb">%1$s mb</string>
     <string name="weather_details_pressure_mm">%1$s mmHg</string>
     <string name="weather_details_pressure_title">Pritisk</string>
-    <string name="weather_details_real_feel_title">Realni občutek</string>
-	<string name="weather_details_temperature_title">Temperatura</string>
+    <string name="weather_details_real_feel_title">Realni občutek</string>	<string name="weather_details_temperature_title">Temperatura</string>
     <string name="weather_details_timezone_title">Časovni pas</string>
     <string name="weather_details_title">Podrobnosti vremena</string>
     <string name="weather_details_update_date_string">Gledano: %s</string>
@@ -257,24 +249,19 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="widget_config_dateformat_title">Format datuma</string>
     <string name="widget_config_font_size_title">Velikost teksta</string>
     <string name="widget_config_font_title">Font teksta</string>
-    <string name="widget_config_realtime_font_size_title">Velikost teksta real. vremena</string>
-	<string name="widget_config_realtime_icon_size_title">Trenutna velikost ikon vremena</string>
-	<string name="widget_config_forecast_icon_size_title">Trenutna velikost ikon napovedi</string>
+    <string name="widget_config_realtime_font_size_title">Velikost teksta real. vremena</string>		<string name="widget_config_realtime_icon_size_title">Trenutna velikost ikon vremena</string>	<string name="widget_config_forecast_icon_size_title">Trenutna velikost ikon napovedi</string>
     <string name="widget_config_realtime_font_title">Font podatkov real. vremena</string>
     <string name="widget_config_show_alarm_title">Prikaži naslednji alarm</string>
     <string name="widget_config_show_cityname_title">Prikaži ime mesta</string>
     <string name="widget_config_show_leading_zero_title">Prikaži začetno ničlo</string>
-    <string name="widget_config_show_local_time_title">Prikaži lokalni čas</string>
-	<string name="widget_config_show_realtime_icon_title">Prikaži trenutno ikono vremena</string>
-	<string name="widget_config_show_text_shadow_title">Prikaži senco teksta</string>
+    <string name="widget_config_show_local_time_title">Prikaži lokalni čas</string>	<string name="widget_config_show_realtime_icon_title">Prikaži trenutno ikono vremena</string>	<string name="widget_config_show_text_shadow_title">Prikaži senco teksta</string>
     <string name="widget_config_text_color_title">Barva teksta</string>
     <string name="widget_config_title">Konfig. pripomočkov</string>
     <string name="widget_config_use_background_title">Prikaži ozadje pripomočka</string>
     <string name="widget_dateformat_default_value">d MMMM yyyy</string>
     <string name="widget_update_date_string">Posodobljeno %s</string>
     <string name="widget_update_updating_string">Posodabljanje…</string>
-    <string name="wind_unit">%1$skm/h</string>
-	<string name="wind_unit_bft">%1$sbft</string>
+    <string name="wind_unit">%1$skm/h</string>	<string name="wind_unit_bft">%1$sbft</string>
     <string name="wind_unit_knot">%1$vozel</string>
     <string name="wind_unit_mph">%1$smph</string>
     <string name="wind_unit_ms">%1$sm/s</string>
