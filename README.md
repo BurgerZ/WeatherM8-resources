@@ -1,7 +1,7 @@
 # Weather M8 Resources
 Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 
-<dl><dd><a href="https://play.google.com/store/apps/details?id=pro.burgerz.miweather8" target="_blank"><img src="http://i.imgur.com/bhoWULv.png" alt="Weather M8"></a></dd></dl>
+<dl><dd><a href="https://play.google.com/store/apps/details?id=pro.burgerz.miweather8" target="_blank"><img src="http://i.imgur.com/qicfqDr.png" alt="Weather M8"></a></dd></dl>
 
 ## Translators:
 |Directory|Language|Translator|
