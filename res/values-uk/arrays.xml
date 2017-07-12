@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-         <item>Пекін</item> 
+        <item>Пекін</item>
         <item>Амстердам</item>
-         <item>Варшава</item> 
-        <item>Вільнюс</item> 
+        <item>Варшава</item>
+        <item>Вільнюс</item>
         <item>Рига</item>
-         <item>Мадрид</item>
-         <item>Перм</item> 
-        <item>Рим</item> 
-        <item>Дубай</item> 
+        <item>Мадрид</item>
+        <item>Перм</item>
+        <item>Рим</item>
+        <item>Дубай</item>
         <item>Мінськ</item>
-         <item>Благодарний</item> 
+        <item>Благодарний</item>
         <item>Караганда</item>
-         <item>Орел</item> 
-        <item>Берлін</item> 
-        <item>Прага</item> 
-        <item>Москва</item> 
+        <item>Орел</item>
+        <item>Берлін</item>
+        <item>Прага</item>
+        <item>Москва</item>
         <item>Санкт-Петербург</item>
-         <item>Чикаго</item> 
-        <item>Нью-Йорк</item> 
-        <item>Париж</item> 
-        <item>Лондон</item> 
+        <item>Чикаго</item>
+        <item>Нью-Йорк</item>
+        <item>Париж</item>
+        <item>Лондон</item>
         <item>Лос-Анджелес</item>
-         <item>Калінінград</item> 
+        <item>Калінінград</item>
     </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
@@ -56,29 +56,27 @@
     </string-array>
     <string-array name="wind_direction">
         <item>Пн</item>
-        <item>ПнС</item>
-        <item>С</item>
-        <item>ПдС</item>
+        <item>ПнСх</item>
+        <item>Сх</item>
+        <item>ПдСх</item>
         <item>Пд</item>
-        <item>ПдЗ</item>
-        <item>З</item>
-        <item>СЗ</item>
+        <item>ПдЗх</item>
+        <item>Зх</item>
+        <item>СхЗх</item>
     </string-array>
-
     <string-array name="weather_notif_type_entries">
         <item>Іконка погоди</item>
         <item>Температура</item>
     </string-array>
-
     <string-array name="weather_indexes_uv_level">
         <item>Низький</item>
         <item>Помірний</item>
         <item>Високий</item>
         <item>Дуже високий</item>
-        <item>Екстремальный</item>
+        <item>Екстремальний</item>
     </string-array>
-
     <string-array name="update_check_interval_entries">
+        <item>15 хвилин</item>
         <item>30 хвилин</item>
         <item>1 година</item>
         <item>2 години</item>
@@ -92,5 +90,13 @@
     <string-array name="pressure_level_entries">
         <item>Рівень моря</item>
         <item>Рівень міста</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Хороше</item>
+        <item>Середнє</item>
+        <item>Невідповідне для особливо сприйнятливих</item>
+        <item>Неякісне</item>
+        <item>Дуже неякісне</item>
+        <item>Небезпечне</item>
     </string-array>
 </resources>

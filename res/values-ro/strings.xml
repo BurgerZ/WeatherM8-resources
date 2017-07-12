@@ -193,6 +193,7 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_ads_title">Publicitate şi Donaţii</string>
     <string name="settings_ads_explanation">"De ce vedeţi publicitate?
 Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac în timpul meu liber. Așa că vă rog să trataţi cu înțelegere apariția unui anumit număr de bannere. Afișarea anunțurilor în aplicație stimulează dezvoltarea ei ulterioară."</string>
+    <string name="settings_ads_menu_hide_title">Ascundeți acest element de meniu</string>
     <string name="settings_ads_remove_title">Eliminați anunțurile</string>
     <string name="settings_ads_remove_summary">Eliminați anunțurile pentru o săptămână (o dată pe lună)</string>
     <string name="settings_thirdparty">Biblioteci și resurse</string>
@@ -271,5 +272,6 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_aqi_onoff_title">Informații de calitate a aerului</string>
     <string name="settings_aqi_onoff_summary">Afișare informații despre indicele de calitate a aerului pentru locațiile dvs. (dacă sunt disponibile)</string>
     <string name="settings_aqi_max_distance_closest">Cea mai apropiată staţie</string>
+    <string name="settings_notification_statusbar_color_title">Culoare pictogramă de notificare</string>
 
 </resources>

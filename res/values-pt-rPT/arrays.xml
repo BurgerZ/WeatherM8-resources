@@ -77,6 +77,7 @@
         <item>Nível do local</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minutos</item>
         <item>30 minutos</item>
         <item>1 hora</item>
         <item>2 horas</item>
@@ -87,13 +88,10 @@
         <item>12 horas</item>
         <item>24 horas</item>
     </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Bom</item>
@@ -102,5 +100,25 @@
         <item>Pouco saudável</item>
         <item>Muito pouco saudável</item>
         <item>Perigoso</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
     </string-array>
 </resources>

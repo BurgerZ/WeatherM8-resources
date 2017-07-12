@@ -76,6 +76,7 @@
         <item>חזק מאוד</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 דקות</item>
         <item>30 דקות</item>
         <item>1 שעה</item>
         <item>2 שעות</item>

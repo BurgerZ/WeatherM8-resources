@@ -76,6 +76,7 @@
         <item>Veľmi silný</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minút</item>
         <item>30 minút</item>
         <item>1 hodina</item>
         <item>2 hodiny</item>

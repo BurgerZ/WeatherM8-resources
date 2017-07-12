@@ -93,6 +93,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_wind_unit">Wind speed</string>
+    <string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_knot">knot</string>
     <string name="settings_wind_unit_ms">m/s</string>
@@ -122,6 +123,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_notification_priority_summary">Minimum-priority notifications appears only in notification shade</string>
 
     <string name="settings_notify_type_title">Notification icon</string>
+    <string name="settings_notification_statusbar_color_title">Notification icon color</string>
 
     <string name="settings_alerts_title">Manage alerts</string>
 
@@ -135,6 +137,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_ads_title">Advertisement and Donations</string>
     <string name="settings_ads_explanation">"Why you see an advertising?
 Writing applications for Android is a hobby for me, which I do in my personal free time. So please treat with understanding to the appearance of a certain number of banners. Displaying ads in application stimulates the further development."</string>
+    <string name="settings_ads_menu_hide_title">Hide this menu item</string>
     <string name="settings_ads_remove_title">Remove ads</string>
     <string name="settings_ads_remove_summary">Remove ads for a week (once a month)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
@@ -207,6 +210,12 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="time_units_minute">m</string>
     <string name="time_units_second">s</string>
 
+    <string name="hourly_forecast_detail_date">d MMM, E</string>
+    <string name="daily_forecast_detail_date">d MMM</string>
+    <string name="weather_update_date">d MMMM</string>
+    <string name="weather_short_month_update_date">d MMM</string>
+    <string name="widget_dateformat_default_value">d MMMM yyyy</string>
+
     <!-- Weather alerts -->
     <string name="activity_main_alert">Alerts: %1$d</string>
 
@@ -215,6 +224,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="delete">Delete</string>
 
     <string name="wind_unit">%1$skm/h</string>
+    <string name="wind_unit_bft">%1$sbft</string>
     <string name="wind_unit_knot">%1$sknot</string>
     <string name="wind_unit_ms">%1$sm/s</string>
     <string name="wind_unit_mph">%1$smph</string>
@@ -324,5 +334,8 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
 
     <string name="aqi_detail_unit">Unit: µg/m³ (CO: mg/m³)</string>
     <string name="aqi_data_source">%s</string>
+
+    <!-- Radar -->
+    <string name="radar_title">Radar</string>
 </resources>
 

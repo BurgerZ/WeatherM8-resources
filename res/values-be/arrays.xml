@@ -79,6 +79,7 @@
     </string-array>
 
     <string-array name="update_check_interval_entries">
+        <item>15 хвілін</item>
         <item>30 хвілін</item>
         <item>1 гадзіна</item>
         <item>2 гадзіны</item>

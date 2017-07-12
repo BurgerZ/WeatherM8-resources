@@ -204,7 +204,10 @@ L'applicazione usa i permessi:
     <string name="activity_main_expire_time">Expire %1$s</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
 
+    <!-- AQI -->
     <string name="aqi_main_title">"Qualità dell'Aria"</string>
+    <string name="aqi_main_publish_time">Aggiornato alle %1$s</string>
+    <string name="aqi_ring_desc">"Qualità dell'Aria"</string>
 
 </resources>
 

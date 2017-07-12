@@ -76,6 +76,7 @@
         <item>Molto Forti</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minuti</item>
         <item>30 minuti</item>
         <item>1 ora</item>
         <item>2 ore</item>
@@ -85,5 +86,13 @@
         <item>6 ore</item>
         <item>12 ore</item>
         <item>24 ore</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Buona</item>
+        <item>Moderata</item>
+        <item>Malsano per i gruppi sensibili</item>
+        <item>Malsano</item>
+        <item>Molto malsano</item>
+        <item>Pericoloso</item>
     </string-array>
 </resources>

@@ -76,6 +76,7 @@
         <item>西北风</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 分钟</item>
         <item>30 分钟</item>
         <item>1 小时</item>
         <item>2 小时</item>

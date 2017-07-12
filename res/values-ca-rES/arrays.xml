@@ -76,6 +76,7 @@
         <item>Molt alt</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minuts</item>
         <item>30 minuts</item>
         <item>1 hora</item>
         <item>2 hores</item>
