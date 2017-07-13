@@ -224,6 +224,24 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">Alerts: %1$d</string>
+    <string name="activity_main_alert_precip">%1$s expected. The amount of precipitation per day is %2$s.</string>
+    <string name="activity_main_alert_wind">Wind expected, the maximum wind speed up to %1$s.</string>
+    <string name="activity_main_alert_wind_gusts">Wind gusts expected with the maximum wind speed of up to %1$s.</string>
+    <string name="activity_main_alert_tstorm">Thunderstorms expected with a probability of %1$s.</string>
+    <string name="activity_main_alert_day_night">By day %1$s is expected, at night %2$s.</string>
+    <string name="activity_main_alert_type_rain">Rain</string>
+    <string name="activity_main_alert_type_snow">Snow</string>
+    <string name="activity_main_alert_type_ice">Ice</string>
+    <string name="activity_main_alert_type_wind">Wind</string>
+    <string name="activity_main_alert_type_wind_gusts">Wind gusts</string>
+    <string name="activity_main_alert_type_tstorm">Thunderstorms</string>
+    <string name="activity_main_alert_unit_mm">mm</string>
+    <string name="activity_main_alert_unit_cm">cm</string>
+    <string name="activity_main_alert_unit_inch">in</string>
+    <string name="activity_main_alert_unit_kmh">km/h</string>
+    <string name="activity_main_alert_unit_mph">mph</string>
+    <string name="activity_main_alert_unit_mps">m/s</string>
+
 
     <string name="daily_forcast_no_wind">Still</string>
     <string name="daily_forcast_whirl_wind">Whirl wind</string>
