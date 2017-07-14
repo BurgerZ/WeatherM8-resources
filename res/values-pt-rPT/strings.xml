@@ -16,7 +16,7 @@
     <string name="activity_find_city_dialog_set">Definições</string>
     <string name="activity_find_city_dialog_title">Acesso à localização</string>
     <string name="activity_main_alert">Alertas: %1$d</string>
-    <string name="activity_main_alert_precip">Previsão de %1$s. A quantidade de precipitação para hoje é de %2$s</string>
+    <string name="activity_main_alert_precip">Previsão de %1$s. A quantidade de precipitação diária é %2$s</string>
     <string name="activity_main_alert_wind">O vento deverá atingir uma velocidade máxima de %1$s</string>
     <string name="activity_main_alert_wind_gusts">Previsão de rajadas de vento com uma velocidade máxima até %1$s</string>
     <string name="activity_main_alert_tstorm">Previsão de trovoada com uma probabilidade de %1$s</string>
