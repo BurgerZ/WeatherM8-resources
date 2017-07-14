@@ -286,7 +286,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="wind_unit">%1$s km/h</string>
     <string name="wind_unit_knot">%1$s nós</string>
     <string name="wind_unit_mph">%1$s mph</string>
-    <string name="wind_unit_ms">%1$ sm/s</string>
+    <string name="wind_unit_ms">%1$s m/s</string>
     <string name="zodiac_aquarius">Aquário</string>
     <string name="zodiac_aries">Carneiro</string>
     <string name="zodiac_cancer">Caranguejo</string>
