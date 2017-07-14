@@ -24,7 +24,7 @@
     <string name="activity_main_alert_type_snow">Neve</string>
     <string name="activity_main_alert_type_tstorm">Trovoada</string>
     <string name="activity_main_alert_type_wind">Vento</string>
- -  <string name="activity_main_alert_type_wind_gusts">Rajadas de vento</string>
+    <string name="activity_main_alert_type_wind_gusts">Rajadas de vento</string>
     <string name="activity_main_alert_unit_cm">cm</string>
     <string name="activity_main_alert_unit_inch">in</string>
     <string name="activity_main_alert_unit_kmh">km/h</string>
