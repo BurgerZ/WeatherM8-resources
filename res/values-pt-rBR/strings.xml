@@ -32,6 +32,7 @@
     <string name="activity_main_alert_unit_mph">mph</string>
     <string name="activity_main_alert_unit_mps">m/s</string>
     <string name="activity_main_alert_wind">O vento deverá atingir uma velocidade máxima de %1$s</string>
+    <string name="activity_main_alert_wind_gusts">Previsão de rajadas de vento com uma velocidade máxima até %1$s</string>
     <string name="activity_main_expire_time">Expira %1$s</string>
     <string name="activity_main_refresh_fail">Não foi possível conectar à rede</string>
     <string name="activity_main_time_format">E, d MMM</string>
