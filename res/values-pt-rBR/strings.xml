@@ -283,10 +283,10 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="widget_dateformat_default_value">d MMMM yyyy</string>
     <string name="widget_update_date_string">Atualizado %s</string>
     <string name="widget_update_updating_string">Atualizando…</string>
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_knot">%1$snós</string>
-    <string name="wind_unit_mph">%1$smph</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
+    <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_knot">%1$s nós</string>
+    <string name="wind_unit_mph">%1$s mph</string>
+    <string name="wind_unit_ms">%1$s m/s</string>
     <string name="zodiac_aquarius">Aquário</string>
     <string name="zodiac_aries">Áries</string>
     <string name="zodiac_cancer">Câncer</string>
