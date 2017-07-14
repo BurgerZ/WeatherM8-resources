@@ -224,16 +224,34 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">Alertes: %1$d</string>
+    <string name="activity_main_alert_precip">Previsió de %1$s. La quantitat de precipitació per dia és %2$s.</string>
+    <string name="activity_main_alert_wind">Previsió de vent, la velocitat màxima del vent és de fins a %1$s.</string>
+    <string name="activity_main_alert_wind_gusts">Les ràfegues de vent esperades amb la velocitat màxima del vent és de fins a %1$s.</string>
+    <string name="activity_main_alert_tstorm">Previsió de tempesta amb una probabilitat del %1$s.</string>
+    <string name="activity_main_alert_day_night">Previsió de %1$s al dia, a la nit %2$s.</string>
+    <string name="activity_main_alert_type_rain">Pluja</string>
+    <string name="activity_main_alert_type_snow">Neu</string>
+    <string name="activity_main_alert_type_ice">Gel</string>
+    <string name="activity_main_alert_type_wind">Vent</string>
+    <string name="activity_main_alert_type_wind_gusts">Ràfegues de vent</string>
+    <string name="activity_main_alert_type_tstorm">Tempestes</string>
+    <string name="activity_main_alert_unit_mm">mm</string>
+    <string name="activity_main_alert_unit_cm">cm</string>
+    <string name="activity_main_alert_unit_inch">in</string>
+    <string name="activity_main_alert_unit_kmh">km/h</string>
+    <string name="activity_main_alert_unit_mph">mph</string>
+    <string name="activity_main_alert_unit_mps">m/s</string>
+
 
     <string name="daily_forcast_no_wind">Calma</string>
     <string name="daily_forcast_whirl_wind">Remolí</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Suprimeix</string>
 
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_bft">%1$sbft</string>
-    <string name="wind_unit_knot">%1$snusos</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="wind_unit_mph">%1$smph</string>
+    <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_bft">%1$s bft</string>
+    <string name="wind_unit_knot">%1$s nusos</string>
+    <string name="wind_unit_ms">%1$s m/s</string>
+    <string name="wind_unit_mph">%1$s mph</string>
 
     <string name="hourly_forecast_title">Previsió horària</string>
 
@@ -350,5 +368,5 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="radar_tab_rain">Pluja</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
 
-    <string name="loading_data">"S'estan carregant dades…"</string>
+    <string name="loading_data">"S'estan carregant les dades…"</string>
 </resources>
