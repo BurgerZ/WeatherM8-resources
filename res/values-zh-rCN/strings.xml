@@ -223,6 +223,23 @@
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">预警: %1$d</string>
+    <string name="activity_main_alert_precip">%1$s预计。预计当日降水量为%2$s。</string>
+    <string name="activity_main_alert_wind">预计风的最高风速可达%1$s。</string>
+    <string name="activity_main_alert_wind_gusts">预计大风的最高风速可达%1$s。</string>
+    <string name="activity_main_alert_tstorm">下雷阵雨的概率预计为%1$s。</string>
+    <string name="activity_main_alert_day_night">预计白天%1$s，晚上%2$s。</string>
+    <string name="activity_main_alert_type_rain">下雨</string>
+    <string name="activity_main_alert_type_snow">降雪</string>
+    <string name="activity_main_alert_type_ice">结冰</string>
+    <string name="activity_main_alert_type_wind">起风</string>
+    <string name="activity_main_alert_type_wind_gusts">大风</string>
+    <string name="activity_main_alert_type_tstorm">雷阵雨</string>
+    <string name="activity_main_alert_unit_mm">毫米</string>
+    <string name="activity_main_alert_unit_cm">厘米</string>
+    <string name="activity_main_alert_unit_inch">英寸</string>
+    <string name="activity_main_alert_unit_kmh">千米/时</string>
+    <string name="activity_main_alert_unit_mph">英里/时</string>
+    <string name="activity_main_alert_unit_mps">米/秒</string>
 
     <string name="daily_forcast_no_wind">无风</string>
     <string name="daily_forcast_whirl_wind">大风</string>
