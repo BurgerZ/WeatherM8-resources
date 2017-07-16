@@ -96,7 +96,7 @@
     <string name="hourly_forecast_title">Napoved po urah</string>
     <string name="international_detail_menu_title">Podrobnosti</string>
 	<string name="loading_data">Nalaganje…</string>
-    <string name="locate_fail_detail_err">"Ne morem locirati napravo
+    <string name="locate_fail_detail_err">"Ne morem locirati napravo.
 Tapnite tipko da ročno dodate mesto ali poskusite ponovno"</string>
     <string name="location_management">Lokacije</string>
     <string name="location_tag">Lociraj</string>
