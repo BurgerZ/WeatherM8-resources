@@ -70,6 +70,7 @@
     <string name="settings_weather_realtime_spider_title">Текущие данные</string>
     <string name="settings_weather_forecast_spider_title">Прогноз</string>
     <string name="settings_weather_station_title">Метеостанция</string>
+    <string name="settings_weather_data_order_title">Порядок отображаемых данных</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">Информация о качестве воздуха</string>
     <string name="settings_aqi_onoff_summary">Отображать информацию о качестве воздуха для выбранных городов (если такая информация доступна)</string>
