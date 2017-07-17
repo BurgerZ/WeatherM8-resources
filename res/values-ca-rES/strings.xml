@@ -72,6 +72,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_weather_realtime_spider_title">Dades en temps real</string>
     <string name="settings_weather_forecast_spider_title">Dades de previsió</string>
     <string name="settings_weather_station_title">Estació meteorològica</string>
+	<string name="settings_weather_data_order_title">Ordre de les dades meteorològiques</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">"Informació sobre la qualitat de l'aire"</string>
     <string name="settings_aqi_onoff_summary">"Mostra la informació de l'índex de qualitat de l'aire a les ubicacions (si està disponible)"</string>
