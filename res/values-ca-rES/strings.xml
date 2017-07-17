@@ -178,7 +178,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="sunset">Ocàs</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_drawer_on_top">Pronòstic diari</string>
+    <string name="daily_forcast_drawer_on_top">Previsió diària</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
 
     <!-- Weather details -->
