@@ -188,6 +188,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">milhas</string>
+    <string name="settings_weather_data_order_title">Ordem dos dados exibidos</string>
     <string name="settings_weather_details_summary">Seleccionar os detalhes do tempo que vão aparecer no ecrã inicial</string>
     <string name="settings_weather_details_title">Detalhes do tempo</string>
     <string name="settings_weather_forecast_spider_title">Dados de previsão</string>
