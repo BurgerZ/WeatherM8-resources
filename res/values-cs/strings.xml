@@ -297,4 +297,5 @@ Zkontrolujte síťové nastavení."</string>
     <string name="radar_tab_rain">Srážky</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
     <string name="loading_data">Načítám data…</string> 
+    <string name="settings_weather_data_order_title">Pořadí údajů o počasí</string>
 </resources>
