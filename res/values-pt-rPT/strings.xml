@@ -153,10 +153,10 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_icons_theme_details_title">Detalhes do tema</string>
     <string name="settings_icons_title">Ícones do tempo</string>
     <string name="settings_menu_title">Definições</string>
-    <string name="settings_notification_priority_summary">Ocultar ícone na área de notificações e mostrar informação do tempo na barra de estado</string>
+    <string name="settings_notification_priority_summary">Ocultar ícone na área de notificações e mostrar dados do tempo na barra de estado</string>
     <string name="settings_notification_priority_title">Notificação mínima</string>
     <string name="settings_notification_statusbar_color_title">Cor do ícone de notificação</string>
-    <string name="settings_notification_summary">Mostrar ícone na área de notificações e informação do tempo na barra de estado</string>
+    <string name="settings_notification_summary">Mostrar ícone na área de notificações e dados do tempo na barra de estado</string>
     <string name="settings_notification_title">Mostrar notificações</string>
     <string name="settings_notifications_summary">Definições de notificações</string>
     <string name="settings_notifications_title">Notificações</string>
