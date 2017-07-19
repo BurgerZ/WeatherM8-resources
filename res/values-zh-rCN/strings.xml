@@ -189,9 +189,9 @@
     <string name="weather_details_temperature_title">当前温度</string>
     <string name="weather_details_uv_index_title">紫外线指数</string>
     <string name="weather_details_pressure_title">气压</string>
-    <string name="weather_details_humidity_title">湿度</string>
+    <string name="weather_details_humidity_title">相对湿度</string>
     <string name="weather_details_visibility_title">能见度</string>
-    <string name="weather_details_precipitation_prob_title">降雨概率</string>
+    <string name="weather_details_precipitation_prob_title">降水概率</string>
     <string name="weather_details_daylight_hours_title">光照时间</string>
     <string name="weather_details_timezone_title">时区</string>
     <string name="weather_details_elevation_title">海拔</string>
