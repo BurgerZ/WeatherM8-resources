@@ -90,6 +90,7 @@
     <string-array name="pressure_level_entries">
         <item>Nivelul mării</item>
         <item>Nivelul locaţiei</item>
+        <item>Senzor de presiune al telefonului</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Bună</item>

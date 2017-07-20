@@ -76,6 +76,7 @@
     <string-array name="pressure_level_entries">
         <item>Jūros lygis</item>
         <item>Miesto lygis</item>
+        <item>Telefono slėgio jutiklis</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minučių</item>

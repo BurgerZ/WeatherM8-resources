@@ -78,6 +78,7 @@
     <string-array name="pressure_level_entries">
         <item>समुद्र स्तर</item>
         <item>स्थान स्तर</item>
+        <item>फोन दबाव सेंसर</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>१५ मिनट</item>

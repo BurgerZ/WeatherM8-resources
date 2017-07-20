@@ -95,5 +95,6 @@
     <string-array name="pressure_level_entries">
         <item>Merenpinta</item>
         <item>Korkeus</item>
+        <item>Puhelinpaineanturi</item>
     </string-array>
 </resources>

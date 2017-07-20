@@ -90,6 +90,7 @@
     <string-array name="pressure_level_entries">
         <item>Рівень моря</item>
         <item>Рівень міста</item>
+        <item>Датчик тиску телефону</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Хороше</item>

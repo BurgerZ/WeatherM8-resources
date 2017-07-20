@@ -82,6 +82,7 @@
     <string-array name="pressure_level_entries">
         <item>해수면</item>
         <item>위치 수준</item>
+        <item>전화 압력 센서</item>
     </string-array>
     
     <string-array name="aqi_value">

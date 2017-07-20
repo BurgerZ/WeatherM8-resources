@@ -95,6 +95,7 @@
     <string-array name="pressure_level_entries">
         <item>Permukaan laut</item>
         <item>Permukaan lokasi</item>
+        <item>Sensor tekanan telepon</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>AQI %1$s</item>
