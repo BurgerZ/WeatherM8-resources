@@ -78,6 +78,7 @@
     <string-array name="pressure_level_entries">
         <item>Hladinu moře</item>
         <item>Nadmořskou výšku polohy</item>
+        <item>Snímač tlaku telefonu</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minut</item>

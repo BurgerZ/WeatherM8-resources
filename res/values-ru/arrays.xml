@@ -93,6 +93,7 @@
     <string-array name="pressure_level_entries">
         <item>Уровень моря</item>
         <item>Уровень города</item>
+        <item>Сенсор давления телефона</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Хорошее</item>

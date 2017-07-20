@@ -32,7 +32,7 @@
         <item>多云</item>
         <item>阴</item>
         <item>雾</item>
-        <item>超大暴雨</item>
+        <item>特大暴雨</item>
         <item>大暴雨</item>
         <item>暴雨</item>
         <item>雷阵雨</item>
@@ -48,10 +48,10 @@
         <item>小雪</item>
         <item>强沙尘暴</item>
         <item>沙尘暴</item>
-        <item>沙尘</item>
         <item>扬沙</item>
+        <item>风</item>
         <item>冰雹</item>
-        <item>沙尘</item>
+        <item>浮尘</item>
         <item>霾</item>
         <item>冻雨</item>
         <item>没有天气</item>
@@ -119,6 +119,7 @@
     <string-array name="pressure_level_entries">
         <item>海平面</item>
         <item>地点海拔</item>
+        <item>手机压力传感器</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>AQI %1$s</item>

@@ -70,6 +70,7 @@
     <string name="settings_weather_realtime_spider_title">Текущие данные</string>
     <string name="settings_weather_forecast_spider_title">Прогноз</string>
     <string name="settings_weather_station_title">Метеостанция</string>
+    <string name="settings_weather_data_order_title">Порядок отображаемых данных</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">Информация о качестве воздуха</string>
     <string name="settings_aqi_onoff_summary">Отображать информацию о качестве воздуха для выбранных городов (если такая информация доступна)</string>
@@ -211,6 +212,23 @@
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">Предупреждений: %1$d</string>
+    <string name="activity_main_alert_precip">Ожидается %1$s. Количество осадков за сутки составит %2$s.</string>
+    <string name="activity_main_alert_wind">Ожидается ветер, максимальная скорость составит %1$s.</string>
+    <string name="activity_main_alert_wind_gusts">Ожидаются порывы ветра с максимальной скоростью до %1$s.</string>
+    <string name="activity_main_alert_tstorm">Ожидаются грозы с вероятностью %1$s.</string>
+    <string name="activity_main_alert_day_night">Днем ожидается %1$s, ночью %2$s.</string>
+    <string name="activity_main_alert_type_rain">Дождь</string>
+    <string name="activity_main_alert_type_snow">Снег</string>
+    <string name="activity_main_alert_type_ice">Лед</string>
+    <string name="activity_main_alert_type_wind">Ветер</string>
+    <string name="activity_main_alert_type_wind_gusts">Порывы ветра</string>
+    <string name="activity_main_alert_type_tstorm">Грозы</string>
+    <string name="activity_main_alert_unit_mm">" мм"</string>
+    <string name="activity_main_alert_unit_cm">" см"</string>
+    <string name="activity_main_alert_unit_inch">" дюйм"</string>
+    <string name="activity_main_alert_unit_kmh">" км/ч"</string>
+    <string name="activity_main_alert_unit_mph">" миль/ч"</string>
+    <string name="activity_main_alert_unit_mps">" м/с"</string>
 
     <string name="daily_forcast_no_wind">Слабый</string>
     <string name="daily_forcast_whirl_wind">Вихрь</string>

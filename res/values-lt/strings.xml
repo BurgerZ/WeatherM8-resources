@@ -81,9 +81,9 @@ Paspauskite žemiau esantį mygtuką, kad pakartoti paiešką arba pridėkite vi
     <string name="settings_notifications_title">Pranešimai</string>
     <string name="settings_notify_type_title">Pranešimo ikonėlė</string>
     <string name="settings_pressure_unit">Slėgis</string>
-    <string name="settings_pressure_unit_in">col. Hg</string>
+    <string name="settings_pressure_unit_in">colHg</string>
     <string name="settings_pressure_unit_mb">mbar</string>
-    <string name="settings_pressure_unit_mm">mm Hg</string>
+    <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_temp_unit">Temperatūra</string>
     <string name="settings_translations">Programos vertimas</string>
     <string name="settings_translations_summary">Programos vertėjų sąrašas</string>
@@ -117,13 +117,15 @@ Paspauskite žemiau esantį mygtuką, kad pakartoti paiešką arba pridėkite vi
     <string name="view_indexes_item_today">Šiandien</string>
     <string name="view_indexes_item_tommorrow">Rytoj</string>
     <string name="weather_details_daylight_hours_title">Dienos ilgumas</string>
+    <string name="weather_details_daylight_diff_longer"> %1$s ilgesnė</string>
+    <string name="weather_details_daylight_diff_shorter"> %1$s trumpesnė</string>
     <string name="weather_details_humidity">%1$s%%</string>
     <string name="weather_details_humidity_title">Drėgnumas</string>
     <string name="weather_details_precipitation_prob_title">Krituliai</string>
     <string name="weather_details_pressure">%1$s gPa</string>
-    <string name="weather_details_pressure_in">%1$s col. Hg</string>
+    <string name="weather_details_pressure_in">%1$s colHg</string>
     <string name="weather_details_pressure_mb">%1$s mbar</string>
-    <string name="weather_details_pressure_mm">%1$s mm Hg</string>
+    <string name="weather_details_pressure_mm">%1$s mmHg</string>
     <string name="weather_details_pressure_title">Slėgis</string>
     <string name="weather_details_real_feel_title">Juntama</string>
     <string name="weather_details_title">Išsamiau</string>
@@ -184,7 +186,7 @@ Patikrinkite tinklo nustatymus."</string>
     <string name="network_wifi_only">Atnaujinimas galimas tik naudojant Wi-Fi tinklą.</string>
     <string name="press_color_to_apply">Pasirinkite spalvą kurią norite pritaikyti</string>
     <string name="settings_ads_explanation">"Kodėl programoje matote reklamą?
-Programų kurimas yra mano hobis, kuriam skiriu savo laisvalaikį. Todėl prašau suprasti, kodėl programoje pasirodo reklaminiai pranešimai. Reklaminių pranešymų rodymas stimulioja mane ir toliau kurti programas."</string>
+Programų kūrimas yra mano hobis, kuriam skiriu savo laisvalaikį. Todėl prašau suprasti, kodėl programoje pasirodo reklaminiai pranešimai. Reklaminių pranešymų rodymas stimulioja mane ir toliau kurti programas."</string>
     <string name="settings_ads_menu_hide_title">Slėpti šį meniu punktą</string>
     <string name="settings_ads_remove_summary">Išjungti reklamą savaitei(kartą per mėnesį)</string>
     <string name="settings_ads_remove_title">Išjungti reklamą</string>
@@ -242,7 +244,7 @@ Programų kurimas yra mano hobis, kuriam skiriu savo laisvalaikį. Todėl praša
     <string name="widget_config_clock_color_title">Laikrodžio spalva</string>
     <string name="widget_config_clock_font_size_title">Laikrodžio šrifto dydis</string>
     <string name="widget_config_clock_font_title">Laikrodžio šriftas</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">Išjunkite šį punktą, jei laikrodys neatsinaujina</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">Išjunkite šį punktą, jei laikrodis neatsinaujina</string>
     <string name="widget_config_custom_clock_font_onoff_title">Pakeisti laikrodžio šriftą</string>
     <string name="widget_config_date_font_size_title">Datos šrifto dydis</string>
     <string name="widget_config_dateformat_title">Datos formatas</string>
@@ -263,4 +265,10 @@ Programų kurimas yra mano hobis, kuriam skiriu savo laisvalaikį. Todėl praša
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="widget_config_forecast_icon_size_title">Orų prognozės ikonėlės dydis</string>
     <string name="widget_config_realtime_icon_size_title">Esamų orų ikonėlės dydis</string>
+    <!-- Radar -->
+    <string name="radar_title">Žemėlapis</string>
+    <string name="radar_tab_cloud">Debesuotumas</string>
+    <string name="radar_tab_rain">Krituliai</string>
+    <string name="radar_date_format">dd.MM HH:mm</string>
+    <string name="loading_data">Duomenų užkrovimas…</string>
 </resources>

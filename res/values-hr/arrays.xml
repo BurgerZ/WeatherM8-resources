@@ -95,6 +95,7 @@
     <string-array name="pressure_level_entries">
         <item>Razina mora</item>
         <item>Razina lokacije</item>
+        <item>Osjetnik tlaka telefona</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>AQI %1$s</item>

@@ -26,11 +26,11 @@
         <item>Lasko</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Najslabši</item>
-        <item>Slab</item>
-        <item>Srednji</item>
-        <item>Močan</item>
-        <item>Najmočnejši</item>
+        <item>Nizko</item> <!-- 0-2.9 -->
+        <item>Zmerno</item> <!-- 3-5.9 -->
+        <item>Visoko</item> <!-- 6-7.9 -->
+        <item>Zelo visoko</item> <!-- 8-10.9 -->
+        <item>Ekstremno</item> <!-- 11+ -->
     </string-array>
     <string-array name="weather_notif_type_entries">
         <item>Ikona vremena</item>
@@ -78,6 +78,7 @@
     <string-array name="pressure_level_entries">
         <item>Nivo morja</item>
         <item>Nivo lokacije</item>
+        <item>Senzor tlaka telefona</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minut</item>

@@ -93,5 +93,6 @@
     <string-array name="pressure_level_entries">
         <item>Узровень мора</item>
         <item>Узровень горада</item>
+        <item>Датчык цiску тэлефона</item>
     </string-array>
 </resources>

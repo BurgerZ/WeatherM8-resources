@@ -95,6 +95,7 @@
     <string-array name="pressure_level_entries">
         <item>Poziomu morza</item>
         <item>Lokalnej wysokości</item>
+        <item>Czujnik ciśnienia telefonu</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>AQI %1$s</item>

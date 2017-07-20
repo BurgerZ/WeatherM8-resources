@@ -71,6 +71,7 @@
     <string name="settings_weather_realtime_spider_title">实时数据</string>
     <string name="settings_weather_forecast_spider_title">预报数据</string>
     <string name="settings_weather_station_title">气象站</string>
+        <string name="settings_weather_data_order_title">天气数据排序</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">空气质量信息</string>
     <string name="settings_aqi_onoff_summary">显示您所在地区的空气质量(如果可供使用)</string>
@@ -188,9 +189,9 @@
     <string name="weather_details_temperature_title">当前温度</string>
     <string name="weather_details_uv_index_title">紫外线指数</string>
     <string name="weather_details_pressure_title">气压</string>
-    <string name="weather_details_humidity_title">湿度</string>
+    <string name="weather_details_humidity_title">相对湿度</string>
     <string name="weather_details_visibility_title">能见度</string>
-    <string name="weather_details_precipitation_prob_title">降雨概率</string>
+    <string name="weather_details_precipitation_prob_title">降水概率</string>
     <string name="weather_details_daylight_hours_title">光照时间</string>
     <string name="weather_details_timezone_title">时区</string>
     <string name="weather_details_elevation_title">海拔</string>
@@ -223,6 +224,23 @@
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">预警: %1$d</string>
+    <string name="activity_main_alert_precip">%1$s预计。预计当日降水量为%2$s。</string>
+    <string name="activity_main_alert_wind">预计风的最高风速可达%1$s。</string>
+    <string name="activity_main_alert_wind_gusts">预计大风的最高风速可达%1$s。</string>
+    <string name="activity_main_alert_tstorm">下雷阵雨的概率预计为%1$s。</string>
+    <string name="activity_main_alert_day_night">预计白天%1$s，晚上%2$s。</string>
+    <string name="activity_main_alert_type_rain">下雨</string>
+    <string name="activity_main_alert_type_snow">降雪</string>
+    <string name="activity_main_alert_type_ice">结冰</string>
+    <string name="activity_main_alert_type_wind">起风</string>
+    <string name="activity_main_alert_type_wind_gusts">大风</string>
+    <string name="activity_main_alert_type_tstorm">雷阵雨</string>
+    <string name="activity_main_alert_unit_mm">毫米</string>
+    <string name="activity_main_alert_unit_cm">厘米</string>
+    <string name="activity_main_alert_unit_inch">英寸</string>
+    <string name="activity_main_alert_unit_kmh">千米/时</string>
+    <string name="activity_main_alert_unit_mph">英里/时</string>
+    <string name="activity_main_alert_unit_mps">米/秒</string>
 
     <string name="daily_forcast_no_wind">无风</string>
     <string name="daily_forcast_whirl_wind">大风</string>
@@ -234,7 +252,7 @@
     <string name="wind_unit_ms">%1$s米/秒</string>
     <string name="wind_unit_mph">%1$s英里/时</string>
 
-    <string name="hourly_forecast_title">每小时预报</string>
+    <string name="hourly_forecast_title">每小时天气预报</string>
 
     <!-- Widgets -->
     <string name="widget_update_date_string">更新于 %s</string>

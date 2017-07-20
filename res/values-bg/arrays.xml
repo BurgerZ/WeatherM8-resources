@@ -93,5 +93,6 @@
     <string-array name="pressure_level_entries">
         <item>Морско равнище</item>
         <item>В населено място</item>
+        <item>Сензор за налягане на телефона</item>
     </string-array>
 </resources>

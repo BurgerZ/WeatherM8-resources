@@ -82,6 +82,7 @@
     <string-array name="pressure_level_entries">
         <item>Nível do mar</item>
         <item>Nível do local</item>
+        <item>Sensor de pressão do telefone</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minutos</item>
