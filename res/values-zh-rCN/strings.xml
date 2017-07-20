@@ -71,6 +71,7 @@
     <string name="settings_weather_realtime_spider_title">实时数据</string>
     <string name="settings_weather_forecast_spider_title">预报数据</string>
     <string name="settings_weather_station_title">气象站</string>
+        <string name="settings_weather_data_order_title">天气数据排序</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">空气质量信息</string>
     <string name="settings_aqi_onoff_summary">显示您所在地区的空气质量(如果可供使用)</string>
@@ -188,9 +189,9 @@
     <string name="weather_details_temperature_title">当前温度</string>
     <string name="weather_details_uv_index_title">紫外线指数</string>
     <string name="weather_details_pressure_title">气压</string>
-    <string name="weather_details_humidity_title">湿度</string>
+    <string name="weather_details_humidity_title">相对湿度</string>
     <string name="weather_details_visibility_title">能见度</string>
-    <string name="weather_details_precipitation_prob_title">降雨概率</string>
+    <string name="weather_details_precipitation_prob_title">降水概率</string>
     <string name="weather_details_daylight_hours_title">光照时间</string>
     <string name="weather_details_timezone_title">时区</string>
     <string name="weather_details_elevation_title">海拔</string>
@@ -251,7 +252,7 @@
     <string name="wind_unit_ms">%1$s米/秒</string>
     <string name="wind_unit_mph">%1$s英里/时</string>
 
-    <string name="hourly_forecast_title">每小时预报</string>
+    <string name="hourly_forecast_title">每小时天气预报</string>
 
     <!-- Widgets -->
     <string name="widget_update_date_string">更新于 %s</string>
