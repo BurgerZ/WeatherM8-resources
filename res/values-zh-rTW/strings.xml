@@ -71,7 +71,7 @@
     <string name="settings_weather_realtime_spider_title">即時數據</string>
     <string name="settings_weather_forecast_spider_title">預報數據</string>
     <string name="settings_weather_station_title">氣象站</string>
-    <string name="settings_weather_data_order_title">天氣數據排序</string>
+    <string name="settings_weather_data_order_title">天氣數據卡片排序</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">顯示空氣品質</string>
     <string name="settings_aqi_onoff_summary">顯示您所在地區的空氣品質(如果可供使用)</string>
