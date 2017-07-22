@@ -71,6 +71,7 @@
     <string name="settings_weather_realtime_spider_title">即時數據</string>
     <string name="settings_weather_forecast_spider_title">預報數據</string>
     <string name="settings_weather_station_title">氣象站</string>
+    <string name="settings_weather_data_order_title">天氣數據排序</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">顯示空氣品質</string>
     <string name="settings_aqi_onoff_summary">顯示您所在地區的空氣品質(如果可供使用)</string>
@@ -223,6 +224,24 @@
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">預警：%1$d</string>
+    <string name="activity_main_alert_precip">%1$s預警。預計當日降雨量為%2$s。</string>
+    <string name="activity_main_alert_wind">預計風的最高風速達%1$s。</string>
+    <string name="activity_main_alert_wind_gusts">預計大風的最高風速可達%1$s。</string>
+    <string name="activity_main_alert_tstorm">預計下雷陣雨的機率為%1$s。</string>
+    <string name="activity_main_alert_day_night">預計白天為%1$s，晚上為%2$s。</string>
+    <string name="activity_main_alert_type_rain">降雨</string>
+    <string name="activity_main_alert_type_snow">降雪</string>
+    <string name="activity_main_alert_type_ice">結冰/string>
+    <string name="activity_main_alert_type_wind">起風</string>
+    <string name="activity_main_alert_type_wind_gusts">陣風</string>
+    <string name="activity_main_alert_type_tstorm">雷陣雨</string>
+    <string name="activity_main_alert_unit_mm">毫米</string>
+    <string name="activity_main_alert_unit_cm">公分</string>
+    <string name="activity_main_alert_unit_inch">英吋</string>
+    <string name="activity_main_alert_unit_kmh">公里/時</string>
+    <string name="activity_main_alert_unit_mph">英里/時</string>
+    <string name="activity_main_alert_unit_mps">公尺/秒</string>
+
 
     <string name="daily_forcast_no_wind">無風</string>
     <string name="daily_forcast_whirl_wind">旋風</string>
