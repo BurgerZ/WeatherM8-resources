@@ -117,7 +117,7 @@
     <string-array name="pressure_level_entries">
         <item>海平面</item>
         <item>地區海拔</item>
-        <item>手機壓力傳感器</item>
+        <item>手機氣壓感測器</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>AQI %1$s</item>
