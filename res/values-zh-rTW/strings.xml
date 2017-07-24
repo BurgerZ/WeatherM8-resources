@@ -231,7 +231,7 @@
     <string name="activity_main_alert_day_night">預計白天為%1$s，晚上為%2$s。</string>
     <string name="activity_main_alert_type_rain">降雨</string>
     <string name="activity_main_alert_type_snow">降雪</string>
-    <string name="activity_main_alert_type_ice">結冰/string>
+    <string name="activity_main_alert_type_ice">結冰</string>
     <string name="activity_main_alert_type_wind">起風</string>
     <string name="activity_main_alert_type_wind_gusts">陣風</string>
     <string name="activity_main_alert_type_tstorm">雷陣雨</string>
