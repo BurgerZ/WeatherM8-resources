@@ -72,7 +72,7 @@
     <string-array name="wind_direction">
         <item>Norte</item>
         <item>Nordeste</item>
-        <item>Este</item>
+        <item>Leste</item>
         <item>Sudeste</item>
         <item>Sul</item>
         <item>Sudoeste</item>
