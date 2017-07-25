@@ -60,7 +60,7 @@
     <string name="settings_autoupdate_weather_title">自動更新</string>
     <string name="settings_autoupdate_weather_summary">自動更新天氣預報</string>
     <string name="settings_update_wifi_only_summary">僅在有Wi-Fi連線時自動更新天氣預報</string>
-    <string name="settings_update_wifi_only_title">只在有Wi-Fi連線時自動更新</string>
+    <string name="settings_update_wifi_only_title">Wi-Fi連線時自動更新</string>
     <string name="settings_update_interval_title">自動更新頻率</string>
     <string name="settings_update_quiet_hours_end_time_title">結束</string>
     <string name="settings_update_quiet_hours_start_time_title">開始</string>
@@ -253,7 +253,7 @@
     <string name="wind_unit_ms">%1$s公尺/秒</string>
     <string name="wind_unit_mph">%1$s英里/時</string>
 
-    <string name="hourly_forecast_title">每小時預報</string>
+    <string name="hourly_forecast_title">每小時天氣預報</string>
 
     <!-- Widgets -->
     <string name="widget_update_date_string">更新於 %s</string>
