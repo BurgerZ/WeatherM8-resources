@@ -212,9 +212,11 @@
     <string name="weather_details_daylight_diff_longer">比昨天长%1$s</string>
     <string name="weather_details_daylight_diff_shorter">比昨天短%1$s</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s毫米</string>
+
+    <string name="time_units_hour">小时</string>
+    <string name="time_units_minute">分钟</string>
+    <string name="time_units_second">秒</string>
 
     <string name="hourly_forecast_detail_date">MMMd日, E</string>
     <string name="daily_forecast_detail_date">MMMd日</string>
