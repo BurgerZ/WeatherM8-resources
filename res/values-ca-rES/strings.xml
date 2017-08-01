@@ -259,7 +259,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="hourly_forecast_title">Previsió horària</string>
 
     <!-- Widgets -->
-    <string name="widget_update_date_string">Actualizat fa %s</string>
+    <string name="widget_update_date_string">Actualizat el %s</string>
     <string name="widget_update_updating_string">"S'està actualitzant&#8230;"</string>
     <!-- Widget config -->
     <string name="widget_config_title">Configuració del giny</string>
