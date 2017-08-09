@@ -225,12 +225,12 @@
     <string name="widget_dateformat_default_value">yyyy年MMMMd日</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">預警：%1$d</string>
-    <string name="activity_main_alert_precip">%1$s預警。預計當日降雨量為%2$s。</string>
-    <string name="activity_main_alert_wind">預計風的最高風速達%1$s。</string>
-    <string name="activity_main_alert_wind_gusts">預計大風的最高風速可達%1$s。</string>
+    <string name="activity_main_alert">警報：%1$d</string>
+    <string name="activity_main_alert_precip">%1$s警報。預計今日降雨量為%2$s。</string>
+    <string name="activity_main_alert_wind">風速警報。預計最高風速達%1$s。</string>
+    <string name="activity_main_alert_wind_gusts">陣風風速預計可達%1$s。</string>
     <string name="activity_main_alert_tstorm">預計下雷陣雨的機率為%1$s。</string>
-    <string name="activity_main_alert_day_night">預計白天為%1$s，晚上為%2$s。</string>
+    <string name="activity_main_alert_day_night">白天為%1$s，晚上為%2$s。</string>
     <string name="activity_main_alert_type_rain">降雨</string>
     <string name="activity_main_alert_type_snow">降雪</string>
     <string name="activity_main_alert_type_ice">結冰</string>
