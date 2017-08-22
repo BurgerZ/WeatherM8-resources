@@ -79,9 +79,13 @@
     </string-array>
 
     <string-array name="update_check_interval_entries">
+        <item>15 минут</item>
         <item>30 минут</item>
         <item>1 час</item>
         <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часов</item>
         <item>6 часов</item>
         <item>12 часов</item>
         <item>24 часа</item>
@@ -89,6 +93,7 @@
     <string-array name="pressure_level_entries">
         <item>Уровень моря</item>
         <item>Уровень города</item>
+        <item>Сенсор давления телефона</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Хорошее</item>

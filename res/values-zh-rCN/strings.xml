@@ -1,176 +1,374 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">搜索国内外位置</string>
-    <string name="act_find_city_hot_title">添加</string>
-    <string name="act_set_city_find_side">定位中…</string>
-    <string name="act_set_city_find_side_error">定位失败</string>
-    <string name="act_set_city_swipe_hint">向左滑动删除城市</string>
-    <string name="act_weather_find_city_added">已添加</string>
-    <string name="act_weather_find_city_click_retry">重试</string>
-    <string name="act_weather_find_city_net_no_good">请检查网络</string>
-    <string name="act_weather_find_city_no_result">没有结果</string>
-    <string name="act_weather_find_city_searching">正在搜索…</string>
-    <string name="activity_detail_time_format">E</string>
-    <string name="activity_find_city_dialog_cancel">取消</string>
-    <string name="activity_find_city_dialog_message">开启"位置访问"以便"天气"确定您的位置</string>
-    <string name="activity_find_city_dialog_set">设置</string>
-    <string name="activity_find_city_dialog_title">位置访问</string>
-    <string name="activity_main_alert">预警: %1$d</string>
-    <string name="activity_main_expire_time">有效期 %1$s</string>
-    <string name="activity_main_refresh_fail">无法连接网络</string>
-    <string name="activity_main_time_format">E</string>
-    <string name="activity_main_update_time">更新于 %1$s</string>
-    <string name="activity_main_update_time_right_now">刚刚</string>
     <string name="app_name">Weather M8</string>
     <string name="app_version">版本: %s</string>
+    <string name="location_management">地点</string>
+    <string name="gps_hint">GPS</string>
+    <string name="network_unavailable">"无法连接到网络。"</string>
+    <string name="act_find_city_hot_title">添加城市</string>
+    <string name="act_find_city_hint">输入城市名</string>
+    <string name="act_set_city_find_side">定位中…</string>
+    <string name="act_set_city_find_side_error">"定位失败"</string>
     <string name="button_add_city">添加</string>
+    <string name="locate_fail_detail_err">"定位失败，点击屏幕重新定位或手动添加城市"</string>
+    <string name="act_set_city_swipe_hint">向左滑动删除城市</string>
     <string name="button_allow">确定</string>
     <string name="button_not_allow">取消</string>
-    <string name="daily_forcast_drawer_on_top">每日天气预报</string>
-    <string name="daily_forcast_no_wind">无风</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s 之后.</string>
-    <string name="daily_forcast_whirl_wind">大风</string>
-    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="delete">删除</string>
-<string name="first_start_network_msg">"此应用程序需要激活互联网连接,以获取天气数据.
-        应用程序使用的权限:
-        • 访问设备位置,以获取你的当前坐标.
-        • 访问照片,媒体和文件.以保存截图并 \"分享\" ."</string>
-    <string name="first_start_network_title">互联网连接和位置访问</string>
-    <string name="gps_hint">GPS</string>
-    <string name="hour_minute_time_format">HH:mm</string>
-    <string name="hourly_forcast_now">现在</string>
-    <string name="hourly_forecast_title">每小时预测</string>
-    <string name="international_detail_menu_title">详情</string>
-    <string name="locate_fail_detail_err">定位失败,点击屏幕重新定位或手动添加城市</string>
-    <string name="location_management">位置</string>
-    <string name="location_tag">定位</string>
-    <string name="menu_moon_phases">月相</string>
-    <string name="moon_age">月龄: %1$s 天 %2$s 小时 %3$s 分钟</string>
-    <string name="moon_angle">月球角度: %s</string>
-    <string name="moon_distanse">月球距离: %s км</string>
-    <string name="moon_firstquarter">上弦月</string>
-    <string name="moon_full">满月</string>
-    <string name="moon_illuminated">受照: %s%%</string>
-    <string name="moon_lastquarter">下弦月</string>
-    <string name="moon_newmoon">新月</string>
-    <string name="moon_since">日期: %1$s %2$s</string>
-    <string name="moon_waningcrescent">残月</string>
-    <string name="moon_waninggibbous">亏凸月</string>
-    <string name="moon_waxingcrescent">蛾眉月</string>
-    <string name="moon_waxinggibbous">盈凸月</string>
-    <string name="moon_zodiac">星座: %s</string>
-    <string name="more_details">更多详情</string>
-    <string name="network_unavailable">无法连接网络</string>
-    <string name="settings_about">关于</string>
-    <string name="settings_alerts_title">预警管理</string>
-    <string name="settings_app_locale_title">语言</string>
-    <string name="settings_autoupdate_weather_summary">自动更新天气预报</string>
-    <string name="settings_autoupdate_weather_title">自动更新</string>
-    <string name="settings_category_units">单位选择</string>
-    <string name="settings_city_base">城市数据库</string>
-    <string name="settings_icons_title">天气图标</string>
-    <string name="settings_menu_title">设置</string>
-    <string name="settings_notification_priority_summary">最低优先级通知,只出现在通知下</string>
-    <string name="settings_notification_priority_title">最低优先级</string>
-    <string name="settings_notification_summary">在通知区域显示当前天气情况.</string>
-    <string name="settings_notification_title">显示通知</string>
-    <string name="settings_notifications_summary">天气通知设置</string>
-    <string name="settings_notifications_title">通知</string>
-    <string name="settings_notify_type_title">通知图标</string>
-    <string name="settings_pressure_unit">气压</string>
-    <string name="settings_pressure_unit_in">inHg</string>
-    <string name="settings_pressure_unit_mb">mb</string>
-    <string name="settings_pressure_unit_mm">mmHg</string>
-    <string name="settings_temp_unit">温度</string>
-    <string name="settings_translations">应用翻译</string>
-    <string name="settings_translations_summary">参与应用翻译, 将应用翻译为你的语言</string>
-    <string name="settings_update_interval_title">更新间隔</string>
-    <string name="settings_visibility_unit">可见度</string>
-    <string name="settings_visibility_unit_kilometers">km</string>
-    <string name="settings_visibility_unit_meters">m</string>
-    <string name="settings_visibility_unit_miles">miles</string>
-    <string name="settings_weather_details_summary">选择显示在主屏幕上的天气详情</string>
-    <string name="settings_weather_details_title">天气详情</string>
-    <string name="settings_weather_spider_title">天气源</string>
-    <string name="settings_weather_transfer_summary">显示天气描述,日间到夜间传输</string>
-    <string name="settings_weather_transfer_title">天气描述传输</string>
-    <string name="settings_wind_unit">风速</string>
-    <string name="settings_wind_unit_kmh">km/h</string>
-    <string name="settings_wind_unit_mph">mph</string>
-    <string name="settings_wind_unit_ms">m/s</string>
-    <string name="share_btn_cancel">取消</string>
-    <string name="share_btn_confirm">分享</string>
-    <string name="share_button">分享</string>
-    <string name="share_menu_title">分享</string>
-    <string name="share_subject">分享</string>
-    <string name="share_weather_desc">\#Weather M8# 今天 %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s, %2$s</string>
-    <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">不能截图</string>
-    <string name="sunrise">日出</string>
-    <string name="sunset">日落</string>
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+    <string name="act_weather_find_city_net_no_good">"请检查网络连接"</string>
+    <string name="act_weather_find_city_click_retry">重试</string>
+    <string name="act_weather_find_city_searching">搜索中…</string>
+    <string name="location_tag">位置</string>
+    <string name="act_weather_find_city_no_result">没有结果</string>
+    <string name="act_weather_find_city_added">已添加</string>
     <string name="view_forecast_item_yesterday">昨天</string>
     <string name="view_indexes_item_today">今天</string>
     <string name="view_indexes_item_tommorrow">明天</string>
-    <string name="weather_details_daylight_hours_title">光照时间</string>
-    <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_humidity_title">湿度</string>
-    <string name="weather_details_precipitation_prob_title">降雨概率</string>
-    <string name="weather_details_pressure">%1$s hPa</string>
-    <string name="weather_details_pressure_in">%1$s inHg</string>
-    <string name="weather_details_pressure_mm">%1$s mmHg</string>
-    <string name="weather_details_pressure_title">气压</string>
-    <string name="weather_details_real_feel_title">体感温度</string>
+    <string name="activity_main_update_time">更新于 %1$s</string>
+    <string name="activity_main_expire_time">有效期 %1$s</string>
+    <string name="activity_main_update_time_expire">数据已过期</string>
+    <string name="activity_main_update_time_right_now">刚刚</string>
+    <string name="activity_main_refresh_fail">"无法连接网络"</string>
+    <string name="activity_find_city_dialog_cancel">取消</string>
+    <string name="activity_find_city_dialog_set">设置</string>
+    <string name="activity_find_city_dialog_title">位置访问</string>
+    <string name="activity_find_city_dialog_message">开启"定位"以便"Weather M8"确定您的位置</string>
+    <string name="activity_main_time_format">E</string>
+    <string name="activity_detail_time_format">E</string>
+    <string name="hour_minute_time_format">HH:mm</string>
+    <string name="first_start_network_msg">"此应用程序需要网络连接以获取天气数据。
+        应用程序使用的权限:
+        \u2022 访问设备位置以获取当前坐标。
+        \u2022 访问照片,媒体和文件。以保存截图并 \"分享\" 。"</string>
+    <string name="first_start_network_title">网络连接和位置服务权限</string>
+
+    <string name="get_accounts_msg">此应用需要访问设备帐户才能查看您的购买情况并关闭广告。</string>
+    <string name="get_accounts_title">帐户访问</string>
+
+    <string name="international_detail_menu_title">详情</string>
+    <string name="share_menu_title">分享</string>
+
+    <string name="common_auto">自动</string>
+    <string name="common_recommended">建议</string>
+
+    <string name="network_error">无法连接服务器\n请检查您的网络设置</string>
+    <string name="network_in_quiet_hours">您现在处于暂停更新模式。已停止更新</string>
+    <string name="network_in_roaming">您已经设置移动数据禁止更新。</string>
+    <string name="network_wifi_only">只有连接Wi-Fi时更新。</string>
+
+    <!-- Preferences -->
+    <string name="settings_menu_title">设置</string>
+    <string name="settings_autoupdate_weather_title">自动更新</string>
+    <string name="settings_autoupdate_weather_summary">自动更新天气预报</string>
+    <string name="settings_update_wifi_only_summary">仅在连接Wi-Fi时自动更新天气预报</string>
+    <string name="settings_update_wifi_only_title">连接Wi-Fi时自动更新</string>
+    <string name="settings_update_interval_title">自动更新频率</string>
+    <string name="settings_update_quiet_hours_end_time_title">结束时间</string>
+    <string name="settings_update_quiet_hours_start_time_title">开始时间</string>
+    <string name="settings_update_quiet_hours_title">暂停自动更新</string>
+    <string name="settings_weather_transfer_title">天气描述转换</string>
+    <string name="settings_weather_transfer_summary">昼夜转换时显示天气描述</string>
+    <string name="settings_weather_spider_title">天气数据来源</string>
+    <string name="settings_weather_realtime_spider_title">实时数据</string>
+    <string name="settings_weather_forecast_spider_title">预报数据</string>
+    <string name="settings_weather_station_title">气象站</string>
+        <string name="settings_weather_data_order_title">天气数据排序</string>
+    <string name="settings_aqi_title">@string/aqi_main_title</string>
+    <string name="settings_aqi_onoff_title">空气质量信息</string>
+    <string name="settings_aqi_onoff_summary">显示您所在地区的空气质量(如果可供使用)</string>
+    <string name="settings_aqi_max_distance_closest">最近的观测站</string>
+    <string name="settings_aqi_max_distance_title">空气质量检测半径</string>
+    <string name="settings_aqi_max_distance_summary">从气象站 %1$s以内获取空气质量数据</string>
+    <string name="settings_app_locale_title">语言</string>
+    <string name="settings_app_theme_title">主题</string>
+    <string name="settings_app_theme_light">亮色系</string>
+    <string name="settings_app_theme_dark">暗色系</string>
+    <string name="settings_sound_volume">音量</string>
+    <string name="settings_weather_details_title">天气详情</string>
+    <string name="settings_weather_details_summary">选择显示在主屏幕上的天气详情</string>
+    <string name="settings_category_units">单位</string>
+    <string name="settings_pressure_unit">气压</string>
+    <string name="settings_pressure_unit_atm">大气压</string>
+    <string name="settings_pressure_unit_hpa">百帕</string>
+    <string name="settings_pressure_unit_mb">毫巴</string>
+    <string name="settings_pressure_unit_mm">毫米汞柱</string>
+    <string name="settings_pressure_unit_in">英寸汞柱</string>
+    <string name="settings_wind_unit">风速</string>
+    <string name="settings_wind_unit_bft">级</string>
+    <string name="settings_wind_unit_kmh">千米/时</string>
+    <string name="settings_wind_unit_knot">节</string>
+    <string name="settings_wind_unit_ms">米/秒</string>
+    <string name="settings_wind_unit_mph">英里/时</string>
+    <string name="settings_temp_unit">温度</string>
+    <string name="settings_visibility_unit">能见度</string>
+    <string name="settings_visibility_unit_kilometers">千米</string>
+    <string name="settings_visibility_unit_meters">米</string>
+    <string name="settings_visibility_unit_miles">英里</string>
+
+    <string name="settings_realtime_feelslike_as_main_title">体感温度作为主要温度</string>
+    <string name="settings_realtime_feelslike_as_main_summary">将主要温度显示更改为体感温度</string>
+
+    <string name="settings_show_plus_sign_temp_title">显示 "+" 符号</string>
+    <string name="settings_show_plus_sign_temp_summary">当温度为正温度时显示 "+" 符号</string>
+
+    <string name="settings_pressure_level_title">气压数值基准</string>
+
+    <string name="settings_city_base">城市数据库</string>
+
+    <string name="settings_notifications_title">通知</string>
+    <string name="settings_notifications_summary">在通知栏中显示天气</string>
+    <string name="settings_notification_title">显示通知</string>
+    <string name="settings_notification_summary">在通知栏中显示目前天气状况</string>
+
+    <string name="settings_notification_priority_title">最低优先级</string>
+    <string name="settings_notification_priority_summary">最低优先级通知，只显示在其他通知之下</string>
+
+    <string name="settings_notify_type_title">显示图标</string>
+    <string name="settings_notification_statusbar_color_title">图标颜色</string> 
+	
+    <string name="settings_alerts_title">预警管理</string>
+
+    <string name="settings_icons_title">天气图标</string>
+    <string name="settings_icons_builtin_title">内置天气图标</string>
+    <string name="settings_icons_theme_details_title">主题细节</string>
+
+    <string name="settings_widgets_title">小工具</string>
+    <string name="settings_widgets_not_found">未放置小工具</string>
+
+    <string name="settings_ads_title">去除广告与捐款</string>
+    <string name="settings_ads_donations_title">请我喝啤酒</string>
+    <string name="settings_ads_explanation">"为什么你会看到广告？
+在空闲时间写Android程序是我的爱好。所以请理解一定数量的广告能使此应用发展得更好。"</string>
+    <string name="settings_ads_menu_hide_title">隐藏此菜单</string>
+    <string name="settings_ads_remove_title">去除广告</string>
+    <string name="settings_ads_remove_summary">移除广告一周 (每月一次)</string>
+    <string name="settings_ads_yandex">Yandex Money</string>
+    <string name="settings_ads_webmoney">Webmoney</string>
+	<string name="settings_ads_donation_expl">使用下面的Google Play捐款按钮并不会移除广告。如果要移除广告请使用 \"去除广告\" 按钮</string>
+    <string name="settings_about">关于</string>
+    <string name="settings_translations">应用翻译</string>
+    <string name="settings_translations_summary">感谢翻译者们</string>
+    <string name="settings_thirdparty">第三方数据库与资源</string>
+    <string name="settings_permissions">权限</string>
+    <string name="settings_help">帮助</string>
+    <string name="settings_feedback">反馈</string>
+    <string name="settings_dialog_enter_timezone">输入所选城市的时区(%s)，例如 GMT+03:00:</string>
+
+    <string name="feedback_title">标题</string>
+    <string name="feedback_title_hint">简单的描述问题</string>
+    <string name="feedback_description">内容</string>
+    <string name="feedback_description_hint">详细的描述问题或建议</string>
+    <string name="feedback_add_images">添加图片</string>
+    <string name="feedback_select_upload_settings">上传您的应用设置</string>
+    <string name="feedback_action_send">发送</string>
+    <string name="feedback_fill_required">必填数据不能为空白</string>
+    <string name="feedback_sending">发送中…</string>
+    <string name="feedback_sent">感谢您的意见反馈！</string>
+    <string name="feedback_error">发送时发生错误</string>
+
+    <string name="share_btn_cancel">取消</string>
+    <string name="share_btn_confirm">分享</string>
+    <string name="share_subject">分享</string>
+    <string name="share_button">分享</string>
+    <string name="share_weather_save_pic_fail">"无法截图"</string>
+    <string name="share_weather_desc_split">,</string>
+    <string name="share_weather_desc">\#Weather M8# 今天 %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s, %2$s</string>
+    <string name="hourly_forcast_now">现在</string>
+    <string name="sunrise">日出</string>
+    <string name="sunset">日落</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s 之后。</string>
+    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_drawer_on_top">每日天气预报</string>
+    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+
+    <!-- Weather details -->
+    <string name="more_details">更多详情</string>
     <string name="weather_details_title">天气详情</string>
-    <string name="weather_details_uv_index_title">紫外线指数</string>
-    <string name="weather_details_visibility">%1$s km</string>
-    <string name="weather_details_visibility_meters">%1$s m</string>
-    <string name="weather_details_visibility_miles">%1$s miles</string>
-    <string name="weather_details_visibility_title">可见度</string>
-    <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">风速</string>
+    <string name="weather_details_real_feel_title">体感温度</string>
+    <string name="weather_details_temperature_title">当前温度</string>
+    <string name="weather_details_uv_index_title">紫外线指数</string>
+    <string name="weather_details_pressure_title">气压</string>
+    <string name="weather_details_humidity_title">相对湿度</string>
+    <string name="weather_details_visibility_title">能见度</string>
+    <string name="weather_details_precipitation_prob_title">降水概率</string>
+    <string name="weather_details_daylight_hours_title">光照时间</string>
+    <string name="weather_details_timezone_title">时区</string>
+    <string name="weather_details_elevation_title">海拔</string>
+
+    <string name="weather_details_wind_connect">%1$s %2$s</string>
+    <string name="weather_details_pressure">%1$s 百帕</string>
+    <string name="weather_details_pressure_atm">%1$s 大气压</string>
+    <string name="weather_details_pressure_mb">%1$s 毫巴</string>
+    <string name="weather_details_pressure_mm">%1$s 毫米汞柱</string>
+    <string name="weather_details_pressure_in">%1$s 英寸汞柱</string>
+    <string name="weather_details_humidity">%1$s%%</string>
+    <string name="weather_details_visibility">%1$s 千米</string>
+    <string name="weather_details_visibility_meters">%1$s 米</string>
+    <string name="weather_details_visibility_miles">%1$s 英里</string>
+
+    <string name="weather_details_update_date_string">观测时间: %s</string>
+
+    <string name="weather_details_daylight_diff_longer">比昨天长%1$s</string>
+    <string name="weather_details_daylight_diff_shorter">比昨天短%1$s</string>
+
+    <string name="weather_details_precipitation_amount_mm">%1$s毫米</string>
+
+    <string name="time_units_hour">小时</string>
+    <string name="time_units_minute">分钟</string>
+    <string name="time_units_second">秒</string>
+
+    <string name="hourly_forecast_detail_date">MMMd日, E</string>
+    <string name="daily_forecast_detail_date">MMMd日</string>
+    <string name="weather_update_date">MMMMd日</string>
+    <string name="weather_short_month_update_date">MMMd日</string>
+    <string name="widget_dateformat_default_value">yyyy年MMMMd日</string>
+
+    <!-- Weather alerts -->
+    <string name="activity_main_alert">预警: %1$d</string>
+    <string name="activity_main_alert_precip">%1$s预警。预计当日降水量为%2$s。</string>
+    <string name="activity_main_alert_wind">预计风的最高风速可达%1$s。</string>
+    <string name="activity_main_alert_wind_gusts">预计大风的最高风速可达%1$s。</string>
+    <string name="activity_main_alert_tstorm">下雷阵雨的概率预计为%1$s。</string>
+    <string name="activity_main_alert_day_night">预计白天为%1$s，晚上为%2$s。</string>
+    <string name="activity_main_alert_type_rain">降雨</string>
+    <string name="activity_main_alert_type_snow">降雪</string>
+    <string name="activity_main_alert_type_ice">结冰</string>
+    <string name="activity_main_alert_type_wind">起风</string>
+    <string name="activity_main_alert_type_wind_gusts">大风</string>
+    <string name="activity_main_alert_type_tstorm">雷阵雨</string>
+    <string name="activity_main_alert_unit_mm">毫米</string>
+    <string name="activity_main_alert_unit_cm">厘米</string>
+    <string name="activity_main_alert_unit_inch">英寸</string>
+    <string name="activity_main_alert_unit_kmh">千米/时</string>
+    <string name="activity_main_alert_unit_mph">英里/时</string>
+    <string name="activity_main_alert_unit_mps">米/秒</string>
+
+    <string name="daily_forcast_no_wind">无风</string>
+    <string name="daily_forcast_whirl_wind">大风</string>
+    <string name="delete">删除</string>
+
+    <string name="wind_unit">%1$s千米/时</string>
+    <string name="wind_unit_bft">%1$s级</string>
+    <string name="wind_unit_knot">%1$s节</string>
+    <string name="wind_unit_ms">%1$s米/秒</string>
+    <string name="wind_unit_mph">%1$s英里/时</string>
+
+    <string name="hourly_forecast_title">每小时天气预报</string>
+
+    <!-- Widgets -->
     <string name="widget_update_date_string">更新于 %s</string>
     <string name="widget_update_updating_string">更新中…</string>
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_mph">%1$smph</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="zodiac_aquarius">水瓶座</string>
-    <string name="zodiac_aries">白羊座</string>
-    <string name="zodiac_cancer">巨蟹座</string>
-    <string name="zodiac_capricorn">摩羯座</string>
-    <string name="zodiac_gemini">双子座</string>
-    <string name="zodiac_leo">狮子座</string>
-    <string name="zodiac_libra">天秤座</string>
-    <string name="zodiac_pisces">双鱼座</string>
-    <string name="zodiac_sagittarius">射手座</string>
-    <string name="zodiac_scorpio">天蝎座</string>
-    <string name="zodiac_taurus">金牛座</string>
-    <string name="zodiac_virgo">处女座</string>
-    <string name="settings_app_theme_dark">暗色</string>
-    <string name="settings_app_theme_light">亮色</string>
-    <string name="settings_app_theme_title">主题</string>
-    <string name="widget_config_background_color_title">背景颜色</string>
-    <string name="widget_config_background_type_border">边框</string>
-    <string name="widget_config_background_type_solid">实心</string>
-    <string name="widget_config_background_type_title">背景类型</string>
-    <string name="widget_config_clock_font_title">时钟字体</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">关掉它,如果小部件时钟不更新</string>
+    <!-- Widget config -->
+    <string name="widget_config_title">小工具设置</string>
     <string name="widget_config_custom_clock_font_onoff_title">自定义时钟字体</string>
-    <string name="widget_config_show_alarm_title">显示下一个闹钟</string>
-    <string name="widget_config_text_color_title">文本颜色</string>
-    <string name="widget_config_title">小部件配置</string>
-    <string name="widget_config_use_background_title">显示小部件背景</string>
-    <string name="dialog_color_picker">取色器</string>
-    <string name="press_color_to_apply">点击颜色以应用</string>
-    <string name="settings_thirdparty">第三方库和资源</string>
-    <string name="date_time_am">am</string>
-    <string name="date_time_pm">pm</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">如果小工具的时钟没有自动更新请关闭此功能</string>
+    <string name="widget_config_clock_font_title">时钟字体</string>
+    <string name="widget_config_clock_color_title">时钟颜色</string>
+    <string name="widget_config_clock_font_size_title">时钟字体大小</string>
+    <string name="widget_config_date_font_size_title">日期大小</string>
+    <string name="widget_config_dateformat_title">日期格式</string>
+    <string name="widget_config_realtime_font_title">温度字体</string>
+    <string name="widget_config_realtime_font_size_title">温度字体大小</string>
+	<string name="widget_config_realtime_icon_size_title">目前天气图标大小</string>
+	<string name="widget_config_forecast_icon_size_title">预测天气图标大小</string>
     <string name="widget_config_font_title">文本字体</string>
-    <string name="widget_config_realtime_font_title">实时数据字体</string>
-    <string name="weather_details_pressure_mb">%1$s mb</string>
+    <string name="widget_config_font_size_title">文本大小</string>
+    <string name="widget_config_text_color_title">文本颜色</string>
+    <string name="widget_config_show_alarm_title">显示闹钟</string>
+    <string name="widget_config_show_date_title">显示日期</string>
+    <string name="widget_config_use_background_title">显示小工具背景</string>
+    <string name="widget_config_background_color_title">背景颜色</string>
+    <string name="widget_config_background_type_title">背景类型</string>
+    <string name="widget_config_background_type_solid">实心</string>
+    <string name="widget_config_background_type_border">边框</string>
+
+    <string name="widget_config_show_text_shadow_title">显示文本阴影</string>
+    <string name="widget_config_show_realtime_icon_title">显示目前天气图标</string>
+    <string name="widget_config_show_cityname_title">显示城市名称</string>
+    <string name="widget_config_show_local_time_title">显示当地时间</string>
+    <string name="widget_config_show_leading_zero_title">显示时间开头的零</string>
+
+    <string name="widget_config_click_settings">小工具点击功能</string>
+    <string name="widget_config_click_apps">选择应用程序</string>
+    <string name="widget_config_click_clock">时钟</string>
+    <string name="widget_config_click_date">日期</string>
+    <string name="widget_config_click_weather_icon">天气图标</string>
+    <string name="widget_config_click_temperature">温度</string>
+
+    <!-- Moon Phases -->
+    <string name="menu_moon_phases">月相</string>
+    <string name="moon_age">月龄:%1$s天%2$s小时%3$s分钟</string>
+    <string name="moon_newmoon">新月</string>
+    <string name="moon_waxingcrescent">娥眉月</string>
+    <string name="moon_firstquarter">上弦月</string>
+    <string name="moon_waxinggibbous">盈凸月</string>
+    <string name="moon_full">满月</string>
+    <string name="moon_waninggibbous">亏凸月</string>
+    <string name="moon_lastquarter">下弦月</string>
+    <string name="moon_waningcrescent">残月</string>
+    <string name="moon_illuminated">受照: %s%%</string>
+    <string name="moon_since">日期: %1$s%2$s日</string>
+    <string name="moon_distanse">月球距离: %s公里</string>
+    <string name="moon_angle">月球角度: %s</string>
+    <string name="moon_rise">月出时间: %s</string>
+    <string name="moon_set">月落时间: %s</string>
+    <string name="moon_zodiac">星座: %s</string>
+
+    <string name="zodiac_aries">白羊座</string>
+    <string name="zodiac_taurus">金牛座</string>
+    <string name="zodiac_gemini">双子座</string>
+    <string name="zodiac_cancer">巨蟹座</string>
+    <string name="zodiac_leo">狮子座</string>
+    <string name="zodiac_virgo">处女座</string>
+    <string name="zodiac_libra">天秤座</string>
+    <string name="zodiac_scorpio">天蝎座</string>
+    <string name="zodiac_sagittarius">射手座</string>
+    <string name="zodiac_capricorn">摩羯座</string>
+    <string name="zodiac_aquarius">水瓶座</string>
+    <string name="zodiac_pisces">双鱼座</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">点击颜色以应用</string>
+    <string name="dialog_color_picker">取色器</string>
+
+    <string name="date_time_am">上午</string>
+    <string name="date_time_pm">下午</string>
+
+    <!-- AQI -->
+    <string name="aqi_main_title">空气质量</string>
+    <string name="aqi_main_publish_time">更新于 %1$s</string>
+
+    <string name="aqi_ring_top_pollution">主要污染物</string>
+    <string name="aqi_ring_desc">空气质量指数</string>
+
+    <string name="aqi_sub_desc">AQI</string>
+
+    <string name="aqi_detail_subtitle">AQI %1$s</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_so2">SO₂</string>
+    <string name="aqi_detail_no2">NO₂</string>
+    <string name="aqi_detail_co">CO</string>
+    <string name="aqi_detail_o3">O₃</string>
+
+    <string name="top_pollution_pm25">PM2.5</string>
+    <string name="top_pollution_pm10">PM10</string>
+    <string name="top_pollution_so2">SO2</string>
+    <string name="top_pollution_no2">NO2</string>
+    <string name="top_pollution_co">CO</string>
+    <string name="top_pollution_o3">O3</string>
+
+    <string name="aqi_detail_5_days">每日预报</string>
+    <string name="aqi_detail_24_hours">小时预报</string>
+
+    <string name="aqi_detail_unit">单位: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_data_source">%s</string>
+
+    <!-- Radar -->
+    <string name="radar_title">雷达图</string>
+    <string name="radar_tab_cloud">卫星云图</string>
+    <string name="radar_tab_rain">降水图</string>
+    <string name="radar_date_format">MM/dd HH:mm</string>
+    <string name="loading_data">数据加载中…</string>
 </resources>

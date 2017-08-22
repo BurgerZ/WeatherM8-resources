@@ -76,9 +76,13 @@
         <item>Le plus haut</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minutes</item>
         <item>30 minutes</item>
         <item>1 heure</item>
         <item>2 heures</item>
+        <item>3 heures</item>
+        <item>4 heures</item>
+        <item>5 heures</item>
         <item>6 heures</item>
         <item>12 heures</item>
         <item>24 heures</item>

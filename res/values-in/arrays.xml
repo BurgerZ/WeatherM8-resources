@@ -26,7 +26,7 @@
         <item>Kaliningrad</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sunny</item>
+        <item>Cerah</item>
         <item>Berawan</item>
         <item>Mendung</item>
         <item>Berkabut</item>
@@ -66,7 +66,51 @@
     </string-array>
     <string-array name="weather_notif_type_entries">
         <item>Ikon cuaca</item>
-        <item>Temperatur</item>
+        <item>Suhu</item>
     </string-array>
-
+    <string-array name="weather_indexes_uv_level">
+        <item>Paling rendah</item>
+        <item>Rendah</item>
+        <item>Sedang</item>
+        <item>Kuat</item>
+        <item>Paling kuat</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>15 menit</item>
+        <item>30 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>4 jam</item>
+        <item>5 jam</item>
+        <item>6 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Sederhana</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Permukaan laut</item>
+        <item>Permukaan lokasi</item>
+        <item>Sensor tekanan telepon</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bagus</item>
+        <item>Sedang</item>
+        <item>Tidak sehat untuk kelompok yang sensitif</item>
+        <item>Tidak sehat</item>
+        <item>Sangat tidak sehat</item>
+        <item>Berbahaya</item>
+    </string-array>
 </resources>

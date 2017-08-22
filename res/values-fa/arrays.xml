@@ -78,9 +78,13 @@
         <item>بسیار زیاد</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 دقیقه</item>
         <item>30 دقیقه</item>
         <item>1 ساعت</item>
         <item>2 ساعت</item>
+        <item>3 ساعت</item>
+        <item>4 ساعت</item>
+        <item>5 ساعت</item>
         <item>6 ساعت</item>
         <item>12 ساعت</item>
         <item>24 ساعت</item>
@@ -89,5 +93,26 @@
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>ساده</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>سطح دریا</item>
+        <item>سطح محل سکونت</item>
+        <item>سنسور فشار تلفن</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>خوب</item>
+        <item>متوسط</item>
+        <item>ناسالم برای گروه های حساس</item>
+        <item>ناسالم</item>
+        <item>خيلی ناسالم</item>
+        <item>خطرناک</item>
     </string-array>
 </resources>

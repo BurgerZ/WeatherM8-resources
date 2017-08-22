@@ -79,9 +79,13 @@
     </string-array>
 
     <string-array name="update_check_interval_entries">
+        <item>15 хвілін</item>
         <item>30 хвілін</item>
         <item>1 гадзіна</item>
         <item>2 гадзіны</item>
+        <item>3 гадзіны</item>
+        <item>4 гадзіны</item>
+        <item>5 гадзін</item>
         <item>6 гадзін</item>
         <item>12 гадзін</item>
         <item>24 гадзіны</item>
@@ -89,5 +93,6 @@
     <string-array name="pressure_level_entries">
         <item>Узровень мора</item>
         <item>Узровень горада</item>
+        <item>Датчык цiску тэлефона</item>
     </string-array>
 </resources>

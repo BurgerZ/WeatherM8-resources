@@ -46,13 +46,22 @@ L'applicazione usa i permessi:
     <string name="settings_menu_title">Impostazioni</string>
     <string name="settings_autoupdate_weather_title">Aggiornamento automatico</string>
     <string name="settings_autoupdate_weather_summary">Aggiorna previsioni meteorologiche automaticamente </string>
+    <string name="settings_update_wifi_only_title">Aggiorna solo con il Wi-Fi</string>
     <string name="settings_update_interval_title">Intervallo aggiornamento</string>
+    <string name="settings_update_quiet_hours_end_time_title">Fine</string>
+    <string name="settings_update_quiet_hours_start_time_title">Inizio</string>
+    <string name="settings_update_quiet_hours_title">Ore Tranquille</string>
     <string name="settings_weather_transfer_title">Trasferimento descrizione meteo</string>
     <string name="settings_weather_transfer_summary">Mostra la descrizione del meteo del trasferimento dal giorno a notte </string>
     <string name="settings_weather_spider_title">Aggiorna fonte</string>
+    <string name="settings_weather_realtime_spider_title">Dati in tempo Reale</string>
+    <string name="settings_weather_forecast_spider_title">Dati Previsione</string>
+    <string name="settings_aqi_onoff_title">"Informazioni sulla qualità dell'Aria"</string>
+    <string name="settings_aqi_max_distance_title">AQI Raggio di Controllo</string>
     <string name="settings_app_theme_title">Tema</string>
     <string name="settings_app_theme_light">Chiaro</string>
     <string name="settings_app_theme_dark">Scuro</string>
+    <string name="settings_sound_volume">Volume del Suono</string>
     <string name="settings_weather_details_title">Dettagli meteo</string>
     <string name="settings_weather_details_summary">Seleziona dettagli meteo da mostrare nella schermata principale</string>
     <string name="settings_category_units">Unità</string>
@@ -69,6 +78,10 @@ L'applicazione usa i permessi:
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">miglia</string>
+
+    <string name="settings_show_plus_sign_temp_title">Mostra e firma</string>
+
+    <string name="settings_pressure_level_title">Visualizza pressione per</string>
 
     <string name="settings_city_base">Database delle città</string>
 
@@ -115,6 +128,8 @@ L'applicazione usa i permessi:
     <string name="weather_details_visibility_title">Visibilità</string>
     <string name="weather_details_precipitation_prob_title">Precipitazioni</string>
     <string name="weather_details_daylight_hours_title">Ore di luce diurna</string>
+    <string name="weather_details_timezone_title">Fuso Orario</string>
+    <string name="weather_details_elevation_title">Altitudine</string>
 
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_pressure">%1$s hPa</string>
@@ -124,6 +139,8 @@ L'applicazione usa i permessi:
     <string name="weather_details_visibility">%1$s km</string>
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s miglia</string>
+
+    <string name="weather_details_update_date_string">Periodo di Osservazione: %s</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
@@ -187,5 +204,11 @@ L'applicazione usa i permessi:
     <string name="activity_main_expire_time">Expire %1$s</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
 
+    <!-- AQI -->
+    <string name="aqi_main_title">"Qualità dell'Aria"</string>
+    <string name="aqi_main_publish_time">Aggiornato alle %1$s</string>
+    <string name="aqi_ring_desc">"Qualità dell'Aria"</string>
+
+    <string name="radar_date_format">dd.MM HH:mm</string>
 </resources>
 

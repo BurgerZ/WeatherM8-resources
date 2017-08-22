@@ -71,16 +71,20 @@
         <item>Temperature</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Weakest</item>
-        <item>Weak</item>
-        <item>Mid-range</item>
-        <item>Strong</item>
-        <item>Strongest</item>
+        <item>Low</item> <!-- 0-2.9 -->
+        <item>Moderate</item> <!-- 3-5.9 -->
+        <item>High</item> <!-- 6-7.9 -->
+        <item>Very High</item> <!-- 8-10.9 -->
+        <item>Extreme</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minutes</item>
         <item>30 minutes</item>
         <item>1 hour</item>
         <item>2 hours</item>
+        <item>3 hours</item>
+        <item>4 hours</item>
+        <item>5 hours</item>
         <item>6 hours</item>
         <item>12 hours</item>
         <item>24 hours</item>
@@ -101,10 +105,21 @@
         <item>dd.MM.yyyy</item>
         <item>MM/dd/yyyy</item>
         <item>yyyy/MM/dd</item>
+        <item>E, d MMMM yyyy</item>
+        <item>E, d MMM yyyy</item>
+        <item>E, MMMM d, yyyy</item>
+        <item>E, MMM d, yyyy</item>
+        <item>E, dd/MM/yy</item>
+        <item>E, dd.MM.yy</item>
+        <item>E, dd/MM/yyyy</item>
+        <item>E, dd.MM.yyyy</item>
+        <item>E, MM/dd/yyyy</item>
+        <item>E, yyyy/MM/dd</item>
     </string-array>
     <string-array name="pressure_level_entries">
         <item>Sea level</item>
         <item>Location level</item>
+        <item>Phone pressure sensor</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>AQI %1$s</item>

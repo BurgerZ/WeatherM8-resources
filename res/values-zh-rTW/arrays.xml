@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>臺北</item>
+        <item>新北</item>
+        <item>桃園</item>
+        <item>臺中</item>
+        <item>臺南</item>
+        <item>高雄</item>
+        <item>基隆</item>
+        <item>新竹</item>
+        <item>嘉義</item>
+        <item>苗栗</item>
+        <item>彰化</item>
+        <item>南投</item>
+        <item>雲林</item>
+        <item>屏東</item>
+        <item>宜蘭</item>
+        <item>花蓮</item>
+        <item>臺東</item>
+        <item>澎湖</item>
+        <item>紐約</item>
+        <item>北京</item>
+        <item>倫敦</item>
+        <item>巴黎</item>
+        <item>東京</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>晴朗</item>
+        <item>多雲</item>
+        <item>陰</item>
+        <item>霧</item>
+        <item>超大豪雨</item>
+        <item>大豪雨</item>
+        <item>豪雨</item>
+        <item>雷陣雨</item>
+        <item>降雨</item>
+        <item>大雨</item>
+        <item>中雨</item>
+        <item>小雨</item>
+        <item>雨夾雪</item>
+        <item>暴雪</item>
+        <item>降雪</item>
+        <item>大雪</item>
+        <item>中雪</item>
+        <item>小雪</item>
+        <item>強沙塵暴</item>
+        <item>沙塵暴</item>
+        <item>沙塵</item>
+        <item>風強的</item>
+        <item>冰雹</item>
+        <item>沙塵</item>
+        <item>霾</item>
+        <item>凍雨</item>
+        <item>沒有天氣</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>北風</item>
+        <item>東北風</item>
+        <item>東風</item>
+        <item>東南風</item>
+        <item>南風</item>
+        <item>西南風</item>
+        <item>西風</item>
+        <item>西北風</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>天氣圖標</item>
+        <item>溫度</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>微量級</item>
+        <item>低量級</item>
+        <item>中量級</item>
+        <item>過量級</item>
+        <item>危險級</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>每15分鐘</item>
+        <item>每30分鐘</item>
+        <item>每1小時</item>
+        <item>每2小時</item>
+        <item>每3小時</item>
+        <item>每4小時</item>
+        <item>每5小時</item>
+        <item>每6小時</item>
+        <item>每12小時</item>
+        <item>每24小時</item>
+    </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>yyyy年MMMMd日</item>
+        <item>d日MMMyyyy年</item>
+        <item>MMMMd日, yyyy</item>
+        <item>MMMd日, yyyy年</item>
+        <item>yy/MM/dd</item>
+        <item>yy.MM.dd</item>
+        <item>yyyy/MM/dd</item>
+        <item>yyyy.MM.dd</item>
+        <item>MM/dd/yyyy</item>
+        <item>dd/MM/yyyy</item>
+        <item>yyyy年MMMMd日, E</item>
+        <item>d日MMMyyyy年, E</item>
+        <item>MMMMd日, yyyy, E</item>
+        <item>MMMd日, yyyy年, E</item>
+        <item>yy/MM/dd, E</item>
+        <item>yy.MM.dd, E</item>
+        <item>yyyy/MM/dd, E</item>
+        <item>yyyy.MM.dd, E</item>
+        <item>MM/dd/yyyy, E</item>
+        <item>dd/MM/yyyy, E</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>海平面</item>
+        <item>地區海拔</item>
+        <item>手機氣壓感測器</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>良好</item>
+        <item>中等</item>
+        <item>不適於敏感人群</item>
+        <item>不健康</item>
+        <item>非常不健康</item>
+        <item>危險</item>
+    </string-array>
+</resources>

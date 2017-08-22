@@ -185,7 +185,7 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_app_locale_title">Limba</string>
     <string name="activity_main_expire_time">Expiră %1$s</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
-    <string name="settings_realtime_feelslike_as_main_title">\'Se simte a fi\' ca temperatură principală</string>
+    <string name="settings_realtime_feelslike_as_main_title">\"Se simte a fi\" ca temperatură principală</string>
     <string name="settings_realtime_feelslike_as_main_summary">Se afişează temperatura resimţită ca temperatură meteo principală</string>
     <string name="settings_pressure_level_title">Afişare presiune pentru</string>
     <string name="settings_widgets_title">Widget-uri</string>
@@ -193,6 +193,7 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_ads_title">Publicitate şi Donaţii</string>
     <string name="settings_ads_explanation">"De ce vedeţi publicitate?
 Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac în timpul meu liber. Așa că vă rog să trataţi cu înțelegere apariția unui anumit număr de bannere. Afișarea anunțurilor în aplicație stimulează dezvoltarea ei ulterioară."</string>
+    <string name="settings_ads_menu_hide_title">Ascundeți acest element de meniu</string>
     <string name="settings_ads_remove_title">Eliminați anunțurile</string>
     <string name="settings_ads_remove_summary">Eliminați anunțurile pentru o săptămână (o dată pe lună)</string>
     <string name="settings_thirdparty">Biblioteci și resurse</string>
@@ -200,6 +201,8 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_help">Ajutor</string>
     <string name="settings_feedback">Trimiteţi feedback</string>
     <string name="settings_dialog_enter_timezone">Introduceţi fusul orar pentru orașul selectat (%s), de examplu GMT+03:00:</string>
+    <string name="settings_show_plus_sign_temp_title">Afişarea semnului \"+\"</string>
+    <string name="settings_show_plus_sign_temp_summary">Se afişează semnul \"+\" pentru temperaturile pozitive</string>
 
     <!-- Widgets -->
     <string name="widget_update_date_string">Actualizat %s</string>
@@ -268,5 +271,15 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_aqi_max_distance_summary">Obţineţi date privind calitatea aerului de la stațiile meteorologice situate în raza de %1$s</string>
     <string name="settings_aqi_onoff_title">Informații de calitate a aerului</string>
     <string name="settings_aqi_onoff_summary">Afișare informații despre indicele de calitate a aerului pentru locațiile dvs. (dacă sunt disponibile)</string>
-
+    <string name="settings_aqi_max_distance_closest">Cea mai apropiată staţie</string>
+    <string name="settings_notification_statusbar_color_title">Culoare pictogramă de notificare</string>
+    <string name="settings_ads_donations_title">Cumpăraţi-mi o bere</string>
+    <string name="settings_ads_donation_expl">Donarea prin Google Play apăsând aceste butoane nu va duce la eliminarea anunțurilor. Pentru a le elimina, ar trebui să utilizați butonul \"Eliminați anunțurile\".</string>
+    <string name="widget_config_realtime_icon_size_title">Dimensiunea curentă a pictogramei meteo</string>
+    <string name="widget_config_forecast_icon_size_title">Dimensiunea pictogramei prognozei meteo</string>
+    <string name="weather_details_temperature_title">Temperatură</string>
+    <string name="weather_details_daylight_diff_longer">Cu %1$s mai lung</string>
+    <string name="weather_details_daylight_diff_shorter">Cu %1$s mai scurt</string>
+    <string name="widget_config_show_date_title">Afişare dată</string>
+    
 </resources>

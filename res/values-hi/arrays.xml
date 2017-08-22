@@ -25,6 +25,17 @@
         <item>लॉस एंजिल्स</item>
         <item>कैलिनिनग्राद</item>
     </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>बहुत कमजोर</item>
+        <item>कमजोर</item>
+        <item>मध्य-सीमा</item>
+        <item>ओजस्वी</item>
+        <item>काफ़ी ज़ोरदार</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>मौसम प्रतीक</item>
+        <item>तापमान</item>
+    </string-array>
     <string-array name="weather_type">
         <item>धूप</item>
         <item>धुंधला</item>
@@ -45,7 +56,7 @@
         <item>धीमी बर्फ़बारी</item>
         <item>हल्की बर्फ़बारी</item>
         <item>ज़ोरदार रेतीला तूफान</item>
-        <item> रेतीला तूफान</item>
+        <item>रेतीला तूफान</item>
         <item>रेतीली</item>
         <item>हवादार</item>
         <item>ओला</item>
@@ -64,28 +75,29 @@
         <item>प</item>
         <item>उ-प</item>
     </string-array>
-    <string-array name="weather_notif_type_entries">
-        <item>मौसम प्रतीक</item>
-        <item>तापमान</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>बहुत कमजोर</item>
-        <item>कमजोर</item>
-        <item>मध्य-सीमा </item>
-        <item>ओजस्वी</item>
-        <item>काफ़ी ज़ोरदार</item>
+    <string-array name="pressure_level_entries">
+        <item>समुद्र स्तर</item>
+        <item>स्थान स्तर</item>
+        <item>फोन दबाव सेंसर</item>
     </string-array>
     <string-array name="update_check_interval_entries">
-        <item>30 मिनट</item>
-        <item>1 घंटा</item>
-        <item>2 घंटा</item>
-        <item>6 घंटा</item>
-        <item>12 घंटा</item>
-        <item>24 घंटा</item>
+        <item>१५ मिनट</item>
+        <item>३० मिनट</item>
+        <item>१ घंटा</item>
+        <item>२ घंटा</item>
+        <item>३ घंटा</item>
+        <item>४ घंटा</item>
+        <item>५ घंटा</item>
+        <item>६ घंटा</item>
+        <item>१२ घंटा</item>
+        <item>२४ घंटा</item>
     </string-array>
-    <string-array name="weather_icons_entries">
-        <item>एमआईयूआई 8</item>
-        <item>यून ओएस</item>
-        <item>सामान्य</item>
+    <string-array name="aqi_value">
+        <item>अच्छा</item>
+        <item>मंद</item>
+        <item>संवेदनशील समूहों के लिए अस्वास्थ्यकर</item>
+        <item>अस्वास्थ्यकर</item>
+        <item>बहुत ही अस्वास्थ्यकर</item>
+        <item>जोखिमभरा</item>
     </string-array>
 </resources>

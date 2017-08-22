@@ -72,9 +72,13 @@
         <item>Температура</item>
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 минути</item>
         <item>30 минути</item>
         <item>1 час</item>
         <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часа</item>
         <item>6 часа</item>
         <item>12 часа</item>
         <item>24 часа</item>
@@ -89,5 +93,6 @@
     <string-array name="pressure_level_entries">
         <item>Морско равнище</item>
         <item>В населено място</item>
+        <item>Сензор за налягане на телефона</item>
     </string-array>
 </resources>

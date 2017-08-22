@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">prieš %d valandų</item>
+        <item quantity="one">prieš %d valandą</item>
+        <item quantity="few">prieš %d valandas</item>
+        <item quantity="many">prieš %d valandų</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">prieš %d minučių</item>
+        <item quantity="one">prieš %d minutę</item>
+        <item quantity="few">prieš %d minutes</item>
+        <item quantity="many">prieš %d minučių</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">prieš %d dienų</item>
+        <item quantity="one">vakar</item>
+        <item quantity="few">prieš %d dienas</item>
+        <item quantity="many">prieš %d dienų</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Giedra</item>
+        <item quantity="one">Giedra</item>
+    </plurals>
+</resources>

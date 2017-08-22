@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
     <string-array name="hot_city">
         <item>Pequín</item>
         <item>Amsterdam</item>
@@ -69,16 +71,20 @@
         <item>Temperatura</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Molt baix</item>
-        <item>Baix</item>
-        <item>Mig</item>
-        <item>Alt</item>
-        <item>Molt alt</item>
+        <item>Baix</item> <!-- 0-2.9 -->
+        <item>Moderat</item> <!-- 3-5.9 -->
+        <item>Alt</item> <!-- 6-7.9 -->
+        <item>Molt alt</item> <!-- 8-10.9 -->
+        <item>Extrem</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
+        <item>15 minuts</item>
         <item>30 minuts</item>
         <item>1 hora</item>
         <item>2 hores</item>
+        <item>3 hores</item>
+        <item>4 hores</item>
+        <item>5 hores</item>
         <item>6 hores</item>
         <item>12 hores</item>
         <item>24 hores</item>
@@ -87,5 +93,26 @@
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simple</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Nivell del mar</item>
+        <item>"Nivell d'ubicació"</item>
+        <item>Sensor de pressió del telèfon</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bo</item>
+        <item>Moderat</item>
+        <item>No saludable per a grups sensibles</item>
+        <item>No saludable</item>
+        <item>Molt insalubre</item>
+        <item>Perillós</item>
     </string-array>
 </resources>

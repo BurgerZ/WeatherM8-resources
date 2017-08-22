@@ -62,6 +62,7 @@
     <string name="settings_app_theme_dark">Цёмная</string>
     <string name="settings_category_units">Адзінкі вымярэння</string>
     <string name="settings_pressure_unit">Ціск</string>
+    <string name="settings_pressure_unit_hpa">гПа</string>
     <string name="settings_pressure_unit_mb">мбар</string>
     <string name="settings_pressure_unit_mm">мм рт. сл.</string>
     <string name="settings_pressure_unit_in">дзюйм рт. сл.</string>
@@ -128,6 +129,7 @@
     <string name="weather_details_title">Падрабязнасці</string>
     <string name="weather_details_wind_title">Вецер</string>
     <string name="weather_details_real_feel_title">Адчуваецца</string>
+    <string name="weather_details_temperature_title">Тэмпература</string>
     <string name="weather_details_uv_index_title">Індэкс УФ</string>
     <string name="weather_details_pressure_title">Ціск</string>
     <string name="weather_details_humidity_title">Вільготнасць</string>
@@ -137,6 +139,7 @@
 
     <string name="weather_details_wind_connect">%2$s %1$s</string>
     <string name="weather_details_pressure">%1$s гПа</string>
+    <string name="weather_details_pressure_mb">%1$s мбар</string>
     <string name="weather_details_pressure_mm">%1$s мм.рт.сл.</string>
     <string name="weather_details_pressure_in">%1$s дзюйм рт.сл.</string>
     <string name="weather_details_humidity">%1$s%%</string>
@@ -231,7 +234,68 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">Націсніце на колер, каб прымяніць</string>
     <string name="dialog_color_picker">Выбар колеру</string>
-    <string name="settings_pressure_unit_hpa">гПа</string>
-    <string name="weather_details_pressure_mb">%1$s мбар</string>
+
+    <!-- AQI -->
+    <string name="aqi_main_title">Якасць паветра</string>
+    <string name="aqi_main_publish_time">Абноўлена ў %1$s</string>
+
+    <string name="aqi_ring_top_pollution">Асноўныя забруджвальнікі</string>
+    <string name="aqi_ring_desc">Індэкс якасці паветра</string>
+
+    <string name="aqi_detail_5_days">Штодзённы прагноз</string>
+    <string name="aqi_detail_24_hours">Пагадзінны прагноз</string>
+
+    <string name="aqi_detail_unit">Адзінкі: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_data_source">%s</string>
+
+    <string name="widget_config_show_leading_zero_title">Паказваць першы ноль у гадзiнах</string>
+    <string name="wind_unit_knot">%1$s вузл.</string>
+    <string name="weather_details_timezone_title">Гадзінны пояс</string>
+    <string name="weather_details_elevation_title">Вышыня над морам</string>
+    <string name="settings_wind_unit_knot">вузел</string>
+    <string name="settings_widgets_title">Вiджэты</string>
+    <string name="settings_widgets_not_found">Няма устаноўленых віджэтаў</string>
+    <string name="settings_weather_details_title">Падрабязнасці</string>
+    <string name="settings_update_quiet_hours_end_time_title">Канец</string>
+    <string name="settings_update_quiet_hours_start_time_title">Пачатак</string>
+    <string name="settings_update_quiet_hours_title">Ціхія гадзіны</string>
+    <string name="settings_update_wifi_only_summary">Абнаўляць прагноз надвор\'я толькі пры наяўнасці падлучэння па сетцы Wi-Fi</string>
+    <string name="settings_update_wifi_only_title">Абнаўляць толькі па Wi-Fi</string>
+    <string name="settings_sound_volume">Гучнасць гуку</string>
+    <string name="settings_show_plus_sign_temp_title">Паказваць \"+\" для тэмператур</string>
+    <string name="settings_show_plus_sign_temp_summary">Паказваць знак \"+\" перад станоўчымі значэннямі тэмператур</string>
+    <string name="settings_pressure_unit_atm">атм</string>
+    <string name="settings_permissions">Дазволы</string>
+    <string name="feedback_action_send">Адаслаць</string>
+    <string name="feedback_add_images">Дадаць скрыншоты</string>
+    <string name="feedback_description">Апісанне</string>
+    <string name="moon_rise">Узыход: %s</string>
+    <string name="moon_set">Закат: %s</string>
+    <string name="settings_aqi_max_distance_title">Радыус праверкі</string>
+    <string name="settings_aqi_onoff_summary">Паказваць інфармацыю аб якасці паветра для выбраных гарадоў (калі такая інфармацыя даступная)</string>
+    <string name="settings_aqi_onoff_title">Інфармацыя пра якасць паветра</string>
+    <string name="settings_dialog_enter_timezone">Увядзіце гадзінны пояс для абранага горада (%s), напрыклад, GMT+03:00:</string>
+    <string name="settings_aqi_max_distance_summary">Атрымліваць дадзеныя пра якасць паветра ад метэастанцый, аддаленых на адлегласць не больш %1$s</string>
+    <string name="settings_aqi_max_distance_closest">Блiжэйшая станцыя</string>
+    <string name="settings_ads_menu_hide_title">Схаваць гэты пункт меню</string>
+    <string name="weather_details_pressure_atm">%1$s атм</string>
+    <string name="settings_icons_theme_details_title">Апісанне тэмы</string>
+    <string name="get_accounts_title">Папярэджанне</string>
+    <string name="get_accounts_msg">З дадаткам неабходны доступ да спісу акаўнтаў, зарэгістраваных на прыладзе, для праверкі Вашых пакупак і адключэння рэкламы.</string>
+    <string name="network_wifi_only">Абнаўленне наладжана толькі праз Wi-fi.</string>
+    <string name="network_in_roaming">Уключаны забарона абнаўлення ў роўмінгу.</string>
+    <string name="network_in_quiet_hours">Актыўны рэжым ціхіх гадзін. Абнаўленне адхілена.</string>
+    <string name="network_error">Няма злучэння з серверам. Праверце налады сеткі.</string>
+    <string name="radar_title">Радар</string>
+    <string name="settings_feedback">Напісаць распрацоўніку</string>
+    <string name="settings_notification_statusbar_color_title">Колер іконкі ўведамлення</string>
+    <string name="feedback_title_hint">Коратка апішыце праблему</string>
+    <string name="feedback_title">Загаловак</string>
+    <string name="feedback_sent">Дзякуй за ваш водгук!</string>
+    <string name="feedback_sending">Адпраўка водгуку…</string>
+    <string name="feedback_select_upload_settings">Адправіць налады праграмы</string>
+    <string name="feedback_fill_required">Абавязковыя для запаўнення палі не могуць быць пакінутыя пустымі</string>
+    <string name="feedback_error">Пры адпраўцы справаздачы паўстала праблема</string>
+    <string name="feedback_description_hint">Напішыце пра праблему або прапанову падрабязней</string>
 
 </resources>
