@@ -60,7 +60,7 @@
     <string name="settings_autoupdate_weather_title">自動更新</string>
     <string name="settings_autoupdate_weather_summary">自動更新天氣預報</string>
     <string name="settings_update_wifi_only_summary">僅在有Wi-Fi連線時自動更新天氣預報</string>
-    <string name="settings_update_wifi_only_title">只在有Wi-Fi連線時自動更新</string>
+    <string name="settings_update_wifi_only_title">Wi-Fi連線時自動更新</string>
     <string name="settings_update_interval_title">自動更新頻率</string>
     <string name="settings_update_quiet_hours_end_time_title">結束</string>
     <string name="settings_update_quiet_hours_start_time_title">開始</string>
@@ -71,6 +71,7 @@
     <string name="settings_weather_realtime_spider_title">即時數據</string>
     <string name="settings_weather_forecast_spider_title">預報數據</string>
     <string name="settings_weather_station_title">氣象站</string>
+    <string name="settings_weather_data_order_title">天氣數據卡片排序</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">顯示空氣品質</string>
     <string name="settings_aqi_onoff_summary">顯示您所在地區的空氣品質(如果可供使用)</string>
@@ -124,7 +125,7 @@
     <string name="settings_notify_type_title">顯示圖標</string>
     <string name="settings_notification_statusbar_color_title">圖標顏色</string> 
 	
-    <string name="settings_alerts_title">警報管理</string>
+    <string name="settings_alerts_title">預警管理</string>
 
     <string name="settings_icons_title">天氣圖標</string>
     <string name="settings_icons_builtin_title">內置天氣圖標</string>
@@ -211,6 +212,8 @@
     <string name="weather_details_daylight_diff_longer">較昨天增加%1$s</string>
     <string name="weather_details_daylight_diff_shorter">較昨天減少%1$s</string>
 	
+    <string name="weather_details_precipitation_amount_mm">%1$s 毫米</string>
+	
     <string name="time_units_hour">小時</string>
     <string name="time_units_minute">分鐘</string>
     <string name="time_units_second">秒鐘</string>
@@ -222,7 +225,25 @@
     <string name="widget_dateformat_default_value">yyyy年MMMMd日</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">預警：%1$d</string>
+    <string name="activity_main_alert">預警通知：%1$d</string>
+    <string name="activity_main_alert_precip">%1$s預警。預計當日降雨量為%2$s。</string>
+    <string name="activity_main_alert_wind">風速預警。預計最高風速達%1$s。</string>
+    <string name="activity_main_alert_wind_gusts">預計最大陣風可達%1$s。</string>
+    <string name="activity_main_alert_tstorm">預計下雷陣雨的機率為%1$s。</string>
+    <string name="activity_main_alert_day_night">白天為%1$s，晚上為%2$s。</string>
+    <string name="activity_main_alert_type_rain">降雨</string>
+    <string name="activity_main_alert_type_snow">降雪</string>
+    <string name="activity_main_alert_type_ice">結冰</string>
+    <string name="activity_main_alert_type_wind">起風</string>
+    <string name="activity_main_alert_type_wind_gusts">陣風</string>
+    <string name="activity_main_alert_type_tstorm">雷陣雨</string>
+    <string name="activity_main_alert_unit_mm">毫米</string>
+    <string name="activity_main_alert_unit_cm">公分</string>
+    <string name="activity_main_alert_unit_inch">英吋</string>
+    <string name="activity_main_alert_unit_kmh">公里/時</string>
+    <string name="activity_main_alert_unit_mph">英里/時</string>
+    <string name="activity_main_alert_unit_mps">公尺/秒</string>
+
 
     <string name="daily_forcast_no_wind">無風</string>
     <string name="daily_forcast_whirl_wind">旋風</string>
@@ -234,7 +255,7 @@
     <string name="wind_unit_ms">%1$s公尺/秒</string>
     <string name="wind_unit_mph">%1$s英里/時</string>
 
-    <string name="hourly_forecast_title">每小時預報</string>
+    <string name="hourly_forecast_title">每小時天氣預報</string>
 
     <!-- Widgets -->
     <string name="widget_update_date_string">更新於 %s</string>

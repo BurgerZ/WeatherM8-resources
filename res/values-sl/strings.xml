@@ -195,6 +195,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">milj</string>
+    <string name="settings_weather_data_order_title">Razvrščanje podatkov vremena</string>
     <string name="settings_weather_details_summary">Izdaberite podrobnosti ki bodo prikazane na začetnem zaslonu</string>
     <string name="settings_weather_details_title">Podrobnosti vremena</string>
     <string name="settings_weather_forecast_spider_title">Podatki vrem. napovedi</string>
@@ -255,6 +256,7 @@ Pisanje aplikacij za Android je zame hobi in to delam v prostem času. Zato vas 
     <string name="weather_update_date">d MMMM</string>
     <string name="weather_details_daylight_diff_longer">%1$s dlje</string>
     <string name="weather_details_daylight_diff_shorter">%1$s manj</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
     <string name="widget_config_background_color_title">Barva ozadja</string>
     <string name="widget_config_background_type_border">Okvir</string>
     <string name="widget_config_background_type_solid">Solid</string>
