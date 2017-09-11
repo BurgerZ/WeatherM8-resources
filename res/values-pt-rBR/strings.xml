@@ -68,14 +68,14 @@
     <string name="feedback_action_send">Enviar</string>
     <string name="feedback_add_images">Adicionar imagens</string>
     <string name="feedback_description">Descrição</string>
-    <string name="feedback_description_hint">Inserir comentário</string>
+    <string name="feedback_description_hint">Escreva o seu comentário</string>
     <string name="feedback_error">Erro ao enviar comentário</string>
     <string name="feedback_fill_required">Os campos obrigatórios não podem ficar vazios</string>
-    <string name="feedback_select_upload_settings">Adicionar definições do aplicativo</string>
+    <string name="feedback_select_upload_settings">Incluir definições do aplicativo</string>
     <string name="feedback_sending">A enviar comentário…</string>
     <string name="feedback_sent">Obrigado por enviar o seu comentário!</string>
     <string name="feedback_title">Título</string>
-    <string name="feedback_title_hint">Inserir título</string>
+    <string name="feedback_title_hint">Escrever título</string>
     <string name="first_start_network_msg">"Este aplicativo necessita de conexão de rede para procurar os dados metereológicos
         Permissões de uso do aplicativo:
         \u2022 Acessar a localização do dispositivo e as coordenadas atuais
