@@ -215,9 +215,9 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 	
 	<string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">min</string>
-    <string name="time_units_second">s</string>
+    <string name="time_units_hour"> h</string>
+    <string name="time_units_minute"> min</string>
+    <string name="time_units_second"> s</string>
 
     <string name="hourly_forecast_detail_date">E, d MMM</string>
     <string name="daily_forecast_detail_date">d MMM</string>
@@ -285,7 +285,9 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_background_type_solid">Sòlid</string>
     <string name="widget_config_background_type_border">Vora</string>
 
-    <string name="widget_config_show_cityname_title">Mostra el nom de la ciutat</string>
+    <string name="widget_config_show_text_shadow_title">Mostra ombra al text</string>
+    <string name="widget_config_show_realtime_icon_title">Mostra la icona del temps actual</string>
+	<string name="widget_config_show_cityname_title">Mostra el nom de la ciutat</string>
     <string name="widget_config_show_local_time_title">"Mostra l'hora local"</string>
     <string name="widget_config_show_leading_zero_title">Mostra el zero inicial</string>
 
