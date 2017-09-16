@@ -12,10 +12,10 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-bg|Bulgarian|**Емил Филев**|
 |values-bn|Bengali|**Abhishek**|
 |values-ca-ES|Catalan|**Jaime Muñoz Martín**|
-|values-cs|Czech|**Miloslav Kubín** / **Ladislav Loun**|
+|values-cs|Czech|**Miloslav Kubín**,  **Ladislav Loun**|
 |values-de|Deutch|**MIUI Germany** |
 |values-el|Greek|**Dimitrios Skodras**|
-|values-es|Spanish|**Nicolás Berrutti**|
+|values-es|Spanish|**Nicolás Berrutti**|, **Jaime Muñoz Martín** |
 |values-fa|Persian|**رحمان رحمانی پرست**|
 |values-fi|Finnish|**Kalle Lahtinen**|
 |values-fr|French|**Nicolas Zeller**|
@@ -38,7 +38,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-tr|Turkish|**Murat Turan**|
 |values-uk|Ukrainian|**Євген Гіль** |
 |values-vi|Vietnamese|**Nguyễn Minh Chất**|
-|values-zh-CN|Chinese (PRC)|**i Silence**,**文科**|
+|values-zh-CN|Chinese (PRC)|**i Silence**, **文科**|
 |values-zh-TW|Chinese (Taiwan)|**cjh**|
 
 ## Download
