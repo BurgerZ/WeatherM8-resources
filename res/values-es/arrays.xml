@@ -1,58 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="hot_city">
-        <item>Pekín, China</item>
-        <item>Amsterdam, Paises Bajos</item>
-        <item>Varsovia, Polonia</item>
-        <item>Vilna, Lituania</item>
-        <item>Riga, Letonia</item>
-        <item>Madrid, España</item>
-        <item>Perm, Rusia</item>
-        <item>Roma, Italia</item>
-        <item>Dubái, Emiratos Árabes</item>
-        <item>Minsk, Bielorrusia</item>
-        <item>Blagodarnyy, Rusia</item>
-        <item>Karaganda, Kazajistán</item>
-        <item>Oriol, Rusia</item>
-        <item>Berlín, Alemania</item>
-        <item>Praga, República Checa</item>
-        <item>Moscú, Capital de Rusia</item>
-        <item>San Petersburgo, Rusia</item>
-        <item>Chicago, USA</item>
-        <item>Nueva York, USA</item>
-        <item>Paris, Francia</item>
-        <item>Londres, Reino Unido</item>
-        <item>Los Ángeles, USA</item>
-        <item>Kaliningrado, Rusia</item>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+	<string-array name="hot_city">
+        <item>Pekín</item>
+        <item>Amsterdam</item>
+        <item>Varsovia</item>
+        <item>Vilna</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
+        <item>Roma</item>
+        <item>Dubái</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Oriol</item>
+        <item>Berlín</item>
+        <item>Praga</item>
+        <item>Moscú</item>
+        <item>San Petersburgo</item>
+        <item>Chicago</item>
+        <item>Nueva York</item>
+        <item>Paris</item>
+        <item>Londres</item>
+        <item>Los Ángeles</item>
+        <item>Kaliningrado</item>
     </string-array>
     <string-array name="weather_type">
         <item>Soleado</item>
         <item>Nublado</item>
-        <item>Nublado</item>
+        <item>Cubierto</item>
         <item>Niebla</item>
-        <item>Tormenta Fuerte</item>
+        <item>Tormenta fuerte</item>
         <item>Aguacero</item>
-        <item>Tormenta de Lluvia</item>
-        <item>Tormenta Eléctrica</item>
+        <item>Tormenta de lluvia</item>
+        <item>Tormenta eléctrica</item>
         <item>Chaparrón</item>
-        <item>Llovizna Fuerte</item>
-        <item>Llovizna Moderada</item>
-        <item>Llovizna Suave</item>
-        <item>Lluvia y Nieve combinados</item>
+        <item>Llovizna fuerte</item>
+        <item>Llovizna moderada</item>
+        <item>Llovizna suave</item>
+        <item>Aguanieve</item>
         <item>Ventisca</item>
         <item>Nevada</item>
-        <item>Nevada Fuerte</item>
-        <item>Nevada Moderada </item>
-        <item>Nevada Suave</item>
-        <item>Fuerte Tormenta de Arena</item>
-        <item>Tormenta de Arena</item>
+        <item>Nevada fuerte</item>
+        <item>Nevada moderada </item>
+        <item>Nevada suave</item>
+        <item>Fuerte tormenta de arena</item>
+        <item>Tormenta de arena</item>
         <item>Arena</item>
         <item>Ventoso</item>
         <item>Granizo</item>
         <item>Polvo</item>
         <item>Calima</item>
-        <item>Llovizna Fría</item>
-        <item>Sin Clima</item>
+        <item>Llovizna fría</item>
+        <item>Sin datos</item>
     </string-array>
     <string-array name="wind_direction">
         <item>N</item>
@@ -65,15 +67,15 @@
         <item>NO</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
-        <item>Ícono del Clima</item>
+        <item>Ícono del clima</item>
         <item>Temperatura</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Muy Bajo</item>
-        <item>Bajo</item>
-        <item>Medio</item>
-        <item>Alto</item>
-        <item>Muy Alto</item>
+        <item>Bajo</item> <!-- 0-2.9 -->
+        <item>Moderado</item> <!-- 3-5.9 -->
+        <item>Alto</item> <!-- 6-7.9 -->
+        <item>Muy alto</item> <!-- 8-10.9 -->
+        <item>Extremo</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minutos</item>
@@ -86,5 +88,53 @@
         <item>6 horas</item>
         <item>12 horas</item>
         <item>24 horas</item>
+    </string-array>
+	<string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+        <item>E, d MMMM yyyy</item>
+        <item>E, d MMM yyyy</item>
+        <item>E, MMMM d, yyyy</item>
+        <item>E, MMM d, yyyy</item>
+        <item>E, dd/MM/yy</item>
+        <item>E, dd.MM.yy</item>
+        <item>E, dd/MM/yyyy</item>
+        <item>E, dd.MM.yyyy</item>
+        <item>E, MM/dd/yyyy</item>
+        <item>E, yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Nivel del mar</item>
+        <item>Nivel de la ubicación</item>
+        <item>Sensor de presión del teléfono</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bueno</item>
+        <item>Moderado</item>
+        <item>No saludable para grupos sensibles</item>
+        <item>No saludable</item>
+        <item>Muy poco saludable</item>
+        <item>Peligroso</item>
     </string-array>
 </resources>
