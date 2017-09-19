@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 <resources>
     <string name="app_name">El temps M8</string>
     <string name="app_version">Versió: %s</string>
@@ -215,9 +216,9 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 	
 	<string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">min</string>
-    <string name="time_units_second">s</string>
+    <string name="time_units_hour"> h</string>
+    <string name="time_units_minute"> min</string>
+    <string name="time_units_second"> s</string>
 
     <string name="hourly_forecast_detail_date">E, d MMM</string>
     <string name="daily_forecast_detail_date">d MMM</string>
@@ -264,7 +265,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <!-- Widget config -->
     <string name="widget_config_title">Configuració del giny</string>
     <string name="widget_config_custom_clock_font_onoff_title">Font del rellotge personalizada</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">"Desactiva-ho si el giny del rellote no s'actualitza"</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">"Desactiva-ho si el giny del rellotge no s'actualitza"</string>
     <string name="widget_config_clock_font_title">Font del rellotge</string>
     <string name="widget_config_clock_color_title">Color del rellotge</string>
     <string name="widget_config_clock_font_size_title">Mida de la font del rellotge</string>
@@ -285,7 +286,9 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_background_type_solid">Sòlid</string>
     <string name="widget_config_background_type_border">Vora</string>
 
-    <string name="widget_config_show_cityname_title">Mostra el nom de la ciutat</string>
+    <string name="widget_config_show_text_shadow_title">Mostra ombra al text</string>
+    <string name="widget_config_show_realtime_icon_title">Mostra la icona del temps actual</string>
+	<string name="widget_config_show_cityname_title">Mostra el nom de la ciutat</string>
     <string name="widget_config_show_local_time_title">"Mostra l'hora local"</string>
     <string name="widget_config_show_leading_zero_title">Mostra el zero inicial</string>
 
