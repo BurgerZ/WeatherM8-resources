@@ -29,8 +29,8 @@
     </string-array>
     <string-array name="weather_type">
         <item>맑음</item>
+        <item>구름많음</item>
         <item>흐림</item>
-        <item>매우 흐림</item>
         <item>안개</item>
         <item>호우</item>
         <item>폭우</item>
@@ -72,7 +72,7 @@
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>낮음</item> <!-- 0-2.9 -->
-        <item>중간</item> <!-- 3-5.9 -->
+        <item>보통</item> <!-- 3-5.9 -->
         <item>높음</item> <!-- 6-7.9 -->
         <item>매우 높음</item> <!-- 8-10.9 -->
         <item>극심한</item> <!-- 11+ -->
