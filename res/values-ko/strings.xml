@@ -11,7 +11,7 @@
     <string name="act_set_city_find_side_error">"기기의 위치를 특정할 수 없습니다"</string>
     <string name="button_add_city">도시 추가</string>
     <string name="locate_fail_detail_err">"기기의 위치를 특정할 수 없습니다.
-아래 버튼을 눌러 수동으로 도시를 추가한 후 다시 위치를 확인해보세요"</string>
+도시를 수동으로 추가하거나 아래 버튼을 눌러 위치를 다시 확인해보세요"</string>
     <string name="act_set_city_swipe_hint">도시를 삭제하려면 왼쪽으로 미세요</string>
     <string name="button_allow">확인</string>
     <string name="button_not_allow">취소</string>
