@@ -186,7 +186,7 @@
     <string name="more_details">자세한 정보 보기</string>
     <string name="weather_details_title">날씨 세부사항</string>
     <string name="weather_details_wind_title">풍속</string>
-    <ring name="weather_details_real_feel_title">체감온도</string>
+    <string name="weather_details_real_feel_title">체감온도</string>
     <string name="weather_details_temperature_title">온도</string>
     <string name="weather_details_uv_index_title">자외선 지수</string>
     <string name="weather_details_pressure_title">기압</string>
