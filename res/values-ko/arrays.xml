@@ -1,96 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
     <string-array name="hot_city">
-        <item>베이징</item>
+        <item>북경</item>
         <item>암스테르담</item>
         <item>바르샤바</item>
-        <item>빌 뉴스</item>
+        <item>빌뉴스</item>
         <item>리가</item>
         <item>마드리드</item>
-        <item>파마</item>
+        <item>페름</item>
         <item>로마</item>
         <item>두바이</item>
-        <item>미느 스크</item>
-        <item>감사의</item>
-        <item>카라 간다</item>
-        <item>독수리</item>
+        <item>민스크</item>
+        <item>블라고가르니</item>
+        <item>카라간다</item>
+        <item>오룔</item>
         <item>베를린</item>
         <item>프라하</item>
         <item>모스크바</item>
-        <item>세인트 피터스 버그</item>
+        <item>피터즈버그 거리</item>
         <item>시카고</item>
         <item>뉴욕</item>
         <item>파리</item>
         <item>런던</item>
-        <item>로스 앤젤레스</item>
+        <item>로스 엔젤레스</item>
         <item>칼리닌그라드</item>
     </string-array>
     <string-array name="weather_type">
-        <item>맑은</item>
-        <item>흐린</item>
-        <item>흐린</item>
-        <item>흐린</item>
-        <item>폭풍우</item>
+        <item>맑음</item>
+        <item>구름많음</item>
+        <item>흐림</item>
+        <item>안개</item>
         <item>호우</item>
-        <item>비바람</item>
+        <item>폭우</item>
+        <item>폭풍우</item>
         <item>뇌우</item>
-        <item>샤워</item>
-        <item>대우</item>
-        <item>보통 비</item>
+        <item>소나기</item>
+        <item>장대비</item>
         <item>비</item>
-        <item>비와 눈 혼합</item>
+        <item>이슬비</item>
+        <item>진눈깨비</item>
         <item>눈보라</item>
         <item>눈</item>
-        <item>폭설</item>
-        <item>보통 눈</item>
-        <item>눈이 가볍다.</item>
-        <item>강한 모래 폭풍</item>
-        <item>모래 폭풍</item>
+        <item>세찬눈</item>
+        <item>적당한 눈</item>
+        <item>약한눈</item>
+        <item>강한 모래폭풍</item>
+        <item>모래폭풍</item>
         <item>모래</item>
-        <item>깜짝 놀란</item>
-        <item>빗발</item>
-        <item>먼지</item>
-        <item>안개</item>
-        <item>얼어 붙는 비</item>
-        <item>아니 날씨</item>
+        <item>강풍</item>
+        <item>우박</item>
+        <item>황사</item>
+        <item>실안개</item>
+        <item>어는비</item>
+        <item>날씨정보 없음</item>
     </string-array>
-    
+    <string-array name="wind_direction">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
     <string-array name="weather_notif_type_entries">
         <item>날씨 아이콘</item>
         <item>온도</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>낮은</item> <!-- 0-2.9 -->
-        <item>보통의</item> <!-- 3-5.9 -->
-        <item>높은</item> <!-- 6-7.9 -->
+        <item>낮음</item> <!-- 0-2.9 -->
+        <item>보통</item> <!-- 3-5.9 -->
+        <item>높음</item> <!-- 6-7.9 -->
         <item>매우 높음</item> <!-- 8-10.9 -->
-        <item>극단</item> <!-- 11+ -->
+        <item>극심한</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
-        <item>15 분</item>
-        <item>30 분</item>
-        <item>1 시간</item>
-        <item>2 시간</item>
-        <item>3 시간</item>
-        <item>4 시간</item>
-        <item>5 시간</item>
-        <item>6 시간</item>
-        <item>12 시간</item>
-        <item>24 시간</item>
+        <item>15분</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>3시간</item>
+        <item>4시간</item>
+        <item>5시간</item>
+        <item>6시간</item>
+        <item>12시간</item>
+        <item>24시간</item>
     </string-array>
-    
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+        <item>E, d MMMM yyyy</item>
+        <item>E, d MMM yyyy</item>
+        <item>E, MMMM d, yyyy</item>
+        <item>E, MMM d, yyyy</item>
+        <item>E, dd/MM/yy</item>
+        <item>E, dd.MM.yy</item>
+        <item>E, dd/MM/yyyy</item>
+        <item>E, dd.MM.yyyy</item>
+        <item>E, MM/dd/yyyy</item>
+        <item>E, yyyy/MM/dd</item>
+    </string-array>
     <string-array name="pressure_level_entries">
         <item>해수면</item>
-        <item>위치 수준</item>
-        <item>전화 압력 센서</item>
+        <item>현재 위치</item>
+        <item>기기 압력 센서</item>
     </string-array>
-    
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="aqi_value">
-        <item>좋은</item>
-        <item>보통의</item>
-        <item>민감한 그룹에게는 건강에 해 롭습니다.</item>
-        <item>건강에 해로운</item>
-        <item>매우 건강에 해로운</item>
-        <item>위험한</item>
+        <item>좋음</item>
+        <item>적당함</item>
+        <item>민감한 사람에게 유해함</item>
+        <item>유해함</item>
+        <item>매우 유해함</item>
+        <item>극도로 위험함</item>
     </string-array>
 </resources>
