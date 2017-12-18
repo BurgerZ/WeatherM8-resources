@@ -116,7 +116,7 @@
     </string-array>
     <string-array name="pressure_level_entries">
         <item>Meereshöhe</item>
-        <item>SUpdatetandort</item>
+        <item>Standort</item>
         <item>Telefon-Drucksensor</item>
     </string-array>
     <string-array name="aqi_title_prefix">
