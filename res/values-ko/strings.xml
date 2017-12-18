@@ -76,7 +76,7 @@
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">공기 품질 정보</string>
     <string name="settings_aqi_onoff_summary">현재 위치의 공기 품질 정보 보기 (가능하면)</string>
-    <string name="settings_aqi_max_distance_closest">가장 근접한 관측소</string>
+    <string name="settings_aqi_max_distance_closest">가장 가까운 관측소</string>
     <string name="settings_aqi_max_distance_title">AQI 검사 범위</string>
     <string name="settings_aqi_max_distance_summary">%1$s 거리에 위치한 기상관측소에서 공기 품질 데이터를 가져옵니다</string>
     <string name="settings_app_locale_title">언어</string>
@@ -183,7 +183,7 @@
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
 
     <!-- Weather details -->
-    <string name="more_details">더 많은 세부사항</string>
+    <string name="more_details">자세한 정보 보기</string>
     <string name="weather_details_title">날씨 세부사항</string>
     <string name="weather_details_wind_title">바람</string>
     <string name="weather_details_real_feel_title">체감 온도</string>
@@ -264,7 +264,7 @@
     <!-- Widget config -->
     <string name="widget_config_title">위젯 설정</string>
     <string name="widget_config_custom_clock_font_onoff_title">사용자 지정 시계 폰트</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">위젯 시계가 업데이트되지 않으면 끄세요</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">위젯 시계가 갱신되지 않으면 끄세요</string>
     <string name="widget_config_clock_font_title">시계 폰트</string>
     <string name="widget_config_clock_color_title">시계 색상</string>
     <string name="widget_config_clock_font_size_title">시계 폰트 크기</string>
@@ -289,7 +289,7 @@
     <string name="widget_config_show_realtime_icon_title">현재 날씨 아이콘 보기</string>
     <string name="widget_config_show_cityname_title">도시 이름 보기</string>
     <string name="widget_config_show_local_time_title">지역 시간 보기</string>
-    <string name="widget_config_show_leading_zero_title">숨겨진 0 보기</string>
+    <string name="widget_config_show_leading_zero_title">숨겨진 0값 보기</string>
 
     <string name="widget_config_click_settings">설정할 위젯 영역 클릭</string>
     <string name="widget_config_click_apps">응용 프로그램 선택</string>
@@ -299,7 +299,7 @@
     <string name="widget_config_click_temperature">온도</string>
 
     <!-- Moon Phases -->
-    <string name="menu_moon_phases">문 페이즈</string>
+    <string name="menu_moon_phases">달의 위상</string>
     <string name="moon_age">수명: %1$s일 %2$s시간 %3$s분</string>
     <string name="moon_newmoon">새로운 달</string>
     <string name="moon_waxingcrescent">초승달</string>
