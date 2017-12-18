@@ -175,8 +175,8 @@
     <string name="share_weather_desc">\#날씨 M8# 오늘 %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="hourly_forcast_now">방금</string>
-    <string name="sunrise">해돋이</string>
-    <string name="sunset">정오</string>
+    <string name="sunrise">일출</string>
+    <string name="sunset">일몰</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s 후.</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_drawer_on_top">일일 예보</string>
@@ -185,15 +185,15 @@
     <!-- Weather details -->
     <string name="more_details">자세한 정보 보기</string>
     <string name="weather_details_title">날씨 세부사항</string>
-    <string name="weather_details_wind_title">바람</string>
-    <string name="weather_details_real_feel_title">체감 온도</string>
+    <string name="weather_details_wind_title">풍속</string>
+    <ring name="weather_details_real_feel_title">체감온도</string>
     <string name="weather_details_temperature_title">온도</string>
     <string name="weather_details_uv_index_title">자외선 지수</string>
     <string name="weather_details_pressure_title">기압</string>
     <string name="weather_details_humidity_title">습도</string>
-    <string name="weather_details_visibility_title">가시성</string>
+    <string name="weather_details_visibility_title">가시거리</string>
     <string name="weather_details_precipitation_prob_title">강수량</string>
-    <string name="weather_details_daylight_hours_title">일조 시간</string>
+    <string name="weather_details_daylight_hours_title">일조시간</string>
     <string name="weather_details_timezone_title">시간대</string>
     <string name="weather_details_elevation_title">고도</string>
 
