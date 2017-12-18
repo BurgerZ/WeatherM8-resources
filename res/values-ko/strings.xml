@@ -334,8 +334,8 @@
     <string name="press_color_to_apply">적용하려면 색을 누르세요</string>
     <string name="dialog_color_picker">색상 고르기</string>
 
-    <string name="date_time_am">am</string>
-    <string name="date_time_pm">pm</string>
+    <string name="date_time_am"></string>
+    <string name="date_time_pm">오후</string>
 
     <!-- AQI -->
     <string name="aqi_main_title">공기 품질</string>
