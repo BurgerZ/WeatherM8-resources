@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 <resources>
     <string name="app_name">El tiempo M8</string>
     <string name="app_version">Versión: %s</string>
@@ -74,12 +73,12 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_weather_forecast_spider_title">Datos de previsión</string>
     <string name="settings_weather_station_title">Estación meteorológica</string>
 	<string name="settings_weather_data_order_title">Orden de los datos meteorológicos</string>
-    <string name="settings_ICA_title">@string/ICA_main_title</string>
-    <string name="settings_ICA_onoff_title">"Información sobre la calidad del aire"</string>
-    <string name="settings_ICA_onoff_summary">"Muestra la información del índice de calidad del aire en las ubicaciones (si está disponible)"</string>
-    <string name="settings_ICA_max_distance_closest">Estación més cercana</string>
-    <string name="settings_ICA_max_distance_title">Radio de verificación ICA</string>
-    <string name="settings_ICA_max_distance_summary">"Obtener datos de la calidad del aire de las estaciones meteorológicas situadas en %1$s"</string>
+    <string name="settings_aqi_title">@string/aqi_main_title</string>
+    <string name="settings_aqi_onoff_title">"Información sobre la calidad del aire"</string>
+    <string name="settings_aqi_onoff_summary">"Muestra la información del índice de calidad del aire en las ubicaciones (si está disponible)"</string>
+    <string name="settings_aqi_max_distance_closest">Estación més cercana</string>
+    <string name="settings_aqi_max_distance_title">Radio de verificación ICA</string>
+    <string name="settings_aqi_max_distance_summary">"Obtener datos de la calidad del aire de las estaciones meteorológicas situadas en %1$s"</string>
     <string name="settings_app_locale_title">Idioma</string>
     <string name="settings_app_theme_title">Tema</string>
     <string name="settings_app_theme_light">Claro</string>
@@ -339,21 +338,21 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <string name="date_time_pm">pm</string>
 
     <!-- ICA -->
-    <string name="ICA_main_title">"Calidad del aire"</string>
-    <string name="ICA_main_publish_time">Actualizado a las %1$s</string>
+    <string name="aqi_main_title">"Calidad del aire"</string>
+    <string name="aqi_main_publish_time">Actualizado a las %1$s</string>
 
-    <string name="ICA_ring_top_pollution">Principales contaminantes</string>
-    <string name="ICA_ring_desc">"Índice de calidad del aire"</string>
+    <string name="aqi_ring_top_pollution">Principales contaminantes</string>
+    <string name="aqi_ring_desc">"Índice de calidad del aire"</string>
 
-    <string name="ICA_sub_desc">ICA</string>
+    <string name="aqi_sub_desc">ICA</string>
 
-    <string name="ICA_detail_subtitle">ICA %1$s</string>
-    <string name="ICA_detail_pm25">PM2.5</string>
-    <string name="ICA_detail_pm10">PM10</string>
-    <string name="ICA_detail_so2">SO₂</string>
-    <string name="ICA_detail_no2">NO₂</string>
-    <string name="ICA_detail_co">CO</string>
-    <string name="ICA_detail_o3">O₃</string>
+    <string name="aqi_detail_subtitle">ICA %1$s</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_so2">SO₂</string>
+    <string name="aqi_detail_no2">NO₂</string>
+    <string name="aqi_detail_co">CO</string>
+    <string name="aqi_detail_o3">O₃</string>
 
     <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_pm10">PM10</string>
@@ -362,11 +361,11 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <string name="top_pollution_co">CO</string>
     <string name="top_pollution_o3">O3</string>
 
-    <string name="ICA_detail_5_days">Previsión diaria</string>
-    <string name="ICA_detail_24_hours">Previsión horaria</string>
+    <string name="aqi_detail_5_days">Previsión diaria</string>
+    <string name="aqi_detail_24_hours">Previsión horaria</string>
 
-    <string name="ICA_detail_unit">Unidad: µg/m³ (CO: mg/m³)</string>
-    <string name="ICA_data_source">%s</string>
+    <string name="aqi_detail_unit">Unidad: µg/m³ (CO: mg/m³)</string>
+    <string name="aqi_data_source">%s</string>
 
     <!-- Radar -->
     <string name="radar_title">Radar</string>

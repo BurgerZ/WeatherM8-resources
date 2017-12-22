@@ -1,5 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 <resources>
     <string name="app_name">El temps M8</string>
     <string name="app_version">Versió: %s</string>
@@ -216,9 +215,9 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 	
 	<string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
-    <string name="time_units_hour"> h</string>
-    <string name="time_units_minute"> min</string>
-    <string name="time_units_second"> s</string>
+    <string name="time_units_hour">" h"</string>
+    <string name="time_units_minute">" min"</string>
+    <string name="time_units_second">" s"</string>
 
     <string name="hourly_forecast_detail_date">E, d MMM</string>
     <string name="daily_forecast_detail_date">d MMM</string>
