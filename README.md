@@ -26,6 +26,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-it|Italian|**Ignis_su**|
 |values-iw|Hebrew|**Alex Travitsky**|
 |values-ko|Korean|**wolfwork**|
+|values-lt|Lithuanian|**Vladimir Zemlianskij**|
 |values-nl|Dutch|**Jelger Postma**|
 |values-ro|Romanian|**Igor Sorocean** |
 |values-ru|Russian|**Andrei Zhukouski**|
