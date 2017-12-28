@@ -123,9 +123,9 @@
   <string name="network_wifi_only">Updates sind nur auf WLAN eingestellt.</string>
   <string name="press_color_to_apply">Drücken Sie auf Farbe, um diese zu übernehmen</string>
   <string name="radar_date_format">dd.MM HH:mm</string>
-  <string name="radar_tab_cloud">Bewölkung</string>
+  <string name="radar_tab_cloud">Wolken</string>
   <string name="radar_tab_rain">Regen</string>
-  <string name="radar_title">Radar</string>
+  <string name="radar_title">Wetterradar</string>
   <string name="settings_about">Über</string>
   <string name="settings_ads_donation_expl">Die Spende über Google Play durch Drücken dieser Schaltflächen entfernt KEINE Werbung. Um sie zu entfernen, sollten Sie die Schaltfläche Anzeigen entfernen verwenden.</string>
   <string name="settings_ads_donations_title">Kauf mir ein Bier</string>
@@ -250,8 +250,8 @@
   <string name="weather_details_real_feel_title">Gefühlt</string>
   <string name="weather_details_temperature_title">Temperatur</string>
   <string name="weather_details_timezone_title">Zeitzone</string>
-  <string name="weather_details_title">Wetter Details</string>
-  <string name="weather_details_update_date_string">Beobachtungszeit: %s</string>
+  <string name="weather_details_title">Wetterdetails</string>
+  <string name="weather_details_update_date_string">Aktualisiert am: %s</string>
   <string name="weather_details_uv_index_title">UV Index</string>
   <string name="weather_details_visibility">%1$s km</string>
   <string name="weather_details_visibility_meters">%1$s m</string>
