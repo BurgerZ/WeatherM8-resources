@@ -215,9 +215,9 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
 
     <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+    <string name="time_units_hour">" h"</string>
+    <string name="time_units_minute">" m"</string>
+    <string name="time_units_second">" s"</string>
 
     <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="daily_forecast_detail_date">d MMM</string>
@@ -238,23 +238,23 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="activity_main_alert_type_wind">Wind</string>
     <string name="activity_main_alert_type_wind_gusts">Wind gusts</string>
     <string name="activity_main_alert_type_tstorm">Thunderstorms</string>
-    <string name="activity_main_alert_unit_mm">mm</string>
-    <string name="activity_main_alert_unit_cm">cm</string>
-    <string name="activity_main_alert_unit_inch">in</string>
-    <string name="activity_main_alert_unit_kmh">km/h</string>
-    <string name="activity_main_alert_unit_mph">mph</string>
-    <string name="activity_main_alert_unit_mps">m/s</string>
+    <string name="activity_main_alert_unit_mm">" mm"</string>
+    <string name="activity_main_alert_unit_cm">" cm"</string>
+    <string name="activity_main_alert_unit_inch">" in"</string>
+    <string name="activity_main_alert_unit_kmh">" km/h"</string>
+    <string name="activity_main_alert_unit_mph">" mph"</string>
+    <string name="activity_main_alert_unit_mps">" m/s"</string>
 
 
     <string name="daily_forcast_no_wind">Still</string>
     <string name="daily_forcast_whirl_wind">Whirl wind</string>
     <string name="delete">Delete</string>
 
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_bft">%1$sbft</string>
-    <string name="wind_unit_knot">%1$sknot</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="wind_unit_mph">%1$smph</string>
+    <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_bft">%1$s bft</string>
+    <string name="wind_unit_knot">%1$s knot</string>
+    <string name="wind_unit_ms">%1$s m/s</string>
+    <string name="wind_unit_mph">%1$s mph</string>
 
     <string name="hourly_forecast_title">Hourly Forecast</string>
 
@@ -311,7 +311,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="moon_waningcrescent">Waning crescent</string>
     <string name="moon_illuminated">Illuminated: %s%%</string>
     <string name="moon_since">Date: %1$s %2$s</string>
-    <string name="moon_distanse">Moon distance: %s км</string>
+    <string name="moon_distanse">Moon distance: %s km</string>
     <string name="moon_angle">Moon angle: %s</string>
     <string name="moon_rise">Rise: %s</string>
     <string name="moon_set">Set: %s</string>

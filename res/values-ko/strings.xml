@@ -1,90 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">날씨 M8</string>
-    <string name="app_version">번역: %s</string>
+    <string name="app_version">버전: %s</string>
     <string name="location_management">위치</string>
     <string name="gps_hint">GPS</string>
-    <string name="network_unavailable">네트워크에 연결할 수 없습니다.</string>
-    <string name="act_find_city_hot_title">더하다</string>
+    <string name="network_unavailable">"네트워크에 연결할 수 없습니다."</string>
+    <string name="act_find_city_hot_title">추가</string>
     <string name="act_find_city_hint">위치 입력</string>
-    <string name="act_set_city_find_side">위치…</string>
-    <string name="act_set_city_find_side_error">기기를 찾을 수 없습니다.</string>
+    <string name="act_set_city_find_side">위치 확인 중…</string>
+    <string name="act_set_city_find_side_error">"기기의 위치를 특정할 수 없습니다"</string>
     <string name="button_add_city">도시 추가</string>
-    <string name="locate_fail_detail_err">기기를 찾을 수 없습니다.
-도시를 수동으로 추가하거나 다시 찾으려면 아래 버튼을 탭하십시오.</string>
-    <string name="act_set_city_swipe_hint">왼쪽으로 스 와이프하여 도시를 삭제합니다.</string>
-    <string name="button_allow">승인</string>
+    <string name="locate_fail_detail_err">"기기의 위치를 특정할 수 없습니다.
+도시를 수동으로 추가하거나 아래 버튼을 눌러 위치를 다시 확인해보세요"</string>
+    <string name="act_set_city_swipe_hint">도시를 삭제하려면 왼쪽으로 미세요</string>
+    <string name="button_allow">확인</string>
     <string name="button_not_allow">취소</string>
-    <string name="act_weather_find_city_net_no_good">네트워크에 연결할 수 없습니다.</string>
-    <string name="act_weather_find_city_click_retry">다시 해 보다</string>
-    <string name="act_weather_find_city_searching">수색…</string>
-    <string name="location_tag">위치하고 있다</string>
+    <string name="act_weather_find_city_net_no_good">"네트워크에 연결할 수 없습니다."</string>
+    <string name="act_weather_find_city_click_retry">다시 시도</string>
+    <string name="act_weather_find_city_searching">검색 중…</string>
+    <string name="location_tag">위치</string>
     <string name="act_weather_find_city_no_result">결과 없음</string>
     <string name="act_weather_find_city_added">추가됨</string>
     <string name="view_forecast_item_yesterday">어제</string>
     <string name="view_indexes_item_today">오늘</string>
     <string name="view_indexes_item_tommorrow">내일</string>
-    <string name="activity_main_update_time">업데이트 됨 %1$s</string>
-    <string name="activity_main_expire_time">만료 %1$s</string>
-    <string name="activity_main_update_time_expire">데이터 만료 됨</string>
+    <string name="activity_main_update_time">%1$s 갱신됨</string>
+    <string name="activity_main_expire_time">%1$s 만기됨</string>
+    <string name="activity_main_update_time_expire">데이터 만기됨</string>
     <string name="activity_main_update_time_right_now">방금</string>
-    <string name="activity_main_refresh_fail">네트워크에 연결할 수 없습니다.</string>
+    <string name="activity_main_refresh_fail">"네트워크에 연결할 수 없습니다"</string>
     <string name="activity_find_city_dialog_cancel">취소</string>
     <string name="activity_find_city_dialog_set">설정</string>
-    <string name="activity_find_city_dialog_title">위치 정보 액세스</string>
-    <string name="activity_find_city_dialog_message">날씨로 내 위치를 볼 수있게하십시오.</string>
+    <string name="activity_find_city_dialog_title">위치 접근</string>
+    <string name="activity_find_city_dialog_message">현재 위치의 날씨 정보를 표시합니다</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_detail_time_format">E</string>
     <string name="hour_minute_time_format">HH:mm</string>
-    <string name="first_start_network_msg">이 앱은 날씨 데이터를 얻기 위해 인터넷에 연결되어 있어야합니다.
-        응용 프로그램은 사용 권한을 사용합니다.
-        \u2022 현재 좌표를 얻기 위해 장치 위치에 액세스하십시오.
-        \u2022 사진, 미디어 및 파일에 액세스하여 \ "공유 \"기능의 스크린 샷을 저장하십시오.</string>
-    <string name="first_start_network_title">인터넷 연결 및 위치 정보 액세스</string>
+    <string name="first_start_network_msg">"이 앱은 날씨 정보를 얻기 위해 인터넷 연결 활성화가 필요합니다.
+        응용 프로그램이 사용하는 권한:
+        \u2022 현재 좌표를 얻기 위해 기기의 위치 접근 권한을 요구합니다.
+        \u2022 스크린샷 \"공유\" 기능을 위해 사진, 미디어와 파일에 대한 접근 권한을 요구합니다."</string>
+    <string name="first_start_network_title">인터넷 연결과 위치 접근</string>
 
-    <string name="get_accounts_msg">이 앱은 구매를 확인하고 광고를 끄기 위해 기기 계정 목록에 액세스해야합니다.</string>
-    <string name="get_accounts_title">계정 액세스</string>
+    <string name="get_accounts_msg">이 앱은 구매 여부와 광고 종료를 확인하기 위해 기기의 계정 목록에 대한 접근 권한을 요구합니다.</string>
+    <string name="get_accounts_title">계정 접근</string>
 
-    <string name="international_detail_menu_title">세부</string>
-    <string name="share_menu_title">몫</string>
+    <string name="international_detail_menu_title">세부사항</string>
+    <string name="share_menu_title">공유</string>
 
     <string name="common_auto">자동</string>
     <string name="common_recommended">추천</string>
 
-    <string name="network_error">서버를 연결할 수 없습니다.\n네트워크 설정을 확인하십시오.</string>
-    <string name="network_in_quiet_hours">너 조용한 시간에있어. 업데이트가 취소되었습니다.</string>
-    <string name="network_in_roaming">로밍에서 업데이트를 사용하지 않도록 설정할 수 있습니다.</string>
-    <string name="network_wifi_only">업데이트 만 Wi-Fi로 설정되었습니다.</string>
+    <string name="network_error">서버에 연결할 수 없습니다.\n네트워크 설정을 확인하세요.</string>
+    <string name="network_in_quiet_hours">지금은 방해 금지 시간입니다. 업데이트가 취소됩니다.</string>
+    <string name="network_in_roaming">로밍에서의 업데이트를 비활성화 하였습니다.</string>
+    <string name="network_wifi_only">Wi-Fi에서만 업데이트하도록 설정되어 있습니다.</string>
 
     <!-- Preferences -->
     <string name="settings_menu_title">설정</string>
     <string name="settings_autoupdate_weather_title">자동 업데이트</string>
-    <string name="settings_autoupdate_weather_summary">일기 예보 자동 업데이트</string>
-    <string name="settings_update_wifi_only_summary">Wi-Fi 연결이 설정된 경우에만 일기 예보 자동 업데이트</string>
+    <string name="settings_autoupdate_weather_summary">일기예보를 자동으로 업데이트</string>
+    <string name="settings_update_wifi_only_summary">Wi-Fi가 연결되어 있을 때만 일기예보를 자동으로 업데이트</string>
     <string name="settings_update_wifi_only_title">Wi-Fi에서만 업데이트</string>
-    <string name="settings_update_interval_title">업데이트 간격</string>
-    <string name="settings_update_quiet_hours_end_time_title">업데이트 간격</string>
-    <string name="settings_update_quiet_hours_start_time_title">스타트</string>
-    <string name="settings_update_quiet_hours_title">조용한 시간</string>
+    <string name="settings_update_interval_title">업데이트 주기</string>
+    <string name="settings_update_quiet_hours_end_time_title">종료</string>
+    <string name="settings_update_quiet_hours_start_time_title">시작</string>
+    <string name="settings_update_quiet_hours_title">방해 금지 시간</string>
+    <string name="settings_weather_transfer_title">날씨 설명 전환</string>
+    <string name="settings_weather_transfer_summary">날씨 설명을 낮에서 밤으로 전환하여 보기</string>
     <string name="settings_weather_spider_title">소스 업데이트</string>
     <string name="settings_weather_realtime_spider_title">실시간 데이터</string>
     <string name="settings_weather_forecast_spider_title">예측 데이터</string>
-    <string name="settings_weather_station_title">기상청</string>
+    <string name="settings_weather_station_title">기상관측소</string>
+    <string name="settings_weather_data_order_title">날씨 데이터 순서</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
-    <string name="settings_aqi_onoff_title">대기 질 정보</string>
-    <string name="settings_aqi_onoff_summary">해당 지역의 대기 질 지수 정보 표시 (사용 가능한 경우)</string>
-    <string name="settings_aqi_max_distance_closest">가장 가까운 역</string>
-    <string name="settings_aqi_max_distance_title">AQI 수표 반경</string>
-    <string name="settings_aqi_max_distance_summary">%1$s 이내에있는 기상 관측소에서 대기 질 데이터를 얻으십시오.</string>
+    <string name="settings_aqi_onoff_title">공기 품질 정보</string>
+    <string name="settings_aqi_onoff_summary">현재 위치의 공기 품질 정보 보기 (가능하면)</string>
+    <string name="settings_aqi_max_distance_closest">가장 가까운 관측소</string>
+    <string name="settings_aqi_max_distance_title">AQI 검사 범위</string>
+    <string name="settings_aqi_max_distance_summary">%1$s 거리에 위치한 기상관측소에서 공기 품질 데이터를 가져옵니다</string>
     <string name="settings_app_locale_title">언어</string>
     <string name="settings_app_theme_title">테마</string>
-    <string name="settings_app_theme_light">빛</string>
-    <string name="settings_app_theme_dark">어두운</string>
-    <string name="settings_sound_volume">사운드 볼륨</string>
-    <string name="settings_weather_details_title">날씨 정보</string>
-    <string name="settings_weather_details_summary">기본 화면에 표시 할 날씨 세부 정보 선택</string>
+    <string name="settings_app_theme_light">밝게</string>
+    <string name="settings_app_theme_dark">어둡게</string>
+    <string name="settings_sound_volume">소리 크기</string>
+    <string name="settings_weather_details_title">날씨 세부 사항</string>
+    <string name="settings_weather_details_summary">주 화면에 표시할 날씨 정보를 선택하세요</string>
     <string name="settings_category_units">단위</string>
-    <string name="settings_pressure_unit">압력</string>
+    <string name="settings_pressure_unit">공기압</string>
     <string name="settings_pressure_unit_atm">atm</string>
     <string name="settings_pressure_unit_hpa">hPa</string>
     <string name="settings_pressure_unit_mb">mb</string>
@@ -97,102 +100,102 @@
     <string name="settings_wind_unit_ms">m/s</string>
     <string name="settings_wind_unit_mph">mph</string>
     <string name="settings_temp_unit">온도</string>
-    <string name="settings_visibility_unit">시계</string>
+    <string name="settings_visibility_unit">가시성</string>
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">miles</string>
 
-    <string name="settings_realtime_feelslike_as_main_title">주 온도와 같은 느낌</string>
-    <string name="settings_realtime_feelslike_as_main_summary">실제 날씨 온도를 주요 기온으로 표시</string>
+    <string name="settings_realtime_feelslike_as_main_title">주 온도를 실감나게</string>
+    <string name="settings_realtime_feelslike_as_main_summary">주 날씨 온도처럼 온도를 실감나게 표시</string>
 
-    <string name="settings_show_plus_sign_temp_title">"+" 기호 표시</string>
-    <string name="settings_show_plus_sign_temp_summary">양성 온도 표시 "+" 기호 표시</string>
+    <string name="settings_show_plus_sign_temp_title">"+" 신호 표시</string>
+    <string name="settings_show_plus_sign_temp_summary">온화한 온도에 "+" 신호 표시</string>
 
-    <string name="settings_pressure_level_title">에 대한 압력 표시</string>
+    <string name="settings_pressure_level_title">기압 표시</string>
 
-    <string name="settings_city_base">시 데이터베이스</string>
+    <string name="settings_city_base">도시 데이터베이스</string>
 
     <string name="settings_notifications_title">알림</string>
     <string name="settings_notifications_summary">날씨 알림 설정</string>
     <string name="settings_notification_title">알림 표시</string>
-    <string name="settings_notification_summary">알림 영역에 현재 기상 조건 표시</string>
+    <string name="settings_notification_summary">현재 지역의 날씨 상태를 알려줍니다</string>
 
-    <string name="settings_notification_priority_title">최소 우선 순위</string>
-    <string name="settings_notification_priority_summary">최소 우선 순위 알림은 알림 창에만 나타납니다.</string>
+    <string name="settings_notification_priority_title">최소 우선순위</string>
+    <string name="settings_notification_priority_summary">최소 우선순위 알림은 알림 창에만 나타납니다</string>
 
     <string name="settings_notify_type_title">알림 아이콘</string>
     <string name="settings_notification_statusbar_color_title">알림 아이콘 색상</string>
 
-    <string name="settings_alerts_title">알리미 관리</string>
+    <string name="settings_alerts_title">알람 관리</string>
 
     <string name="settings_icons_title">날씨 아이콘</string>
-    <string name="settings_icons_builtin_title">내장 된 날씨 아이콘</string>
-    <string name="settings_icons_theme_details_title">테마 세부 정보</string>
+    <string name="settings_icons_builtin_title">기본으로 포함된 알림 아이콘</string>
+    <string name="settings_icons_theme_details_title">테마 세부사항</string>
 
     <string name="settings_widgets_title">위젯</string>
-    <string name="settings_widgets_not_found">설치된 위젯을 찾을 수 없음</string>
+    <string name="settings_widgets_not_found">설치된 위젯을 찾을 수 없습니다</string>
 
-    <string name="settings_ads_title">광고 및 기부</string>
-    <string name="settings_ads_donations_title">맥주 사다.</string>
-    <string name="settings_ads_explanation">왜 광고를 보았습니까?
-안드로이드 용 응용 프로그램을 작성하는 것은 내 개인적인 자유 시간에하는 취미입니다. 그러므로 일정한 수의 배너 모양을 이해하고 치료하십시오. 애플리케이션에 광고를 게재하면 더 많은 발전이 가능합니다.</string>
-    <string name="settings_ads_menu_hide_title">이 메뉴 항목 숨기기</string>
-    <string name="settings_ads_remove_title">광고를 제거하다</string>
-    <string name="settings_ads_remove_summary">1 주일 동안 광고를 삭제합니다 (한 달에 한 번).</string>
+    <string name="settings_ads_title">광고와 후원</string>
+    <string name="settings_ads_donations_title">맥주 한잔</string>
+    <string name="settings_ads_explanation">"왜 광고를 보고 있나요?
+안드로이드 응용 프로그램 제작은 개인 시간에 하고 있는 내 취미입니다. 따라서 일정 수의 배너가 표시되는 것을 이해해주세요. 응용 프로그램의 광고 표시는 개발을 장려합니다."</string>
+    <string name="settings_ads_menu_hide_title">이 메뉴 항목을 숨기기</string>
+    <string name="settings_ads_remove_title">광고 제거</string>
+    <string name="settings_ads_remove_summary">일주일동안 광고 제거 (한달에 한번)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-    <string name="settings_ads_donation_expl">아래의 버튼을 눌러 Google Play를 통해 기부하면 광고가 삭제되지 않습니다. 삭제하려면 \ "광고 제거 \"버튼을 사용해야합니다.</string>
-    <string name="settings_about">약</string>
+    <string name="settings_ads_donation_expl">이 버튼을 눌러 구글 플레이를 통한 후원은 광고를 제거하지 않습니다. 광고를 제거하려면 \"광고 제거\" 버튼을 이용해주세요.</string>
+    <string name="settings_about">정보</string>
     <string name="settings_translations">번역</string>
-    <string name="settings_translations_summary">애플리케이션 번역사에 대한 크레딧</string>
-    <string name="settings_thirdparty">타사 라이브러리 및 리소스</string>
+    <string name="settings_translations_summary">응용 프로그램 번역자 크래딧</string>
+    <string name="settings_thirdparty">서드 파티 라이브러리와 리소스</string>
     <string name="settings_permissions">권한</string>
-    <string name="settings_help">도움</string>
-    <string name="settings_feedback">의견 보내기</string>
-    <string name="settings_dialog_enter_timezone">선택한 도시 (%s) 의 시간대를 입력하십시오 (예: GMT+03:00:</string>
+    <string name="settings_help">도움말</string>
+    <string name="settings_feedback">피드백 보내기</string>
+    <string name="settings_dialog_enter_timezone">선택한 도시 (%s)의 시간대를 입력하세요, 예시 GMT+03:00:</string>
 
-    <string name="feedback_title">표제</string>
-    <string name="feedback_title_hint">문제를 간단히 설명하십시오.</string>
-    <string name="feedback_description">기술</string>
-    <string name="feedback_description_hint">문제 또는 제안을 완전히 설명하십시오.</string>
+    <string name="feedback_title">제목</string>
+    <string name="feedback_title_hint">문제를 간단히 설명하세요</string>
+    <string name="feedback_description">설명</string>
+    <string name="feedback_description_hint">문제 제기나 제안 하고싶은 내용을 전부 설명하세요</string>
     <string name="feedback_add_images">이미지 추가</string>
     <string name="feedback_select_upload_settings">앱 설정 업로드</string>
-    <string name="feedback_action_send">보내다</string>
-    <string name="feedback_fill_required">필수 입력란은 비워 둘 수 없습니다.</string>
-    <string name="feedback_sending">의견 보내기…</string>
-    <string name="feedback_sent">귀하의 의견에 감사드립니다!</string>
-    <string name="feedback_error">의견 보내기 오류</string>
+    <string name="feedback_action_send">보내기</string>
+    <string name="feedback_fill_required">해당 항목을 공백으로 둘 수 없습니다</string>
+    <string name="feedback_sending">피드백 보내는 중…</string>
+    <string name="feedback_sent">피드백을 보내줘서 고맙습니다!</string>
+    <string name="feedback_error">피드백을 보내는 도중 오류가 발생했습니다</string>
 
     <string name="share_btn_cancel">취소</string>
-    <string name="share_btn_confirm">몫</string>
-    <string name="share_subject">몫</string>
-    <string name="share_button">몫</string>
-    <string name="share_weather_save_pic_fail">스크린 샷을 가져올 수 없습니다.</string>
+    <string name="share_btn_confirm">공유</string>
+    <string name="share_subject">공유</string>
+    <string name="share_button">공유</string>
+    <string name="share_weather_save_pic_fail">"스크린샷을 찍을 수 없습니다"</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#날씨 M8# 오늘 %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
-    <string name="hourly_forcast_now">지금</string>
-    <string name="sunrise">해돋이</string>
+    <string name="hourly_forcast_now">방금</string>
+    <string name="sunrise">일출</string>
     <string name="sunset">일몰</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s 후에.</string>
+    <string name="daily_forcast_weather_transfer">%1$s. %2$s 후.</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_drawer_on_top">일일 예보</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
 
     <!-- Weather details -->
-    <string name="more_details">자세한 내용은</string>
-    <string name="weather_details_title">날씨 정보</string>
-    <string name="weather_details_wind_title">바람</string>
-    <string name="weather_details_real_feel_title">같은 느낌</string>
+    <string name="more_details">자세한 정보 보기</string>
+    <string name="weather_details_title">날씨 세부사항</string>
+    <string name="weather_details_wind_title">풍속</string>
+    <string name="weather_details_real_feel_title">체감온도</string>
     <string name="weather_details_temperature_title">온도</string>
     <string name="weather_details_uv_index_title">자외선 지수</string>
-    <string name="weather_details_pressure_title">압력</string>
-    <string name="weather_details_humidity_title">습기</string>
-    <string name="weather_details_visibility_title">시계</string>
-    <string name="weather_details_precipitation_prob_title">침적</string>
-    <string name="weather_details_daylight_hours_title">일광 절약 시간제</string>
+    <string name="weather_details_pressure_title">기압</string>
+    <string name="weather_details_humidity_title">습도</string>
+    <string name="weather_details_visibility_title">가시거리</string>
+    <string name="weather_details_precipitation_prob_title">강수량</string>
+    <string name="weather_details_daylight_hours_title">일조시간</string>
     <string name="weather_details_timezone_title">시간대</string>
-    <string name="weather_details_elevation_title">높이</string>
+    <string name="weather_details_elevation_title">고도</string>
 
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_pressure">%1$s hPa</string>
@@ -207,25 +210,33 @@
 
     <string name="weather_details_update_date_string">관측 시간: %s</string>
 
-    <string name="weather_details_daylight_diff_longer">%1$s 더 길게</string>
-    <string name="weather_details_daylight_diff_shorter">%1$s 더 짧은</string>
+    <string name="weather_details_daylight_diff_longer">%1$s 길어짐</string>
+    <string name="weather_details_daylight_diff_shorter">%1$s 짧아짐</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+
+    <string name="time_units_hour">시</string>
+    <string name="time_units_minute">분</string>
+    <string name="time_units_second">초</string>
+
+    <string name="hourly_forecast_detail_date">d MMM, E</string>
+    <string name="daily_forecast_detail_date">d MMM</string>
+    <string name="weather_update_date">d MMMM</string>
+    <string name="weather_short_month_update_date">d MMM</string>
+    <string name="widget_dateformat_default_value">d MMMM yyyy</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">알리미: %1$d</string>
-    <string name="activity_main_alert_precip">%1$s 이 (가) 예상됩니다. 1 일당 강수량은 %2$s 입니다.</string>
-    <string name="activity_main_alert_wind">예상되는 바람, %1$s 까지 최대 풍속.</string>
-    <string name="activity_main_alert_wind_gusts">풍속은 최대 풍속이 %1$s 이하로 예상됩니다.</string>
-    <string name="activity_main_alert_tstorm">천둥 번개는 %1$s 의 확률로 예상됩니다.</string>
-    <string name="activity_main_alert_day_night">%2$s 에 밤 %1$s 의 날짜가 예상됩니다.</string>
+    <string name="activity_main_alert">알람: %1$d</string>
+    <string name="activity_main_alert_precip">%1$s 예상됨. 하루 강수량 양은 %2$s.</string>
+    <string name="activity_main_alert_wind">바람 예상됨, 최대 풍속은 %1$s.</string>
+    <string name="activity_main_alert_wind_gusts">%1$s 풍속이 최대 풍속으로 예상됩니다.</string>
+    <string name="activity_main_alert_tstorm">뇌우가 %1$s의 가능성으로 예상됨.</string>
+    <string name="activity_main_alert_day_night">낮에는 %1$s가 예상됨, 밤에는 %2$s.</string>
     <string name="activity_main_alert_type_rain">비</string>
     <string name="activity_main_alert_type_snow">눈</string>
     <string name="activity_main_alert_type_ice">얼음</string>
     <string name="activity_main_alert_type_wind">바람</string>
-    <string name="activity_main_alert_type_wind_gusts">바람 돌풍</string>
+    <string name="activity_main_alert_type_wind_gusts">돌풍</string>
     <string name="activity_main_alert_type_tstorm">뇌우</string>
     <string name="activity_main_alert_unit_mm">mm</string>
     <string name="activity_main_alert_unit_cm">cm</string>
@@ -235,9 +246,9 @@
     <string name="activity_main_alert_unit_mps">m/s</string>
 
 
-    <string name="daily_forcast_no_wind">증류기</string>
+    <string name="daily_forcast_no_wind">고요함</string>
     <string name="daily_forcast_whirl_wind">선풍</string>
-    <string name="delete">지우다</string>
+    <string name="delete">삭제</string>
 
     <string name="wind_unit">%1$skm/h</string>
     <string name="wind_unit_bft">%1$sbft</string>
@@ -248,87 +259,107 @@
     <string name="hourly_forecast_title">시간별 예보</string>
 
     <!-- Widgets -->
-    <string name="widget_update_date_string">업데이트 됨 %s</string>
+    <string name="widget_update_date_string">%s 업데이트됨</string>
     <string name="widget_update_updating_string">업데이트 중…</string>
     <!-- Widget config -->
     <string name="widget_config_title">위젯 설정</string>
-    <string name="widget_config_custom_clock_font_onoff_title">맞춤 시계 글꼴</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">위젯 시계가 업데이트되지 않으면 끄십시오.</string>
-    <string name="widget_config_clock_font_title">시계 글꼴</string>
+    <string name="widget_config_custom_clock_font_onoff_title">사용자 지정 시계 폰트</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">위젯 시계가 갱신되지 않으면 끄세요</string>
+    <string name="widget_config_clock_font_title">시계 폰트</string>
     <string name="widget_config_clock_color_title">시계 색상</string>
-    <string name="widget_config_clock_font_size_title">시계 글꼴 크기</string>
-    <string name="widget_config_date_font_size_title">날짜 글꼴 크기</string>
+    <string name="widget_config_clock_font_size_title">시계 폰트 크기</string>
+    <string name="widget_config_date_font_size_title">날짜 폰트 크기</string>
     <string name="widget_config_dateformat_title">날짜 형식</string>
-    <string name="widget_config_realtime_font_title">실시간 데이터 글꼴</string>
+    <string name="widget_config_realtime_font_title">실시간 데이터 형식</string>
     <string name="widget_config_realtime_font_size_title">실시간 데이터 텍스트 크기</string>
     <string name="widget_config_realtime_icon_size_title">현재 날씨 아이콘 크기</string>
-    <string name="widget_config_forecast_icon_size_title">날씨 아이콘 크기 예측</string>
-    <string name="widget_config_font_title">텍스트 글꼴</string>
+    <string name="widget_config_forecast_icon_size_title">일기예보 아이콘 크기</string>
+    <string name="widget_config_font_title">텍스트 폰트</string>
     <string name="widget_config_font_size_title">텍스트 크기</string>
     <string name="widget_config_text_color_title">텍스트 색상</string>
-    <string name="widget_config_show_alarm_title">다음 알람 표시</string>
-    <string name="widget_config_show_date_title">날짜 표시</string>
-    <string name="widget_config_use_background_title">위젯 배경 표시</string>
-    <string name="widget_config_background_color_title">배경색</string>
-    <string name="widget_config_background_type_title">백그라운드 유형</string>
-    <string name="widget_config_background_type_solid">고체</string>
+    <string name="widget_config_show_alarm_title">다음 알람 보기</string>
+    <string name="widget_config_show_date_title">날짜 보기</string>
+    <string name="widget_config_use_background_title">백그라운드 위젯 보기</string>
+    <string name="widget_config_background_color_title">백그라운드 색상</string>
+    <string name="widget_config_background_type_title">백그라운드 종류</string>
+    <string name="widget_config_background_type_solid">단일</string>
     <string name="widget_config_background_type_border">경계</string>
 
-    <string name="widget_config_show_text_shadow_title">텍스트 그림자 표시</string>
-    <string name="widget_config_show_realtime_icon_title">현재 날씨 아이콘 표시</string>
-    <string name="widget_config_show_cityname_title">도시 이름 표시</string>
-    <string name="widget_config_show_local_time_title">현지 시간 표시</string>
-    <string name="widget_config_show_leading_zero_title">선행 제로 표시</string>
+    <string name="widget_config_show_text_shadow_title">텍스트 그림자 보기</string>
+    <string name="widget_config_show_realtime_icon_title">현재 날씨 아이콘 보기</string>
+    <string name="widget_config_show_cityname_title">도시 이름 보기</string>
+    <string name="widget_config_show_local_time_title">지역 시간 보기</string>
+    <string name="widget_config_show_leading_zero_title">숨겨진 0값 보기</string>
 
-    <string name="widget_config_click_settings">위젯 영역 설정을 클릭하십시오.</string>
-    <string name="widget_config_click_apps">신청서 선택</string>
+    <string name="widget_config_click_settings">설정할 위젯 영역 클릭</string>
+    <string name="widget_config_click_apps">응용 프로그램 선택</string>
     <string name="widget_config_click_clock">시계</string>
     <string name="widget_config_click_date">날짜</string>
-    <string name="widget_config_click_weather_icon">날씨 아이콘</string>
+    <string name="widget_config_click_weather_icon">시계 아이콘</string>
     <string name="widget_config_click_temperature">온도</string>
 
     <!-- Moon Phases -->
-    <string name="menu_moon_phases">달 단계</string>
-    <string name="moon_age">나이: %1$s 일 %2$s 시간 %3$s 의사록</string>
-    <string name="moon_newmoon">초승달</string>
-    <string name="moon_waxingcrescent">왁싱 초승달</string>
-    <string name="moon_firstquarter"><![CDATA[&#188; 분기]]></string>
-    <string name="moon_waxinggibbous">잡탕 왁 싱</string>
-    <string name="moon_full">보름달</string>
-    <string name="moon_waninggibbous">기가 막히는</string>
-    <string name="moon_lastquarter">마지막 분기</string>
-    <string name="moon_waningcrescent">마침내 초생정</string>
-    <string name="moon_illuminated">조명: %s%%</string>
+    <string name="menu_moon_phases">달의 위상</string>
+    <string name="moon_age">수명: %1$s일 %2$s시간 %3$s분</string>
+    <string name="moon_newmoon">새로운 달</string>
+    <string name="moon_waxingcrescent">초승달</string>
+    <string name="moon_firstquarter">상현달</string>
+    <string name="moon_waxinggibbous">만월전</string>
+    <string name="moon_full">만월</string>
+    <string name="moon_waninggibbous">만월후</string>
+    <string name="moon_lastquarter">하현달</string>
+    <string name="moon_waningcrescent">그믐달</string>
+    <string name="moon_illuminated">빛 세기: %s%%</string>
     <string name="moon_since">날짜: %1$s %2$s</string>
-    <string name="moon_distanse">달 거리: %s км</string>
-    <string name="moon_angle">문 앵글: %s</string>
-    <string name="moon_rise">오르기: %s</string>
-    <string name="moon_set">세트: %s</string>
-    <string name="moon_zodiac">수대: %s</string>
+    <string name="moon_distanse">달과의 거리: %s км</string>
+    <string name="moon_angle">달의 각도: %s</string>
+    <string name="moon_rise">월출: %s</string>
+    <string name="moon_set">월몰: %s</string>
+    <string name="moon_zodiac">황도대: %s</string>
 
-    <string name="zodiac_aries">양자리</string>
-    <string name="zodiac_taurus">토러스</string>
-    <string name="zodiac_gemini">쌍둥이 자리</string>
-    <string name="zodiac_cancer">암</string>
-    <string name="zodiac_leo">사자 별자리</string>
-    <string name="zodiac_virgo">처녀 자리</string>
-    <string name="zodiac_libra">서적</string>
+    <string name="zodiac_aries">백양궁</string>
+    <string name="zodiac_taurus">금우궁</string>
+    <string name="zodiac_gemini">쌍자궁</string>
+    <string name="zodiac_cancer">거해궁</string>
+    <string name="zodiac_leo">사자궁</string>
+    <string name="zodiac_virgo">실녀궁</string>
+    <string name="zodiac_libra">천칭궁</string>
     <string name="zodiac_scorpio">천갈궁</string>
-    <string name="zodiac_sagittarius">궁수</string>
-    <string name="zodiac_capricorn">염소 자리</string>
-    <string name="zodiac_aquarius">물병 자리</string>
-    <string name="zodiac_pisces">물고기</string>
+    <string name="zodiac_sagittarius">인마궁</string>
+    <string name="zodiac_capricorn">마갈궁</string>
+    <string name="zodiac_aquarius">보병궁</string>
+    <string name="zodiac_pisces">쌍어궁</string>
 
     <!-- Color picker -->
-    <string name="press_color_to_apply">적용하려면 색상을 누르십시오.</string>
-    <string name="dialog_color_picker">색상 선택기</string>
+    <string name="press_color_to_apply">적용하려면 색을 누르세요</string>
+    <string name="dialog_color_picker">색상 고르기</string>
+
+    <string name="date_time_am">오전</string>
+    <string name="date_time_pm">오후</string>
 
     <!-- AQI -->
-    <string name="aqi_main_title">대기 질</string>
-    <string name="aqi_main_publish_time">에 업데이트 됨 %1$s</string>
+    <string name="aqi_main_title">공기 품질</string>
+    <string name="aqi_main_publish_time">%1$s에 업데이트됨</string>
 
     <string name="aqi_ring_top_pollution">주요 오염 물질</string>
-    <string name="aqi_ring_desc">대기 질 지수</string>
+    <string name="aqi_ring_desc">공기 품질 지수</string>
+
+    <string name="aqi_sub_desc">AQI</string>
+
+    <string name="aqi_detail_subtitle">AQI %1$s</string>
+    <string name="aqi_detail_pm25">PM2.5</string>
+    <string name="aqi_detail_pm10">PM10</string>
+    <string name="aqi_detail_so2">SO₂</string>
+    <string name="aqi_detail_no2">NO₂</string>
+    <string name="aqi_detail_co">CO</string>
+    <string name="aqi_detail_o3">O₃</string>
+
+    <string name="top_pollution_pm25">PM2.5</string>
+    <string name="top_pollution_pm10">PM10</string>
+    <string name="top_pollution_so2">SO2</string>
+    <string name="top_pollution_no2">NO2</string>
+    <string name="top_pollution_co">CO</string>
+    <string name="top_pollution_o3">O3</string>
 
     <string name="aqi_detail_5_days">일일 예보</string>
     <string name="aqi_detail_24_hours">시간별 예보</string>
@@ -337,11 +368,11 @@
     <string name="aqi_data_source">%s</string>
 
     <!-- Radar -->
-    <string name="radar_title">레이다</string>
+    <string name="radar_title">레이더</string>
     <string name="radar_tab_cloud">흐림</string>
     <string name="radar_tab_rain">비</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
 
-    <string name="loading_data">데이터로드 중…</string>
+    <string name="loading_data">데이터 불러오는 중…</string>
 </resources>
 

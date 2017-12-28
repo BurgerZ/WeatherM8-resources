@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">Pred %d minútami</item>
-        <item quantity="one">Pred %d minútou</item>
-    </plurals>
     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">Pred %d hodinami</item>
         <item quantity="one">Pred %d hodinou</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">Pred %d minútami</item>
+        <item quantity="one">Pred %d minutou</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">Pred %d dňami</item>
@@ -14,7 +14,6 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Jasno</item>
-        <item quantity="one">Jasno</item>
+        <item quantity="one">Slnečno</item>
     </plurals>
 </resources>
-

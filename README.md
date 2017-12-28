@@ -13,7 +13,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-bn|Bengali|**Abhishek**|
 |values-ca-ES|Catalan|**Jaime Muñoz Martín**|
 |values-cs|Czech|**Miloslav Kubín**,  **Ladislav Loun**|
-|values-de|Deutch|**MIUI Germany** |
+|values-de|Deutch|**MIUI Germany**, **Hen_Ry**|
 |values-el|Greek|**Dimitrios Skodras**|
 |values-es|Spanish|**Nicolás Berrutti**, **Jaime Muñoz Martín** |
 |values-fa|Persian|**رحمان رحمانی پرست**|
@@ -25,14 +25,15 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-in|Indonesian|**Anggit Pramudita**, **Diki Ananta** |
 |values-it|Italian|**Ignis_su**|
 |values-iw|Hebrew|**Alex Travitsky**|
-|values-ko|Korean|**Google Translate**|
+|values-ko|Korean|**wolfwork**|
+|values-lt|Lithuanian|**Vladimir Zemlianskij**|
 |values-nl|Dutch|**Jelger Postma**|
 |values-ro|Romanian|**Igor Sorocean** |
 |values-ru|Russian|**Andrei Zhukouski**|
 |values-pl|Polish|**trybit**, **Jan Folta Gutek**|
 |values-pt-BR|Portuguese Brasil|**Lineu Junior**, **Lippe35** |
 |values-pt-PT|Portuguese|**Lippe35** |
-|values-sk|Slovak|**Luboš Belobruch**|
+|values-sk|Slovak|**Luboš Belobruch**, **Ivan Urda**|
 |values-sl|Slovenian|**Boštjan Rebolj**|
 |values-sr|Serbian|**Milan Andrejić**|
 |values-tr|Turkish|**Murat Turan**|
