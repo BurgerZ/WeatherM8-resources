@@ -215,9 +215,9 @@
 
     <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
-    <string name="time_units_hour">시</string>
-    <string name="time_units_minute">분</string>
-    <string name="time_units_second">초</string>
+    <string name="time_units_hour">" 시"</string>
+    <string name="time_units_minute">" 분"</string>
+    <string name="time_units_second">" 초"</string>
 
     <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="daily_forecast_detail_date">d MMM</string>
@@ -238,23 +238,23 @@
     <string name="activity_main_alert_type_wind">바람</string>
     <string name="activity_main_alert_type_wind_gusts">돌풍</string>
     <string name="activity_main_alert_type_tstorm">뇌우</string>
-    <string name="activity_main_alert_unit_mm">mm</string>
-    <string name="activity_main_alert_unit_cm">cm</string>
-    <string name="activity_main_alert_unit_inch">in</string>
-    <string name="activity_main_alert_unit_kmh">km/h</string>
-    <string name="activity_main_alert_unit_mph">mph</string>
-    <string name="activity_main_alert_unit_mps">m/s</string>
+    <string name="activity_main_alert_unit_mm">" mm"</string>
+    <string name="activity_main_alert_unit_cm">" cm"</string>
+    <string name="activity_main_alert_unit_inch">" in"</string>
+    <string name="activity_main_alert_unit_kmh">" km/h"</string>
+    <string name="activity_main_alert_unit_mph">" mph"</string>
+    <string name="activity_main_alert_unit_mps">" m/s"</string>
 
 
     <string name="daily_forcast_no_wind">고요함</string>
     <string name="daily_forcast_whirl_wind">선풍</string>
     <string name="delete">삭제</string>
 
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_bft">%1$sbft</string>
-    <string name="wind_unit_knot">%1$sknot</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="wind_unit_mph">%1$smph</string>
+    <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_bft">%1$s bft</string>
+    <string name="wind_unit_knot">%1$s knot</string>
+    <string name="wind_unit_ms">%1$s m/s</string>
+    <string name="wind_unit_mph">%1$s mph</string>
 
     <string name="hourly_forecast_title">시간별 예보</string>
 
