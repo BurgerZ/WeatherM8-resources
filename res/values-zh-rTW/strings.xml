@@ -369,7 +369,7 @@
     <!-- Radar -->
     <string name="radar_title">雷達回波圖</string>
     <string name="radar_tab_cloud">雲圖</string>
-    <string name="radar_tab_rain">雨量圖</string>
+    <string name="radar_tab_rain">降水</string>
     <string name="radar_date_format">MM/dd HH:mm</string>
 	
     <string name="loading_data">資料載入中…</string>

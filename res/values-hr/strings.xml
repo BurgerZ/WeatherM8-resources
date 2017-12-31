@@ -127,7 +127,7 @@ Provjerite postavke mreže."</string>
     <string name="press_color_to_apply">Pritisnite na boju za primjenu</string>
     <string name="radar_title">Radar</string>
     <string name="radar_tab_cloud">Naoblaka</string>
-    <string name="radar_tab_rain">Kiša</string>
+    <string name="radar_tab_rain">Taloženje</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
     <string name="settings_about">O aplikaciji</string>
     <string name="settings_ads_explanation">Zašto vidite oglase?

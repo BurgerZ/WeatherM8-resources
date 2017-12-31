@@ -370,7 +370,7 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <!-- Radar -->
     <string name="radar_title">Radar</string>
     <string name="radar_tab_cloud">Nubosidad</string>
-    <string name="radar_tab_rain">Lluvia</string>
+    <string name="radar_tab_rain">Precipitación</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
 
     <string name="loading_data">"Cargando datos…"</string>

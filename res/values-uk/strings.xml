@@ -315,7 +315,7 @@
     <!-- Radar -->
     <string name="radar_title">Карта</string>
     <string name="radar_tab_cloud">Хмарність</string>
-    <string name="radar_tab_rain">Дощ</string>
+    <string name="radar_tab_rain">Опади</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
 
     <string name="loading_data">Завантаження даних…</string>

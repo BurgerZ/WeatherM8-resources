@@ -336,7 +336,7 @@
     <!-- Radar -->
     <string name="radar_title">Карта</string>
     <string name="radar_tab_cloud">Облачность</string>
-    <string name="radar_tab_rain">Дождь</string>
+    <string name="radar_tab_rain">Осадки</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
 
     <string name="loading_data">Загрузка данных…</string>

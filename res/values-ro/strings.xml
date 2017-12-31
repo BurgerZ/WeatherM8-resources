@@ -284,7 +284,7 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="widget_config_show_realtime_icon_title">Afișare pictogramă meteo curent</string>
     <string name="widget_config_show_text_shadow_title">Afişare umbră text</string>
     <string name="radar_tab_cloud">Nori</string>
-    <string name="radar_tab_rain">Ploaie</string>
+    <string name="radar_tab_rain">Precipitare</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
     <string name="loading_data">Încărcare date…</string>
     <string name="settings_weather_data_order_title">Ordinea datelor meteo</string>

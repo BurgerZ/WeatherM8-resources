@@ -268,7 +268,7 @@ Programų kūrimas yra mano hobis, kuriam skiriu savo laisvalaikį. Todėl praš
     <!-- Radar -->
     <string name="radar_title">Žemėlapis</string>
     <string name="radar_tab_cloud">Debesuotumas</string>
-    <string name="radar_tab_rain">Krituliai</string>
+    <string name="radar_tab_rain">Nusodinimas</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
     <string name="loading_data">Duomenų užkrovimas…</string>
 </resources>

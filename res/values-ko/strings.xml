@@ -370,7 +370,7 @@
     <!-- Radar -->
     <string name="radar_title">레이더</string>
     <string name="radar_tab_cloud">흐림</string>
-    <string name="radar_tab_rain">비</string>
+    <string name="radar_tab_rain">강수량</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
 
     <string name="loading_data">데이터 불러오는 중…</string>
