@@ -86,7 +86,7 @@
     <string name="settings_app_theme_dark">Σκούρο</string>
     <string name="settings_sound_volume">Ένταση ήχου</string> 
     <string name="settings_weather_details_title">Λεπτομέρειες καιρού</string>
-    <string name="settings_weather_details_summary">Επιλέξτε τις λεπτομέριες του καιρού για ενδείξη στην κύρια οθόνη</string>
+    <string name="settings_weather_details_summary">Επιλέξτε τις λεπτομέρειες του καιρού για προβολή στην κύρια οθόνη</string>
     <string name="settings_category_units">Μονάδες</string>
     <string name="settings_pressure_unit">Πίεση</string>
     <string name="settings_pressure_unit_atm">atm</string>
@@ -134,7 +134,7 @@
     <string name="settings_icons_theme_details_title">Λεπτομέρειες θέματος</string>
 
     <string name="settings_widgets_title">Widgets</string>
-    <string name="settings_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα widget</string>
+    <string name="settings_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα widgets</string>
 
     <string name="settings_ads_title">Διαφήμιση και δωρεές</string>
     <string name="settings_ads_donations_title">Κεράστε μια μπύρα</string>
@@ -148,7 +148,7 @@
     <string name="settings_ads_donation_expl">Η δωρεά μέσω του Google Play πατώντας αυτά τα κουμπιά ΔΕΝ θα αφαιρέσει τις διαφημίσεις. Για να τις καταργήσετε, πρέπει να χρησιμοποιήσετε το κουμπί \"Κατάργηση διαφημίσεων\".</string>
     <string name="settings_about">Σχετικά</string>
     <string name="settings_translations">Μεταφράσεις εφαρμογής</string>
-    <string name="settings_translations_summary">Ευχαριστίες στους μεταφραστές της εφαρμογής, που έκαναν την μετάφραση στη γλώσσα σας</string>
+    <string name="settings_translations_summary">Ευχαριστίες στους μεταφραστές της εφαρμογής, που βοήθησαν στην μετάφραση στη γλώσσα σας</string>
     <string name="settings_thirdparty">Βιβλιοθήκες και πόροι τρίτων κατασκευαστών</string>
     <string name="settings_permissions">Δικαιώματα</string>
     <string name="settings_help">Βοήθεια</string>
@@ -184,7 +184,7 @@
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
 
     <!-- Weather details -->
-    <string name="more_details">Περισότερες Λεπτομέριες</string>
+    <string name="more_details">Περισότερες Λεπτομέρειες</string>
     <string name="weather_details_title">Λεπτομέρειες καιρού</string>
     <string name="weather_details_wind_title">Άνεμος</string>
     <string name="weather_details_real_feel_title">Αίσθηση</string>
@@ -278,7 +278,7 @@
     <string name="widget_config_text_color_title">Χρώμα κειμένου</string>
     <string name="widget_config_show_alarm_title">¨Ενδειξη επόμενου ξυπνητηριού</string>
     <string name="widget_config_show_date_title">Ένδειξη ημέρας</string>
-    <string name="widget_config_use_background_title">Εμφάνιση φόντο widget</string>
+    <string name="widget_config_use_background_title">Εμφάνιση φόντου widget</string>
     <string name="widget_config_background_color_title">Χρώμα φόντου</string>
     <string name="widget_config_background_type_title">Τύπος Φόντου</string>
     <string name="widget_config_background_type_solid">Επιφάνεια</string>
