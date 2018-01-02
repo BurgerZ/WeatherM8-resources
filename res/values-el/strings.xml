@@ -106,8 +106,8 @@
     <string name="settings_visibility_unit_meters">μέτρα</string>
     <string name="settings_visibility_unit_miles">μίλια</string>
 
-    <string name="settings_realtime_feelslike_as_main_title">Αίσθηση σαν κύρια θερμοκρασία</string>
-    <string name="settings_realtime_feelslike_as_main_summary">Ένδειξη πραγματικής θερμοκρασίας αισθητήρα ως κύρια θερμοκρασία του καιρού</string>
+    <string name="settings_realtime_feelslike_as_main_title">Θερμοκρασία αίσθησης σαν κύρια </string>
+    <string name="settings_realtime_feelslike_as_main_summary">Ένδειξη θερμοκρασίας αίσθησης ως κύρια θερμοκρασία του καιρού</string>
 
     <string name="settings_show_plus_sign_temp_title">Ενδειξη συμβόλου "+"</string>
     <string name="settings_show_plus_sign_temp_summary">Ενδειξη συμβόλου "+" για θετικές θερμοκρασίες</string>
@@ -131,7 +131,7 @@
 
     <string name="settings_icons_title">Εικονίδια καιρού</string>
     <string name="settings_icons_builtin_title">Ενσωματωμένα εικονίδια καιρού</string>
-    <string name="settings_icons_theme_details_title">Λεπτομέριες θέματος</string>
+    <string name="settings_icons_theme_details_title">Λεπτομέρειες θέματος</string>
 
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα widget</string>
@@ -299,7 +299,7 @@
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Φάσεις Σελήνης</string>
-    <string name="moon_age">χρόνος: %1$s ημέρες %2$s ώρες %3$s λεπτά</string>
+    <string name="moon_age">Χρόνος: %1$s ημέρες %2$s ώρες %3$s λεπτά</string>
     <string name="moon_newmoon">Νέα σελήνη</string>
     <string name="moon_waxingcrescent">Αύξων Μηνίσκος</string>
     <string name="moon_firstquarter">Πρώτο τέταρτο</string>
@@ -338,7 +338,7 @@
 
     <!-- AQI -->
     <string name="aqi_main_title">Ποιότητα αέρα</string>
-    <string name="aqi_main_publish_time">Ενημερώθημε την %1$s</string>
+    <string name="aqi_main_publish_time">Ενημερώθηκε την %1$s</string>
 
     <string name="aqi_ring_top_pollution">Σημαντικοί ρύποι</string>
     <string name="aqi_ring_desc">Δείκτης ποιότητας αέρα</string>
@@ -369,7 +369,8 @@
     <!-- Radar -->
     <string name="radar_title">Radar</string>
     <string name="radar_tab_cloud">Συννεφιά</string>
-    <string name="radar_tab_rain">Καθίζηση</string>
+    <string name="radar_tab_rain">Βροχόπτωση</string>
+</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
 
     <string name="loading_data">Φόρτωση δεδομένων…</string>
