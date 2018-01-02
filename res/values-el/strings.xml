@@ -131,7 +131,7 @@
 
     <string name="settings_icons_title">Εικονίδια καιρού</string>
     <string name="settings_icons_builtin_title">Ενσωματωμένα εικονίδια καιρού</string>
-    <string name="settings_icons_theme_details_title">Λεπτομέριες θέματος</string>
+    <string name="settings_icons_theme_details_title">Λεπτομέρειες θέματος</string>
 
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα widget</string>
@@ -369,7 +369,7 @@
     <!-- Radar -->
     <string name="radar_title">Radar</string>
     <string name="radar_tab_cloud">Συννεφιά</string>
-    <string name="radar_tab_rain">Βροχή</string>
+    <string name="radar_tab_rain">Βροχόπτωση</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
 
     <string name="loading_data">Φόρτωση δεδομένων…</string>
