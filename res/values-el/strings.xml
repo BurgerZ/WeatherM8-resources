@@ -112,7 +112,7 @@
     <string name="settings_show_plus_sign_temp_title">Ενδειξη συμβόλου "+"</string>
     <string name="settings_show_plus_sign_temp_summary">Ενδειξη συμβόλου "+" για θετικές θερμοκρασίες</string>
 
-    <string name="settings_pressure_level_title">Εμφάνιση πίεσης για</string>	
+    <string name="settings_pressure_level_title">Εμφάνιση πίεσης στο</string>	
 
     <string name="settings_city_base">Δεδομένα Πόλης</string>
 
