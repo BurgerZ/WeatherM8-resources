@@ -71,7 +71,7 @@
     <string name="feedback_description_hint">Escreva o seu comentário</string>
     <string name="feedback_error">Erro ao enviar comentário</string>
     <string name="feedback_fill_required">Os campos obrigatórios não podem ficar vazios</string>
-    <string name="feedback_select_upload_settings">Incluir definições do aplicativo</string>
+    <string name="feedback_select_upload_settings">Incluir configurações do aplicativo</string>
     <string name="feedback_sending">A enviar comentário…</string>
     <string name="feedback_sent">Obrigado por enviar o seu comentário!</string>
     <string name="feedback_title">Título</string>
@@ -276,7 +276,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="widget_config_show_date_title">Mostrar data</string>
     <string name="widget_config_show_leading_zero_title">Mostrar zero nas horas</string>
     <string name="widget_config_show_local_time_title">Mostrar hora local</string>
-    <string name="widget_config_show_realtime_icon_title">Mostrar ícone do tempo actual</string>
+    <string name="widget_config_show_realtime_icon_title">Mostrar ícone do tempo atual</string>
     <string name="widget_config_show_text_shadow_title">Mostrar sombra de texto</string>
     <string name="widget_config_text_color_title">Cor do texto</string>
     <string name="widget_config_title">Configurações do widget</string>
