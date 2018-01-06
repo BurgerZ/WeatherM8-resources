@@ -136,7 +136,7 @@
     <string name="settings_ads_remove_title">Вимкнути рекламу</string>
     <string name="settings_ads_remove_summary">Вимкнути рекламу на тиждень (один раз на місяць)</string>
     <string name="settings_ads_yandex">Яндекс.Гроші</string>
-	 <string name="settings_ads_donation_expl">Пожертвування за допомогою Google Play шляхом натискання на одну з кнопок, розташованих нижче, НЕ відключить рекламу в додатку. Для її відключення ви повинні скористатися кнопкою \"Вимкнути рекламу\".</string>
+	<string name="settings_ads_donation_expl">Пожертвування за допомогою Google Play шляхом натискання на одну з кнопок, розташованих нижче, НЕ відключить рекламу в додатку. Для її відключення ви повинні скористатися кнопкою \"Вимкнути рекламу\".</string>
     <string name="settings_about">Про програму</string>
     <string name="settings_translations">Переклад програми</string>
     <string name="settings_translations_summary">Список перекладачів програми, переклад програми Вашою мовою</string>
