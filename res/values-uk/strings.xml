@@ -277,7 +277,7 @@
     <string name="moon_since">Дата: %1$s %2$s</string>
     <string name="moon_distanse">Відстань: %s км</string>
     <string name="moon_angle">Кут: %s</string>
-	<string name="moon_rise">Схід: %s</string>
+    <string name="moon_rise">Схід: %s</string>
     <string name="moon_set">Захід: %s</string>
     <string name="moon_zodiac">Зодіак: %s</string>
 
