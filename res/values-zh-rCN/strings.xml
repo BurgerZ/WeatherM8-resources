@@ -71,7 +71,7 @@
     <string name="settings_weather_realtime_spider_title">实时数据</string>
     <string name="settings_weather_forecast_spider_title">预报数据</string>
     <string name="settings_weather_station_title">气象站</string>
-        <string name="settings_weather_data_order_title">天气数据排序</string>
+    <string name="settings_weather_data_order_title">天气数据排序</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">空气质量信息</string>
     <string name="settings_aqi_onoff_summary">显示您所在地区的空气质量(如果可供使用)</string>
@@ -143,7 +143,7 @@
     <string name="settings_ads_remove_summary">移除广告一周 (每月一次)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-	<string name="settings_ads_donation_expl">使用下面的Google Play捐款按钮并不会移除广告。如果要移除广告请使用 \"去除广告\" 按钮</string>
+    <string name="settings_ads_donation_expl">使用下面的Google Play捐款按钮并不会移除广告。如果要移除广告请使用 \"去除广告\" 按钮</string>
     <string name="settings_about">关于</string>
     <string name="settings_translations">应用翻译</string>
     <string name="settings_translations_summary">感谢翻译者们</string>
@@ -270,8 +270,8 @@
     <string name="widget_config_dateformat_title">日期格式</string>
     <string name="widget_config_realtime_font_title">温度字体</string>
     <string name="widget_config_realtime_font_size_title">温度字体大小</string>
-	<string name="widget_config_realtime_icon_size_title">目前天气图标大小</string>
-	<string name="widget_config_forecast_icon_size_title">预测天气图标大小</string>
+    <string name="widget_config_realtime_icon_size_title">目前天气图标大小</string>
+    <string name="widget_config_forecast_icon_size_title">预测天气图标大小</string>
     <string name="widget_config_font_title">文本字体</string>
     <string name="widget_config_font_size_title">文本大小</string>
     <string name="widget_config_text_color_title">文本颜色</string>
