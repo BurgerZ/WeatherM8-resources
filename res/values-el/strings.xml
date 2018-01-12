@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-  
 <resources>
     <string name="app_name">Καιρός M8</string>
     <string name="app_version">¨Εκδοση: %s</string>
@@ -11,7 +10,7 @@
     <string name="act_set_city_find_side">Εντοπισμός…</string>
     <string name="act_set_city_find_side_error">"Δεν μπορεί να εντοπιστεί η συσκευή"</string>
     <string name="button_add_city">Προσθήκη</string>
-    <string name="locate_fail_detail_err">Δεν μπορεί να εντοπιστεί η συσκευή</string>
+    <string name="locate_fail_detail_err">Δεν μπορεί να εντοπιστεί η συσκευή
 Πατήστε το κουμπί παρακάτω για να προσθέσετε την πόλη με το χέρι ή προσπάθεια εντοπισμού και πάλι"</string>
     <string name="act_set_city_swipe_hint">Σύρετε προς τα αριστερά για να διαγράψετε την πόλη</string>
     <string name="button_allow">OK</string>
@@ -370,7 +369,7 @@
     <string name="radar_title">Radar</string>
     <string name="radar_tab_cloud">Συννεφιά</string>
     <string name="radar_tab_rain">Βροχόπτωση</string>
-</string>
+
     <string name="radar_date_format">dd/MM HH:mm</string>
 
     <string name="loading_data">Φόρτωση δεδομένων…</string>
