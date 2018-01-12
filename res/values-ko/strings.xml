@@ -301,7 +301,7 @@
     <!-- Moon Phases -->
     <string name="menu_moon_phases">달의 위상</string>
     <string name="moon_age">수명: %1$s일 %2$s시간 %3$s분</string>
-    <string name="moon_newmoon">새로운 달</string>
+    <string name="moon_newmoon">월삭</string>
     <string name="moon_waxingcrescent">초승달</string>
     <string name="moon_firstquarter">상현달</string>
     <string name="moon_waxinggibbous">만월전</string>
