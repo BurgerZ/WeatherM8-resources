@@ -122,7 +122,7 @@
         <item>Sensor de pressió del telèfon</item>
     </string-array>
     <string-array name="aqi_title_prefix">
-		<item>IQA %1$s</item>
+	<item>IQA %1$s</item>
         <item>IQA %1$s</item>
         <item>IQA %1$s</item>
         <item>IQA %1$s</item>
@@ -130,7 +130,7 @@
         <item>IQA %1$s</item>
     </string-array>
     <string-array name="aqi_value">
-		<item>Bo</item>
+	<item>Bo</item>
         <item>Moderat</item>
         <item>No saludable per a grups sensibles</item>
         <item>No saludable</item>
