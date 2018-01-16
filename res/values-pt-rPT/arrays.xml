@@ -42,24 +42,24 @@
         <item>Aguaceiros</item>
         <item>Tempestade</item>
         <item>Trovoada</item>
-        <item>Chuviscos</item>
+        <item>Chuva</item>
         <item>Chuva forte</item>
         <item>Chuva moderada</item>
         <item>Chuva fraca</item>
         <item>Chuva com neve</item>
-        <item>Nevão</item>
+        <item>Tempestade de neve</item>
         <item>Neve</item>
-        <item>Neve forte</item>
+        <item>Nevão</item>
         <item>Neve moderada</item>
-        <item>Neve fraca</item>
+        <item>Leve queda de neve</item>
         <item>Tempestade de areia forte</item>
-        <item>Tempestade de areia moderada</item>
+        <item>Tempestade de areia</item>
         <item>Tempestade de areia fraca</item>
         <item>Ventoso</item>
         <item>Granizo</item>
         <item>Poeiras</item>
         <item>Neblina</item>
-        <item>Chuva gelada</item>
+        <item>Chuva fria</item>
         <item>Sem informação</item>
     </string-array>
     <string-array name="wind_direction">
