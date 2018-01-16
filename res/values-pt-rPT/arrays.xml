@@ -38,7 +38,7 @@
         <item>Céu nublado</item>
         <item>Céu muito nublado</item>
         <item>Nevoeiro</item>
-        <item>Chuva torrencial</item>
+        <item>Tempestade forte</item>
         <item>Aguaceiros</item>
         <item>Tempestade</item>
         <item>Trovoada</item>
@@ -60,7 +60,7 @@
         <item>Poeiras</item>
         <item>Neblina</item>
         <item>Chuva fria</item>
-        <item>Sem informação</item>
+        <item>Sem dados</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Norte</item>
