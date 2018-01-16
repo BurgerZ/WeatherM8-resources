@@ -35,8 +35,8 @@
     </string-array>
     <string-array name="weather_type">
         <item>Céu limpo</item>
-        <item>Com nuvens</item>
         <item>Céu nublado</item>
+        <item>Céu muito nublado</item>
         <item>Nevoeiro</item>
         <item>Chuva torrencial</item>
         <item>Aguaceiros</item>
