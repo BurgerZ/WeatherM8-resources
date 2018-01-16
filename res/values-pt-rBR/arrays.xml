@@ -52,22 +52,22 @@
         <item>Chuva</item>
         <item>Chuva forte</item>
         <item>Chuva moderada</item>
-        <item>Chuva leve</item>
-        <item>Chuva e neve</item>
+        <item>Chuva fraca</item>
+        <item>Chuva com neve</item>
         <item>Nevasca</item>
         <item>Neve</item>
         <item>Neve forte</item>
         <item>Neve moderada</item>
-        <item>Pouca neve</item>
+        <item>Leve queda de neve</item>
         <item>Tempestade de areia forte</item>
-        <item>Tempestade de areia moderada</item>
-        <item>Tempestade de areia leve</item>
+        <item>Tempestade de areia</item>
+        <item>Tempestade de areia fraca</item>
         <item>Ventania</item>
         <item>Chuva de granizo</item>
         <item>Poeiras</item>
         <item>Neblina</item>
-        <item>Chuva com sensação fria</item>
-        <item>Sem informações de tempo</item>
+        <item>Chuva fria</item>
+        <item>Sem informação</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Norte</item>
