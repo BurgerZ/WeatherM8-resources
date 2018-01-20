@@ -213,7 +213,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="weather_details_daylight_diff_longer">%1$s més</string>
     <string name="weather_details_daylight_diff_shorter">%1$s menys</string>
 	
-	<string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
     <string name="time_units_hour">" h"</string>
     <string name="time_units_minute">" min"</string>
