@@ -192,7 +192,7 @@
     <string name="weather_details_pressure_title">기압</string>
     <string name="weather_details_humidity_title">습도</string>
     <string name="weather_details_visibility_title">가시거리</string>
-    <string name="weather_details_precipitation_prob_title">강수량</string>
+    <string name="weather_details_precipitation_prob_title">강수</string>
     <string name="weather_details_daylight_hours_title">일조시간</string>
     <string name="weather_details_timezone_title">시간대</string>
     <string name="weather_details_elevation_title">고도</string>
