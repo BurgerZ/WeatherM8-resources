@@ -54,6 +54,7 @@
     <string name="button_add_city">Adicionar local</string>
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Cancelar</string>
+    <string name="city_exceeded_warning">Só podem ser adicionados apenas 10 localizações</string>
     <string name="common_auto">Procurar automaticamente</string>
     <string name="common_recommended">(Recomendado)</string>
     <string name="daily_forcast_drawer_on_top">Previsão diária</string>
@@ -142,12 +143,17 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_aqi_max_distance_title">Atualização do IQA</string>
     <string name="settings_aqi_onoff_summary">Mostrar informação do índice de qualidade do ar para o local atual (se disponível)</string>
     <string name="settings_aqi_onoff_title">Informação do IQA</string>
+    <string name="settings_autolocate_detailed_summary">Obter e mostrar informações detalhadas do localização atual (rua, cidade, estado e país)</string>
+    <string name="settings_autolocate_detailed_title">Informações detalhadas da localização</string>
+    <string name="settings_autolocate_summary">Localizar automaticamente o seu dispositivo</string>
+    <string name="settings_autolocate_title">Localização automática</string>
     <string name="settings_autoupdate_weather_summary">Atualizar informações de tempo automaticamente</string>
     <string name="settings_autoupdate_weather_title">Atualização automática</string>
     <string name="settings_category_units">Unidades</string>
     <string name="settings_city_base">Banco de dados</string>
     <string name="settings_dialog_enter_timezone">Inserir fuso horário para o local selecionado (%s), por exemplo GMT+03:00:</string>
     <string name="settings_feedback">Enviar comentários</string>
+    <string name="settings_geolocation_title">Localização</string>
     <string name="settings_help">Ajuda</string>
     <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
     <string name="settings_icons_theme_details_title">Detalhes do tema</string>
