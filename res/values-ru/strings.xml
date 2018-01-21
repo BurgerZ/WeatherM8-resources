@@ -21,6 +21,7 @@
     <string name="location_tag">Поиск</string>
     <string name="act_weather_find_city_no_result">Не найдено</string>
     <string name="act_weather_find_city_added">Добавлен</string>
+    <string name="city_exceeded_warning">Вы можете добавить не более 10 городов</string>
     <string name="view_forecast_item_yesterday">Вчера</string>
     <string name="view_indexes_item_today">Сегодня</string>
     <string name="view_indexes_item_tommorrow">Завтра</string>
@@ -56,6 +57,11 @@
 
     <!-- Preferences -->
     <string name="settings_menu_title">Настройки</string>
+    <string name="settings_geolocation_title">Местоположение</string>
+    <string name="settings_autolocate_title">Автоматическое определение</string>
+    <string name="settings_autolocate_summary">Автоматическое определение местоположения вашего устройства</string>
+    <string name="settings_autolocate_detailed_title">Подробная информация</string>
+    <string name="settings_autolocate_detailed_summary">Отображать подробную информацию о вашем местоположении, такую как улица, населенный пункт, регион, страна</string>
     <string name="settings_autoupdate_weather_title">Автообновление</string>
     <string name="settings_autoupdate_weather_summary">Автоматическое обновление прогноза погоды</string>
     <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>

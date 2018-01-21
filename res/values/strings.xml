@@ -21,6 +21,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="location_tag">Locate</string>
     <string name="act_weather_find_city_no_result">No results</string>
     <string name="act_weather_find_city_added">Added</string>
+    <string name="city_exceeded_warning">You can add up to 10 cities</string>
     <string name="view_forecast_item_yesterday">Yesterday</string>
     <string name="view_indexes_item_today">Today</string>
     <string name="view_indexes_item_tommorrow">Tomorrow</string>
@@ -58,6 +59,11 @@ Tap the button below to add city manually or try to locate again"</string>
 
     <!-- Preferences -->
     <string name="settings_menu_title">Settings</string>
+    <string name="settings_geolocation_title">Location</string>
+    <string name="settings_autolocate_title">Auto locate</string>
+    <string name="settings_autolocate_summary">Automatically locate your device</string>
+    <string name="settings_autolocate_detailed_title">Detailed location information</string>
+    <string name="settings_autolocate_detailed_summary">Get and show detailed information about your current location, like street, region, country</string>
     <string name="settings_autoupdate_weather_title">Auto update</string>
     <string name="settings_autoupdate_weather_summary">Update weather forecasts automatically</string>
     <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
