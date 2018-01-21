@@ -21,6 +21,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="location_tag">Ubicació</string>
     <string name="act_weather_find_city_no_result">Cap resultat</string>
     <string name="act_weather_find_city_added">Afegida</string>
+	<string name="city_exceeded_warning">Podeu afegir fins a 10 ciutats</string>
     <string name="view_forecast_item_yesterday">Ahir</string>
     <string name="view_indexes_item_today">Avui</string>
     <string name="view_indexes_item_tommorrow">Demà</string>
@@ -58,6 +59,11 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
 
     <!-- Preferences -->
     <string name="settings_menu_title">Configuració</string>
+	<string name="settings_geolocation_title">Ubicació</string>
+    <string name="settings_autolocate_title">Ubicació automàtica</string>
+    <string name="settings_autolocate_summary">Ubica el dispositiu automàticament</string>
+    <string name="settings_autolocate_detailed_title">Informació detallada sobre la ubicació</string>
+    <string name="settings_autolocate_detailed_summary">Obtén i mostra informació detallada sobre la ubicació actual, com ara el carrer, regió i país</string>
     <string name="settings_autoupdate_weather_title">Actualització automàtica</string>
     <string name="settings_autoupdate_weather_summary">Actualitza la previsió meteorològica automàticament</string>
     <string name="settings_update_wifi_only_summary">"Actualitza automàticament la previsió meteorològica només quan s'estableix una connexió Wi-Fi"</string>
