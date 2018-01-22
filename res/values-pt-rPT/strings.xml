@@ -145,7 +145,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_aqi_onoff_title">Informação do IQA</string>
     <string name="settings_autolocate_detailed_summary">Obter e mostrar informações detalhadas do local actual (rua, freguesia, distrito e país)</string>
     <string name="settings_autolocate_detailed_title">Informações detalhadas da localização</string>
-    <string name="settings_autolocate_summary">Localizar automaticamente o seu dispositivo</string>
+    <string name="settings_autolocate_summary">Obter automaticamente a localização do dispositivo</string>
     <string name="settings_autolocate_title">Localização automática</string>
     <string name="settings_autoupdate_weather_summary">Actualizar automaticamente a informação do tempo</string>
     <string name="settings_autoupdate_weather_title">Actualização automática</string>
@@ -168,7 +168,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_notifications_title">Notificações</string>
     <string name="settings_notify_type_title">Ícone de notificação</string>
     <string name="settings_permissions">Permissões</string>
-    <string name="settings_pressure_level_title">Mostrar pressão para</string>
+    <string name="settings_pressure_level_title">Dados da pressão</string>
     <string name="settings_pressure_unit">Pressão</string>
     <string name="settings_pressure_unit_atm">atm</string>
     <string name="settings_pressure_unit_hpa">hPa</string>

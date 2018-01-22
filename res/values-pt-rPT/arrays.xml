@@ -60,7 +60,7 @@
         <item>Poeiras</item>
         <item>Neblina</item>
         <item>Chuva fria</item>
-        <item>Sem dados</item>
+        <item>Sem informação</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Norte</item>
@@ -75,7 +75,7 @@
     <string-array name="pressure_level_entries">
         <item>Nível do mar</item>
         <item>Nível do local</item>
-        <item>Sensor de pressão do telemóvel</item>
+        <item>Sensor de pressão (se disponível)</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minutos</item>
