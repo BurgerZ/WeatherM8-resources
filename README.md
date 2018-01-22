@@ -23,7 +23,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-hr|Croatian|**MASVA, MIUI Adria**|
 |values-hu|Hungarian|**Gergő Bancsi**|
 |values-in|Indonesian|**Anggit Pramudita**, **Diki Ananta** |
-|values-it|Italian|**Ignis_su**|
+|values-it|Italian|**Ignis_su**, **Lippe35** |
 |values-iw|Hebrew|**Alex Travitsky**|
 |values-ko|Korean|**wolfwork**|
 |values-lt|Lithuanian|**Vladimir Zemlianskij**|
