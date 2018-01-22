@@ -83,7 +83,7 @@ Premi il bottone sottostante per aggiungere manualmente la città o riprova a lo
     <string name="settings_autolocate_detailed_title">Informazioni dettagliate del posizione</string>
     <string name="settings_autolocate_summary">Ottieni automaticamente la posizione del dispositivo</string>
     <string name="settings_autolocate_title">Posizione automatica</string>
-    <string name="settings_autoupdate_weather_summary">Aggiorna previsioni meteorologiche automaticamente </string>
+    <string name="settings_autoupdate_weather_summary">Aggiorna previsioni meteorologiche automaticamente</string>
     <string name="settings_autoupdate_weather_title">Aggiornamento automatico</string>
     <string name="settings_category_units">Unità</string>
     <string name="settings_city_base">Database delle città</string>
