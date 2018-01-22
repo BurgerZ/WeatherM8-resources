@@ -78,7 +78,7 @@
     <string-array name="pressure_level_entries">
         <item>Livello del mare</item>
         <item>Livello di posizione</item>
-        <item>Sensore di pressione del cellulare</item>
+        <item>Sensore di pressione (se disponibile)</item>
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minuti</item>
