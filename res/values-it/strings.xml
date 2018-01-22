@@ -15,7 +15,7 @@ Premi il bottone sottostante per aggiungere manualmente la città o riprova a lo
     <string name="act_set_city_swipe_hint">Fai uno swipe verso sinistra per eliminare la città</string>
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Cancella</string>
-	<string name="city_exceeded_warning">È possibile aggiungere solo 10 posizioni</string>
+    <string name="city_exceeded_warning">È possibile aggiungere solo 10 posizioni</string>
     <string name="act_weather_find_city_net_no_good">"Non posso connettermi al dispositivo"</string>
     <string name="act_weather_find_city_click_retry">Riprova</string>
     <string name="act_weather_find_city_searching">Sto cercando…</string>
