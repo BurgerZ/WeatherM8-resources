@@ -22,17 +22,6 @@
         <item>Vila Real</item>
         <item>Viseu</item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Baixo</item> <!-- 0-2.9 -->
-        <item>Moderado</item> <!-- 3-5.9 -->
-        <item>Elevado</item> <!-- 6-7.9 -->
-        <item>Muito elevado</item> <!-- 8-10.9 -->
-        <item>Extremo</item> <!-- 11+ -->
-    </string-array>
-    <string-array name="weather_notif_type_entries">
-        <item>Ícone do tempo</item>
-        <item>Temperatura</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Céu limpo</item>
         <item>Céu nublado</item>
@@ -72,10 +61,16 @@
         <item>Oeste</item>
         <item>Noroeste</item>
     </string-array>
-    <string-array name="pressure_level_entries">
-        <item>Nível do mar</item>
-        <item>Nível do local</item>
-        <item>Sensor de pressão (se disponível)</item>
+    <string-array name="weather_notif_type_entries">
+        <item>Ícone do tempo</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Baixo</item> <!-- 0-2.9 -->
+        <item>Moderado</item> <!-- 3-5.9 -->
+        <item>Elevado</item> <!-- 6-7.9 -->
+        <item>Muito elevado</item> <!-- 8-10.9 -->
+        <item>Extremo</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minutos</item>
@@ -89,18 +84,10 @@
         <item>12 horas</item>
         <item>24 horas</item>
     </string-array>
-    <string-array name="weather_icons_entries">
-        <item>MIUI 8</item>
-        <item>YunOS</item>
-        <item>Simple</item>
-    </string-array>
-    <string-array name="aqi_value">
-        <item>Bom</item>
-        <item>Moderado</item>
-        <item>Pouco saudável para grupos sensíveis</item>
-        <item>Pouco saudável</item>
-        <item>Muito pouco saudável</item>
-        <item>Perigoso</item>
+    <string-array name="pressure_level_entries">
+        <item>Nível do mar</item>
+        <item>Nível do local</item>
+        <item>Sensor de pressão (se disponível)</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>IQA %1$s</item>
@@ -109,5 +96,13 @@
         <item>IQA %1$s</item>
         <item>IQA %1$s</item>
         <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bom</item>
+        <item>Moderado</item>
+        <item>Pouco saudável para grupos sensíveis</item>
+        <item>Pouco saudável</item>
+        <item>Muito pouco saudável</item>
+        <item>Perigoso</item>
     </string-array>
 </resources>
