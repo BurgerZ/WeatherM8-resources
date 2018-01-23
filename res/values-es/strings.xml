@@ -21,6 +21,7 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="location_tag">Ubicación</string>
     <string name="act_weather_find_city_no_result">Sin resultados</string>
     <string name="act_weather_find_city_added">Añadida</string>
+    <string name="city_exceeded_warning">Puede agregar hasta 10 ciudades</string>
     <string name="view_forecast_item_yesterday">Ayer</string>
     <string name="view_indexes_item_today">Hoy</string>
     <string name="view_indexes_item_tommorrow">Mañana</string>
@@ -58,6 +59,11 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
 
     <!-- Preferences -->
     <string name="settings_menu_title">Ajustes</string>
+    <string name="settings_geolocation_title">Ubicación</string>
+    <string name="settings_autolocate_title">Ubicación automática</string>
+    <string name="settings_autolocate_summary">Ubica su dispositivo automáticamente</string>
+    <string name="settings_autolocate_detailed_title">Información detallada de la ubicación</string>
+    <string name="settings_autolocate_detailed_summary">Obtener y mostrar información detallada sobre su ubicación actual, como la calle, región y país</string>
     <string name="settings_autoupdate_weather_title">Actualización automática</string>
     <string name="settings_autoupdate_weather_summary">Actualiza la previsión meteorológica automáticamente</string>
     <string name="settings_update_wifi_only_summary">"Actualiza automáticamente la previsión meteorológica sólo cuando se establece una conexión Wi-Fi"</string>
