@@ -62,6 +62,9 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_geolocation_title">Ubicación</string>
     <string name="settings_autolocate_title">Ubicación automática</string>
     <string name="settings_autolocate_summary">Ubica su dispositivo automáticamente</string>
+	<string name="settings_geolocation_names_source_title">Origen del los nombres de geolocalización</string>
+    <string name="geolocation_names_source_default">Por defecto</string>
+    <string name="geolocation_names_source_google">Google</string>
     <string name="settings_autolocate_detailed_title">Información detallada de la ubicación</string>
     <string name="settings_autolocate_detailed_summary">Obtener y mostrar información detallada sobre su ubicación actual, como la calle, región y país</string>
     <string name="settings_autoupdate_weather_title">Actualización automática</string>
@@ -74,7 +77,7 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_update_quiet_hours_title">Periodo sin notifications</string>
     <string name="settings_weather_transfer_title">Transferencia de descripciones meteorológicas</string>
     <string name="settings_weather_transfer_summary">Ver descripción del tiempo de la transferencia del día a la noche</string>
-    <string name="settings_weather_spider_title">"Fuente de actualización"</string>
+    <string name="settings_weather_spider_title">"Origen de la actualización"</string>
     <string name="settings_weather_realtime_spider_title">Datos en tiempo real</string>
     <string name="settings_weather_forecast_spider_title">Datos de previsión</string>
     <string name="settings_weather_station_title">Estación meteorológica</string>
@@ -296,6 +299,7 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
 	<string name="widget_config_show_cityname_title">Mostrar nombre de la ciudad</string>
     <string name="widget_config_show_local_time_title">"Mostrar hora local"</string>
     <string name="widget_config_show_leading_zero_title">Mostrar cero inicial</string>
+	<string name="widget_config_show_ampm_title">Mostrar AM/PM (formato 12 h)</string>
 
     <string name="widget_config_click_settings">"Haga clic en la configuración de áreas del widget"</string>
     <string name="widget_config_click_apps">Seleccione una aplicación</string>
