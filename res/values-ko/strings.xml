@@ -21,6 +21,7 @@
     <string name="location_tag">위치</string>
     <string name="act_weather_find_city_no_result">결과 없음</string>
     <string name="act_weather_find_city_added">추가됨</string>
+    <string name="city_exceeded_warning">10개의 도시를 추가할 수 있습니다</string>
     <string name="view_forecast_item_yesterday">어제</string>
     <string name="view_indexes_item_today">오늘</string>
     <string name="view_indexes_item_tommorrow">내일</string>
@@ -58,6 +59,14 @@
 
     <!-- Preferences -->
     <string name="settings_menu_title">설정</string>
+    <string name="settings_geolocation_title">위치</string>
+    <string name="settings_autolocate_title">자동 위치</string>
+    <string name="settings_autolocate_summary">자동으로 위치 찾기</string>
+    <string name="settings_autolocate_detailed_title">자세한 위치 정보</string>
+    <string name="settings_autolocate_detailed_summary">현재 위치의 자세한 날씨 정보를 얻습니다</string>
+    <string name="settings_geolocation_names_source_title">사용자 위치 정보 출처</string>
+    <string name="geolocation_names_source_default">기본</string>
+    <string name="geolocation_names_source_google">Google</string>
     <string name="settings_autoupdate_weather_title">자동 업데이트</string>
     <string name="settings_autoupdate_weather_summary">일기예보를 자동으로 업데이트</string>
     <string name="settings_update_wifi_only_summary">Wi-Fi가 연결되어 있을 때만 일기예보를 자동으로 업데이트</string>
@@ -105,11 +114,11 @@
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">miles</string>
 
-    <string name="settings_realtime_feelslike_as_main_title">주 온도를 실감나게</string>
-    <string name="settings_realtime_feelslike_as_main_summary">주 날씨 온도처럼 온도를 실감나게 표시</string>
+    <string name="settings_realtime_feelslike_as_main_title">실시간 온도 표시</string>
+    <string name="settings_realtime_feelslike_as_main_summary">온도를 실시간으로 표시합니다</string>
 
     <string name="settings_show_plus_sign_temp_title">"+" 신호 표시</string>
-    <string name="settings_show_plus_sign_temp_summary">온화한 온도에 "+" 신호 표시</string>
+    <string name="settings_show_plus_sign_temp_summary">영상 온도에 "+" 기호 표시</string>
 
     <string name="settings_pressure_level_title">기압 표시</string>
 
@@ -290,6 +299,7 @@
     <string name="widget_config_show_cityname_title">도시 이름 보기</string>
     <string name="widget_config_show_local_time_title">지역 시간 보기</string>
     <string name="widget_config_show_leading_zero_title">숨겨진 0값 보기</string>
+    <string name="widget_config_show_ampm_title">AM/PM 표시 (12시 형식)</string>
 
     <string name="widget_config_click_settings">설정할 위젯 영역 클릭</string>
     <string name="widget_config_click_apps">응용 프로그램 선택</string>
