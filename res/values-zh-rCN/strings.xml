@@ -62,6 +62,9 @@
     <string name="settings_geolocation_title">地点</string>
     <string name="settings_autolocate_title">自动定位</string>
     <string name="settings_autolocate_summary">自动确定设备所在的位置</string>
+    <string name="settings_geolocation_names_source_title">位置名称来源</string>
+    <string name="geolocation_names_source_default">默认</string>
+    <string name="geolocation_names_source_google">谷歌</string>
     <string name="settings_autolocate_detailed_title">详细位置信息</string>
     <string name="settings_autolocate_detailed_summary">获取并显示有关您当前位置的详细信息，如街道，地区，国家</string>
     <string name="settings_autoupdate_weather_title">自动更新</string>
