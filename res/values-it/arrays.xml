@@ -25,17 +25,6 @@
         <item>Los Angeles</item>
         <item>Kaliningrad</item>
     </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Molto deboli</item> <!-- 0-2.9 -->
-        <item>Deboli</item> <!-- 3-5.9 -->
-        <item>Raggio Medio</item> <!-- 6-7.9 -->
-        <item>Forti</item> <!-- 8-10.9 -->
-        <item>Molto Forti</item> <!-- 11+ -->
-    </string-array>
-    <string-array name="weather_notif_type_entries">
-        <item>Icona Meteo</item>
-        <item>Temperatura</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Soleggiato</item>
         <item>Nuvoloso</item>
@@ -75,10 +64,16 @@
         <item>O</item>
         <item>NO</item>
     </string-array>
-    <string-array name="pressure_level_entries">
-        <item>Livello del mare</item>
-        <item>Livello di posizione</item>
-        <item>Sensore di pressione (se disponibile)</item>
+    <string-array name="weather_notif_type_entries">
+        <item>Icona Meteo</item>
+        <item>Temperatura</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Molto deboli</item> <!-- 0-2.9 -->
+        <item>Deboli</item> <!-- 3-5.9 -->
+        <item>Raggio Medio</item> <!-- 6-7.9 -->
+        <item>Forti</item> <!-- 8-10.9 -->
+        <item>Molto Forti</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minuti</item>
@@ -92,10 +87,10 @@
         <item>12 ore</item>
         <item>24 ore</item>
     </string-array>
-    <string-array name="weather_icons_entries">
-        <item>MIUI 8</item>
-        <item>YunOS</item>
-        <item>Simple</item>
+    <string-array name="pressure_level_entries">
+        <item>Livello del mare</item>
+        <item>Livello di posizione</item>
+        <item>Sensore di pressione (se disponibile)</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Buona</item>
@@ -104,13 +99,5 @@
         <item>Malsano</item>
         <item>Molto malsano</item>
         <item>Pericoloso</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
     </string-array>
 </resources>
