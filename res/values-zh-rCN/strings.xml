@@ -10,7 +10,8 @@
     <string name="act_set_city_find_side">定位中…</string>
     <string name="act_set_city_find_side_error">"定位失败"</string>
     <string name="button_add_city">添加</string>
-    <string name="locate_fail_detail_err">"定位失败，点击屏幕重新定位或手动添加城市"</string>
+    <string name="locate_fail_detail_err">"定位失败
+    点击屏幕重新定位或手动添加城市"</string>
     <string name="act_set_city_swipe_hint">向左滑动删除城市</string>
     <string name="button_allow">确定</string>
     <string name="button_not_allow">取消</string>
@@ -20,6 +21,7 @@
     <string name="location_tag">位置</string>
     <string name="act_weather_find_city_no_result">没有结果</string>
     <string name="act_weather_find_city_added">已添加</string>
+    <string name="city_exceeded_warning">您最多可以添加10个城市</string>
     <string name="view_forecast_item_yesterday">昨天</string>
     <string name="view_indexes_item_today">今天</string>
     <string name="view_indexes_item_tommorrow">明天</string>
@@ -57,6 +59,11 @@
 
     <!-- Preferences -->
     <string name="settings_menu_title">设置</string>
+    <string name="settings_geolocation_title">地点</string>
+    <string name="settings_autolocate_title">自动定位</string>
+    <string name="settings_autolocate_summary">自动确定设备所在的位置</string>
+    <string name="settings_autolocate_detailed_title">详细位置信息</string>
+    <string name="settings_autolocate_detailed_summary">获取并显示有关您当前位置的详细信息，如街道，地区，国家</string>
     <string name="settings_autoupdate_weather_title">自动更新</string>
     <string name="settings_autoupdate_weather_summary">自动更新天气预报</string>
     <string name="settings_update_wifi_only_summary">仅在连接Wi-Fi时自动更新天气预报</string>
