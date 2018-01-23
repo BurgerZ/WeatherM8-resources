@@ -299,6 +299,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_config_show_cityname_title">Show city name</string>
     <string name="widget_config_show_local_time_title">Show local time</string>
     <string name="widget_config_show_leading_zero_title">Show leading zero</string>
+    <string name="widget_config_show_ampm_title">Show AM/PM (12h format)</string>
 
     <string name="widget_config_click_settings">Click widget areas settings</string>
     <string name="widget_config_click_apps">Select application</string>
