@@ -62,7 +62,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_geolocation_title">Ubicació</string>
     <string name="settings_autolocate_title">Ubicació automàtica</string>
     <string name="settings_autolocate_summary">Ubica el dispositiu automàticament</string>
-	<string name="settings_geolocation_names_source_title">Font dels noms de geolocalització</string>
+    <string name="settings_geolocation_names_source_title">Font dels noms de geolocalització</string>
     <string name="geolocation_names_source_default">Per defecte</string>
     <string name="geolocation_names_source_google">Google</string>
     <string name="settings_autolocate_detailed_title">Informació detallada sobre la ubicació</string>
@@ -296,10 +296,10 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 
     <string name="widget_config_show_text_shadow_title">Mostra ombra al text</string>
     <string name="widget_config_show_realtime_icon_title">Mostra la icona del temps actual</string>
-	<string name="widget_config_show_cityname_title">Mostra el nom de la ciutat</string>
+    <string name="widget_config_show_cityname_title">Mostra el nom de la ciutat</string>
     <string name="widget_config_show_local_time_title">"Mostra l'hora local"</string>
     <string name="widget_config_show_leading_zero_title">Mostra el zero inicial</string>
-	<string name="widget_config_show_ampm_title">Mostra AM/PM (format 12 h)</string>
+    <string name="widget_config_show_ampm_title">Mostra AM/PM (format 12 h)</string>
 
     <string name="widget_config_click_settings">"Feu clic en la configuració d'àrees del giny"</string>
     <string name="widget_config_click_apps">Seleccioneu una aplicació</string>
