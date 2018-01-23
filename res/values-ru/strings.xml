@@ -60,6 +60,8 @@
     <string name="settings_geolocation_title">Местоположение</string>
     <string name="settings_autolocate_title">Автоматическое определение</string>
     <string name="settings_autolocate_summary">Автоматическое определение местоположения вашего устройства</string>
+    <string name="settings_geolocation_names_source_title">Источник имен населенных пунктов</string>
+    <string name="geolocation_names_source_default">По умолчанию</string>
     <string name="settings_autolocate_detailed_title">Подробная информация</string>
     <string name="settings_autolocate_detailed_summary">Отображать подробную информацию о вашем местоположении, такую как улица, населенный пункт, регион, страна</string>
     <string name="settings_autoupdate_weather_title">Автообновление</string>

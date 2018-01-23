@@ -62,6 +62,9 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_geolocation_title">Location</string>
     <string name="settings_autolocate_title">Auto locate</string>
     <string name="settings_autolocate_summary">Automatically locate your device</string>
+    <string name="settings_geolocation_names_source_title">Geolocation names source</string>
+    <string name="geolocation_names_source_default">Default</string>
+    <string name="geolocation_names_source_google">Google</string>
     <string name="settings_autolocate_detailed_title">Detailed location information</string>
     <string name="settings_autolocate_detailed_summary">Get and show detailed information about your current location, like street, region, country</string>
     <string name="settings_autoupdate_weather_title">Auto update</string>
