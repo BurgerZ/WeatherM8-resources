@@ -84,7 +84,7 @@
     <string name="first_start_network_title">Conexão à Internet e acesso à localização</string>
     <string name="geolocation_names_source_default">Padrão</string>
     <string name="geolocation_names_source_google">Google</string>
-    <string name="get_accounts_msg">Este aplicativo necessita de ter acesso à lista de contas do dispositivo para verificar as suas compras e remover os anúncios</string>
+    <string name="get_accounts_msg">Este aplicativo necessita de ter acesso às contas do dispositivo para verificar as suas compras e remover os anúncios</string>
     <string name="get_accounts_title">Acesso a contas</string>
     <string name="gps_hint">Localização atual</string>
     <string name="hour_minute_time_format">HH:mm</string>
