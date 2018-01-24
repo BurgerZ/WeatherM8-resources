@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_hint">Procurar local</string>
-    <string name="act_find_city_hot_title">Cidades</string>
+    <string name="act_find_city_hot_title">Seleccionar</string>
     <string name="act_set_city_find_side">A localizar…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
     <string name="act_set_city_swipe_hint">Deslizar para a esquerda para eliminar local</string>
@@ -65,7 +65,7 @@
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
     <string name="daily_forecast_detail_date">d MMMM</string>
     <string name="delete">Eliminar</string>
-    <string name="dialog_color_picker">Escolher cor</string>
+    <string name="dialog_color_picker">Seleccionar cor</string>
     <string name="feedback_action_send">Enviar</string>
     <string name="feedback_add_images">Adicionar imagens</string>
     <string name="feedback_description">Descrição</string>
@@ -147,7 +147,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_aqi_onoff_title">Informação do IQA</string>
     <string name="settings_autolocate_detailed_summary">Obter e mostrar informações detalhadas do local actual (rua, freguesia, distrito e país)</string>
     <string name="settings_autolocate_detailed_title">Detalhes da localização</string>
-    <string name="settings_autolocate_summary">Obter automaticamente a localização do dispositivo</string>
+    <string name="settings_autolocate_summary">Actualizar automaticamente a localização do dispositivo</string>
     <string name="settings_autolocate_title">Localização automática</string>
     <string name="settings_autoupdate_weather_summary">Actualizar automaticamente a informação do tempo</string>
     <string name="settings_autoupdate_weather_title">Actualização automática</string>
