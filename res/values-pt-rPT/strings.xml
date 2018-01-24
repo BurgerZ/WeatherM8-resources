@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_hint">Procurar local</string>
-    <string name="act_find_city_hot_title">Seleccionar</string>
+    <string name="act_find_city_hot_title">Cidades</string>
     <string name="act_set_city_find_side">A localizar…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
     <string name="act_set_city_swipe_hint">Deslizar para a esquerda para eliminar local</string>
@@ -94,7 +94,7 @@
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="loading_data">A carregar dados…</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
-Escolha a opção abaixo para adicionar o local manualmente ou tente localizar novamente"</string>
+Seleccione a opção abaixo para adicionar o local manualmente ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
     <string name="location_tag">Localizar</string>
     <string name="menu_moon_phases">Fases da lua</string>
@@ -127,7 +127,7 @@ Verifique as suas definições de rede"</string>
     <string name="radar_tab_rain">Precipitação</string>
     <string name="radar_title">Imagens de radar</string>
     <string name="settings_about">Acerca de</string>
-    <string name="settings_ads_donation_expl">Faça doações via Google Play escolhendo uma das opções abaixo. As doações não vão remover os anúncios da aplicação. Para remover os anúncios utilize a opção \"Remover anúncios\"</string>
+    <string name="settings_ads_donation_expl">Faça doações via Google Play seleccionando uma das opções abaixo. As doações não vão remover os anúncios da aplicação. Para remover os anúncios seleccione a opção \"Remover anúncios\"</string>
     <string name="settings_ads_donations_title">Ofereça-me uma cerveja</string>
     <string name="settings_ads_explanation">"Porque é que a aplicação tem anúncios?
 Programar aplicações Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios na aplicação estimula o desenvolvimento de futuras versões"</string>
