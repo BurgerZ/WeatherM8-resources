@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">Inserir local</string>
+    <string name="act_find_city_hint">Procurar local</string>
     <string name="act_find_city_hot_title">Seleccionar</string>
     <string name="act_set_city_find_side">A localizar…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
