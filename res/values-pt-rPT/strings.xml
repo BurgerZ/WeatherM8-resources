@@ -147,7 +147,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_aqi_onoff_title">Informação do IQA</string>
     <string name="settings_autolocate_detailed_summary">Obter e mostrar informações detalhadas do local actual (rua, freguesia, distrito e país)</string>
     <string name="settings_autolocate_detailed_title">Detalhes da localização</string>
-    <string name="settings_autolocate_summary">Actualizar automaticamente a localização do dispositivo</string>
+    <string name="settings_autolocate_summary">Obter automaticamente a localização do dispositivo</string>
     <string name="settings_autolocate_title">Localização automática</string>
     <string name="settings_autoupdate_weather_summary">Actualizar automaticamente a informação do tempo</string>
     <string name="settings_autoupdate_weather_title">Actualização automática</string>
