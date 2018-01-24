@@ -58,6 +58,14 @@
     <string name="network_wifi_only">Οι ενημερώσεις έχουν ρυθμιστεί μόνο σε Wi-Fi.</string>	
 
     <!-- Preferences -->
+    <string name="settings_geolocation_title">Εντοπισμός</string>
+	  <string name="settings_autolocate_title">Αυτόματος Εντοπισμός</string>
+    <string name="settings_autolocate_summary">Εντοπίζεται αυτόματα η συσκευή σας</string>
+    <string name="settings_geolocation_names_source_title">Πηγή Γεωγραφικού εντοπισμού</string>
+    <string name="geolocation_names_source_default">Προεπιλογή</string>
+    <string name="geolocation_names_source_google">Google</string>
+    <string name="settings_autolocate_detailed_title">Λεπτομέρειες πληροφοριών εντοπισμού</string>
+    <string name="settings_autolocate_detailed_summary">Λάβετε και προβάλετε πληροφορίες γύρω απο την τρέχουσα θέση σας, όπως δρόμου, περιοχής, χώρας</string>
     <string name="settings_menu_title">Ρυθμίσεις</string>
     <string name="settings_autoupdate_weather_title">Αυτόματη ενημέρωση</string>
     <string name="settings_autoupdate_weather_summary">Αυτόματη ενημέρωση καιρού</string>
