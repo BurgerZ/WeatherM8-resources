@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_hint">Procurar localização</string>
-    <string name="act_find_city_hot_title">Selecionar</string>
+    <string name="act_find_city_hot_title">Cidades</string>
     <string name="act_set_city_find_side">Localizando…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
     <string name="act_set_city_swipe_hint">Deslize para a esquerda para deletar cidade</string>
@@ -127,7 +127,7 @@ Verifique as suas definições de rede"</string>
     <string name="radar_tab_rain">Precipitação</string>
     <string name="radar_title">Imagens de radar</string>
     <string name="settings_about">Sobre</string>
-    <string name="settings_ads_donation_expl">Faça doações via Google Play selecionando uma das opções baixo. As doações não vão remover os anúncios do aplicativo. Para remover os anúncios utilize a opção \"Remover anúncios\"</string>
+    <string name="settings_ads_donation_expl">Faça doações via Google Play selecionando uma das opções baixo. As doações não vão remover os anúncios do aplicativo. Para remover os anúncios selecione a opção \"Remover anúncios\"</string>
     <string name="settings_ads_donations_title">Ofereça-me uma cerveja</string>
     <string name="settings_ads_explanation">"Porque é que o aplicativo tem anúncios?
 Programar aplicativos Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios no aplicativo estimula o desenvolvimento de futuras versões"</string>
