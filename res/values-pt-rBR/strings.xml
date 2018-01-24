@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_hint">Procurar localização</string>
-    <string name="act_find_city_hot_title">Cidades</string>
+    <string name="act_find_city_hot_title">Selecionar</string>
     <string name="act_set_city_find_side">Localizando…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
     <string name="act_set_city_swipe_hint">Deslize para a esquerda para deletar cidade</string>
@@ -65,7 +65,7 @@
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
     <string name="daily_forecast_detail_date">d MMMM</string>
     <string name="delete">Deletar</string>
-    <string name="dialog_color_picker">Escolher cor</string>
+    <string name="dialog_color_picker">Selecionar cor</string>
     <string name="feedback_action_send">Enviar</string>
     <string name="feedback_add_images">Adicionar imagens</string>
     <string name="feedback_description">Descrição</string>
