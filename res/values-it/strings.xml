@@ -82,11 +82,17 @@ L'applicazione usa i permessi:
 \u2022 Accesso alla posizione del dispositivo per ottenere le tue coordinate geografiche
 \u2022 Accesso alle foto, ai media e ai file per salvare screenshot per la funzione Condividi"</string>
     <string name="first_start_network_title">Connessione a Internet e Accesso alla Posizione</string>
-    <string name="gps_hint">GPS</string>
+    <string name="geolocation_names_source_default">Standard</string>
+    <string name="geolocation_names_source_google">Google</string>
+    <string name="get_accounts_msg">Questa app deve avere accesso agli account del dispositivo per controllare i tuoi acquisti e rimuovere gli annunci</string>
+    <string name="get_accounts_title">Accesso all'account</string>
+    <string name="gps_hint">Posizione corrente</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Ora</string>
+    <string name="hourly_forecast_detail_date">d MMM, EEE</string>
     <string name="hourly_forecast_title">Previsioni orarie</string>
     <string name="international_detail_menu_title">Dettagli</string>
+    <string name="loading_data">Caricamento dei dati…</string>
     <string name="locate_fail_detail_err">"Non posso localizzare il dispositivo
 Premi il bottone sottostante per aggiungere manualmente la città o riprova a localizzare il dispositivo"</string>
     <string name="location_management">Posizione</string>
@@ -100,6 +106,8 @@ Premi il bottone sottostante per aggiungere manualmente la città o riprova a lo
     <string name="moon_illuminated">Illuminata per il: %s%%</string>
     <string name="moon_lastquarter">Ultimo quarto</string>
     <string name="moon_newmoon">Luna nuova</string>
+    <string name="moon_rise">Nascere della luna: %s</string>
+    <string name="moon_set">Moonset: %s</string>
     <string name="moon_since">Data: %1$s %2$s</string>
     <string name="moon_waningcrescent">Luna calante</string>
     <string name="moon_waninggibbous">Gibbosa calante</string>
@@ -107,6 +115,9 @@ Premi il bottone sottostante per aggiungere manualmente la città o riprova a lo
     <string name="moon_waxinggibbous">Gibbosa crescente</string>
     <string name="moon_zodiac">Segno zodiacale: %s</string>
     <string name="more_details">Più dettagli</string>
+    <string name="network_error">"Impossibile connettersi al server
+Controlla le tue impostazioni di rete"</string>
+    <string name="network_in_quiet_hours">Ore Tranquille è attivo</string>
     <string name="network_unavailable">"Non posso connettermi alla rete."</string>
     <string name="press_color_to_apply">Premi sul Colore per applicare</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
