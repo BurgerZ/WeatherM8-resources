@@ -55,7 +55,7 @@
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Cancella</string>
     <string name="city_exceeded_warning">È possibile aggiungere solo 10 posizioni</string>
-    <string name="comon_auto">Cerca automaticamente</string>
+    <string name="common_auto">Cerca automaticamente</string>
     <string name="common_recommended">(Raccomandato)</string>
     <string name="daily_forcast_drawer_on_top">Previsioni estese</string>
     <string name="daily_forcast_no_wind">Fermo</string>
@@ -70,9 +70,9 @@
     <string name="feedback_add_images">Aggiungi immagini</string>
     <string name="feedback_description">Descrizione</string>
     <string name="feedback_description_hint">Scrivi il tuo commento</string>
-    <string name="feedback_error">Errore durante l'invio del commento</string>
+    <string name="feedback_error">"Errore durante l'invio del commento"</string>
     <string name="feedback_fill_required">I campi obbligatori non possono essere vuoti</string>
-    <string name="feedback_select_upload_settings">Includi impostazioni dell'app</string>
+    <string name="feedback_select_upload_settings">"Includi impostazioni dell'app"</string>
     <string name="feedback_sending">Invio del commento…</string>
     <string name="feedback_sent">Grazie per aver inviato il tuo commento!</string>
     <string name="feedback_title">Titolo</string>
@@ -85,7 +85,7 @@ L'applicazione usa i permessi:
     <string name="geolocation_names_source_default">Standard</string>
     <string name="geolocation_names_source_google">Google</string>
     <string name="get_accounts_msg">Questa app deve avere accesso agli account del dispositivo per controllare i tuoi acquisti e rimuovere gli annunci</string>
-    <string name="get_accounts_title">Accesso all'account</string>
+    <string name="get_accounts_title">"Accesso all'account"</string>
     <string name="gps_hint">Posizione corrente</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Ora</string>
