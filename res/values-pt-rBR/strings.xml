@@ -233,7 +233,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="weather_details_daylight_diff_longer">%1$s mais</string>
     <string name="weather_details_daylight_diff_shorter">%1$s menos</string>
     <string name="weather_details_daylight_hours_title">Horas diurnas</string>
-    <string name="weather_details_elevation_title">Elevação</string>
+    <string name="weather_details_elevation_title">Altitude</string>
     <string name="weather_details_humidity">%1$s%%</string>
     <string name="weather_details_humidity_title">Umidade</string>
     <string name="weather_details_precipitation_prob_title">% de Chuva</string>
