@@ -120,7 +120,7 @@ Verifique as suas definições de rede"</string>
     <string name="network_in_quiet_hours">O modo Não Atualizar está ligado</string>
     <string name="network_in_roaming">Tem definições para desativar as atualizações em roaming</string>
     <string name="network_unavailable">Não foi possível conectar à rede</string>
-    <string name="network_wifi_only">Atualizações disponíveis apenas em Wi-fi</string>
+    <string name="network_wifi_only">Atualizações disponíveis apenas por Wi-fi</string>
     <string name="press_color_to_apply">Toque na cor para aplicar</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
     <string name="radar_tab_cloud">Nebulosidade</string>
@@ -191,8 +191,8 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
     <string name="settings_update_quiet_hours_start_time_title">Hora de início</string>
     <string name="settings_update_quiet_hours_title">Modo não atualizar</string>
-    <string name="settings_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas quando ligado a uma rede Wi-Fi</string>
-    <string name="settings_update_wifi_only_title">Atualizar apenas em Wi-Fi</string>
+    <string name="settings_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
+    <string name="settings_update_wifi_only_title">Atualizar apenas por Wi-Fi</string>
     <string name="settings_visibility_unit">Visibilidade</string>
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
