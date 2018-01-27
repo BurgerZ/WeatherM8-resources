@@ -191,8 +191,8 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
     <string name="settings_update_quiet_hours_start_time_title">Hora de início</string>
     <string name="settings_update_quiet_hours_title">Modo não actualizar</string>
-    <string name="settings_update_wifi_only_summary">Actualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
-    <string name="settings_update_wifi_only_title">Actualizar apenas por Wi-Fi</string>
+    <string name="settings_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
+    <string name="settings_update_wifi_only_title">Atualizar apenas por Wi-Fi</string>
     <string name="settings_visibility_unit">Visibilidade</string>
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
