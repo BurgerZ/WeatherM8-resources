@@ -117,7 +117,7 @@ Selecione a opção procurar manualmente ou tente localizar novamente"</string>
     <string name="more_details">Mais detalhes</string>
     <string name="network_error">"Não foi possível ligar ao servidor
 Verifique as suas definições de rede"</string>
-    <string name="network_in_quiet_hours">O modo não atualizar está ligado</string>
+    <string name="network_in_quiet_hours">O modo sem notificações está ligado</string>
     <string name="network_in_roaming">Tem definições para desativar as atualizações em roaming</string>
     <string name="network_unavailable">Não foi possível ligar à rede</string>
     <string name="network_wifi_only">Atualizações disponíveis apenas por Wi-fi</string>
@@ -135,7 +135,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_ads_remove_summary">Remover anúncios por uma semana (uma vez por mês)</string>
     <string name="settings_ads_remove_title">Remover anúncios</string>
     <string name="settings_ads_title">Anúncios e doações</string>
-    <string name="settings_alerts_title">Ativar alertas</string>
+    <string name="settings_alerts_title">Gerir alertas</string>
     <string name="settings_app_locale_title">Idioma</string>
     <string name="settings_app_theme_dark">Escuro</string>
     <string name="settings_app_theme_light">Claro</string>
@@ -190,7 +190,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_update_interval_title">Intervalo de atualização</string>
     <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
     <string name="settings_update_quiet_hours_start_time_title">Hora de início</string>
-    <string name="settings_update_quiet_hours_title">Modo não atualizar</string>
+    <string name="settings_update_quiet_hours_title">Modo sem notificações</string>
     <string name="settings_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Atualizar apenas por Wi-Fi</string>
     <string name="settings_visibility_unit">Visibilidade</string>
