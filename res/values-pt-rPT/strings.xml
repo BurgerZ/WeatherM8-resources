@@ -51,7 +51,7 @@
     <string name="aqi_ring_desc">Qualidade do ar</string>
     <string name="aqi_ring_top_pollution">Principais poluentes</string>
     <string name="aqi_sub_desc">IQA</string>
-    <string name="button_add_city">Adicionar local</string>
+    <string name="button_add_city">Adicionar localização</string>
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Cancelar</string>
     <string name="city_exceeded_warning">Só podem ser adicionadas apenas 10 localizações</string>
@@ -94,7 +94,7 @@
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="loading_data">A carregar dados…</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
-Selecione a opção procurar manualmente ou tente localizar novamente"</string>
+Selecione a opção adicionar localização manualmente ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
     <string name="location_tag">Localizar</string>
     <string name="menu_moon_phases">Fases da lua</string>
