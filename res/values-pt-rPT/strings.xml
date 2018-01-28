@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">Procurar local</string>
+    <string name="act_find_city_hint">Procurar localização</string>
     <string name="act_find_city_hot_title">Selecionar</string>
     <string name="act_set_city_find_side">A localizar…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
-    <string name="act_set_city_swipe_hint">Deslizar para a esquerda para eliminar local</string>
+    <string name="act_set_city_swipe_hint">Deslizar para a esquerda para eliminar localização</string>
     <string name="act_weather_find_city_added">Adicionado</string>
     <string name="act_weather_find_city_click_retry">Repetir</string>
     <string name="act_weather_find_city_net_no_good">Não foi possível ligar à rede</string>
@@ -54,7 +54,7 @@
     <string name="button_add_city">Adicionar local</string>
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Cancelar</string>
-    <string name="city_exceeded_warning">Só podem ser adicionados apenas 10 locais</string>
+    <string name="city_exceeded_warning">Só podem ser adicionadas apenas 10 localizações</string>
     <string name="common_auto">Procurar automaticamente</string>
     <string name="common_recommended">(Recomendado)</string>
     <string name="daily_forcast_drawer_on_top">Previsão diária</string>
@@ -94,7 +94,7 @@
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="loading_data">A carregar dados…</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
-Selecione a opção abaixo para adicionar o local manualmente ou tente localizar novamente"</string>
+Selecione a opção abaixo para procurar a localização manualmente ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
     <string name="location_tag">Localizar</string>
     <string name="menu_moon_phases">Fases da lua</string>
@@ -153,12 +153,12 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_autoupdate_weather_title">Atualização automática</string>
     <string name="settings_category_units">Unidades</string>
     <string name="settings_city_base">Base de dados</string>
-    <string name="settings_dialog_enter_timezone">Inserir fuso horário para o local selecionado (%s), por exemplo GMT+03:00:</string>
+    <string name="settings_dialog_enter_timezone">Inserir fuso horário para a localização selecionada (%s), por exemplo GMT+03:00:</string>
     <string name="settings_feedback">Enviar comentários</string>
     <string name="settings_geolocation_names_source_title">Modo de localização</string>
     <string name="settings_geolocation_title">Localização</string>
     <string name="settings_help">Ajuda</string>
-    <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
+    <string name="settings_icons_builtin_title">Ícones do tempo do integrados</string>
     <string name="settings_icons_theme_details_title">Detalhes do tema</string>
     <string name="settings_icons_title">Ícones do tempo</string>
     <string name="settings_menu_title">Definições</string>
