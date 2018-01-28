@@ -94,7 +94,7 @@
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="loading_data">A carregar dados…</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
-Selecione a opção abaixo para procurar a localização manualmente ou tente localizar novamente"</string>
+Selecione a opção procurar manualmente ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
     <string name="location_tag">Localizar</string>
     <string name="menu_moon_phases">Fases da lua</string>
@@ -158,7 +158,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_geolocation_names_source_title">Modo de localização</string>
     <string name="settings_geolocation_title">Localização</string>
     <string name="settings_help">Ajuda</string>
-    <string name="settings_icons_builtin_title">Ícones do tempo do integrados</string>
+    <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
     <string name="settings_icons_theme_details_title">Detalhes do tema</string>
     <string name="settings_icons_title">Ícones do tempo</string>
     <string name="settings_menu_title">Definições</string>
