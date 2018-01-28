@@ -4,7 +4,7 @@
     <string name="act_find_city_hot_title">Selecionar</string>
     <string name="act_set_city_find_side">Localizando…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
-    <string name="act_set_city_swipe_hint">Deslizar para a esquerda para deletar loalização</string>
+    <string name="act_set_city_swipe_hint">Deslizar para a esquerda para deletar localização</string>
     <string name="act_weather_find_city_added">Adicionado</string>
     <string name="act_weather_find_city_click_retry">Repetir</string>
     <string name="act_weather_find_city_net_no_good">Não foi possível conectar à rede</string>
@@ -94,7 +94,7 @@
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="loading_data">A carregar dados…</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
-Selecione a opção para adicionar a localização manualmente ou tente localizar novamente"</string>
+Selecione a opção adicionar a localização manualmente ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
     <string name="location_tag">Localizar</string>
     <string name="menu_moon_phases">Fases da lua</string>
