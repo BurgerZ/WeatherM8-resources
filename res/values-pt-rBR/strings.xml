@@ -4,7 +4,7 @@
     <string name="act_find_city_hot_title">Selecionar</string>
     <string name="act_set_city_find_side">Localizando…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
-    <string name="act_set_city_swipe_hint">Deslize para a esquerda para deletar cidade</string>
+    <string name="act_set_city_swipe_hint">Deslizar para a esquerda para deletar loalização</string>
     <string name="act_weather_find_city_added">Adicionado</string>
     <string name="act_weather_find_city_click_retry">Repetir</string>
     <string name="act_weather_find_city_net_no_good">Não foi possível conectar à rede</string>
@@ -51,10 +51,10 @@
     <string name="aqi_ring_desc">Qualidade do ar</string>
     <string name="aqi_ring_top_pollution">Principais poluentes</string>
     <string name="aqi_sub_desc">IQA</string>
-    <string name="button_add_city">Adicionar local</string>
+    <string name="button_add_city">Adicionar localização</string>
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Cancelar</string>
-    <string name="city_exceeded_warning">Só podem ser adicionados apenas 10 localizações</string>
+    <string name="city_exceeded_warning">Só podem ser adicionadas apenas 10 localizações</string>
     <string name="common_auto">Procurar automaticamente</string>
     <string name="common_recommended">(Recomendado)</string>
     <string name="daily_forcast_drawer_on_top">Previsão diária</string>
@@ -94,7 +94,7 @@
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="loading_data">A carregar dados…</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar
-Selecione a opção abaixo para adicionar a localização manualmente ou tente localizar novamente"</string>
+Selecione a opção para adicionar a localização manualmente ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
     <string name="location_tag">Localizar</string>
     <string name="menu_moon_phases">Fases da lua</string>
@@ -117,7 +117,7 @@ Selecione a opção abaixo para adicionar a localização manualmente ou tente l
     <string name="more_details">Mais detalhes</string>
     <string name="network_error">"Não foi possível conectar ao servidor
 Verifique as suas definições de rede"</string>
-    <string name="network_in_quiet_hours">O modo Não Atualizar está ligado</string>
+    <string name="network_in_quiet_hours">O modo sem notificações está ligado</string>
     <string name="network_in_roaming">Tem definições para desativar as atualizações em roaming</string>
     <string name="network_unavailable">Não foi possível conectar à rede</string>
     <string name="network_wifi_only">Atualizações disponíveis apenas por Wi-fi</string>
@@ -135,7 +135,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_ads_remove_summary">Remover anúncios por uma semana (uma vez por mês)</string>
     <string name="settings_ads_remove_title">Remover anúncios</string>
     <string name="settings_ads_title">Anúncios e doações</string>
-    <string name="settings_alerts_title">Ativar alertas</string>
+    <string name="settings_alerts_title">Gerir alertas</string>
     <string name="settings_app_locale_title">Idioma</string>
     <string name="settings_app_theme_dark">Escuro</string>
     <string name="settings_app_theme_light">Claro</string>
@@ -190,7 +190,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_update_interval_title">Intervalo de atualização</string>
     <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
     <string name="settings_update_quiet_hours_start_time_title">Hora de início</string>
-    <string name="settings_update_quiet_hours_title">Modo não atualizar</string>
+    <string name="settings_update_quiet_hours_title">Modo sem notificações</string>
     <string name="settings_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Atualizar apenas por Wi-Fi</string>
     <string name="settings_visibility_unit">Visibilidade</string>
