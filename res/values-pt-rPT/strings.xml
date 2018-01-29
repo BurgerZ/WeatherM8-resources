@@ -93,8 +93,8 @@
     <string name="hourly_forecast_title">Previsão horária</string>
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="loading_data">A carregar dados…</string>
-    <string name="locate_fail_detail_err">"Não foi possível localizar
-Selecione a opção adicionar localização manualmente ou tente localizar novamente"</string>
+    <string name="locate_fail_detail_err">"Não foi possível localizar dispositivo
+Selecione a opção abaixo para adicionar manualmente uma localização ou tente localizar novamente"</string>
     <string name="location_management">Localização</string>
     <string name="location_tag">Localizar</string>
     <string name="menu_moon_phases">Fases da lua</string>
