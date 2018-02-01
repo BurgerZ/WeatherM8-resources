@@ -114,7 +114,6 @@
         <item>MM/dd/yyyy, E</item>
         <item>yyyy/MM/dd, E</item>
     </string-array>
-    </string-array>
     <string-array name="pressure_level_entries">
         <item>해수면</item>
         <item>현재 위치</item>
