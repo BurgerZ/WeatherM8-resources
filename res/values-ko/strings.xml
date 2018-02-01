@@ -228,10 +228,10 @@
     <string name="time_units_minute">" 분"</string>
     <string name="time_units_second">" 초"</string>
 
-    <string name="hourly_forecast_detail_date">MMMd日, E</string>
-    <string name="daily_forecast_detail_date">MMMd日</string>
-    <string name="weather_update_date">MMMMd日</string>
-    <string name="weather_short_month_update_date">yyyy年MMMMd日</string>
+    <string name="hourly_forecast_detail_date">MMM d일, E</string>
+    <string name="daily_forecast_detail_date">MMM d일</string>
+    <string name="weather_update_date">MMMM d일</string>
+    <string name="weather_short_month_update_date">yyyy년 MMMM d일</string>
     <string name="widget_dateformat_default_value">yyyy MMMM d</string>
 
     <!-- Weather alerts -->
