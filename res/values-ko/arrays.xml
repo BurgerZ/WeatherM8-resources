@@ -93,27 +93,26 @@
         <item>Simple</item>
     </string-array>
     <string-array name="widget_dateformat_values">
-        <item>yyyy年MMMMd日</item>
-        <item>d日MMMyyyy年</item>
-        <item>MMMMd日, yyyy</item>
-        <item>MMMd日, yyyy年</item>
+        <item>yyyy년 MMMM d일</item>
+        <item>yyyy년 MMM d일</item>
+        <item>yyyy년, MMMM d일</item>
+        <item>yyyy년, MMM d일</item>
         <item>yy/MM/dd</item>
         <item>yy.MM.dd</item>
         <item>yyyy/MM/dd</item>
         <item>yyyy.MM.dd</item>
-        <item>MM/dd/yyyy</item>
-        <item>dd/MM/yyyy</item>
-        <item>yyyy年MMMMd日, E</item>
-        <item>d日MMMyyyy年, E</item>
-        <item>MMMMd日, yyyy, E</item>
-        <item>MMMd日, yyyy年, E</item>
+        <item>yyyy/dd/MM</item>
+        <item>yyyy/MM/dd</item>
+        <item>yyyy년 MMMMM d일, E</item>
+        <item>yyyy년 MMM d일, E</item>
+        <item>yyyy년, MMMM d일, E</item>
+        <item>yyyy년, MMM d일, E</item>
         <item>yy/MM/dd, E</item>
         <item>yy.MM.dd, E</item>
         <item>yyyy/MM/dd, E</item>
         <item>yyyy.MM.dd, E</item>
         <item>MM/dd/yyyy, E</item>
-        <item>dd/MM/yyyy, E</item>
-    </string-array>
+        <item>yyyy/MM/dd, E</item>
     </string-array>
     <string-array name="pressure_level_entries">
         <item>해수면</item>
