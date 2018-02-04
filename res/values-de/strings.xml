@@ -243,7 +243,7 @@
     <string name="view_indexes_item_tommorrow">Morgen</string>
     <string name="weather_details_daylight_diff_longer">%1$s länger</string>
     <string name="weather_details_daylight_diff_shorter">%1$s kürzer</string>
-    <string name="weather_details_daylight_hours_title">Tageslichtstunden</string>
+    <string name="weather_details_daylight_hours_title">Tageslänge</string>
     <string name="weather_details_elevation_title">Höhe über Meer</string>
     <string name="weather_details_humidity">%1$s%%</string>
     <string name="weather_details_humidity_title">Luftfeuchtigkeit</string>
