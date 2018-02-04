@@ -320,7 +320,7 @@
     <string name="moon_lastquarter">하현달</string>
     <string name="moon_waningcrescent">그믐달</string>
     <string name="moon_illuminated">빛 세기: %s%%</string>
-    <string name="moon_since">날짜: %1$s %2$s</string>
+    <string name="moon_since">날짜: %2$s %1$s일</string>
     <string name="moon_distanse">달까지 거리: %s км</string>
     <string name="moon_angle">달의 각도: %s</string>
     <string name="moon_rise">월출: %s</string>
