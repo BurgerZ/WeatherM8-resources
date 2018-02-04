@@ -102,7 +102,7 @@
     <string name="settings_pressure_unit_mb">mb</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_pressure_unit_in">inHg</string>
-    <string name="settings_wind_unit">바람 속도</string>
+    <string name="settings_wind_unit">풍속</string>
     <string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_knot">knot</string>
