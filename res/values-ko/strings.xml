@@ -232,7 +232,7 @@
     <string name="daily_forecast_detail_date">MMM d일</string>
     <string name="weather_update_date">MMMM d일</string>
     <string name="weather_short_month_update_date">yyyy년 MMMM d일</string>
-    <string name="widget_dateformat_default_value">yyyy년 MMMM d일</string>
+    <string name="widget_dateformat_default_value">MMMM d일</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">알람: %1$d</string>
