@@ -69,7 +69,9 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_autolocate_detailed_summary">Get and show detailed information about your current location, like street, region, country</string>
     <string name="settings_autoupdate_weather_title">Auto update</string>
     <string name="settings_autoupdate_weather_summary">Update weather forecasts automatically</string>
-    <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
+    <string name="settings_update_on_app_start_title">Update on app start</string>
+    <string name="settings_update_on_app_start_summary">Update weather forecast when you launch the application</string>
+    <string name="settings_update_wifi_only_summary">Update weather forecast only when Wi-Fi connection established</string>
     <string name="settings_update_wifi_only_title">Update only on Wi-Fi</string>
     <string name="settings_update_interval_title">Update interval</string>
     <string name="settings_update_quiet_hours_end_time_title">End</string>

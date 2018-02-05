@@ -66,6 +66,8 @@
     <string name="settings_autolocate_detailed_summary">Отображать подробную информацию о вашем местоположении, такую как улица, населенный пункт, регион, страна</string>
     <string name="settings_autoupdate_weather_title">Автообновление</string>
     <string name="settings_autoupdate_weather_summary">Автоматическое обновление прогноза погоды</string>
+    <string name="settings_update_on_app_start_title">Обновлять при запуске</string>
+    <string name="settings_update_on_app_start_summary">Обновлять прогноз погоды каждый раз при запуске программы</string>
     <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Обновлять только по Wi-Fi</string>
     <string name="settings_update_interval_title">Интервал обновления</string>
