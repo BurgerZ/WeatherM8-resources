@@ -145,7 +145,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_widgets_not_found">No hi ha cap giny instal·lat</string>
 
     <string name="settings_ads_title">Publicitat i donacions</string>
-    <string name="settings_ads_donations_title">"Compra'm una cervesa"</string>
+    <string name="settings_ads_donations_title">Comprar-me cafè</string>
     <string name="settings_ads_explanation">"Per què estic veient publicitat?
 Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el meu temps lliure. Així que, si us plau, enteneu l'aparició d'un cert nombre de bàners. La publicació d'anuncis en l'aplicació estimula el desenvolupament posterior."</string>
     <string name="settings_ads_menu_hide_title">Amaga aquest element del menú</string>

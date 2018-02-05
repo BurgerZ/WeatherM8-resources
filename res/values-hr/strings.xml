@@ -137,7 +137,7 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="settings_ads_donation_expl">Donacija putem usluge Google Play dodirom tipke u nastavku NIKADA neće ukloniti oglase. Da ih uklonite, upotrijebite tipku \"Ukloni oglase\".</string>
     <string name="settings_ads_title">Oglasi i donacije</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-    <string name="settings_ads_donations_title">Kupite mi pivo</string>
+    <string name="settings_ads_donations_title">Kupuj mi kavu</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_alerts_title">Upravljaj upozorenjima</string>
     <string name="settings_app_locale_title">Jezik</string>

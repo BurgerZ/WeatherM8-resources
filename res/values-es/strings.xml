@@ -145,7 +145,7 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_widgets_not_found">Ningún widget instalado</string>
 
     <string name="settings_ads_title">Publicidad y donaciones</string>
-    <string name="settings_ads_donations_title">"Cómprame una cerveza"</string>
+    <string name="settings_ads_donations_title">Cómprame café</string>
     <string name="settings_ads_explanation">"¿Por qué estoy viendo publicidad?
 Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi tiempo libre. Así que, por favor, entended la aparición de un cierto número de banners. La publicación de anuncios en la aplicación estimula el desarrollo posterior."</string>
     <string name="settings_ads_menu_hide_title">Ocultar este elemento del menú</string>

@@ -140,7 +140,7 @@
     <string name="settings_widgets_not_found">Нет установленных виджетов</string>
 
     <string name="settings_ads_title">Реклама и пожертвования</string>
-    <string name="settings_ads_donations_title">Купить мне пива</string>
+    <string name="settings_ads_donations_title">Купить мне кофе</string>
     <string name="settings_ads_explanation">"Почему в приложении реклама?
 Написание приложений для Android для меня является хобби, которым я занимаюсь в свое личное свободное время. Поэтому прошу отнестись с пониманием к появлению в программе некоторого количества рекламных баннеров. Отображение рекламы в приложении стимулирует меня к дальнейшей разработке."</string>
     <string name="settings_ads_menu_hide_title">Скрыть этот пункт меню</string>
