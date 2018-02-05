@@ -128,7 +128,7 @@ Controlla le tue impostazioni di rete"</string>
     <string name="radar_title">Immagini radar</string>
     <string name="settings_about">Informazioni</string>
     <string name="settings_ads_donation_expl">Fai donazioni tramite Google Play selezionando una delle opzioni di seguito. Le donazioni non rimuoveranno gli annunci dall'app. Per rimuovere gli annunci selezionare il \"Rimuovi annunci\"</string>
-    <string name="settings_ads_donations_title">Comprami un caffè</string>
+    <string name="settings_ads_donations_title">Offrimi un caffè</string>
     <string name="settings_ads_explanation">"Perché l'app ha annunci?
 Programmare le applicazioni Android è un passatempo che faccio solo nel mio tempo libero. La necessità di annunci nell'app stimola lo sviluppo di versioni future"</string>
     <string name="settings_ads_menu_hide_title">Nascondi icona del menu</string>
@@ -188,6 +188,8 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="settings_translations">"Traduzioni dell'app"</string>
     <string name="settings_translations_summary">"Crediti ai traduttori dell'applicazione, traduci l'app nella tua lingua"</string>
     <string name="settings_update_interval_title">Intervallo aggiornamento</string>
+    <string name="settings_update_on_app_start_summary">Aggiornare le informazioni meteorologiche ogni qualvolta inizia app</string>
+    <string name="settings_update_on_app_start_title">Aggiornare al iniziare</string>
     <string name="settings_update_quiet_hours_end_time_title">Fine</string>
     <string name="settings_update_quiet_hours_start_time_title">Inizio</string>
     <string name="settings_update_quiet_hours_title">Ore Tranquille</string>
