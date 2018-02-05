@@ -188,8 +188,8 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_translations">Traduções</string>
     <string name="settings_translations_summary">Créditos aos tradutores do aplicativo</string>
     <string name="settings_update_interval_title">Intervalo de atualização</string>
-    <string name="settings_update_on_app_start_summary">Atualizar a informação do tempo sempre que iniciar o aplicativo</string>
-    <string name="settings_update_on_app_start_title">Atualizar ao iniciar</string>
+    <string name="settings_update_on_app_start_summary">Atualizar a informação do tempo sempre que entrar no aplicativo</string>
+    <string name="settings_update_on_app_start_title">Atualizar ao entrar no aplicarivo</string>
     <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
     <string name="settings_update_quiet_hours_start_time_title">Hora de início</string>
     <string name="settings_update_quiet_hours_title">Modo sem notificações</string>
