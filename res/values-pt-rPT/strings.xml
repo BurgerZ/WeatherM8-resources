@@ -128,7 +128,7 @@ Verifique as suas definições de rede"</string>
     <string name="radar_title">Imagens de radar</string>
     <string name="settings_about">Acerca de</string>
     <string name="settings_ads_donation_expl">Faça doações via Google Play selecionando uma das opções abaixo. As doações não vão remover os anúncios da aplicação. Para remover os anúncios selecione a opção \"Remover anúncios\"</string>
-    <string name="settings_ads_donations_title">Ofereça-me uma café</string>
+    <string name="settings_ads_donations_title">Ofereça-me um café</string>
     <string name="settings_ads_explanation">"Porque é que a aplicação tem anúncios?
 Programar aplicações Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios na aplicação estimula o desenvolvimento de futuras versões"</string>
     <string name="settings_ads_menu_hide_title">Ocultar este item do menu</string>
@@ -191,6 +191,8 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
     <string name="settings_update_quiet_hours_start_time_title">Hora de início</string>
     <string name="settings_update_quiet_hours_title">Modo sem notificações</string>
+    <string name="settings_update_on_app_start_summary">Atualizar a informação do tempo sempre que iniciar a aplicação</string>
+    <string name="settings_update_on_app_start_title">Atualizar ao iniciar</string>
     <string name="settings_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Atualizar apenas por Wi-Fi</string>
     <string name="settings_visibility_unit">Visibilidade</string>
