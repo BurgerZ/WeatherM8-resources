@@ -69,7 +69,9 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_autolocate_detailed_summary">Obtén i mostra informació detallada sobre la ubicació actual, com ara el carrer, regió i país</string>
     <string name="settings_autoupdate_weather_title">Actualització automàtica</string>
     <string name="settings_autoupdate_weather_summary">Actualitza la previsió meteorològica automàticament</string>
-    <string name="settings_update_wifi_only_summary">"Actualitza automàticament la previsió meteorològica només quan s'estableix una connexió Wi-Fi"</string>
+    <string name="settings_update_on_app_start_title">Actualitza en iniciar l'aplicació</string>
+    <string name="settings_update_on_app_start_summary">Actualitza la previsió meteorològica en iniciar l'aplicació</string>
+    <string name="settings_update_wifi_only_summary">Actualitza la previsió meteorològica només amb Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Actualitza només amb Wi-Fi</string>
     <string name="settings_update_interval_title">"Interval d'actualització"</string>
     <string name="settings_update_quiet_hours_end_time_title">Fi</string>
@@ -145,7 +147,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_widgets_not_found">No hi ha cap giny instal·lat</string>
 
     <string name="settings_ads_title">Publicitat i donacions</string>
-    <string name="settings_ads_donations_title">Comprar-me cafè</string>
+    <string name="settings_ads_donations_title">Compra'm un cafè</string>
     <string name="settings_ads_explanation">"Per què estic veient publicitat?
 Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el meu temps lliure. Així que, si us plau, enteneu l'aparició d'un cert nombre de bàners. La publicació d'anuncis en l'aplicació estimula el desenvolupament posterior."</string>
     <string name="settings_ads_menu_hide_title">Amaga aquest element del menú</string>
