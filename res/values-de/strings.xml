@@ -52,7 +52,7 @@
     <string name="aqi_detail_so2">SO₂</string>
     <string name="aqi_detail_subtitle">AQI %1$s</string>
     <string name="aqi_detail_unit">Einheit: μg/m³ (CO: mg/m³)</string>
-    <string name="aqi_main_publish_time">Aktualisiert am %1$s</string>
+    <string name="aqi_main_publish_time">Aktualisiert um %1$s</string>
     <string name="aqi_main_title">Luftqualität</string>
     <string name="aqi_ring_desc">Luftqualitätsindex</string>
     <string name="aqi_ring_top_pollution">Größte Schadstoffe</string>
