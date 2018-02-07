@@ -69,8 +69,10 @@
     <string name="settings_autolocate_detailed_summary">获取并显示有关您当前位置的详细信息，如街道，地区，国家</string>
     <string name="settings_autoupdate_weather_title">自动更新</string>
     <string name="settings_autoupdate_weather_summary">自动更新天气预报</string>
-    <string name="settings_update_wifi_only_summary">仅在连接Wi-Fi时自动更新天气预报</string>
-    <string name="settings_update_wifi_only_title">连接Wi-Fi时自动更新</string>
+    <string name="settings_update_on_app_start_title">程序启动时更新</string>
+    <string name="settings_update_on_app_start_summary">启动应用程序时更新天气预报</string>
+    <string name="settings_update_wifi_only_summary">只有在连接Wi-Fi才更新天气预报。</string>
+    <string name="settings_update_wifi_only_title">只在Wi-Fi下更新</string>
     <string name="settings_update_interval_title">自动更新频率</string>
     <string name="settings_update_quiet_hours_end_time_title">结束时间</string>
     <string name="settings_update_quiet_hours_start_time_title">开始时间</string>
