@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">Procurar localização</string>
+    <string name="act_find_city_hint">Pesquisar localização</string>
     <string name="act_find_city_hot_title">Selecionar</string>
     <string name="act_set_city_find_side">Localizando…</string>
     <string name="act_set_city_find_side_error">Não foi possível localizar</string>
@@ -9,7 +9,7 @@
     <string name="act_weather_find_city_click_retry">Repetir</string>
     <string name="act_weather_find_city_net_no_good">Não foi possível conectar à rede</string>
     <string name="act_weather_find_city_no_result">Nenhum resultado</string>
-    <string name="act_weather_find_city_searching">Procurando…</string>
+    <string name="act_weather_find_city_searching">Pesquisando…</string>
     <string name="activity_detail_time_format">EEE</string>
     <string name="activity_find_city_dialog_cancel">Cancelar</string>
     <string name="activity_find_city_dialog_message">Permitir que o Weather M8 verifique a sua localização</string>
