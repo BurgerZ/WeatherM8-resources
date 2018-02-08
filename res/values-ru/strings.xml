@@ -21,6 +21,7 @@
     <string name="location_tag">Поиск</string>
     <string name="act_weather_find_city_no_result">Не найдено</string>
     <string name="act_weather_find_city_added">Добавлен</string>
+    <string name="city_exceeded_warning">Вы можете добавить не более 10 городов</string>
     <string name="view_forecast_item_yesterday">Вчера</string>
     <string name="view_indexes_item_today">Сегодня</string>
     <string name="view_indexes_item_tommorrow">Завтра</string>
@@ -56,8 +57,17 @@
 
     <!-- Preferences -->
     <string name="settings_menu_title">Настройки</string>
+    <string name="settings_geolocation_title">Местоположение</string>
+    <string name="settings_autolocate_title">Автоматическое определение</string>
+    <string name="settings_autolocate_summary">Автоматическое определение местоположения вашего устройства</string>
+    <string name="settings_geolocation_names_source_title">Источник имен населенных пунктов</string>
+    <string name="geolocation_names_source_default">По умолчанию</string>
+    <string name="settings_autolocate_detailed_title">Подробная информация</string>
+    <string name="settings_autolocate_detailed_summary">Отображать подробную информацию о вашем местоположении, такую как улица, населенный пункт, регион, страна</string>
     <string name="settings_autoupdate_weather_title">Автообновление</string>
     <string name="settings_autoupdate_weather_summary">Автоматическое обновление прогноза погоды</string>
+    <string name="settings_update_on_app_start_title">Обновлять при запуске</string>
+    <string name="settings_update_on_app_start_summary">Обновлять прогноз погоды каждый раз при запуске программы</string>
     <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Обновлять только по Wi-Fi</string>
     <string name="settings_update_interval_title">Интервал обновления</string>
@@ -130,7 +140,7 @@
     <string name="settings_widgets_not_found">Нет установленных виджетов</string>
 
     <string name="settings_ads_title">Реклама и пожертвования</string>
-    <string name="settings_ads_donations_title">Купить мне пива</string>
+    <string name="settings_ads_donations_title">Купить мне кофе</string>
     <string name="settings_ads_explanation">"Почему в приложении реклама?
 Написание приложений для Android для меня является хобби, которым я занимаюсь в свое личное свободное время. Поэтому прошу отнестись с пониманием к появлению в программе некоторого количества рекламных баннеров. Отображение рекламы в приложении стимулирует меня к дальнейшей разработке."</string>
     <string name="settings_ads_menu_hide_title">Скрыть этот пункт меню</string>
@@ -275,6 +285,7 @@
     <string name="widget_config_show_cityname_title">Показывать название города</string>
     <string name="widget_config_show_local_time_title">Показывать местное время</string>
     <string name="widget_config_show_leading_zero_title">Показывать первый ноль в часах</string>
+    <string name="widget_config_show_ampm_title">Показывать AM/PM (12ч формат)</string>
 
     <string name="widget_config_click_settings">Настройка нажатий на области виджета</string>
     <string name="widget_config_click_apps">Выберите приложение</string>
@@ -336,7 +347,7 @@
     <!-- Radar -->
     <string name="radar_title">Карта</string>
     <string name="radar_tab_cloud">Облачность</string>
-    <string name="radar_tab_rain">Дождь</string>
+    <string name="radar_tab_rain">Осадки</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
 
     <string name="loading_data">Загрузка данных…</string>

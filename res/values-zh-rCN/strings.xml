@@ -10,7 +10,8 @@
     <string name="act_set_city_find_side">定位中…</string>
     <string name="act_set_city_find_side_error">"定位失败"</string>
     <string name="button_add_city">添加</string>
-    <string name="locate_fail_detail_err">"定位失败，点击屏幕重新定位或手动添加城市"</string>
+    <string name="locate_fail_detail_err">"定位失败
+    点击屏幕重新定位或手动添加城市"</string>
     <string name="act_set_city_swipe_hint">向左滑动删除城市</string>
     <string name="button_allow">确定</string>
     <string name="button_not_allow">取消</string>
@@ -20,6 +21,7 @@
     <string name="location_tag">位置</string>
     <string name="act_weather_find_city_no_result">没有结果</string>
     <string name="act_weather_find_city_added">已添加</string>
+    <string name="city_exceeded_warning">您最多可以添加10个城市</string>
     <string name="view_forecast_item_yesterday">昨天</string>
     <string name="view_indexes_item_today">今天</string>
     <string name="view_indexes_item_tommorrow">明天</string>
@@ -57,10 +59,20 @@
 
     <!-- Preferences -->
     <string name="settings_menu_title">设置</string>
+    <string name="settings_geolocation_title">地点</string>
+    <string name="settings_autolocate_title">自动定位</string>
+    <string name="settings_autolocate_summary">自动确定设备所在的位置</string>
+    <string name="settings_geolocation_names_source_title">位置名称来源</string>
+    <string name="geolocation_names_source_default">默认</string>
+    <string name="geolocation_names_source_google">谷歌</string>
+    <string name="settings_autolocate_detailed_title">详细位置信息</string>
+    <string name="settings_autolocate_detailed_summary">获取并显示有关您当前位置的详细信息，如街道，地区，国家</string>
     <string name="settings_autoupdate_weather_title">自动更新</string>
     <string name="settings_autoupdate_weather_summary">自动更新天气预报</string>
-    <string name="settings_update_wifi_only_summary">仅在连接Wi-Fi时自动更新天气预报</string>
-    <string name="settings_update_wifi_only_title">连接Wi-Fi时自动更新</string>
+    <string name="settings_update_on_app_start_title">程序启动时更新</string>
+    <string name="settings_update_on_app_start_summary">启动应用程序时更新天气预报</string>
+    <string name="settings_update_wifi_only_summary">只有在连接Wi-Fi才更新天气预报。</string>
+    <string name="settings_update_wifi_only_title">只在Wi-Fi下更新</string>
     <string name="settings_update_interval_title">自动更新频率</string>
     <string name="settings_update_quiet_hours_end_time_title">结束时间</string>
     <string name="settings_update_quiet_hours_start_time_title">开始时间</string>
@@ -71,7 +83,7 @@
     <string name="settings_weather_realtime_spider_title">实时数据</string>
     <string name="settings_weather_forecast_spider_title">预报数据</string>
     <string name="settings_weather_station_title">气象站</string>
-        <string name="settings_weather_data_order_title">天气数据排序</string>
+    <string name="settings_weather_data_order_title">天气数据排序</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">空气质量信息</string>
     <string name="settings_aqi_onoff_summary">显示您所在地区的空气质量(如果可供使用)</string>
@@ -135,7 +147,7 @@
     <string name="settings_widgets_not_found">未放置小工具</string>
 
     <string name="settings_ads_title">去除广告与捐款</string>
-    <string name="settings_ads_donations_title">请我喝啤酒</string>
+    <string name="settings_ads_donations_title">给我买咖啡</string>
     <string name="settings_ads_explanation">"为什么你会看到广告？
 在空闲时间写Android程序是我的爱好。所以请理解一定数量的广告能使此应用发展得更好。"</string>
     <string name="settings_ads_menu_hide_title">隐藏此菜单</string>
@@ -143,7 +155,7 @@
     <string name="settings_ads_remove_summary">移除广告一周 (每月一次)</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_ads_webmoney">Webmoney</string>
-	<string name="settings_ads_donation_expl">使用下面的Google Play捐款按钮并不会移除广告。如果要移除广告请使用 \"去除广告\" 按钮</string>
+    <string name="settings_ads_donation_expl">使用下面的Google Play捐款按钮并不会移除广告。如果要移除广告请使用 \"去除广告\" 按钮</string>
     <string name="settings_about">关于</string>
     <string name="settings_translations">应用翻译</string>
     <string name="settings_translations_summary">感谢翻译者们</string>
@@ -270,8 +282,8 @@
     <string name="widget_config_dateformat_title">日期格式</string>
     <string name="widget_config_realtime_font_title">温度字体</string>
     <string name="widget_config_realtime_font_size_title">温度字体大小</string>
-	<string name="widget_config_realtime_icon_size_title">目前天气图标大小</string>
-	<string name="widget_config_forecast_icon_size_title">预测天气图标大小</string>
+    <string name="widget_config_realtime_icon_size_title">目前天气图标大小</string>
+    <string name="widget_config_forecast_icon_size_title">预测天气图标大小</string>
     <string name="widget_config_font_title">文本字体</string>
     <string name="widget_config_font_size_title">文本大小</string>
     <string name="widget_config_text_color_title">文本颜色</string>
@@ -288,6 +300,7 @@
     <string name="widget_config_show_cityname_title">显示城市名称</string>
     <string name="widget_config_show_local_time_title">显示当地时间</string>
     <string name="widget_config_show_leading_zero_title">显示时间开头的零</string>
+    <string name="widget_config_show_ampm_title">显示 AM/PM （12小时格式）</string>
 
     <string name="widget_config_click_settings">小工具点击功能</string>
     <string name="widget_config_click_apps">选择应用程序</string>
@@ -368,7 +381,7 @@
     <!-- Radar -->
     <string name="radar_title">雷达图</string>
     <string name="radar_tab_cloud">卫星云图</string>
-    <string name="radar_tab_rain">降水图</string>
+    <string name="radar_tab_rain">降水</string>
     <string name="radar_date_format">MM/dd HH:mm</string>
     <string name="loading_data">数据加载中…</string>
 </resources>

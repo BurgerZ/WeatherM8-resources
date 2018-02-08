@@ -34,7 +34,7 @@
         <item>Déluge</item>
         <item>Pluie soutenue</item>
         <item>Orage</item>
-        <item>Douche</item> <!-- really? shower? -->
+        <item>Douche</item>
         <item>Pluie diluvienne</item>
         <item>Averses</item>
         <item>Petites averses</item>
@@ -69,11 +69,11 @@
         <item>Température</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Le plus bas</item>
-        <item>Bas</item>
-        <item>Moyen</item>
-        <item>Haut</item>
-        <item>Le plus haut</item>
+        <item>Le plus bas</item> <!-- 0-2.9 -->
+        <item>Bas</item> <!-- 3-5.9 -->
+        <item>Moyen</item> <!-- 6-7.9 -->
+        <item>Haut</item> <!-- 8-10.9 -->
+        <item>Le plus haut</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 minutes</item>
@@ -86,5 +86,26 @@
         <item>6 heures</item>
         <item>12 heures</item>
         <item>24 heures</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Niveau de mer</item>
+        <item>Niveau de localisation</item>
+        <item>Capteur de pression(si disponible)</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bon</item>
+        <item>Modéré</item>
+        <item>Malsain pour les groupes sensibles</item>
+        <item>Malsain</item>
+        <item>Très malsain</item>
+        <item>Dangereux</item>
     </string-array>
 </resources>

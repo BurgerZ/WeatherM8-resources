@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">El temps M8</string>
     <string name="app_version">Versió: %s</string>
@@ -21,6 +21,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="location_tag">Ubicació</string>
     <string name="act_weather_find_city_no_result">Cap resultat</string>
     <string name="act_weather_find_city_added">Afegida</string>
+    <string name="city_exceeded_warning">Podeu afegir fins a 10 ciutats</string>
     <string name="view_forecast_item_yesterday">Ahir</string>
     <string name="view_indexes_item_today">Avui</string>
     <string name="view_indexes_item_tommorrow">Demà</string>
@@ -58,9 +59,19 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
 
     <!-- Preferences -->
     <string name="settings_menu_title">Configuració</string>
+    <string name="settings_geolocation_title">Ubicació</string>
+    <string name="settings_autolocate_title">Ubicació automàtica</string>
+    <string name="settings_autolocate_summary">Ubica el dispositiu automàticament</string>
+    <string name="settings_geolocation_names_source_title">Font dels noms de geolocalització</string>
+    <string name="geolocation_names_source_default">Per defecte</string>
+    <string name="geolocation_names_source_google">Google</string>
+    <string name="settings_autolocate_detailed_title">Informació detallada sobre la ubicació</string>
+    <string name="settings_autolocate_detailed_summary">Obtén i mostra informació detallada sobre la ubicació actual, com ara el carrer, regió i país</string>
     <string name="settings_autoupdate_weather_title">Actualització automàtica</string>
     <string name="settings_autoupdate_weather_summary">Actualitza la previsió meteorològica automàticament</string>
-    <string name="settings_update_wifi_only_summary">"Actualitza automàticament la previsió meteorològica només quan s'estableix una connexió Wi-Fi"</string>
+    <string name="settings_update_on_app_start_title">Actualitza en iniciar l'aplicació</string>
+    <string name="settings_update_on_app_start_summary">Actualitza la previsió meteorològica en iniciar l'aplicació</string>
+    <string name="settings_update_wifi_only_summary">Actualitza la previsió meteorològica només amb Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Actualitza només amb Wi-Fi</string>
     <string name="settings_update_interval_title">"Interval d'actualització"</string>
     <string name="settings_update_quiet_hours_end_time_title">Fi</string>
@@ -72,7 +83,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_weather_realtime_spider_title">Dades en temps real</string>
     <string name="settings_weather_forecast_spider_title">Dades de previsió</string>
     <string name="settings_weather_station_title">Estació meteorològica</string>
-	<string name="settings_weather_data_order_title">Ordre de les dades meteorològiques</string>
+    <string name="settings_weather_data_order_title">Ordre de les dades meteorològiques</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">"Informació sobre la qualitat de l'aire"</string>
     <string name="settings_aqi_onoff_summary">"Mostra la informació de l'índex de qualitat de l'aire a les ubicacions (si està disponible)"</string>
@@ -136,7 +147,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_widgets_not_found">No hi ha cap giny instal·lat</string>
 
     <string name="settings_ads_title">Publicitat i donacions</string>
-    <string name="settings_ads_donations_title">"Compra'm una cervesa"</string>
+    <string name="settings_ads_donations_title">Compra'm un cafè</string>
     <string name="settings_ads_explanation">"Per què estic veient publicitat?
 Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el meu temps lliure. Així que, si us plau, enteneu l'aparició d'un cert nombre de bàners. La publicació d'anuncis en l'aplicació estimula el desenvolupament posterior."</string>
     <string name="settings_ads_menu_hide_title">Amaga aquest element del menú</string>
@@ -213,11 +224,11 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="weather_details_daylight_diff_longer">%1$s més</string>
     <string name="weather_details_daylight_diff_shorter">%1$s menys</string>
 	
-	<string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">min</string>
-    <string name="time_units_second">s</string>
+    <string name="time_units_hour">" h"</string>
+    <string name="time_units_minute">" min"</string>
+    <string name="time_units_second">" s"</string>
 
     <string name="hourly_forecast_detail_date">E, d MMM</string>
     <string name="daily_forecast_detail_date">d MMM</string>
@@ -264,7 +275,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <!-- Widget config -->
     <string name="widget_config_title">Configuració del giny</string>
     <string name="widget_config_custom_clock_font_onoff_title">Font del rellotge personalizada</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">"Desactiva-ho si el giny del rellote no s'actualitza"</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">"Desactiva-ho si el giny del rellotge no s'actualitza"</string>
     <string name="widget_config_clock_font_title">Font del rellotge</string>
     <string name="widget_config_clock_color_title">Color del rellotge</string>
     <string name="widget_config_clock_font_size_title">Mida de la font del rellotge</string>
@@ -278,16 +289,19 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_font_size_title">Mida del text</string>
     <string name="widget_config_text_color_title">Color del text</string>
     <string name="widget_config_show_alarm_title">Mostra la propera alarma</string>
-	<string name="widget_config_show_date_title">Mostra la data</string>
+    <string name="widget_config_show_date_title">Mostra la data</string>
     <string name="widget_config_use_background_title">Mostra el giny en segon plà</string>
     <string name="widget_config_background_color_title">Color del segon plà</string>
     <string name="widget_config_background_type_title">Tipus de segon plà</string>
     <string name="widget_config_background_type_solid">Sòlid</string>
     <string name="widget_config_background_type_border">Vora</string>
 
+    <string name="widget_config_show_text_shadow_title">Mostra ombra al text</string>
+    <string name="widget_config_show_realtime_icon_title">Mostra la icona del temps actual</string>
     <string name="widget_config_show_cityname_title">Mostra el nom de la ciutat</string>
     <string name="widget_config_show_local_time_title">"Mostra l'hora local"</string>
     <string name="widget_config_show_leading_zero_title">Mostra el zero inicial</string>
+    <string name="widget_config_show_ampm_title">Mostra AM/PM (format 12 h)</string>
 
     <string name="widget_config_click_settings">"Feu clic en la configuració d'àrees del giny"</string>
     <string name="widget_config_click_apps">Seleccioneu una aplicació</string>
@@ -368,7 +382,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <!-- Radar -->
     <string name="radar_title">Radar</string>
     <string name="radar_tab_cloud">Nuvolositat</string>
-    <string name="radar_tab_rain">Pluja</string>
+    <string name="radar_tab_rain">Precipitació</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
 
     <string name="loading_data">"S'estan carregant les dades…"</string>

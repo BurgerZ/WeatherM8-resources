@@ -252,6 +252,4 @@
     <string name="settings_app_locale_title">Език</string>
     <string name="activity_main_expire_time">Изтича %1$s</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
-
 </resources>
-

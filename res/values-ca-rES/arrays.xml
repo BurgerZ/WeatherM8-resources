@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation">
+<resources>
     <string-array name="hot_city">
         <item>Pequín</item>
         <item>Amsterdam</item>
@@ -93,6 +91,28 @@
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+         <item>d MMMM yyyy</item>
+         <item>d MMM yyyy</item>
+         <item>MMMM d, yyyy</item>
+         <item>MMM d, yyyy</item>
+         <item>dd/MM/yy</item>
+         <item>dd.MM.yy</item>
+         <item>dd/MM/yyyy</item>
+         <item>dd.MM.yyyy</item>
+         <item>MM/dd/yyyy</item>
+         <item>yyyy/MM/dd</item>
+         <item>E, d MMMM yyyy</item>
+         <item>E, d MMM yyyy</item>
+         <item>E, MMMM d, yyyy</item>
+         <item>E, MMM d, yyyy</item>
+         <item>E, dd/MM/yy</item>
+         <item>E, dd.MM.yy</item>
+         <item>E, dd/MM/yyyy</item>
+         <item>E, dd.MM.yyyy</item>
+         <item>E, MM/dd/yyyy</item>
+         <item>E, yyyy/MM/dd</item>
     </string-array>
     <string-array name="pressure_level_entries">
         <item>Nivell del mar</item>

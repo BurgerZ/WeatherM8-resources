@@ -15,7 +15,7 @@
     <string name="activity_find_city_dialog_message">Permiteţi utilizarea locaţiei dvs.</string>
     <string name="activity_find_city_dialog_set">Setări</string>
     <string name="activity_find_city_dialog_title">Acces la locaţie</string>
-    <string name="activity_main_alert">Alertele: %1$d</string>
+    <string name="activity_main_alert">Alerte: %1$d</string>
     <string name="activity_main_refresh_fail">Nu se poate conecta la rețea</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Actualizat %1$s</string>
@@ -273,7 +273,7 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_aqi_onoff_summary">Afișare informații despre indicele de calitate a aerului pentru locațiile dvs. (dacă sunt disponibile)</string>
     <string name="settings_aqi_max_distance_closest">Cea mai apropiată staţie</string>
     <string name="settings_notification_statusbar_color_title">Culoare pictogramă de notificare</string>
-    <string name="settings_ads_donations_title">Cumpăraţi-mi o bere</string>
+    <string name="settings_ads_donations_title">Cumpara-mi cafea</string>
     <string name="settings_ads_donation_expl">Donarea prin Google Play apăsând aceste butoane nu va duce la eliminarea anunțurilor. Pentru a le elimina, ar trebui să utilizați butonul \"Eliminați anunțurile\".</string>
     <string name="widget_config_realtime_icon_size_title">Dimensiunea curentă a pictogramei meteo</string>
     <string name="widget_config_forecast_icon_size_title">Dimensiunea pictogramei prognozei meteo</string>
@@ -281,5 +281,32 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="weather_details_daylight_diff_longer">Cu %1$s mai lung</string>
     <string name="weather_details_daylight_diff_shorter">Cu %1$s mai scurt</string>
     <string name="widget_config_show_date_title">Afişare dată</string>
+    <string name="widget_config_show_realtime_icon_title">Afișare pictogramă meteo curent</string>
+    <string name="widget_config_show_text_shadow_title">Afişare umbră text</string>
+    <string name="radar_tab_cloud">Nori</string>
+    <string name="radar_tab_rain">Precipitare</string>
+    <string name="radar_date_format">dd/MM HH:mm</string>
+    <string name="loading_data">Încărcare date…</string>
+    <string name="settings_weather_data_order_title">Ordinea datelor meteo</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    
+    <!-- Weather alerts -->
+    <string name="activity_main_alert_precip">Se aşteaptă %1$s. Cantitatea zilnică de precipitații: %2$s.</string>
+    <string name="activity_main_alert_wind">Se așteaptă vânt cu viteza maximă de până la %1$s.</string>
+    <string name="activity_main_alert_wind_gusts">Se aşteaptă rafale de vânt cu viteza maximă de până la %1$s.</string>
+    <string name="activity_main_alert_tstorm">Se așteaptă furtuni cu o probabilitate de %1$s.</string>
+    <string name="activity_main_alert_day_night">Ziua se aşteaptă %1$s, noaptea %2$s.</string>
+    <string name="activity_main_alert_type_rain">Ploaie</string>
+    <string name="activity_main_alert_type_snow">Zăpadă</string>
+    <string name="activity_main_alert_type_ice">Gheaţă</string>
+    <string name="activity_main_alert_type_wind">Vânt</string>
+    <string name="activity_main_alert_type_wind_gusts">Rafale de vânt</string>
+    <string name="activity_main_alert_type_tstorm">Furtuni</string>
+    <string name="activity_main_alert_unit_mm">mm</string>
+    <string name="activity_main_alert_unit_cm">cm</string>
+    <string name="activity_main_alert_unit_inch">in</string>
+    <string name="activity_main_alert_unit_kmh">km/h</string>
+    <string name="activity_main_alert_unit_mph">mph</string>
+    <string name="activity_main_alert_unit_mps">m/s</string>
     
 </resources>

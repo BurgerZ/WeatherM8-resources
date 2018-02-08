@@ -2,7 +2,7 @@
 <resources>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">hace %d minutos</item>
-        <item quantity="one">hace %d Minuto</item>
+        <item quantity="one">hace %d minuto</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">hace %d horas</item>

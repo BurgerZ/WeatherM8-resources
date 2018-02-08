@@ -176,6 +176,4 @@
     <string name="settings_app_locale_title">لغة</string>
     <string name="activity_main_expire_time">%1$s تنتهي</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
-
 </resources>
-

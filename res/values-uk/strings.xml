@@ -61,9 +61,9 @@
     <string name="settings_update_wifi_only_summary">Оновлювати прогноз погоди лише за наявності з\'єднання з мережею Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Оновлювати лише по Wi-Fi</string>
     <string name="settings_update_interval_title">Інтервал оновлення</string>
-	<string name="settings_update_quiet_hours_end_time_title">Кінець</string>
+    <string name="settings_update_quiet_hours_end_time_title">Кінець</string>
     <string name="settings_update_quiet_hours_start_time_title">Початок</string>
-	<string name="settings_update_quiet_hours_title">Тихі години</string>
+    <string name="settings_update_quiet_hours_title">Тихі години</string>
     <string name="settings_weather_transfer_title">Перехід прогнозу день-ніч</string>
     <string name="settings_weather_transfer_summary">Відображати в описі прогнозу погоди перехід від денного опису до нічного</string>
     <string name="settings_weather_spider_title">Джерело оновлення</string>
@@ -76,21 +76,21 @@
     <string name="settings_aqi_max_distance_closest">Найближча станція</string>
     <string name="settings_aqi_max_distance_title">Радіус перевірки</string>
     <string name="settings_aqi_max_distance_summary">Отримувати дані про якість повітря від метеостанцій, віддалених на відстань не більше %1$s</string>
-	<string name="settings_app_locale_title">Мова</string>
+    <string name="settings_app_locale_title">Мова</string>
     <string name="settings_app_theme_title">Тема</string>
     <string name="settings_app_theme_light">Світла</string>
     <string name="settings_app_theme_dark">Темна</string>
-	<string name="settings_sound_volume">Гучність звуку</string>
+    <string name="settings_sound_volume">Гучність звуку</string>
     <string name="settings_category_units">Одиниці вимірювання</string>
     <string name="settings_pressure_unit">Тиск</string>
-	<string name="settings_pressure_unit_atm">атм</string>
+    <string name="settings_pressure_unit_atm">атм</string>
     <string name="settings_pressure_unit_hpa">гПа</string>
     <string name="settings_pressure_unit_mb">мбар</string>
     <string name="settings_pressure_unit_mm">мм.рт.ст.</string>
     <string name="settings_pressure_unit_in">дюйм рт.ст.</string>
     <string name="settings_wind_unit">Швидкість вітру</string>
     <string name="settings_wind_unit_kmh">км/год</string>
-	<string name="settings_wind_unit_knot">вузлів</string>
+    <string name="settings_wind_unit_knot">вузлів</string>
     <string name="settings_wind_unit_ms">м/с</string>
     <string name="settings_wind_unit_mph">миль/год</string>
     <string name="settings_temp_unit">Температура</string>
@@ -105,7 +105,7 @@
     <string name="settings_show_plus_sign_temp_title">Показувати "+" для температур</string>
     <string name="settings_show_plus_sign_temp_summary">Відображення знака "+" перед плюсовим значеннями температури</string>
     
-	<string name="settings_pressure_level_title">Показувати тиск для</string>
+    <string name="settings_pressure_level_title">Показувати тиск для</string>
 
     <string name="settings_city_base">База міст</string>
 
@@ -118,30 +118,30 @@
     <string name="settings_notification_priority_summary">Сповіщення з мінімальним пріоритетом відображаються лише у шторці сповіщень</string>
 
     <string name="settings_notify_type_title">Іконка сповіщення</string>
-	<string name="settings_notification_statusbar_color_title">Колір іконки сповіщень</string>
+    <string name="settings_notification_statusbar_color_title">Колір іконки сповіщень</string>
 
     <string name="settings_alerts_title">Керування попередженнями</string>
 
     <string name="settings_icons_title">Іконки погоди</string>
     <string name="settings_icons_theme_details_title">Опис теми</string>
 	
-	<string name="settings_widgets_title">Віджети</string>
+    <string name="settings_widgets_title">Віджети</string>
     <string name="settings_widgets_not_found">Немає встановленних віджетів</string>
 	
     <string name="settings_ads_title">Реклама та пожертви</string>
-	<string name="settings_ads_donations_title">Купити мені пивасіка)</string>
+    <string name="settings_ads_donations_title">Купити мені кави)</string>
     <string name="settings_ads_explanation">"Чому у програмі міститься реклама?
 Написання програм для Android для мене є хобі, яким я займаюся у власний вільний час. Тому прошу поставитися з розумінням до появи в програмі деякої кількості рекламних банерів. Показ реклами у програмі стимулює мене до подальшої розробки."</string>
     <string name="settings_ads_menu_hide_title">Приховати цей пункт меню</string>
     <string name="settings_ads_remove_title">Вимкнути рекламу</string>
     <string name="settings_ads_remove_summary">Вимкнути рекламу на тиждень (один раз на місяць)</string>
     <string name="settings_ads_yandex">Яндекс.Гроші</string>
-	 <string name="settings_ads_donation_expl">Пожертвування за допомогою Google Play шляхом натискання на одну з кнопок, розташованих нижче, НЕ відключить рекламу в додатку. Для її відключення ви повинні скористатися кнопкою \"Вимкнути рекламу\".</string>
+    <string name="settings_ads_donation_expl">Пожертвування за допомогою Google Play шляхом натискання на одну з кнопок, розташованих нижче, НЕ відключить рекламу в додатку. Для її відключення ви повинні скористатися кнопкою \"Вимкнути рекламу\".</string>
     <string name="settings_about">Про програму</string>
     <string name="settings_translations">Переклад програми</string>
     <string name="settings_translations_summary">Список перекладачів програми, переклад програми Вашою мовою</string>
     <string name="settings_thirdparty">Сторонні ресурси та бібліотеки</string>
-	<string name="settings_permissions">Дозволи</string>
+    <string name="settings_permissions">Дозволи</string>
     <string name="settings_help">Допомога</string>
     <string name="settings_feedback">Написати розробнику</string>
     <string name="settings_dialog_enter_timezone">Введіть часовий пояс для обраного міста (%s), наприклад, GMT+03:00:</string>
@@ -179,7 +179,7 @@
     <string name="weather_details_title">Подробиці</string>
     <string name="weather_details_wind_title">Вітер</string>
     <string name="weather_details_real_feel_title">Відчувається</string>
-	<string name="weather_details_temperature_title">Температура</string>
+    <string name="weather_details_temperature_title">Температура</string>
     <string name="weather_details_uv_index_title">Індекс УФ</string>
     <string name="weather_details_pressure_title">Тиск</string>
     <string name="weather_details_humidity_title">Вологість</string>
@@ -191,7 +191,7 @@
 
     <string name="weather_details_wind_connect">%2$s %1$s</string>
     <string name="weather_details_pressure">%1$s гПа</string>
-	<string name="weather_details_pressure_atm">%1$s атм</string>
+    <string name="weather_details_pressure_atm">%1$s атм</string>
     <string name="weather_details_pressure_mb">%1$s мбар</string>
     <string name="weather_details_pressure_mm">%1$s мм.рт.ст.</string>
     <string name="weather_details_pressure_in">%1$s дюйм рт.ст.</string>
@@ -202,10 +202,10 @@
 
     <string name="weather_details_update_date_string">Станом на: %s</string>
 
-	<string name="weather_details_daylight_diff_longer">На %1$s довше</string>
+    <string name="weather_details_daylight_diff_longer">На %1$s довше</string>
     <string name="weather_details_daylight_diff_shorter">На %1$s коротше</string>
     
-	<string name="time_units_hour">" год"</string>
+    <string name="time_units_hour">" год"</string>
     <string name="time_units_minute">" хв"</string>
     <string name="time_units_second">" сек"</string>
 
@@ -219,7 +219,7 @@
     <string name="hourly_forecast_title">Погодинний прогноз</string>
 
     <string name="wind_unit">%1$s км/год</string>
-	<string name="wind_unit_knot">%1$s вузл.</string>
+    <string name="wind_unit_knot">%1$s вузл.</string>
     <string name="wind_unit_ms">%1$s м/с</string>
     <string name="wind_unit_mph">%1$s миль/год</string>
 
@@ -237,7 +237,7 @@
     <string name="widget_config_dateformat_title">Формат дати</string>
     <string name="widget_config_realtime_font_title">Шрифт поточних даних</string>
     <string name="widget_config_realtime_font_size_title">Розмір тексту поточних даних</string>
-	 <string name="widget_config_realtime_icon_size_title">Розмір іконки поточної погоди</string>
+    <string name="widget_config_realtime_icon_size_title">Розмір іконки поточної погоди</string>
     <string name="widget_config_forecast_icon_size_title">Розмір іконок погоди прогнозу</string>
     <string name="widget_config_text_color_title">Колір тексту</string>
     <string name="widget_config_font_title">Шрифт тексту</string>
@@ -251,9 +251,9 @@
 
     <string name="widget_config_show_text_shadow_title">Показувати тінь тексту</string>
     <string name="widget_config_show_realtime_icon_title">Показувати іконку поточної погоди</string>
-	<string name="widget_config_show_cityname_title">Показувати назву міста</string>
+    <string name="widget_config_show_cityname_title">Показувати назву міста</string>
     <string name="widget_config_show_local_time_title">Показувати місцевий час</string>
-	<string name="widget_config_show_leading_zero_title">Показувати перший ноль в годиннику</string>
+    <string name="widget_config_show_leading_zero_title">Показувати перший ноль в годиннику</string>
 
     <string name="widget_config_click_settings">Налаштування натискань на області віджета</string>
     <string name="widget_config_click_apps">Оберіть програму</string>
@@ -277,7 +277,7 @@
     <string name="moon_since">Дата: %1$s %2$s</string>
     <string name="moon_distanse">Відстань: %s км</string>
     <string name="moon_angle">Кут: %s</string>
-	<string name="moon_rise">Схід: %s</string>
+    <string name="moon_rise">Схід: %s</string>
     <string name="moon_set">Захід: %s</string>
     <string name="moon_zodiac">Зодіак: %s</string>
 
@@ -315,7 +315,7 @@
     <!-- Radar -->
     <string name="radar_title">Карта</string>
     <string name="radar_tab_cloud">Хмарність</string>
-    <string name="radar_tab_rain">Дощ</string>
+    <string name="radar_tab_rain">Опади</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
 
     <string name="loading_data">Завантаження даних…</string>

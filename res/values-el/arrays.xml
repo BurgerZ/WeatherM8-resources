@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
+        <item>Αθήνα</item>
         <item>Πεκίνο</item>
         <item>Άμστερνταμ</item>
         <item>Βαρσοβία</item>
@@ -27,15 +28,15 @@
     </string-array>
     <string-array name="weather_type">
         <item>Ηλιόλουστος</item>
-        <item>Συννεφιασμένος</item>
+        <item>Συννεφιά</item>
         <item>Νεφελώδης</item>
         <item>Ομιχλώδης</item>
         <item>Βαριά νεροποντή</item>
         <item>Νεροποντή</item>
-        <item>Νεροποντή</item>
         <item>Καταιγίδα</item>
-        <item>"Ντούζ"</item>
-        <item>Έντονες βροχοπτώσεις</item>
+        <item>Θύελλα</item>
+        <item>Ψιχάλες</item>
+        <item>Έντονη βροχόπτωση</item>
         <item>Μέτρια βροχόπτωση</item>
         <item>Ασθενής βροχή</item>
         <item>Χιονόνερο</item>
@@ -69,9 +70,9 @@
         <item>Θερμοκρασία</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Ασθενέστερες</item>
+        <item>Ασφαλής</item>
         <item>Ασθενής</item>
-        <item>Μέτρια</item>
+        <item>Μέτριος</item>
         <item>Ισχυρός</item>
         <item>Πολύ Ισχυρός</item>
     </string-array>
@@ -91,5 +92,47 @@
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Απλό</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+        <item>E, d MMMM yyyy</item>
+        <item>E, d MMM yyyy</item>
+        <item>E, MMMM d, yyyy</item>
+        <item>E, MMM d, yyyy</item>
+        <item>E, dd/MM/yy</item>
+        <item>E, dd.MM.yy</item>
+        <item>E, dd/MM/yyyy</item>
+        <item>E, dd.MM.yyyy</item>
+        <item>E, MM/dd/yyyy</item>
+        <item>E, yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Επίπεδο θάλασσας</item>
+        <item>Επίπεδο τοποθεσίας</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Καλός</item>
+        <item>Μέτριος</item>
+        <item>Ανθυγιεινός για ευαίσθητες ομάδες</item>
+        <item>Ανθυγιεινός</item>
+        <item>Πολύ Ανθυγιεινός</item>
+        <item>Επικίνδυνος</item>
     </string-array>
 </resources>
