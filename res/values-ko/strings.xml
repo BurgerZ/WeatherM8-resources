@@ -72,7 +72,6 @@
     <string name="settings_update_on_app_start_title">앱 시작시 업데이트</string>
     <string name="settings_update_on_app_start_summary">프로그램이 실행될 때 일기예보를 업데이트</string>
     <string name="settings_update_wifi_only_summary">Wi-Fi가 연결되어 있을 때만 일기예보를 업데이트</string>
-    <string name="settings_update_wifi_only_summary">Wi-Fi가 연결되어 있을 때만 일기예보를 자동으로 업데이트</string>
     <string name="settings_update_wifi_only_title">Wi-Fi에서만 업데이트</string>
     <string name="settings_update_interval_title">업데이트 주기</string>
     <string name="settings_update_quiet_hours_end_time_title">종료</string>
