@@ -152,7 +152,7 @@
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_autolocate_detailed_title">Detaillierte Standortinformationen</string>
     <string name="settings_autolocate_detailed_summary">Erhalten und zeigen Sie detaillierte Informationen über Ihren aktuellen Standort, wie Straße, Region, Land, etc.</string>
-    <string name="settings_autolocate_summary">Automatisches Auffinden des Geräts</string>
+    <string name="settings_autolocate_summary">Automatische Ortung des Geräts</string>
     <string name="settings_autolocate_title">Automatische Ortung</string>
     <string name="settings_autoupdate_weather_summary">Wettervorschau automatisch aktualisieren</string>
     <string name="settings_autoupdate_weather_title">Automatisches Update</string>
