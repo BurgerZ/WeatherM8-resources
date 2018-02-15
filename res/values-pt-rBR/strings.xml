@@ -182,7 +182,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_realtime_feelslike_as_main_title">Sensação térmica</string>
     <string name="settings_show_plus_sign_temp_summary">Mostrar sinal "+" para temperaturas positivas</string>
     <string name="settings_show_plus_sign_temp_title">Mostrar sinal "+"</string>
-    <string name="settings_sound_volume">Volume de dos alertas</string>
+    <string name="settings_sound_volume">Volume dos alertas</string>
     <string name="settings_temp_unit">Temperatura</string>
     <string name="settings_thirdparty">Bibliotecas e recursos de terceiros</string>
     <string name="settings_translations">Traduções</string>
