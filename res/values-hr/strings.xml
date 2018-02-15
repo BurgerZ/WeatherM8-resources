@@ -296,11 +296,11 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="widget_config_realtime_icon_size_title">Trenutna velikost ikon vremena</string>
     <string name="widget_config_forecast_icon_size_title">Trenutna velikost ikon napovedi</string>
     <string name="widget_config_realtime_font_title">Font podataka stvar. vremena</string>
-	<string name="widget_config_realtime_icon_size_title">Veličina ikone trenutnog vremena</string>
+    <string name="widget_config_realtime_icon_size_title">Veličina ikone trenutnog vremena</string>
     <string name="widget_config_show_alarm_title">Prikaži naredni alarm</string>
-	<string name="widget_config_show_ampm_title">Prikaži AM/PM (12h format)</string>
+    <string name="widget_config_show_ampm_title">Prikaži AM/PM (12h format)</string>
     <string name="widget_config_show_cityname_title">Prikaži naziv grada</string>
-	<string name="widget_config_show_date_title">Prikaži datum</string>
+    <string name="widget_config_show_date_title">Prikaži datum</string>
     <string name="widget_config_show_leading_zero_title">Prikaži početnu nulu</string>
     <string name="widget_config_show_local_time_title">Prikaži lokalno vrijeme</string>
     <string name="widget_config_show_realtime_icon_title">Prikaži trenutno ikono vremena</string>
