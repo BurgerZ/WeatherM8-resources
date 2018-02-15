@@ -152,6 +152,7 @@
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_autolocate_detailed_title">Detaillierte Standortinformationen</string>
     <string name="settings_autolocate_detailed_summary">Erhalten und zeigen Sie detaillierte Informationen über Ihren aktuellen Standort, wie Straße, Region, Land, etc.</string>
+    <string name="settings_autolocate_summary">Automatische Ortung des Geräts</string>
     <string name="settings_autolocate_title">Automatische Ortung</string>
     <string name="settings_autoupdate_weather_summary">Wettervorschau automatisch aktualisieren</string>
     <string name="settings_autoupdate_weather_title">Automatisches Update</string>
@@ -197,6 +198,8 @@
     <string name="settings_update_quiet_hours_title">Ruhige Stunden</string>
     <string name="settings_update_wifi_only_summary">Die Wettervorhersage wird nur automatisch aktualisiert, wenn eine Wi-Fi-Verbindung hergestellt wurde</string>
     <string name="settings_update_wifi_only_title">Aktualisieren Sie mit WLAN</string>
+    <string name="settings_update_on_app_start_summary">Aktualisieren Sie die Wettervorhersage, beim Start Anwendung starten.</string>
+    <string name="settings_update_on_app_start_title">Beim App-Start aktualisieren</string>
     <string name="settings_visibility_unit">Sichtweite</string>
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
