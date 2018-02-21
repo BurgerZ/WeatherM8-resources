@@ -135,7 +135,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_ads_remove_summary">Remover anúncios por uma semana (uma vez por mês)</string>
     <string name="settings_ads_remove_title">Remover anúncios</string>
     <string name="settings_ads_title">Anúncios e doações</string>
-    <string name="settings_alerts_title">Gerenciar alertas</string>
+    <string name="settings_alerts_title">Ligar\\desligar alertas</string>
     <string name="settings_app_locale_title">Idioma</string>
     <string name="settings_app_theme_dark">Escuro</string>
     <string name="settings_app_theme_light">Claro</string>
