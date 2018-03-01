@@ -1,57 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_value">
+        <item>İyi</item>
+        <item>Ilımlı</item>
+        <item>Hassas gruplar için sağlıksız</item>
+        <item>Sağlıksız</item>
+        <item>Çok sağlıksız</item>
+        <item>Tehlikeli</item>
+    </string-array>
     <string-array name="hot_city">
-        <item>Beijing</item>
+        <item>Pekin</item>
         <item>Amsterdam</item>
-        <item>Warsaw</item>
+        <item>Varşova</item>
         <item>Vilnius</item>
         <item>Riga</item>
         <item>Madrid</item>
-        <item>Perm</item>
-        <item>Rome</item>
+        <item>Perma</item>
+        <item>Roma</item>
         <item>Dubai</item>
         <item>Minsk</item>
-        <item>Blagodarnyy</item>
+        <item>Blagodarya</item>
         <item>Karaganda</item>
         <item>Orel</item>
         <item>Berlin</item>
         <item>Praha</item>
-        <item>Moscow</item>
+        <item>Moskova</item>
         <item>St. Petersburg</item>
         <item>Chicago</item>
         <item>New York</item>
         <item>Paris</item>
-        <item>London</item>
+        <item>Londra</item>
         <item>Los Angeles</item>
         <item>Kaliningrad</item>
     </string-array>
+	<string-array name="pressure_level_entries">
+        <item>Deniz seviyesi</item>
+        <item>Konum seviyesi</item>
+        <item>Telefon basınç sensörü</item>
+    </string-array>
+	<string-array name="update_check_interval_entries">
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+        <item>3 saat</item>
+        <item>4 saat</item>
+        <item>5 saat</item>
+        <item>6 saat</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+    </string-array>
+	<string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Basit</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>En Zayıf</item>
+        <item>Zayıf</item>
+        <item>Orta Şiddette</item>
+        <item>Kuvvetli</item>
+        <item>En Kuvvetli</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Bildirim İkonu</item>
+        <item>Sıcaklık</item>
+    </string-array>
     <string-array name="weather_type">
-        <item>Gunesli</item>
+        <item>Güneşli</item>
         <item>Bulutlu</item>
-        <item>Kapali</item>
+        <item>Kapalı</item>
         <item>Sisli</item>
-        <item>Siddetli Yagmur</item>
-        <item>Saganak</item>
-        <item>Firtina</item>
-        <item>Gokgurultulu</item>
-        <item>Hafif Cise</item>
-        <item>Siddetli Saganak</item>
-        <item>Orta Siddette Yagmur</item>
-        <item>Hafif Yagmur</item>
-        <item>Karla Karisik Yagmur</item>
-        <item>Kar Firtinasi</item>
-        <item>Kar Yagisli</item>
-        <item>Siddetli Kar</item>
-        <item>Orta Siddette Kar</item>
-        <item>Hafif Kar Yagisli</item>
-        <item>Kuvvetli Kum Firtinasi</item>
-        <item>Kum Firtinasi</item>
+        <item>Şiddetli Yağmur</item>
+        <item>Sağanak</item>
+        <item>Fırtına</item>
+        <item>Gökgürültülü</item>
+        <item>Hafif Çise</item>
+        <item>Şiddetli Sağanak</item>
+        <item>Orta Şiddette Yağmur</item>
+        <item>Hafif Yağmur</item>
+        <item>Karla Karışık Yağmur</item>
+        <item>Kar Fırtınası</item>
+        <item>Kar Yağışlı</item>
+        <item>Şiddetli Kar</item>
+        <item>Orta Şiddette Kar</item>
+        <item>Hafif Kar Yağışlı</item>
+        <item>Kuvvetli Kum Fırtınası</item>
+        <item>Kum Fırtınası</item>
         <item>Puslu</item>
-        <item>Ruzgarli</item>
+        <item>Rüzgarlı</item>
         <item>Dolu</item>
         <item>Toz</item>
         <item>Pus</item>
-        <item>Dondurucu Yagmur</item>
+        <item>Dondurucu Yağmur</item>
         <item>Bilgi Yok</item>
     </string-array>
     <string-array name="wind_direction">
@@ -64,17 +105,4 @@
         <item>B</item>
         <item>KB</item>
     </string-array>
-
-    <string-array name="weather_notif_type_entries">
-        <item>Bildirim Ikonu</item>
-        <item>Sicaklik</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>En Zayif</item>
-        <item>Zayif</item>
-        <item>Orta Siddette</item>
-        <item>Kuvvetli</item>
-        <item>En Kuvvetli</item>
-    </string-array>
-
 </resources>
