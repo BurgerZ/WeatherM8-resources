@@ -33,8 +33,6 @@
     <string name="activity_main_alert_unit_mps">" m/s"</string>
     <string name="activity_main_alert_wind">Očekuje se vjetar, maksimalna brzina vjetra do %1$s.</string>
     <string name="activity_main_alert_wind_gusts">Očekuju se udari vjetra uz maks. brzinu vjetra do %1$s.</string>
-    <string name="activity_main_alert_precip">Očekuje se %1$s. Količina oborina dnevno je %2$s.</string>
-    <string name="activity_main_alert_tstorm">Očekuje se olujni udar s mogućnošću %1$s.</string>
     <string name="activity_main_expire_time">Ističe %1$s</string>
     <string name="activity_main_refresh_fail">"Ne mogu se povezati na mrežu"</string>
     <string name="activity_main_time_format">E</string>
@@ -135,13 +133,11 @@ Dodirnite na tipku u nastavku da ručno dodate grad ili pokušajte locirati pono
     <string name="radar_title">Radar</string>
     <string name="settings_about">O aplikaciji</string>
     <string name="settings_ads_donation_expl">Donacija putem usluge Google Play dodirom tipke u nastavku NIKADA neće ukloniti oglase. Da biste ih uklonili, trebali biste koristiti tipku \"Ukloni oglase\".</string>
-    <string name="settings_ads_donations_title">Kupi mi pivu</string>
     <string name="settings_ads_explanation">Zašto vidite oglase?
 Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Zato vas molim postupajte s razumijevanjem s pojavom određenog broja oglasa. Prikazivanje oglasa u potiče daljnji razvoj aplikacije."</string>
     <string name="settings_ads_menu_hide_title">Sakrij ovu stavku izbornika</string>
     <string name="settings_ads_remove_summary">Uklonite oglase na tjedan dana (jednom mjesečno)</string>
     <string name="settings_ads_remove_title">Ukloni oglase</string>
-    <string name="settings_ads_donation_expl">Donacija putem usluge Google Play dodirom tipke u nastavku NIKADA neće ukloniti oglase. Da ih uklonite, upotrijebite tipku \"Ukloni oglase\".</string>
     <string name="settings_ads_title">Oglasi i donacije</string>
     <string name="settings_ads_webmoney">Webmoney</string>
     <string name="settings_ads_donations_title">Kupuj mi kavu</string>
@@ -270,9 +266,6 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="weather_details_wind_title">Vjetar</string>
     <string name="weather_short_month_update_date">d MMM</string>
     <string name="weather_update_date">d MMMM</string>
-    <string name="weather_details_daylight_diff_longer">%1$s dalje</string>
-    <string name="weather_details_daylight_diff_shorter">%1$s kraće</string>
-    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
     <string name="widget_config_background_color_title">Boja pozadine</string>
     <string name="widget_config_background_type_border">Okvir</string>
     <string name="widget_config_background_type_solid">Solid</string>
@@ -296,7 +289,6 @@ Pisanje aplikacija za Android je moj hobi i to radim u svoje slobodno vrijeme. Z
     <string name="widget_config_realtime_icon_size_title">Trenutna velikost ikon vremena</string>
     <string name="widget_config_forecast_icon_size_title">Trenutna velikost ikon napovedi</string>
     <string name="widget_config_realtime_font_title">Font podataka stvar. vremena</string>
-    <string name="widget_config_realtime_icon_size_title">Veličina ikone trenutnog vremena</string>
     <string name="widget_config_show_alarm_title">Prikaži naredni alarm</string>
     <string name="widget_config_show_ampm_title">Prikaži AM/PM (12h format)</string>
     <string name="widget_config_show_cityname_title">Prikaži naziv grada</string>
