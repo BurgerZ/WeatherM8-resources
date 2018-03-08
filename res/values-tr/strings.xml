@@ -39,7 +39,7 @@
     <string name="activity_main_update_time">%1$s güncellendi</string>
 	<string name="activity_main_update_time_expire">Verilerin süresi doldu</string>
     <string name="activity_main_update_time_right_now">Şimdi</string>
-    <string name="app_name">Hava Durumu M8</string>
+    <string name="app_name">Weather M8</string>
     <string name="app_version">Versiyon: %s</string>
 	<string name="aqi_data_source">%s</string>
     <string name="aqi_detail_24_hours">Saatlik tahmin</string>
