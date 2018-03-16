@@ -36,7 +36,7 @@
     <string name="activity_main_expire_time">Sona eriyor %1$s</string>
     <string name="activity_main_refresh_fail">Ağa Bağlanılamıyor</string>
     <string name="activity_main_time_format">E</string>
-    <string name="activity_main_update_time">Güncellendi %1$s</string>
+    <string name="activity_main_update_time">%1$s güncellendi</string>
 	<string name="activity_main_update_time_expire">Verilerin süresi doldu</string>
     <string name="activity_main_update_time_right_now">Şimdi</string>
     <string name="app_name">Weather M8</string>
@@ -63,7 +63,7 @@
 	<string name="city_exceeded_warning">10 şehre kadar ekleyebilirsiniz</string>
     <string name="common_auto">Otomatik</string>
 	<string name="common_recommended">Tavsiye edilen</string>
-    <string name="daily_forcast_drawer_on_top">Genis Hava Tahmini</string>
+    <string name="daily_forcast_drawer_on_top">Geniş Hava Tahmini</string>
     <string name="daily_forcast_no_wind">Yine</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s sonra.</string>
@@ -160,10 +160,10 @@ Android için başvurular yazmak kişisel boş zamanlarımda yaptığım bir hob
     <string name="settings_autolocate_detailed_title">Ayrıntılı konum bilgisi</string>
     <string name="settings_autolocate_summary">Cihazınızı otomatik olarak bulun</string>
     <string name="settings_autolocate_title">Otomatik konum</string>
-    <string name="settings_autoupdate_weather_summary">Hava Durumunu Otomatik Olarak Guncellestir</string>
-    <string name="settings_autoupdate_weather_title">Otomatik Guncellestirme</string>
+    <string name="settings_autoupdate_weather_summary">Hava Durumunu Otomatik Olarak Güncelleştir</string>
+    <string name="settings_autoupdate_weather_title">Otomatik Güncelleştirme</string>
     <string name="settings_category_units">Birimler</string>
-    <string name="settings_city_base">Sehir Veritabani</string>
+    <string name="settings_city_base">Şehir Veritabanı</string>
     <string name="settings_dialog_enter_timezone">Seçilen şehir (%s) için Saat Dilimi girin, örneğin GMT+03:00:</string>
     <string name="settings_feedback">Geribildirim yolla</string>
     <string name="settings_geolocation_names_source_title">Coğrafi konum adları kaynağı</string>
@@ -253,7 +253,7 @@ Android için başvurular yazmak kişisel boş zamanlarımda yaptığım bir hob
 	 <string name="weather_details_daylight_diff_longer">%1$s uzun</string>
     <string name="weather_details_daylight_diff_shorter">%1$s kısa</string>
     <string name="weather_details_daylight_hours_title">Gün Süresi</string>
-	<string name="weather_details_elevation_title">Yükseklik</string>
+	<string name="weather_details_elevation_title">Rakım</string>
     <string name="weather_details_humidity">%1$s%%</string>
     <string name="weather_details_humidity_title">Nem</string>
 	<string name="weather_details_precipitation_amount_mm">%1$s mm</string>
