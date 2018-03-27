@@ -294,6 +294,10 @@
     <string name="widget_config_click_weather_icon">Иконка погоды</string>
     <string name="widget_config_click_temperature">Температура</string>
 
+    <string name="widget_config_backup_done">Настройки виджета сохранены!</string>
+    <string name="widget_config_restore_done">Настройки виджета восстановлены из резервной копии!</string>
+    <string name="widget_config_no_backups_found">Резервных копий не найдено</string>
+
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Фазы луны</string>
     <string name="moon_age">Возраст: %1$s дн. %2$s ч %3$s мин</string>

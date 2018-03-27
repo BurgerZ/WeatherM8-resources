@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_value">
+        <item>Добрo</item>
+        <item>Умеренo</item>
+        <item>Нездравословнo за чувствителни групи</item>
+        <item>Нездравословнo</item>
+        <item>Много нездравословно</item>
+        <item>Опаснo</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Пекин</item>
         <item>Амстердам</item>
@@ -24,6 +32,34 @@
         <item>Лондон</item>
         <item>Лос Анджелис</item>
         <item>Калининград</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Морско равнище</item>
+        <item>В населено място</item>
+        <item>Сензор за налягане на телефона</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>5 часа</item>
+        <item>6 часа</item>
+        <item>12 часа</item>
+        <item>24 часа</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Съвсем слабо</item>
+        <item>Слабо</item>
+        <item>Средно</item>
+        <item>Силно</item>
+        <item>Много силно</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Икона за време</item>
+        <item>Температура</item>
     </string-array>
     <string-array name="weather_type">
         <item>Слънчево</item>
@@ -63,34 +99,5 @@
         <item>ЮЗ</item>
         <item>З</item>
         <item>СЗ</item>
-    </string-array>
-
-    <string-array name="weather_notif_type_entries">
-        <item>Икона за време</item>
-        <item>Температура</item>
-    </string-array>
-    <string-array name="update_check_interval_entries">
-        <item>15 минути</item>
-        <item>30 минути</item>
-        <item>1 час</item>
-        <item>2 часа</item>
-        <item>3 часа</item>
-        <item>4 часа</item>
-        <item>5 часа</item>
-        <item>6 часа</item>
-        <item>12 часа</item>
-        <item>24 часа</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Съвсем слабо</item>
-        <item>Слабо</item>
-        <item>Средно</item>
-        <item>Силно</item>
-        <item>Много силно</item>
-    </string-array>
-    <string-array name="pressure_level_entries">
-        <item>Морско равнище</item>
-        <item>В населено място</item>
-        <item>Сензор за налягане на телефона</item>
     </string-array>
 </resources>

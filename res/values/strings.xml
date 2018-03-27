@@ -310,6 +310,11 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_config_click_weather_icon">Weather icon</string>
     <string name="widget_config_click_temperature">Temperature</string>
 
+    <string name="widget_config_backup_done">Widget settings backed up!</string>
+    <string name="widget_config_restore_done">Widget settings restored from backup!</string>
+    <string name="widget_config_no_backups_found">No widget settings backups found</string>
+
+
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Moon Phases</string>
     <string name="moon_age">Age: %1$s days %2$s hours %3$s minutes</string>
