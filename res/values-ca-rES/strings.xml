@@ -310,7 +310,12 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_click_weather_icon">Icona del temps</string>
     <string name="widget_config_click_temperature">Temperatura</string>
 
-    <!-- Moon Phases -->
+	<string name="widget_config_backup_done">"S'ha fet una còpia de seguretat la configuració dels ginys!"</string>
+    <string name="widget_config_restore_done">"S'ha restaurat la configuració dels ginys des de la còpia de seguretat!"</string>
+    <string name="widget_config_no_backups_found">"No s'ha trobat cap còpia de seguretat de la configuració del giny"</string>
+    
+	
+	<!-- Moon Phases -->
     <string name="menu_moon_phases">Fases lunars</string>
     <string name="moon_age">Edat: %1$s dies %2$s hores %3$s minuts</string>
     <string name="moon_newmoon">Lluna nova</string>
