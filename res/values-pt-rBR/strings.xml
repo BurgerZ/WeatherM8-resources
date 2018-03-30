@@ -25,12 +25,12 @@
     <string name="activity_main_alert_type_tstorm">Trovoada</string>
     <string name="activity_main_alert_type_wind">Vento</string>
     <string name="activity_main_alert_type_wind_gusts">Rajadas de vento</string>
-    <string name="activity_main_alert_unit_cm">cm</string>
-    <string name="activity_main_alert_unit_inch">in</string>
-    <string name="activity_main_alert_unit_kmh">km/h</string>
-    <string name="activity_main_alert_unit_mm">mm</string>
-    <string name="activity_main_alert_unit_mph">mph</string>
-    <string name="activity_main_alert_unit_mps">m/s</string>
+    <string name="activity_main_alert_unit_cm">" cm"</string>
+    <string name="activity_main_alert_unit_inch">" in"</string>
+    <string name="activity_main_alert_unit_kmh">" km/h"</string>
+    <string name="activity_main_alert_unit_mm">" mm"</string>
+    <string name="activity_main_alert_unit_mph">" mph"</string>
+    <string name="activity_main_alert_unit_mps">" m/s"</string>
     <string name="activity_main_alert_wind">O vento deverá atingir uma velocidade máxima de %1$s</string>
     <string name="activity_main_alert_wind_gusts">Previsão de rajadas de vento com uma velocidade máxima até %1$s</string>
     <string name="activity_main_expire_time">Expira %1$s</string>
@@ -211,6 +211,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_widgets_not_found">Sem widgets definidos</string>
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_wind_unit">Velocidade do vento</string>
+    <string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_knot">nós</string>
     <string name="settings_wind_unit_mph">mph</string>
@@ -263,6 +264,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="widget_config_background_type_border">Com limite</string>
     <string name="widget_config_background_type_solid">Preenchido</string>
     <string name="widget_config_background_type_title">Tipo de fundo</string>
+    <string name="widget_config_backup_done">Cópia das configurações do widget concluída!</string>
     <string name="widget_config_click_apps">Selecionar aplicativo</string>
     <string name="widget_config_click_clock">Relógio</string>
     <string name="widget_config_click_date">Data</string>
@@ -279,9 +281,11 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="widget_config_font_size_title">Tamanho do texto</string>
     <string name="widget_config_font_title">Fonte do texto</string>
     <string name="widget_config_forecast_icon_size_title">Tamanho dos ícones dos dados de previsão</string>
+    <string name="widget_config_no_backups_found">Não foi encontrada nenhuma cópia das configurações do widget</string>
     <string name="widget_config_realtime_font_size_title">Tamanho dos dados da temperatura</string>
     <string name="widget_config_realtime_font_title">Fonte dos dados da temperatura</string>
     <string name="widget_config_realtime_icon_size_title">Tamanho dos ícones dos dados atuais</string>
+    <string name="widget_config_restore_done">Cópia das configurações do widget restaurada!</string>
     <string name="widget_config_show_alarm_title">Mostrar próximo alarme</string>
     <string name="widget_config_show_ampm_title">Mostrar AM/PM (formato 12h)</string>
     <string name="widget_config_show_cityname_title">Mostrar nome do local</string>
@@ -297,6 +301,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="widget_update_date_string">Atualizado %s</string>
     <string name="widget_update_updating_string">Atualizando…</string>
     <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_bft">%1$s bft</string>
     <string name="wind_unit_knot">%1$s nós</string>
     <string name="wind_unit_mph">%1$s mph</string>
     <string name="wind_unit_ms">%1$s m/s</string>
