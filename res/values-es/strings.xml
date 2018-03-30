@@ -310,7 +310,12 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <string name="widget_config_click_weather_icon">Icono del tiempo</string>
     <string name="widget_config_click_temperature">Temperatura</string>
 
-    <!-- Moon Phases -->
+    <string name="widget_config_backup_done">"¡Se ha respaldado la configuración de los widgets!"</string>
+    <string name="widget_config_restore_done">"Se ha restaurado la configuración de widgets desde la copia de seguridad!"</string>
+    <string name="widget_config_no_backups_found">"No se encontraron copias de seguridad de configuración de los widgets"</string>
+	
+	
+	<!-- Moon Phases -->
     <string name="menu_moon_phases">Fases lunares</string>
     <string name="moon_age">Edad: %1$s dies %2$s horas %3$s minutos</string>
     <string name="moon_newmoon">Luna nueva</string>
