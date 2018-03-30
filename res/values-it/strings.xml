@@ -211,6 +211,7 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="settings_widgets_not_found">Nessun set di widget</string>
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_wind_unit">Velocità del vento</string>
+    <string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_knot">nodi</string>
     <string name="settings_wind_unit_mph">mph</string>
@@ -263,6 +264,7 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="widget_config_background_type_border">Con limite</string>
     <string name="widget_config_background_type_solid">Pieno</string>
     <string name="widget_config_background_type_title">Tipo di sfondo</string>
+    <string name="widget_config_backup_done">Copia delle impostazioni del widget completate!</string>
     <string name="widget_config_click_apps">Seleziona applicazione</string>
     <string name="widget_config_click_clock">Guardare</string>
     <string name="widget_config_click_date">Data</string>
@@ -279,9 +281,11 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="widget_config_font_size_title">Dimensione del testo</string>
     <string name="widget_config_font_title">Fonte di testo</string>
     <string name="widget_config_forecast_icon_size_title">Tdimensione delle icone dei dati di previsione</string>
+    <string name="widget_config_no_backups_found">Nessuna copia delle impostazioni del widget trovate</string>
     <string name="widget_config_realtime_font_size_title">Dimensione dei dati di temperatura</string>
     <string name="widget_config_realtime_font_title">Fonte dei dati di temperatura</string>
     <string name="widget_config_realtime_icon_size_title">Dimensione dell'icona dei dati attuali</string>
+    <string name="widget_config_restore_done">Copia delle definizioni dei widget ripristinati!</string>
     <string name="widget_config_show_alarm_title">Mostra la prossima sveglia</string>
     <string name="widget_config_show_ampm_title">Mostrar AM/PM (formato 12h)</string>
     <string name="widget_config_show_cityname_title">Mostra il nome della località</string>
@@ -297,6 +301,7 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="widget_update_date_string">Aggiornato il %s</string>
     <string name="widget_update_updating_string">Sto aggiornando…</string>
     <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_bft">%1$s bft</string>
     <string name="wind_unit_knot">%1$s nodi</string>
     <string name="wind_unit_mph">%1$s mph</string>
     <string name="wind_unit_ms">%1$s m/s</string>
