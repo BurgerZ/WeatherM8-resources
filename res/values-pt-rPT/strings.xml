@@ -59,7 +59,7 @@
     <string name="common_recommended">(Recomendado)</string>
     <string name="daily_forcast_drawer_on_top">Previsão diária</string>
     <string name="daily_forcast_no_wind">Fraco</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
+    <string name="daily_forcast_temperature_transfer">%1$s°. %2$s° mais tarde</string>
     <string name="daily_forcast_weather_transfer">%1$s / %2$s</string>
     <string name="daily_forcast_whirl_wind">Vento forte</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
@@ -78,9 +78,9 @@
     <string name="feedback_title">Título</string>
     <string name="feedback_title_hint">Escrever título</string>
     <string name="first_start_network_msg">"Esta aplicação necessita de ligar à Internet para funcionar normalmente
-        São necessárias as seguintes permissões:
-        \u2022 Acesso à localização para obter as coordenadas atuais
-        \u2022 Acesso a fotos, multimédia e ficheiros para guardar as capturas de ecrã para Partilhar"</string>
+São necessárias as seguintes permissões:
+\u2022 Acesso à localização para obter as coordenadas atuais
+\u2022 Acesso a fotos, multimédia e ficheiros para guardar as capturas de ecrã para Partilhar"</string>
     <string name="first_start_network_title">Ligação à Internet e acesso à localização</string>
     <string name="geolocation_names_source_default">Padrão</string>
     <string name="geolocation_names_source_google">Google</string>
