@@ -125,7 +125,7 @@
     <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
     <string name="network_wifi_only">Updates sind nur auf WLAN eingestellt.</string>
     <string name="press_color_to_apply">Drücken Sie auf Farbe, um diese zu übernehmen</string>
-    <string name="radar_date_format">dd.MM HH:mm</string>
+    <string name="radar_date_format">dd.MM. HH:mm</string>
     <string name="radar_tab_cloud">Wolken</string>
     <string name="radar_tab_rain">Niederschlag</string>
     <string name="radar_title">Wetterradar</string>
@@ -247,7 +247,7 @@
     <string name="weather_details_daylight_diff_longer">%1$s länger</string>
     <string name="weather_details_daylight_diff_shorter">%1$s kürzer</string>
     <string name="weather_details_daylight_hours_title">Tageslänge</string>
-    <string name="weather_details_elevation_title">Höhe über Meer</string>
+    <string name="weather_details_elevation_title">Höhe über Meerspiegel</string>
     <string name="weather_details_humidity">%1$s%%</string>
     <string name="weather_details_humidity_title">Luftfeuchtigkeit</string>
     <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
@@ -270,12 +270,13 @@
     <string name="weather_details_visibility_title">Sichtweite</string>
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">Wind</string>
-    <string name="weather_short_month_update_date">d MMM</string>
-    <string name="weather_update_date">d MMMM</string>
+    <string name="weather_short_month_update_date">d. MMM</string>
+    <string name="weather_update_date">d. MMMM</string>    
     <string name="widget_config_background_color_title">Hintergrundfarbe</string>
     <string name="widget_config_background_type_border">Rand</string>
     <string name="widget_config_background_type_solid">Solide</string>
     <string name="widget_config_background_type_title">Hintergrundtyp</string>
+    <string name="widget_config_backup_done">Widget-Einstellungen gesichert!</string>    
     <string name="widget_config_click_apps">Anwendung auswählen</string>
     <string name="widget_config_click_clock">Uhr</string>
     <string name="widget_config_click_date">Datum</string>
@@ -292,9 +293,11 @@
     <string name="widget_config_font_size_title">Textgröße</string>
     <string name="widget_config_font_title">Schriftart</string>
     <string name="widget_config_forecast_icon_size_title">Wettervorhersage Symbolgröße</string>
+    <string name="widget_config_no_backups_found">Keine Sicherung der Widget-Einstellungen vorhanden!</string>    
     <string name="widget_config_realtime_font_size_title">Echtzeit-Daten Textgröße</string>
     <string name="widget_config_realtime_font_title">Echtzeit-Datenschrift</string>
     <string name="widget_config_realtime_icon_size_title">Aktuelle Wettersymbolgröße</string>
+    <string name="widget_config_restore_done">Widget-Einstellungen aus der Sicherung wiederhergestellt!</string>    
     <string name="widget_config_show_alarm_title">Nächsten Alarm anzeigen</string>
     <string name="widget_config_show_ampm_title">Zeige AM/PM (12h Format)</string>    
     <string name="widget_config_show_cityname_title">Stadtnamen anzeigen</string>
