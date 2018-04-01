@@ -309,6 +309,9 @@
     <string name="widget_config_click_weather_icon">天气图标</string>
     <string name="widget_config_click_temperature">温度</string>
 
+    <string name="widget_config_backup_done">备份小工具设置！</string>
+    <string name="widget_config_restore_done">从备份中恢复小工具设置！</string>
+    <string name="widget_config_no_backups_found">未找到小工具设置备份！</string>
     <!-- Moon Phases -->
     <string name="menu_moon_phases">月相</string>
     <string name="moon_age">月龄:%1$s天%2$s小时%3$s分钟</string>
