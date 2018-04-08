@@ -46,6 +46,7 @@
     <string name="button_add_city">Adicionar localização</string>
     <string name="button_not_allow">Cancelar</string>
     <string name="city_exceeded_warning">Só pode adicionar apenas 10 localizações</string>
+    <string name="color_picker_use_default_color">Utilizar cor padrão</string>
     <string name="common_auto">Procurar automaticamente</string>
     <string name="common_recommended">(Recomendado)</string>
     <string name="daily_forcast_drawer_on_top">Previsão diária</string>
@@ -148,12 +149,14 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_icons_theme_details_title">Detalhes do tema</string>
     <string name="settings_icons_title">Ícones do tempo</string>
     <string name="settings_menu_title">Definições</string>
-    <string name="settings_notification_priority_summary">Ocultar ícone na área de notificações e mostrar informação do tempo na barra de estado</string>
+    <string name="settings_notification_background_color_title">Cor de fundo da notificação</string>
+    <string name="settings_notification_priority_summary">Ocultar ícone da área de notificações e mostrar informação do tempo na barra de estado</string>
     <string name="settings_notification_priority_title">Notificação mínima</string>
-    <string name="settings_notification_statusbar_color_title">Cor do ícone de notificação</string>
+    <string name="settings_notification_statusbar_color_title">Cor do ícone da notificação</string>
     <string name="settings_notification_summary">Mostrar ícone na área de notificações e informação do tempo na barra de estado</string>
+    <string name="settings_notification_text_color_title">Cor do texto da notificação</string>
     <string name="settings_notification_title">Mostrar notificações</string>
-    <string name="settings_notifications_summary">Definições de notificações</string>
+    <string name="settings_notifications_summary">Definições das notificações</string>
     <string name="settings_notifications_title">Notificações</string>
     <string name="settings_notify_type_title">Ícone de notificação</string>
     <string name="settings_permissions">Permissões</string>
