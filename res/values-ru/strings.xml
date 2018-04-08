@@ -129,7 +129,9 @@
     <string name="settings_notification_priority_summary">Уведомления с минимальным приоритетом отображаются только в шторке уведомлений</string>
 
     <string name="settings_notify_type_title">Иконка уведомления</string>
+    <string name="settings_notification_background_color_title">Цвет фона уведомления</string>
     <string name="settings_notification_statusbar_color_title">Цвет иконки уведомления</string>
+    <string name="settings_notification_text_color_title">Цвет текста уведомления</string>
 
     <string name="settings_alerts_title">Управление предупреждениями</string>
 
@@ -334,6 +336,7 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
     <string name="dialog_color_picker">Выбор цвета</string>
+    <string name="color_picker_use_default_color">Использовать цвет по умолчанию</string>
 
     <!-- AQI -->
     <string name="aqi_main_title">Качество воздуха</string>

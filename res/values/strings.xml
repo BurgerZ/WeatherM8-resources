@@ -135,7 +135,9 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_notification_priority_summary">Minimum-priority notifications appears only in notification shade</string>
 
     <string name="settings_notify_type_title">Notification icon</string>
+    <string name="settings_notification_background_color_title">Notification background color</string>
     <string name="settings_notification_statusbar_color_title">Notification icon color</string>
+    <string name="settings_notification_text_color_title">Notification text color</string>
 
     <string name="settings_alerts_title">Manage alerts</string>
 
@@ -350,6 +352,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <!-- Color picker -->
     <string name="press_color_to_apply">Press on Color to apply</string>
     <string name="dialog_color_picker">Color Picker</string>
+    <string name="color_picker_use_default_color">Use default color</string>
 
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>
