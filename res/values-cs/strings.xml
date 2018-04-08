@@ -310,4 +310,8 @@ Zkontrolujte síťové nastavení."</string>
     <string name="widget_config_backup_done">Nastavení widgetu uloženo!</string>
     <string name="widget_config_restore_done">Nastavení widgetu obnoveno!</string>
     <string name="widget_config_no_backups_found">Nastavení widgetu nenalezeno!</string>  
+    <string name="settings_notification_background_color_title">Barva pozadí</string>
+    <string name="settings_notification_text_color_title">Barva textu</string>
+    <string name="color_picker_use_default_color">Použít výchozí barvu</string>
 </resources>
+
