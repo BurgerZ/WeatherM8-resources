@@ -46,6 +46,7 @@
     <string name="button_add_city">Aggiungi una Città</string>
     <string name="button_not_allow">Cancella</string>
     <string name="city_exceeded_warning">È possibile aggiungere solo 10 posizioni</string>
+    <string name="color_picker_use_default_color">Usa il colore predefinito</string>
     <string name="common_auto">Cerca automaticamente</string>
     <string name="common_recommended">(Raccomandato)</string>
     <string name="daily_forcast_drawer_on_top">Previsioni estese</string>
@@ -148,10 +149,12 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="settings_icons_theme_details_title">Dettagli del tema</string>
     <string name="settings_icons_title">Icone del meteo</string>
     <string name="settings_menu_title">Impostazioni</string>
+    <string name="settings_notification_background_color_title">Colore di sfondo della notifica</string>
     <string name="settings_notification_priority_summary">Le notifiche con priorità minima appaiono solamente nel pannello notifiche</string>
     <string name="settings_notification_priority_title">Priorità minima</string>
     <string name="settings_notification_statusbar_color_title">Colore dell'icona di notifica</string>
     <string name="settings_notification_summary">Mostra meteo attuale nel pannello delle notifiche</string>
+    <string name="settings_notification_text_color_title">Colore del testo di notifica</string>
     <string name="settings_notification_title">Mostra Notifica</string>
     <string name="settings_notifications_summary">Impostazioni Notifiche Meteo</string>
     <string name="settings_notifications_title">Notifiche</string>
