@@ -139,7 +139,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_notification_statusbar_color_title">Notification icon color</string>
     <string name="settings_notification_text_color_title">Notification text color</string>
 
-    <string name="settings_alerts_title">Manage alerts</string>
+    <string name="settings_alerts_title">Manage weather alerts</string>
 
     <string name="settings_icons_title">Weather icons</string>
     <string name="settings_icons_builtin_title">Built-in weather icons</string>

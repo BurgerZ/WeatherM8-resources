@@ -133,7 +133,7 @@
     <string name="settings_notification_statusbar_color_title">Цвет иконки уведомления</string>
     <string name="settings_notification_text_color_title">Цвет текста уведомления</string>
 
-    <string name="settings_alerts_title">Управление предупреждениями</string>
+    <string name="settings_alerts_title">Погодные предупреждения</string>
 
     <string name="settings_icons_title">Иконки погоды</string>
     <string name="settings_icons_theme_details_title">Описание темы</string>
