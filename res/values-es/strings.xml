@@ -135,7 +135,9 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_notification_priority_summary">"Las notificaciones de prioridad mínima sólo aparecen en el área de notificación"</string>
 
     <string name="settings_notify_type_title">Icono de notificación</string>
-    <string name="settings_notification_statusbar_color_title">Color del icono de notificación</string>
+    <string name="settings_notification_background_color_title">Color de fondo de notificación</string>
+	<string name="settings_notification_statusbar_color_title">Color del icono de notificación</string>
+    <string name="settings_notification_text_color_title">Color del texto de notificación</string>
 
     <string name="settings_alerts_title">Administrar alertas</string>
 
@@ -350,6 +352,7 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <!-- Color picker -->
     <string name="press_color_to_apply">Pulse un color para aplicarlo</string>
     <string name="dialog_color_picker">Selector de color</string>
+    <string name="color_picker_use_default_color">Usar el color predeterminado</string>
 
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>
