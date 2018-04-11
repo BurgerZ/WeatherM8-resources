@@ -135,9 +135,11 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_notification_priority_summary">"Les notificacions de prioritat mínima només apareixen en l'àrea de notificació"</string>
 
     <string name="settings_notify_type_title">Icona de notificació</string>
+	<string name="settings_notification_background_color_title">Color de fons de la notificació</string>
     <string name="settings_notification_statusbar_color_title">Color de la icona de notificació</string>
+	<string name="settings_notification_text_color_title">Color del text de la notificació</string>
 
-    <string name="settings_alerts_title">Gestiona les alertes</string>
+    <string name="settings_alerts_title">Gestió d'alertes meteorològiques</string>
 
     <string name="settings_icons_title">Icones del temps</string>
     <string name="settings_icons_builtin_title">Icones del temps incorporats</string>
@@ -350,6 +352,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <!-- Color picker -->
     <string name="press_color_to_apply">Premeu un color per aplicar-lo</string>
     <string name="dialog_color_picker">Selector de color</string>
+	<string name="color_picker_use_default_color">Utilitza el color per defecte</string>
 
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>
