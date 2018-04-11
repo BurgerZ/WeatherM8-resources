@@ -65,7 +65,7 @@ Klepněte na tlačítko níže nebo zkuste získat polohu později"</string>
     <string name="more_details">Více podrobností</string>
     <string name="network_unavailable">Nelze se připojit k síti.</string>
     <string name="settings_about">O aplikaci…</string>
-    <string name="settings_alerts_title">Správa upozornění</string>
+    <string name="settings_alerts_title">Upozornění na počasí</string>
     <string name="settings_app_locale_title">Jazyk</string>
     <string name="settings_autoupdate_weather_summary">Aktualizovat předpověď automaticky</string>
     <string name="settings_autoupdate_weather_title">Aktualizovat automaticky</string>
