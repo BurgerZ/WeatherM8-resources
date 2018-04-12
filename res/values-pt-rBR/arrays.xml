@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bom</item>
+        <item>Moderado</item>
+        <item>Pouco saudável para grupos sensíveis</item>
+        <item>Pouco saudável</item>
+        <item>Muito pouco saudável</item>
+        <item>Perigoso</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Porto Alegre</item>
         <item>Florianópolis</item>
@@ -13,21 +29,49 @@
         <item>Maceió</item>
         <item>Recife</item>
         <item>João Pessoa</item>
-		<item>Natal</item>
-		<item>Fortaleza</item>
-		<item>Teresina</item>
-		<item>São Luís</item>
-		<item>Belém</item>
-		<item>Macapá</item>
-		<item>Boa Vista</item>
-		<item>Manaus</item>
-		<item>Rio Branco</item>
-		<item>Porto Velho</item>
-		<item>Cuiabá</item>
-		<item>Palmas</item>
-		<item>Brasília</item>
-		<item>Goiânia</item>
-		<item>Campo Grande</item>
+        <item>Natal</item>
+        <item>Fortaleza</item>
+        <item>Teresina</item>
+        <item>São Luís</item>
+        <item>Belém</item>
+        <item>Macapá</item>
+        <item>Boa Vista</item>
+        <item>Manaus</item>
+        <item>Rio Branco</item>
+        <item>Porto Velho</item>
+        <item>Cuiabá</item>
+        <item>Palmas</item>
+        <item>Brasília</item>
+        <item>Goiânia</item>
+        <item>Campo Grande</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Nível do mar</item>
+        <item>Nível do local</item>
+        <item>Sensor de pressão (se disponível)</item>
+    </string-array>
+    <string-array name="update_check_interval_entries">
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>4 horas</item>
+        <item>5 horas</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Baixo</item>
+        <item>Moderado</item>
+        <item>Alto</item>
+        <item>Muito alto</item>
+        <item>Extremo</item>
+    </string-array>
+    <string-array name="weather_notif_type_entries">
+        <item>Ícone do tempo</item>
+        <item>Temperatura</item>
     </string-array>
     <string-array name="weather_type">
         <item>Céu limpo</item>
@@ -67,49 +111,5 @@
         <item>Sudoeste</item>
         <item>Oeste</item>
         <item>Noroeste</item>
-    </string-array>
-    <string-array name="weather_notif_type_entries">
-        <item>Ícone do tempo</item>
-        <item>Temperatura</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Baixo</item> <!-- 0-2.9 -->
-        <item>Moderado</item> <!-- 3-5.9 -->
-        <item>Alto</item> <!-- 6-7.9 -->
-        <item>Muito alto</item> <!-- 8-10.9 -->
-        <item>Extremo</item> <!-- 11+ -->
-    </string-array>
-    <string-array name="update_check_interval_entries">
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>2 horas</item>
-        <item>3 horas</item>
-        <item>4 horas</item>
-        <item>5 horas</item>
-        <item>6 horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
-    </string-array>
-    <string-array name="pressure_level_entries">
-        <item>Nível do mar</item>
-        <item>Nível do local</item>
-        <item>Sensor de pressão (se disponível)</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-    </string-array>
-    <string-array name="aqi_value">
-        <item>Bom</item>
-        <item>Moderado</item>
-        <item>Pouco saudável para grupos sensíveis</item>
-        <item>Pouco saudável</item>
-        <item>Muito pouco saudável</item>
-        <item>Perigoso</item>
     </string-array>
 </resources>
