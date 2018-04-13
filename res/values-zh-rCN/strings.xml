@@ -134,10 +134,12 @@
     <string name="settings_notification_priority_title">最低优先级</string>
     <string name="settings_notification_priority_summary">最低优先级通知，只显示在其他通知之下</string>
 
-    <string name="settings_notify_type_title">显示图标</string>
-    <string name="settings_notification_statusbar_color_title">图标颜色</string> 
-	
-    <string name="settings_alerts_title">预警管理</string>
+    <string name="settings_notify_type_title">通知图标</string>
+    <string name="settings_notification_background_color_title">通知背景颜色</string>
+    <string name="settings_notification_statusbar_color_title">通知图标颜色</string>
+    <string name="settings_notification_text_color_title">通知文本颜色</string>
+
+    <string name="settings_alerts_title">管理预警</string>
 
     <string name="settings_icons_title">天气图标</string>
     <string name="settings_icons_builtin_title">内置天气图标</string>
@@ -347,6 +349,7 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">点击颜色以应用</string>
     <string name="dialog_color_picker">取色器</string>
+    <string name="color_picker_use_default_color">使用默认颜色</string>
 
     <string name="date_time_am">上午</string>
     <string name="date_time_pm">下午</string>
