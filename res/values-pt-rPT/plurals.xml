@@ -3,20 +3,14 @@
     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">há %d horas atrás</item>
         <item quantity="one">há %d hora atrás</item>
-        <item quantity="few">%d horas atrás</item>
-        <item quantity="many">%d horas atrás</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
         <item quantity="other">há %d minutos atrás</item>
         <item quantity="one">há %d minuto atrás</item>
-        <item quantity="few">%d minutos atrás</item>
-        <item quantity="many">%d minutos atrás</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">há %d dias atrás</item>
         <item quantity="one">Ontem</item>
-        <item quantity="few">%d dias atrás</item>
-        <item quantity="many">%d dias atrás</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Céu limpo</item>
