@@ -55,6 +55,7 @@
     <string name="button_allow">V redu</string>
     <string name="button_not_allow">Prekliči</string>
     <string name="city_exceeded_warning">Lahko dodate do 10 mest</string>
+    <string name="color_picker_use_default_color">Uporabi privzeto barvo</string>
     <string name="common_auto">Samodejno</string>
     <string name="common_recommended">Priporočeno</string>
     <string name="daily_forcast_drawer_on_top">Dnevna napoved</string>
@@ -162,7 +163,9 @@ Programiranje aplikacij Android je hobi, ki ga delam le v prostem času. Potreba
     <string name="settings_icons_theme_details_title">Podrobnosti teme</string>
     <string name="settings_icons_title">Ikone vremena</string>
     <string name="settings_menu_title">Nastavitve</string>
+    <string name="settings_notification_background_color_title">Barva ozadja obvestil</string>
     <string name="settings_notification_priority_summary">Obvestila minimalne važnosti se pojavljajo samo v plošči obvestil</string>
+    <string name="settings_notification_text_color_title">Barva teksta obvestil</string>
     <string name="settings_notification_priority_title">Minimalna važnost</string>
     <string name="settings_notification_statusbar_color_title">Barva ikone obvestil</string>
     <string name="settings_notification_summary">Prikaži trenutne vremenske pogoje v področju obvestil</string>
