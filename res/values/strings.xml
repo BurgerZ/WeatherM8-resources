@@ -50,6 +50,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="share_menu_title">Share</string>
 
     <string name="common_auto">Auto</string>
+    <string name="common_default">Default</string>
     <string name="common_recommended">Recommended</string>
 
     <string name="network_error">Could not connect the server.\nCheck your network settings.</string>
@@ -143,6 +144,7 @@ Tap the button below to add city manually or try to locate again"</string>
 
     <string name="settings_icons_title">Weather icons</string>
     <string name="settings_icons_builtin_title">Built-in weather icons</string>
+    <string name="settings_icons_temperature_title">Temperature icons</string>
     <string name="settings_icons_theme_details_title">Theme details</string>
 
     <string name="settings_widgets_title">Widgets</string>

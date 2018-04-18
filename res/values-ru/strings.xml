@@ -48,6 +48,7 @@
     <string name="share_menu_title">Поделиться</string>
 
     <string name="common_auto">Авто</string>
+    <string name="common_default">По умолчанию</string>
     <string name="common_recommended">Рекомендуется</string>
 
     <string name="network_error">"Нет соединения с сервером.\nПроверьте настройки сети."</string>
@@ -136,6 +137,7 @@
     <string name="settings_alerts_title">Погодные предупреждения</string>
 
     <string name="settings_icons_title">Иконки погоды</string>
+    <string name="settings_icons_temperature_title">Иконки температуры</string>
     <string name="settings_icons_theme_details_title">Описание темы</string>
 
     <string name="settings_widgets_title">Виджеты</string>
