@@ -48,6 +48,7 @@
     <string name="city_exceeded_warning">Só pode adicionar apenas 10 localizações</string>
     <string name="color_picker_use_default_color">Utilizar cor padrão</string>
     <string name="common_auto">Procurar automaticamente</string>
+    <string name="common_default">Padrão</string>
     <string name="common_recommended">(Recomendado)</string>
     <string name="daily_forcast_drawer_on_top">Previsão diária</string>
     <string name="daily_forcast_no_wind">Fraco</string>
@@ -146,6 +147,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_geolocation_title">Localização</string>
     <string name="settings_help">Ajuda</string>
     <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
+    <string name="settings_icons_temperature_title">Ícones de temperatura</string>
     <string name="settings_icons_theme_details_title">Detalhes do tema</string>
     <string name="settings_icons_title">Ícones do tempo</string>
     <string name="settings_menu_title">Definições</string>
