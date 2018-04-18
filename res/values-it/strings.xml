@@ -48,6 +48,7 @@
     <string name="city_exceeded_warning">È possibile aggiungere solo 10 posizioni</string>
     <string name="color_picker_use_default_color">Usa il colore predefinito</string>
     <string name="common_auto">Cerca automaticamente</string>
+    <string name="common_default">Predefinito</string>
     <string name="common_recommended">(Raccomandato)</string>
     <string name="daily_forcast_drawer_on_top">Previsioni estese</string>
     <string name="daily_forcast_no_wind">Fermo</string>
@@ -146,6 +147,7 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="settings_geolocation_title">Posizione</string>
     <string name="settings_help">Aiuta</string>
     <string name="settings_icons_builtin_title">Icone del tempo incorporate</string>
+    <string name="settings_icons_temperature_title">Icone di temperatura</string>
     <string name="settings_icons_theme_details_title">Dettagli del tema</string>
     <string name="settings_icons_title">Icone del meteo</string>
     <string name="settings_menu_title">Impostazioni</string>
