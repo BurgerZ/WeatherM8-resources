@@ -50,6 +50,7 @@
     <string name="share_menu_title">分享</string>
 
     <string name="common_auto">自动</string>
+    <string name="common_default">默认</string>
     <string name="common_recommended">建议</string>
 
     <string name="network_error">无法连接服务器\n请检查您的网络设置</string>
@@ -143,6 +144,7 @@
 
     <string name="settings_icons_title">天气图标</string>
     <string name="settings_icons_builtin_title">内置天气图标</string>
+    <string name="settings_icons_temperature_title">温度图标</string>
     <string name="settings_icons_theme_details_title">主题细节</string>
 
     <string name="settings_widgets_title">小工具</string>
