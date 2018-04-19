@@ -57,6 +57,7 @@
     <string name="city_exceeded_warning">Lahko dodate do 10 mest</string>
     <string name="color_picker_use_default_color">Uporabi privzeto barvo</string>
     <string name="common_auto">Samodejno</string>
+    <string name="common_default">Privzeto</string>
     <string name="common_recommended">Priporočeno</string>
     <string name="daily_forcast_drawer_on_top">Dnevna napoved</string>
     <string name="daily_forcast_no_wind">Brez vetra</string>
@@ -160,6 +161,7 @@ Programiranje aplikacij Android je hobi, ki ga delam le v prostem času. Potreba
     <string name="settings_geolocation_title">Lokacija</string>
     <string name="settings_help">Pomoč</string>
     <string name="settings_icons_builtin_title">Vgrajene ikone vremena</string>
+    <string name="settings_icons_temperature_title">Ikone temperature</string>
     <string name="settings_icons_theme_details_title">Podrobnosti teme</string>
     <string name="settings_icons_title">Ikone vremena</string>
     <string name="settings_menu_title">Nastavitve</string>
