@@ -50,7 +50,8 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="share_menu_title">Compartir</string>
 
     <string name="common_auto">Automático</string>
-    <string name="common_recommended">Recomendado</string>
+    <string name="common_default">Predeterminado</string>
+	<string name="common_recommended">Recomendado</string>
 
     <string name="network_error">"No se puede conectar al servidor.\nCompruebe la configuración de red. "</string>
     <string name="network_in_quiet_hours">Está en el modo no molestar. Actualizaciones canceladas.</string>
@@ -139,11 +140,12 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
 	<string name="settings_notification_statusbar_color_title">Color del icono de notificación</string>
     <string name="settings_notification_text_color_title">Color del texto de notificación</string>
 
-    <string name="settings_alerts_title">Administrar alertas</string>
+    <string name="settings_alerts_title">Administrar alertas meteorológicas</string>
 
     <string name="settings_icons_title">Iconos del tiempo</string>
     <string name="settings_icons_builtin_title">Iconos del tiempo incorporados</string>
-    <string name="settings_icons_theme_details_title">Detalles del tema</string>
+    <string name="settings_icons_temperature_title">Iconos de temperatura</string>
+	<string name="settings_icons_theme_details_title">Detalles del tema</string>
 
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_widgets_not_found">Ningún widget instalado</string>

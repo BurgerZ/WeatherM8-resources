@@ -50,6 +50,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="share_menu_title">Comparteix</string>
 
     <string name="common_auto">Automàtic</string>
+	<string name="common_default">Per defecte</string>
     <string name="common_recommended">Recomanat</string>
 
     <string name="network_error">"No s'ha pogut connectar al servidor.\nComproveu la configuració de xarxa."</string>
@@ -143,7 +144,8 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
 
     <string name="settings_icons_title">Icones del temps</string>
     <string name="settings_icons_builtin_title">Icones del temps incorporats</string>
-    <string name="settings_icons_theme_details_title">Detalls del tema</string>
+    <string name="settings_icons_temperature_title">Icones de temperatura</string>
+	<string name="settings_icons_theme_details_title">Detalls del tema</string>
 
     <string name="settings_widgets_title">Ginys</string>
     <string name="settings_widgets_not_found">No hi ha cap giny instal·lat</string>
