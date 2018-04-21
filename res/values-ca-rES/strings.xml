@@ -39,7 +39,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="first_start_network_msg">"Aquesta aplicació requereix una connexió a Internet activa per obtenir dades meteorològiques.
         L'aplicació fa servir els següents permisos:
-        \u2022 Accés a la ubicació del dispositu per obtenir les coordenades actuals.
+        \u2022 Accés a la ubicació del dispositiu per obtenir les coordenades actuals.
         \u2022 Accés a les fotos, multimèdia i arxius per desar captures de pantalla per a la funció Comparteix."</string>
     <string name="first_start_network_title">Connexió a Internet i accés a la ubicació</string>
 
@@ -77,7 +77,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_update_interval_title">"Interval d'actualització"</string>
     <string name="settings_update_quiet_hours_end_time_title">Fi</string>
     <string name="settings_update_quiet_hours_start_time_title">Inici</string>
-    <string name="settings_update_quiet_hours_title">Període sense notifications</string>
+    <string name="settings_update_quiet_hours_title">Període sense notificacions</string>
     <string name="settings_weather_transfer_title">Transferència de descripcions meteorològiques</string>
     <string name="settings_weather_transfer_summary">Mostra descripció del clima de la transferència del dia a la nit</string>
     <string name="settings_weather_spider_title">"Font d'actualització"</string>
@@ -140,7 +140,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_notification_statusbar_color_title">Color de la icona de notificació</string>
 	<string name="settings_notification_text_color_title">Color del text de la notificació</string>
 
-    <string name="settings_alerts_title">Gestió d'alertes meteorològiques</string>
+    <string name="settings_alerts_title">"Gestió d'alertes meteorològiques"</string>
 
     <string name="settings_icons_title">Icones del temps</string>
     <string name="settings_icons_builtin_title">Icones del temps incorporats</string>
@@ -223,7 +223,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s milles</string>
 
-    <string name="weather_details_update_date_string">"Hora d'observació: %s"</string>
+    <string name="weather_details_update_date_string">"Data d'observació: %s"</string>
 
     <string name="weather_details_daylight_diff_longer">%1$s més</string>
     <string name="weather_details_daylight_diff_shorter">%1$s menys</string>
@@ -274,11 +274,11 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="hourly_forecast_title">Previsió horària</string>
 
     <!-- Widgets -->
-    <string name="widget_update_date_string">Actualizat el %s</string>
+    <string name="widget_update_date_string">Actualitzat el %s</string>
     <string name="widget_update_updating_string">"S'està actualitzant&#8230;"</string>
     <!-- Widget config -->
     <string name="widget_config_title">Configuració del giny</string>
-    <string name="widget_config_custom_clock_font_onoff_title">Font del rellotge personalizada</string>
+    <string name="widget_config_custom_clock_font_onoff_title">Font del rellotge personalitzada</string>
     <string name="widget_config_custom_clock_font_onoff_summary">"Desactiva-ho si el giny del rellotge no s'actualitza"</string>
     <string name="widget_config_clock_font_title">Font del rellotge</string>
     <string name="widget_config_clock_color_title">Color del rellotge</string>
@@ -294,9 +294,9 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_text_color_title">Color del text</string>
     <string name="widget_config_show_alarm_title">Mostra la propera alarma</string>
     <string name="widget_config_show_date_title">Mostra la data</string>
-    <string name="widget_config_use_background_title">Mostra el giny en segon plà</string>
-    <string name="widget_config_background_color_title">Color del segon plà</string>
-    <string name="widget_config_background_type_title">Tipus de segon plà</string>
+    <string name="widget_config_use_background_title">Mostra el giny en segon pla</string>
+    <string name="widget_config_background_color_title">Color del segon pla</string>
+    <string name="widget_config_background_type_title">Tipus de segon pla</string>
     <string name="widget_config_background_type_solid">Sòlid</string>
     <string name="widget_config_background_type_border">Vora</string>
 
