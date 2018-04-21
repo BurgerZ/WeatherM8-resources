@@ -33,7 +33,7 @@
         <item>Nejsilnější</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
-        <item>Ikona počasí</item>
+        <item>Počasí</item>
         <item>Teplota</item>
     </string-array>
     <string-array name="weather_type">
