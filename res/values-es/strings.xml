@@ -84,7 +84,7 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_weather_realtime_spider_title">Datos en tiempo real</string>
     <string name="settings_weather_forecast_spider_title">Datos de previsión</string>
     <string name="settings_weather_station_title">Estación meteorológica</string>
-	<string name="settings_weather_data_order_title">Orden de los datos meteorológicos</string>
+    <string name="settings_weather_data_order_title">Orden de los datos meteorológicos</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">"Información sobre la calidad del aire"</string>
     <string name="settings_aqi_onoff_summary">"Muestra la información del índice de calidad del aire en las ubicaciones (si está disponible)"</string>
@@ -137,7 +137,7 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
 
     <string name="settings_notify_type_title">Icono de notificación</string>
     <string name="settings_notification_background_color_title">Color de fondo de notificación</string>
-	<string name="settings_notification_statusbar_color_title">Color del icono de notificación</string>
+    <string name="settings_notification_statusbar_color_title">Color del icono de notificación</string>
     <string name="settings_notification_text_color_title">Color del texto de notificación</string>
 
     <string name="settings_alerts_title">Administrar alertas meteorológicas</string>
@@ -228,7 +228,7 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <string name="weather_details_daylight_diff_longer">%1$s más</string>
     <string name="weather_details_daylight_diff_shorter">%1$s menos</string>
 	
-	<string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
     <string name="time_units_hour"> h</string>
     <string name="time_units_minute"> min</string>
@@ -293,7 +293,7 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <string name="widget_config_font_size_title">Tamaño del texto</string>
     <string name="widget_config_text_color_title">Color del texto</string>
     <string name="widget_config_show_alarm_title">Mostrar próxima alarma</string>
-	<string name="widget_config_show_date_title">Mostrar fecha</string>
+    <string name="widget_config_show_date_title">Mostrar fecha</string>
     <string name="widget_config_use_background_title">Mostrar widget en segundo plano</string>
     <string name="widget_config_background_color_title">Color del segundo plano</string>
     <string name="widget_config_background_type_title">Tipo de segundo plano</string>
