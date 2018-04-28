@@ -1,0 +1,12 @@
+
+
+    <string name="settings_geolocation_title">Τοποθεσία</string>
+    <string name="settings_autolocate_title">Αυτόματος εντοπισμός</string>
+    <string name="settings_autolocate_summary">Αυτόματος εντοπισμός της συσκευή σας</string>
+    <string name="settings_geolocation_names_source_title">Όνομα Γεωγραφικής πηγής</string>
+    <string name="geolocation_names_source_default">Προεπιλογή</string>
+    <string name="geolocation_names_source_google">Google</string>
+    <string name="settings_autolocate_detailed_title">Λεπτομερείς πληροφορίες τοποθεσίας</string>
+    <string name="settings_autolocate_detailed_summary">Λάβετε και εμφανίστε λεπτομερείς πληροφορίες σχετικά με την τρέχουσα τοποθεσία σας, όπως δρόμο, περιοχή, χώρα</string>
+	
+	<string name="widget_config_show_ampm_title">Ένδειξη ΠΜ/ΜΜ (12ω μορφή)</string>
