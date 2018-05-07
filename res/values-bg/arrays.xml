@@ -50,6 +50,11 @@
         <item>12 часа</item>
         <item>24 часа</item>
     </string-array>
+    <string-array name="weather_icons_entries">
+        <item>MIUI 8</item>
+        <item>YunOS</item>
+        <item>Обикновени</item>
+    </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Съвсем слабо</item>
         <item>Слабо</item>

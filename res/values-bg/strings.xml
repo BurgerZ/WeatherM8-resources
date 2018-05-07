@@ -155,11 +155,11 @@
     <string name="settings_notification_priority_summary">Уведомленията ще се показват само при отваряне на статус бара</string>
     <string name="settings_notification_priority_title">Минимален приоритет</string>
     <string name="settings_notification_statusbar_color_title">Цвят на иконата за известяване</string>
-    <string name="settings_notification_summary">Покажи текуща прогноза в областта за уведомления</string>
-    <string name="settings_notification_title">Покажи уведомления</string>
-    <string name="settings_notifications_summary">Настройки за уведомления</string>
-    <string name="settings_notifications_title">Уведомления</string>
-    <string name="settings_notify_type_title">Икона за уведомления</string>
+    <string name="settings_notification_summary">Покажи текуща прогноза в областта за известия</string>
+    <string name="settings_notification_title">Покажи известия</string>
+    <string name="settings_notifications_summary">Настройки за известия</string>
+    <string name="settings_notifications_title">Известия</string>
+    <string name="settings_notify_type_title">Икона за известия</string>
     <string name="settings_permissions">Разрешения</string>
     <string name="settings_pressure_level_title">Покажи налягане за</string>
     <string name="settings_pressure_unit">Налягане</string>
@@ -271,7 +271,7 @@
     <string name="widget_config_show_ampm_title">Показване на AM/PM (12ч формат)</string>
     <string name="widget_config_show_cityname_title">Покажи името на града</string>
     <string name="widget_config_show_date_title">Показване на датата</string>
-    <string name="widget_config_show_leading_zero_title">Показва водеща нула</string>
+    <string name="widget_config_show_leading_zero_title">Показване на нула пред часа</string>
     <string name="widget_config_show_local_time_title">Покажи местно време</string>
     <string name="widget_config_show_realtime_icon_title">Показване на текущата икона за времето</string>
     <string name="widget_config_show_text_shadow_title">Показване на сянка на текста</string>
@@ -295,4 +295,9 @@
     <string name="zodiac_scorpio">Скорпион</string>
     <string name="zodiac_taurus">Телец</string>
     <string name="zodiac_virgo">Дева</string>
+    <string name="color_picker_use_default_color">Използвай цвят по подразбиране</string>
+    <string name="common_default">По подразбиране</string>
+    <string name="settings_icons_temperature_title">Икони за температура</string>
+    <string name="settings_notification_background_color_title">Цвят на фона на известието</string>
+    <string name="settings_notification_text_color_title">Цвят на текста на известието</string>
 </resources>
