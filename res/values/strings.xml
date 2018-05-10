@@ -294,6 +294,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_config_text_color_title">Text color</string>
     <string name="widget_config_show_alarm_title">Show next alarm</string>
     <string name="widget_config_show_date_title">Show date</string>
+    <string name="widget_config_show_update_date_title">Show forecast update date</string>
     <string name="widget_config_use_background_title">Show widget background</string>
     <string name="widget_config_background_color_title">Background color</string>
     <string name="widget_config_background_type_title">Background type</string>
