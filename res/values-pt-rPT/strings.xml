@@ -257,6 +257,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="widget_config_show_local_time_title">Mostrar hora local</string>
     <string name="widget_config_show_realtime_icon_title">Mostrar ícone do tempo atual</string>
     <string name="widget_config_show_text_shadow_title">Mostrar sombra de texto</string>
+    <string name="widget_config_show_update_date_title">Mostrar última atualização</string>
     <string name="widget_config_text_color_title">Cor do texto</string>
     <string name="widget_config_title">Definições do widget</string>
     <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
