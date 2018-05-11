@@ -21,6 +21,7 @@
     <string name="location_tag">Εντοπισμός</string>
     <string name="act_weather_find_city_no_result">Δεν υπάρχουν αποτελέσματα</string>
     <string name="act_weather_find_city_added">Προστέθηκε</string>
+    <string name="city_exceeded_warning">Μπορείτε να προσθέσετε έως 10 πόλεις</string>																			 
     <string name="view_forecast_item_yesterday">Χθές</string>
     <string name="view_indexes_item_today">Σήμερα</string>
     <string name="view_indexes_item_tommorrow">Αύριο</string>
@@ -49,6 +50,7 @@
     <string name="share_menu_title">Κοινή χρήση</string>
 
     <string name="common_auto">Αυτόματα</string>
+    <string name="common_default">Προεπιλογή</string>												  
     <string name="common_recommended">Συνιστάται</string>
 
     <string name="network_error">Δεν ήταν δυνατή η σύνδεση στο server.\nΕλέγξτε τις ρυθμίσεις δικτύου.</string>
@@ -58,8 +60,18 @@
 
     <!-- Preferences -->
     <string name="settings_menu_title">Ρυθμίσεις</string>
+   <string name="settings_geolocation_title">Τοποθεσία</string>
+    <string name="settings_autolocate_title">Αυτόματος εντοπισμός</string>
+    <string name="settings_autolocate_summary">Αυτόματος εντοπισμός της συσκευή σας</string>
+    <string name="settings_geolocation_names_source_title">Όνομα Γεωγραφικής πηγής</string>
+    <string name="geolocation_names_source_default">Προεπιλογή</string>
+    <string name="geolocation_names_source_google">Google</string>
+    <string name="settings_autolocate_detailed_title">Λεπτομερείς πληροφορίες τοποθεσίας</string>
+    <string name="settings_autolocate_detailed_summary">Λάβετε και εμφανίστε λεπτομερείς πληροφορίες σχετικά με την τρέχουσα τοποθεσία σας, όπως δρόμο, περιοχή, χώρα</string>															   
     <string name="settings_autoupdate_weather_title">Αυτόματη ενημέρωση</string>
     <string name="settings_autoupdate_weather_summary">Αυτόματη ενημέρωση καιρού</string>
+    <string name="settings_update_on_app_start_title">Ενημέρωση κατά την εκκίνηση</string>																				  
+    <string name="settings_update_on_app_start_summary">Ενημερώστε την πρόγνωση καιρού κατά την εκκίνηση της εφαρμογής</string>																														
     <string name="settings_update_wifi_only_summary">Αυτόματη ενημέρωση της πρόβλεψης καιρού μόνο όταν υπάρχει σύνδεση Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Ενημέρωση μόνο σε Wi-Fi</string> 
     <string name="settings_update_interval_title">Διάστημα ενημέρωσης</string>
@@ -124,19 +136,23 @@
     <string name="settings_notification_priority_summary">Ειδοποιήσεις ελάχιστης προτεραιότητας θα εμφανίζονται μόνο στον πίνακα ειδοποιήσεων</string>
 
     <string name="settings_notify_type_title">Εικονίδιο ειδοποιήσεων</string>
+    <string name="settings_notification_background_color_title">Χρώμα φόντου ειδοποίησης</string>
     <string name="settings_notification_statusbar_color_title">Χρώμα εικονιδίου ειδοποίησης</string>
+   <string name="settings_notification_text_color_title">Χρώμα κειμένου ειδοποίησης</string>																							   
 
-    <string name="settings_alerts_title">Διαχείριση ειδοποιήσεων</string>
+
+   <string name="settings_alerts_title">Διαχείριση ειδοποιήσεων</string>
 
     <string name="settings_icons_title">Εικονίδια καιρού</string>
     <string name="settings_icons_builtin_title">Ενσωματωμένα εικονίδια καιρού</string>
+   <string name="settings_icons_temperature_title">Εικονίδια θερμοκρασίας</string>																			  
     <string name="settings_icons_theme_details_title">Λεπτομέρειες θέματος</string>
 
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα widgets</string>
 
     <string name="settings_ads_title">Διαφήμιση και δωρεές</string>
-    <string name="settings_ads_donations_title">Κεράστε μια μπύρα</string>
+    <string name="settings_ads_donations_title">Αγοράστε μου καφέ</string>
     <string name="settings_ads_explanation">"Γιατί βλέπετε μια διαφήμιση?
 Γράφοντας εφαρμογές για το Android είναι ένα χόμπι για μένα, το οποίο κάνω στον προσωπικό μου ελεύθερο χρόνο. Γι 'αυτό παρακαλώ δείξτε κατανόηση για την εμφάνιση ενός ορισμένου αριθμού διαφημίσεων. Η εμφάνιση διαφημίσεων στην εφαρμογή συνεισφέρουν στην περαιτέρω ανάπτυξη."</string>
     <string name="settings_ads_menu_hide_title">Απόκρυψη αυτού του στοιχείου μενού</string>
@@ -213,6 +229,10 @@
      <string name="weather_details_daylight_diff_longer">%1$s πιο αργά</string>
     <string name="weather_details_daylight_diff_shorter">%1$s πιο νωρίς</string>
 
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+
+
+
     <string name="time_units_hour">Ω</string>
     <string name="time_units_minute">Λ</string>
     <string name="time_units_second">Δ</string>
@@ -277,6 +297,7 @@
     <string name="widget_config_text_color_title">Χρώμα κειμένου</string>
     <string name="widget_config_show_alarm_title">¨Ενδειξη επόμενου ξυπνητηριού</string>
     <string name="widget_config_show_date_title">Ένδειξη ημέρας</string>
+    <string name="widget_config_show_update_date_title">Εμφάνιση ημερομηνίας ενημέρωσης καιρού</string>																						  
     <string name="widget_config_use_background_title">Εμφάνιση φόντου widget</string>
     <string name="widget_config_background_color_title">Χρώμα φόντου</string>
     <string name="widget_config_background_type_title">Τύπος Φόντου</string>
@@ -288,6 +309,7 @@
     <string name="widget_config_show_cityname_title">Εμφάνιση ονόματος πόλης</string>
     <string name="widget_config_show_local_time_title">Εμφάνιση τοπικής ώρας</string>
     <string name="widget_config_show_leading_zero_title">Εμφάνιση μπροστά το μηδέν</string>
+    <string name="widget_config_show_ampm_title">Ένδειξη ΠΜ/ΜΜ (12ω μορφή)</string>																				 
 
     <string name="widget_config_click_settings">Αγγίξτε για ρυθμίσεις των περιοχών widget</string>
     <string name="widget_config_click_apps">Επιλέξτε εφαρμογή</string>
@@ -295,7 +317,9 @@
     <string name="widget_config_click_date">Ημέρα</string>
     <string name="widget_config_click_weather_icon">Εικονίδιο καιρού</string>
     <string name="widget_config_click_temperature">Θεμοκρασία</string>
-
+    <string name="widget_config_backup_done">Δημιουργήθηκε αντίγραφο ρυθμίσεων Widget!</string>
+    <string name="widget_config_restore_done">Επαναφορά ρυθμίσεων Widget απο αντίγραφο</string>
+    <string name="widget_config_no_backups_found">Δεν βρέθηκε αντίγραφο ρυθμίσεων Widget</string>																				
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Φάσεις Σελήνης</string>
     <string name="moon_age">Χρόνος: %1$s ημέρες %2$s ώρες %3$s λεπτά</string>
@@ -372,6 +396,12 @@
 
     <string name="radar_date_format">dd/MM HH:mm</string>
 
-    <string name="loading_data">Φόρτωση δεδομένων…</string>
+ 
+
+ 
+
+ 
+
+   <string name="loading_data">Φόρτωση δεδομένων…</string>														
 </resources>
 
