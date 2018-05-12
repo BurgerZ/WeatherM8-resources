@@ -50,7 +50,7 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="share_menu_title">Comparteix</string>
 
     <string name="common_auto">Automàtic</string>
-    <string name="common_default">Per defecte</string>
+	 <string name="common_default">Per defecte</string>
     <string name="common_recommended">Recomanat</string>
 
     <string name="network_error">"No s'ha pogut connectar al servidor.\nComproveu la configuració de xarxa."</string>
@@ -136,16 +136,16 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_notification_priority_summary">"Les notificacions de prioritat mínima només apareixen en l'àrea de notificació"</string>
 
     <string name="settings_notify_type_title">Icona de notificació</string>
-    <string name="settings_notification_background_color_title">Color de fons de la notificació</string>
+	 <string name="settings_notification_background_color_title">Color de fons de la notificació</string>
     <string name="settings_notification_statusbar_color_title">Color de la icona de notificació</string>
-    <string name="settings_notification_text_color_title">Color del text de la notificació</string>
+	 <string name="settings_notification_text_color_title">Color del text de la notificació</string>
 
     <string name="settings_alerts_title">"Gestió d'alertes meteorològiques"</string>
 
     <string name="settings_icons_title">Icones del temps</string>
     <string name="settings_icons_builtin_title">Icones del temps incorporats</string>
     <string name="settings_icons_temperature_title">Icones de temperatura</string>
-    <string name="settings_icons_theme_details_title">Detalls del tema</string>
+	 <string name="settings_icons_theme_details_title">Detalls del tema</string>
 
     <string name="settings_widgets_title">Ginys</string>
     <string name="settings_widgets_not_found">No hi ha cap giny instal·lat</string>
@@ -294,7 +294,8 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_text_color_title">Color del text</string>
     <string name="widget_config_show_alarm_title">Mostra la propera alarma</string>
     <string name="widget_config_show_date_title">Mostra la data</string>
-    <string name="widget_config_use_background_title">Mostra el giny en segon pla</string>
+    <string name="widget_config_show_update_date_title">"Mostra la data d'actualització de la previsió"</string>
+	 <string name="widget_config_use_background_title">Mostra el giny en segon pla</string>
     <string name="widget_config_background_color_title">Color del segon pla</string>
     <string name="widget_config_background_type_title">Tipus de segon pla</string>
     <string name="widget_config_background_type_solid">Sòlid</string>
@@ -307,14 +308,14 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_show_leading_zero_title">Mostra el zero inicial</string>
     <string name="widget_config_show_ampm_title">Mostra AM/PM (format 12 h)</string>
 
-    <string name="widget_config_click_settings">"Feu clic en la configuració d'àrees del giny"</string>
+    <string name="widget_config_click_settings">"Configuració addicional"</string>
     <string name="widget_config_click_apps">Seleccioneu una aplicació</string>
     <string name="widget_config_click_clock">Rellotge</string>
     <string name="widget_config_click_date">Data</string>
     <string name="widget_config_click_weather_icon">Icona del temps</string>
     <string name="widget_config_click_temperature">Temperatura</string>
 
-    <string name="widget_config_backup_done">"S'ha fet una còpia de seguretat la configuració dels ginys!"</string>
+	 <string name="widget_config_backup_done">"S'ha fet una còpia de seguretat la configuració dels ginys!"</string>
     <string name="widget_config_restore_done">"S'ha restaurat la configuració dels ginys des de la còpia de seguretat!"</string>
     <string name="widget_config_no_backups_found">"No s'ha trobat cap còpia de seguretat de la configuració del giny"</string>
     
@@ -354,7 +355,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <!-- Color picker -->
     <string name="press_color_to_apply">Premeu un color per aplicar-lo</string>
     <string name="dialog_color_picker">Selector de color</string>
-    <string name="color_picker_use_default_color">Utilitza el color per defecte</string>
+	 <string name="color_picker_use_default_color">Utilitza el color per defecte</string>
 
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>
