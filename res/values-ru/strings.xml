@@ -48,6 +48,7 @@
     <string name="share_menu_title">Поделиться</string>
 
     <string name="common_auto">Авто</string>
+    <string name="common_default">По умолчанию</string>
     <string name="common_recommended">Рекомендуется</string>
 
     <string name="network_error">"Нет соединения с сервером.\nПроверьте настройки сети."</string>
@@ -66,6 +67,8 @@
     <string name="settings_autolocate_detailed_summary">Отображать подробную информацию о вашем местоположении, такую как улица, населенный пункт, регион, страна</string>
     <string name="settings_autoupdate_weather_title">Автообновление</string>
     <string name="settings_autoupdate_weather_summary">Автоматическое обновление прогноза погоды</string>
+    <string name="settings_update_on_app_start_title">Обновлять при запуске</string>
+    <string name="settings_update_on_app_start_summary">Обновлять прогноз погоды каждый раз при запуске программы</string>
     <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Обновлять только по Wi-Fi</string>
     <string name="settings_update_interval_title">Интервал обновления</string>
@@ -127,18 +130,21 @@
     <string name="settings_notification_priority_summary">Уведомления с минимальным приоритетом отображаются только в шторке уведомлений</string>
 
     <string name="settings_notify_type_title">Иконка уведомления</string>
+    <string name="settings_notification_background_color_title">Цвет фона уведомления</string>
     <string name="settings_notification_statusbar_color_title">Цвет иконки уведомления</string>
+    <string name="settings_notification_text_color_title">Цвет текста уведомления</string>
 
-    <string name="settings_alerts_title">Управление предупреждениями</string>
+    <string name="settings_alerts_title">Погодные предупреждения</string>
 
     <string name="settings_icons_title">Иконки погоды</string>
+    <string name="settings_icons_temperature_title">Иконки температуры</string>
     <string name="settings_icons_theme_details_title">Описание темы</string>
 
     <string name="settings_widgets_title">Виджеты</string>
     <string name="settings_widgets_not_found">Нет установленных виджетов</string>
 
     <string name="settings_ads_title">Реклама и пожертвования</string>
-    <string name="settings_ads_donations_title">Купить мне пива</string>
+    <string name="settings_ads_donations_title">Купить мне кофе</string>
     <string name="settings_ads_explanation">"Почему в приложении реклама?
 Написание приложений для Android для меня является хобби, которым я занимаюсь в свое личное свободное время. Поэтому прошу отнестись с пониманием к появлению в программе некоторого количества рекламных баннеров. Отображение рекламы в приложении стимулирует меня к дальнейшей разработке."</string>
     <string name="settings_ads_menu_hide_title">Скрыть этот пункт меню</string>
@@ -272,6 +278,7 @@
     <string name="widget_config_font_size_title">Размер текста</string>
     <string name="widget_config_show_alarm_title">Показывать следующий будильник</string>
     <string name="widget_config_show_date_title">Показывать дату</string>
+    <string name="widget_config_show_update_date_title">Показывать дату обновления прогноза</string>
     <string name="widget_config_use_background_title">Показывать фон виджета</string>
     <string name="widget_config_background_color_title">Цвет фона</string>
     <string name="widget_config_background_type_title">Тип фона</string>
@@ -291,6 +298,10 @@
     <string name="widget_config_click_date">Дата</string>
     <string name="widget_config_click_weather_icon">Иконка погоды</string>
     <string name="widget_config_click_temperature">Температура</string>
+
+    <string name="widget_config_backup_done">Настройки виджета сохранены!</string>
+    <string name="widget_config_restore_done">Настройки виджета восстановлены из резервной копии!</string>
+    <string name="widget_config_no_backups_found">Резервных копий не найдено</string>
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Фазы луны</string>
@@ -328,6 +339,7 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
     <string name="dialog_color_picker">Выбор цвета</string>
+    <string name="color_picker_use_default_color">Использовать цвет по умолчанию</string>
 
     <!-- AQI -->
     <string name="aqi_main_title">Качество воздуха</string>

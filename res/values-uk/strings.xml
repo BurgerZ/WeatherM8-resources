@@ -129,7 +129,7 @@
     <string name="settings_widgets_not_found">Немає встановленних віджетів</string>
 	
     <string name="settings_ads_title">Реклама та пожертви</string>
-    <string name="settings_ads_donations_title">Купити мені пивасіка)</string>
+    <string name="settings_ads_donations_title">Купити мені кави)</string>
     <string name="settings_ads_explanation">"Чому у програмі міститься реклама?
 Написання програм для Android для мене є хобі, яким я займаюся у власний вільний час. Тому прошу поставитися з розумінням до появи в програмі деякої кількості рекламних банерів. Показ реклами у програмі стимулює мене до подальшої розробки."</string>
     <string name="settings_ads_menu_hide_title">Приховати цей пункт меню</string>

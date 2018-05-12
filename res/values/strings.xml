@@ -50,6 +50,7 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="share_menu_title">Share</string>
 
     <string name="common_auto">Auto</string>
+    <string name="common_default">Default</string>
     <string name="common_recommended">Recommended</string>
 
     <string name="network_error">Could not connect the server.\nCheck your network settings.</string>
@@ -69,7 +70,9 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_autolocate_detailed_summary">Get and show detailed information about your current location, like street, region, country</string>
     <string name="settings_autoupdate_weather_title">Auto update</string>
     <string name="settings_autoupdate_weather_summary">Update weather forecasts automatically</string>
-    <string name="settings_update_wifi_only_summary">Automatically update weather forecast only when Wi-Fi connection established</string>
+    <string name="settings_update_on_app_start_title">Update on app start</string>
+    <string name="settings_update_on_app_start_summary">Update weather forecast when you launch the application</string>
+    <string name="settings_update_wifi_only_summary">Update weather forecast only when Wi-Fi connection established</string>
     <string name="settings_update_wifi_only_title">Update only on Wi-Fi</string>
     <string name="settings_update_interval_title">Update interval</string>
     <string name="settings_update_quiet_hours_end_time_title">End</string>
@@ -133,19 +136,22 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_notification_priority_summary">Minimum-priority notifications appears only in notification shade</string>
 
     <string name="settings_notify_type_title">Notification icon</string>
+    <string name="settings_notification_background_color_title">Notification background color</string>
     <string name="settings_notification_statusbar_color_title">Notification icon color</string>
+    <string name="settings_notification_text_color_title">Notification text color</string>
 
-    <string name="settings_alerts_title">Manage alerts</string>
+    <string name="settings_alerts_title">Manage weather alerts</string>
 
     <string name="settings_icons_title">Weather icons</string>
     <string name="settings_icons_builtin_title">Built-in weather icons</string>
+    <string name="settings_icons_temperature_title">Temperature icons</string>
     <string name="settings_icons_theme_details_title">Theme details</string>
 
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_widgets_not_found">No installed widgets found</string>
 
     <string name="settings_ads_title">Advertisement and Donations</string>
-    <string name="settings_ads_donations_title">Buy me a beer</string>
+    <string name="settings_ads_donations_title">Buy me a coffee</string>
     <string name="settings_ads_explanation">"Why you see an advertising?
 Writing applications for Android is a hobby for me, which I do in my personal free time. So please treat with understanding to the appearance of a certain number of banners. Displaying ads in application stimulates the further development."</string>
     <string name="settings_ads_menu_hide_title">Hide this menu item</string>
@@ -288,6 +294,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_config_text_color_title">Text color</string>
     <string name="widget_config_show_alarm_title">Show next alarm</string>
     <string name="widget_config_show_date_title">Show date</string>
+    <string name="widget_config_show_update_date_title">Show forecast update date</string>
     <string name="widget_config_use_background_title">Show widget background</string>
     <string name="widget_config_background_color_title">Background color</string>
     <string name="widget_config_background_type_title">Background type</string>
@@ -307,6 +314,11 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_config_click_date">Date</string>
     <string name="widget_config_click_weather_icon">Weather icon</string>
     <string name="widget_config_click_temperature">Temperature</string>
+
+    <string name="widget_config_backup_done">Widget settings backed up!</string>
+    <string name="widget_config_restore_done">Widget settings restored from backup!</string>
+    <string name="widget_config_no_backups_found">No widget settings backups found</string>
+
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Moon Phases</string>
@@ -343,6 +355,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <!-- Color picker -->
     <string name="press_color_to_apply">Press on Color to apply</string>
     <string name="dialog_color_picker">Color Picker</string>
+    <string name="color_picker_use_default_color">Use default color</string>
 
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>

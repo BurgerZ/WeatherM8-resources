@@ -69,7 +69,9 @@
     <string name="geolocation_names_source_google">Google</string>
     <string name="settings_autoupdate_weather_title">자동 업데이트</string>
     <string name="settings_autoupdate_weather_summary">일기예보를 자동으로 업데이트</string>
-    <string name="settings_update_wifi_only_summary">Wi-Fi가 연결되어 있을 때만 일기예보를 자동으로 업데이트</string>
+    <string name="settings_update_on_app_start_title">앱 시작시 업데이트</string>
+    <string name="settings_update_on_app_start_summary">프로그램이 실행될 때 일기예보를 업데이트</string>
+    <string name="settings_update_wifi_only_summary">Wi-Fi가 연결되어 있을 때만 일기예보를 업데이트</string>
     <string name="settings_update_wifi_only_title">Wi-Fi에서만 업데이트</string>
     <string name="settings_update_interval_title">업데이트 주기</string>
     <string name="settings_update_quiet_hours_end_time_title">종료</string>
@@ -102,7 +104,7 @@
     <string name="settings_pressure_unit_mb">mb</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_pressure_unit_in">inHg</string>
-    <string name="settings_wind_unit">바람 속도</string>
+    <string name="settings_wind_unit">풍속</string>
     <string name="settings_wind_unit_bft">bft</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_knot">knot</string>
@@ -145,7 +147,7 @@
     <string name="settings_widgets_not_found">설치된 위젯을 찾을 수 없습니다</string>
 
     <string name="settings_ads_title">광고와 후원</string>
-    <string name="settings_ads_donations_title">맥주 한잔</string>
+    <string name="settings_ads_donations_title">커피 사주기</string>
     <string name="settings_ads_explanation">"왜 광고를 보고 있나요?
 안드로이드 응용 프로그램 제작은 개인 시간에 하고 있는 내 취미입니다. 따라서 일정 수의 배너가 표시되는 것을 이해해주세요. 응용 프로그램의 광고 표시는 개발을 장려합니다."</string>
     <string name="settings_ads_menu_hide_title">이 메뉴 항목을 숨기기</string>
@@ -228,11 +230,11 @@
     <string name="time_units_minute">" 분"</string>
     <string name="time_units_second">" 초"</string>
 
-    <string name="hourly_forecast_detail_date">MMM d, E</string>
-    <string name="daily_forecast_detail_date">MMM d</string>
-    <string name="weather_update_date">MMM d</string>
-    <string name="weather_short_month_update_date">MMM d</string>
-    <string name="widget_dateformat_default_value">yyyy MMMM d</string>
+    <string name="hourly_forecast_detail_date">MMM d일, E</string>
+    <string name="daily_forecast_detail_date">MMM d일</string>
+    <string name="weather_update_date">MMMM d일</string>
+    <string name="weather_short_month_update_date">MMMM d일</string>
+    <string name="widget_dateformat_default_value">yyyy년 MMMM d일</string>
 
     <!-- Weather alerts -->
     <string name="activity_main_alert">알람: %1$d</string>
@@ -320,7 +322,7 @@
     <string name="moon_lastquarter">하현달</string>
     <string name="moon_waningcrescent">그믐달</string>
     <string name="moon_illuminated">빛 세기: %s%%</string>
-    <string name="moon_since">날짜: %1$s %2$s</string>
+    <string name="moon_since">날짜: %2$s %1$s일</string>
     <string name="moon_distanse">달까지 거리: %s км</string>
     <string name="moon_angle">달의 각도: %s</string>
     <string name="moon_rise">월출: %s</string>
@@ -381,7 +383,7 @@
     <string name="radar_title">레이더</string>
     <string name="radar_tab_cloud">흐림</string>
     <string name="radar_tab_rain">강수량</string>
-    <string name="radar_date_format">dd/MM HH:mm</string>
+    <string name="radar_date_format">MM/dd HH:mm</string>
 
     <string name="loading_data">데이터 불러오는 중…</string>
 </resources>

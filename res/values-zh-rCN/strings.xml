@@ -50,6 +50,7 @@
     <string name="share_menu_title">分享</string>
 
     <string name="common_auto">自动</string>
+    <string name="common_default">默认</string>
     <string name="common_recommended">建议</string>
 
     <string name="network_error">无法连接服务器\n请检查您的网络设置</string>
@@ -69,8 +70,10 @@
     <string name="settings_autolocate_detailed_summary">获取并显示有关您当前位置的详细信息，如街道，地区，国家</string>
     <string name="settings_autoupdate_weather_title">自动更新</string>
     <string name="settings_autoupdate_weather_summary">自动更新天气预报</string>
-    <string name="settings_update_wifi_only_summary">仅在连接Wi-Fi时自动更新天气预报</string>
-    <string name="settings_update_wifi_only_title">连接Wi-Fi时自动更新</string>
+    <string name="settings_update_on_app_start_title">程序启动时更新</string>
+    <string name="settings_update_on_app_start_summary">启动应用程序时更新天气预报</string>
+    <string name="settings_update_wifi_only_summary">只有在连接Wi-Fi才更新天气预报。</string>
+    <string name="settings_update_wifi_only_title">只在Wi-Fi下更新</string>
     <string name="settings_update_interval_title">自动更新频率</string>
     <string name="settings_update_quiet_hours_end_time_title">结束时间</string>
     <string name="settings_update_quiet_hours_start_time_title">开始时间</string>
@@ -132,20 +135,23 @@
     <string name="settings_notification_priority_title">最低优先级</string>
     <string name="settings_notification_priority_summary">最低优先级通知，只显示在其他通知之下</string>
 
-    <string name="settings_notify_type_title">显示图标</string>
-    <string name="settings_notification_statusbar_color_title">图标颜色</string> 
-	
-    <string name="settings_alerts_title">预警管理</string>
+    <string name="settings_notify_type_title">通知图标</string>
+    <string name="settings_notification_background_color_title">通知背景颜色</string>
+    <string name="settings_notification_statusbar_color_title">通知图标颜色</string>
+    <string name="settings_notification_text_color_title">通知文本颜色</string>
+
+    <string name="settings_alerts_title">管理预警</string>
 
     <string name="settings_icons_title">天气图标</string>
     <string name="settings_icons_builtin_title">内置天气图标</string>
+    <string name="settings_icons_temperature_title">温度图标</string>
     <string name="settings_icons_theme_details_title">主题细节</string>
 
     <string name="settings_widgets_title">小工具</string>
     <string name="settings_widgets_not_found">未放置小工具</string>
 
     <string name="settings_ads_title">去除广告与捐款</string>
-    <string name="settings_ads_donations_title">请我喝啤酒</string>
+    <string name="settings_ads_donations_title">给我买咖啡</string>
     <string name="settings_ads_explanation">"为什么你会看到广告？
 在空闲时间写Android程序是我的爱好。所以请理解一定数量的广告能使此应用发展得更好。"</string>
     <string name="settings_ads_menu_hide_title">隐藏此菜单</string>
@@ -298,6 +304,7 @@
     <string name="widget_config_show_cityname_title">显示城市名称</string>
     <string name="widget_config_show_local_time_title">显示当地时间</string>
     <string name="widget_config_show_leading_zero_title">显示时间开头的零</string>
+    <string name="widget_config_show_ampm_title">显示 AM/PM （12小时格式）</string>
 
     <string name="widget_config_click_settings">小工具点击功能</string>
     <string name="widget_config_click_apps">选择应用程序</string>
@@ -306,6 +313,9 @@
     <string name="widget_config_click_weather_icon">天气图标</string>
     <string name="widget_config_click_temperature">温度</string>
 
+    <string name="widget_config_backup_done">备份小工具设置！</string>
+    <string name="widget_config_restore_done">从备份中恢复小工具设置！</string>
+    <string name="widget_config_no_backups_found">未找到小工具设置备份！</string>
     <!-- Moon Phases -->
     <string name="menu_moon_phases">月相</string>
     <string name="moon_age">月龄:%1$s天%2$s小时%3$s分钟</string>
@@ -341,6 +351,7 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">点击颜色以应用</string>
     <string name="dialog_color_picker">取色器</string>
+    <string name="color_picker_use_default_color">使用默认颜色</string>
 
     <string name="date_time_am">上午</string>
     <string name="date_time_pm">下午</string>

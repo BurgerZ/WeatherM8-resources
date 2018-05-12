@@ -275,7 +275,7 @@
     <string name="date_time_pm">अपराह्न</string>
     <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="settings_ads_donation_expl">नीचे दिए गए बटनों को दबाकर गूगल प्ले के माध्यम से किया गया दान विज्ञापन को नहीं हटाएगा। उन्हें हटाने के लिए आपको उपयोग करना चाहिए \"विज्ञापन हटाए\" बटन।</string>
-    <string name="settings_ads_donations_title">मुझे एक बियर दें</string>
+    <string name="settings_ads_donations_title">मुझे कॉफी खरीदें</string>
     <string name="settings_ads_webmoney">वेबमनी</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_icons_builtin_title">अंतर्निर्मित मौसम प्रतीक</string>

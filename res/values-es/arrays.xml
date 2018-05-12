@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-	<string-array name="hot_city">
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string-array name="hot_city">
         <item>Pekín</item>
         <item>Amsterdam</item>
         <item>Varsovia</item>
@@ -65,7 +67,7 @@
         <item>NO</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
-        <item>Ícono del clima</item>
+        <item>Ícono del tiempo</item>
         <item>Temperatura</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
@@ -87,12 +89,24 @@
         <item>12 horas</item>
         <item>24 horas</item>
     </string-array>
-	<string-array name="weather_icons_entries">
+    <string-array name="weather_icons_entries">
         <item>MIUI 8</item>
         <item>YunOS</item>
         <item>Simple</item>
     </string-array>
     <string-array name="widget_dateformat_values">
+        <item>d MMM</item>
+        <item>MMM d</item>
+        <item>d MMMM</item>
+        <item>MMMM d</item>
+        <item>EEEE, d MMM</item>
+        <item>EEEE, MMM d</item>
+        <item>EEEE, d MMMM</item>
+        <item>EEEE, MMMM d</item>
+        <item>E, d MMM</item>
+        <item>E, MMM d</item>
+        <item>E, d MMMM</item>
+        <item>E, MMMM d</item>
         <item>d MMMM yyyy</item>
         <item>d MMM yyyy</item>
         <item>MMMM d, yyyy</item>

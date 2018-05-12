@@ -65,10 +65,10 @@ Klepněte na tlačítko níže nebo zkuste získat polohu později"</string>
     <string name="more_details">Více podrobností</string>
     <string name="network_unavailable">Nelze se připojit k síti.</string>
     <string name="settings_about">O aplikaci…</string>
-    <string name="settings_alerts_title">Správa upozornění</string>
+    <string name="settings_alerts_title">Upozornění na počasí</string>
     <string name="settings_app_locale_title">Jazyk</string>
     <string name="settings_autoupdate_weather_summary">Aktualizovat předpověď automaticky</string>
-    <string name="settings_autoupdate_weather_title">Automatická aktualizace</string>
+    <string name="settings_autoupdate_weather_title">Aktualizovat automaticky</string>
     <string name="settings_category_units">Jednotky</string>
     <string name="settings_city_base">Databáze měst</string>
     <string name="settings_icons_title">Ikony počasí</string>
@@ -286,7 +286,7 @@ Zkontrolujte síťové nastavení."</string>
     <string name="weather_short_month_update_date">d. MMM</string>
     <string name="widget_dateformat_default_value">d. MMMM yyyy</string>
     <string name="radar_title">Radar</string>
-    <string name="settings_ads_donations_title">Přispět na pivo</string>
+    <string name="settings_ads_donations_title">Koupit mi kávu</string>
     <string name="settings_ads_donation_expl">Stisknutím těchto tlačítek pro přispění prostřednictvím služby Google Play NEJSOU odstraněny reklamy. Chcete-li je odstranit, použijte tlačítko \"Odebrat reklamy\".</string>
     <string name="widget_config_realtime_icon_size_title">Velikost ikony aktuálního počasí</string>
     <string name="widget_config_forecast_icon_size_title">Velikost ikony předpovědi počasí</string>    
@@ -298,4 +298,22 @@ Zkontrolujte síťové nastavení."</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
     <string name="loading_data">Načítám data…</string> 
     <string name="settings_weather_data_order_title">Pořadí údajů o počasí</string>
+    <string name="settings_geolocation_title">Poloha</string>
+    <string name="settings_autolocate_title">Vyhledat automaticky</string>
+    <string name="settings_autolocate_summary">Vyhledat polohu zařízení automaticky</string>
+    <string name="settings_geolocation_names_source_title">Zdroj názvů polohy</string>
+    <string name="geolocation_names_source_default">Výchozí</string>
+    <string name="geolocation_names_source_google">Google</string>
+    <string name="settings_autolocate_detailed_title">Podrobné informace o poloze</string>
+    <string name="settings_autolocate_detailed_summary">Získat a zobrazit podrobné informace o vaší aktuální poloze</string>
+    <string name="widget_config_show_ampm_title">Zobrazit 12hod. formát času</string>
+    <string name="widget_config_backup_done">Nastavení widgetu uloženo!</string>
+    <string name="widget_config_restore_done">Nastavení widgetu obnoveno!</string>
+    <string name="widget_config_no_backups_found">Nastavení widgetu nenalezeno!</string>  
+    <string name="settings_notification_background_color_title">Barva pozadí</string>
+    <string name="settings_notification_text_color_title">Barva textu</string>
+    <string name="color_picker_use_default_color">Použít výchozí barvu</string>
+    <string name="common_default">Výchozí</string>
+    <string name="settings_icons_temperature_title">Ikona teploty</string>
+    <string name="widget_config_show_update_date_title">Zobrazit údaje o aktualizaci počasí</string>
 </resources>

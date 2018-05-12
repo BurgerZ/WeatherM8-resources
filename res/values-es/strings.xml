@@ -11,7 +11,7 @@
     <string name="act_set_city_find_side_error">"No se puede localizar el dispositivo"</string>
     <string name="button_add_city">Añadir una ciudad</string>
     <string name="locate_fail_detail_err">"No se puede localizar el dispositivo
-Pulse el botón de abajo para añadir manualmente una ciudad o trata de localizarla de nuevo"</string>
+Pulse el botón de abajo para añadir manualmente una ciudad o trate de localizarla de nuevo"</string>
     <string name="act_set_city_swipe_hint">"Deslice hacia la izquierda para borrar la ciudad"</string>
     <string name="button_allow">"Aceptar"</string>
     <string name="button_not_allow">Cancelar</string>
@@ -50,7 +50,8 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="share_menu_title">Compartir</string>
 
     <string name="common_auto">Automático</string>
-    <string name="common_recommended">Recomendado</string>
+    <string name="common_default">Predeterminado</string>
+	 <string name="common_recommended">Recomendado</string>
 
     <string name="network_error">"No se puede conectar al servidor.\nCompruebe la configuración de red. "</string>
     <string name="network_in_quiet_hours">Está en el modo no molestar. Actualizaciones canceladas.</string>
@@ -69,7 +70,9 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_autolocate_detailed_summary">Obtener y mostrar información detallada sobre su ubicación actual, como la calle, región y país</string>
     <string name="settings_autoupdate_weather_title">Actualización automática</string>
     <string name="settings_autoupdate_weather_summary">Actualiza la previsión meteorológica automáticamente</string>
-    <string name="settings_update_wifi_only_summary">"Actualiza automáticamente la previsión meteorológica sólo cuando se establece una conexión Wi-Fi"</string>
+    <string name="settings_update_on_app_start_title">Actualizar al iniciar la aplicación</string>
+    <string name="settings_update_on_app_start_summary">Actualizar la previsión meteorológica al iniciar la aplicación</string>
+    <string name="settings_update_wifi_only_summary">Actualizar previsión meteorológica solo con Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Actualiza sólo con Wi-Fi</string>
     <string name="settings_update_interval_title">"Intervalo de actualización"</string>
     <string name="settings_update_quiet_hours_end_time_title">Final</string>
@@ -81,7 +84,7 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_weather_realtime_spider_title">Datos en tiempo real</string>
     <string name="settings_weather_forecast_spider_title">Datos de previsión</string>
     <string name="settings_weather_station_title">Estación meteorológica</string>
-	<string name="settings_weather_data_order_title">Orden de los datos meteorológicos</string>
+	 <string name="settings_weather_data_order_title">Orden de los datos meteorológicos</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
     <string name="settings_aqi_onoff_title">"Información sobre la calidad del aire"</string>
     <string name="settings_aqi_onoff_summary">"Muestra la información del índice de calidad del aire en las ubicaciones (si está disponible)"</string>
@@ -133,19 +136,22 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trata de localiza
     <string name="settings_notification_priority_summary">"Las notificaciones de prioridad mínima sólo aparecen en el área de notificación"</string>
 
     <string name="settings_notify_type_title">Icono de notificación</string>
-    <string name="settings_notification_statusbar_color_title">Color del icono de notificación</string>
+    <string name="settings_notification_background_color_title">Color de fondo de notificación</string>
+	 <string name="settings_notification_statusbar_color_title">Color del icono de notificación</string>
+    <string name="settings_notification_text_color_title">Color del texto de notificación</string>
 
-    <string name="settings_alerts_title">Administrar alertas</string>
+    <string name="settings_alerts_title">Administrar alertas meteorológicas</string>
 
     <string name="settings_icons_title">Iconos del tiempo</string>
     <string name="settings_icons_builtin_title">Iconos del tiempo incorporados</string>
-    <string name="settings_icons_theme_details_title">Detalles del tema</string>
+    <string name="settings_icons_temperature_title">Iconos de temperatura</string>
+	 <string name="settings_icons_theme_details_title">Detalles del tema</string>
 
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_widgets_not_found">Ningún widget instalado</string>
 
     <string name="settings_ads_title">Publicidad y donaciones</string>
-    <string name="settings_ads_donations_title">"Cómprame una cerveza"</string>
+    <string name="settings_ads_donations_title">Cómprame un café</string>
     <string name="settings_ads_explanation">"¿Por qué estoy viendo publicidad?
 Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi tiempo libre. Así que, por favor, entended la aparición de un cierto número de banners. La publicación de anuncios en la aplicación estimula el desarrollo posterior."</string>
     <string name="settings_ads_menu_hide_title">Ocultar este elemento del menú</string>
@@ -217,16 +223,16 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s millas</string>
 
-    <string name="weather_details_update_date_string">"Hora de observación: %s"</string>
+    <string name="weather_details_update_date_string">"Fecha de observación: %s"</string>
 
     <string name="weather_details_daylight_diff_longer">%1$s más</string>
     <string name="weather_details_daylight_diff_shorter">%1$s menos</string>
 	
-	<string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+	 <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
-    <string name="time_units_hour"> h</string>
-    <string name="time_units_minute"> min</string>
-    <string name="time_units_second"> s</string>
+    <string name="time_units_hour">" h"</string>
+    <string name="time_units_minute">" min"</string>
+    <string name="time_units_second">" s"</string>
 
     <string name="hourly_forecast_detail_date">E, d MMM</string>
     <string name="daily_forecast_detail_date">d MMM</string>
@@ -287,8 +293,9 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <string name="widget_config_font_size_title">Tamaño del texto</string>
     <string name="widget_config_text_color_title">Color del texto</string>
     <string name="widget_config_show_alarm_title">Mostrar próxima alarma</string>
-	<string name="widget_config_show_date_title">Mostrar fecha</string>
-    <string name="widget_config_use_background_title">Mostrar widget en segundo plano</string>
+	 <string name="widget_config_show_date_title">Mostrar fecha</string>
+    <string name="widget_config_show_update_date_title">Mostrar fecha de actualización de la previsión</string>
+	<string name="widget_config_use_background_title">Mostrar widget en segundo plano</string>
     <string name="widget_config_background_color_title">Color del segundo plano</string>
     <string name="widget_config_background_type_title">Tipo de segundo plano</string>
     <string name="widget_config_background_type_solid">Sólido</string>
@@ -301,14 +308,19 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <string name="widget_config_show_leading_zero_title">Mostrar cero inicial</string>
     <string name="widget_config_show_ampm_title">Mostrar AM/PM (formato 12 h)</string>
 
-    <string name="widget_config_click_settings">"Haga clic en la configuración de áreas del widget"</string>
+    <string name="widget_config_click_settings">"Configuración adicional"</string>
     <string name="widget_config_click_apps">Seleccione una aplicación</string>
     <string name="widget_config_click_clock">Reloj</string>
     <string name="widget_config_click_date">Fecha</string>
     <string name="widget_config_click_weather_icon">Icono del tiempo</string>
     <string name="widget_config_click_temperature">Temperatura</string>
 
-    <!-- Moon Phases -->
+    <string name="widget_config_backup_done">"¡Se ha respaldado la configuración de los widgets!"</string>
+    <string name="widget_config_restore_done">"Se ha restaurado la configuración de widgets desde la copia de seguridad!"</string>
+    <string name="widget_config_no_backups_found">"No se encontraron copias de seguridad de configuración de los widgets"</string>
+	
+	
+	<!-- Moon Phases -->
     <string name="menu_moon_phases">Fases lunares</string>
     <string name="moon_age">Edad: %1$s dies %2$s horas %3$s minutos</string>
     <string name="moon_newmoon">Luna nueva</string>
@@ -343,6 +355,7 @@ Desarrollar aplicaciones para Android es una afición para mí y lo hago en mi t
     <!-- Color picker -->
     <string name="press_color_to_apply">Pulse un color para aplicarlo</string>
     <string name="dialog_color_picker">Selector de color</string>
+    <string name="color_picker_use_default_color">Usar el color predeterminado</string>
 
     <string name="date_time_am">am</string>
     <string name="date_time_pm">pm</string>

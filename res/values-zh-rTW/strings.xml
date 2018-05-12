@@ -135,7 +135,7 @@
     <string name="settings_widgets_not_found">未放置小工具</string>
 
     <string name="settings_ads_title">去除廣告與捐款</string>
-    <string name="settings_ads_donations_title">請我喝啤酒</string>
+    <string name="settings_ads_donations_title">給我買咖啡</string>
     <string name="settings_ads_explanation">"為什麼你會看到廣告？
 在空閒時間寫Android程式是我的嗜好。所以請理解一定的廣告數量能使此應用發展得更好。"</string>
     <string name="settings_ads_menu_hide_title">隱藏此菜單</string>
