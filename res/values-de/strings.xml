@@ -113,10 +113,10 @@
     <string name="moon_rise">Anstieg: %s</string>
     <string name="moon_set">Einstellen: %s</string>
     <string name="moon_since">Datum: %1$s %2$s</string>
-    <string name="moon_waningcrescent">Abnehmender Mond</string>
-    <string name="moon_waninggibbous">Dreiviertelmond</string>
-    <string name="moon_waxingcrescent">Dreiviertelmond</string>
-    <string name="moon_waxinggibbous">Dreiviertelmond</string>
+    <string name="moon_waningcrescent">Abnehmender Halbmond</string>
+    <string name="moon_waninggibbous">Abnehmender Dreiviertelmond</string>
+    <string name="moon_waxingcrescent">Zunehmender Halbmond</string>
+    <string name="moon_waxinggibbous">Zunehmender Dreiviertelmond</string>
     <string name="moon_zodiac">Tierkreiszeichen: %s</string>
     <string name="more_details">Mehr details</string>
     <string name="network_error">Der Server konnte nicht verbunden werden.\nÜberprüfen Sie Ihre Netzwerkeinstellungen.</string>
