@@ -241,7 +241,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_dateformat_default_value">d MMMM yyyy</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">Alerts: %1$d</string>
+    <string name="activity_main_alert">Alerts: %1$d | tap here</string>
     <string name="activity_main_alert_precip">%1$s expected. The amount of precipitation per day is %2$s.</string>
     <string name="activity_main_alert_wind">Wind expected, the maximum wind speed up to %1$s.</string>
     <string name="activity_main_alert_wind_gusts">Wind gusts expected with the maximum wind speed of up to %1$s.</string>
