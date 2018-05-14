@@ -15,7 +15,7 @@
     <string name="activity_find_city_dialog_message">Erlaube Wetter das Abrufen Ihres Standortes</string>
     <string name="activity_find_city_dialog_set">Einstellungen</string>
     <string name="activity_find_city_dialog_title">Standort abrufen</string>
-    <string name="activity_main_alert">Alarm: %1$d</string>
+    <string name="activity_main_alert">Alarm: %1$d | hier tippen</string>
     <string name="activity_main_alert_day_night">Tagsüber wird %1$s erwartet, nachts %2$s</string>
     <string name="activity_main_alert_precip">%1$s erwartet. Die Niederschlagsmenge pro Tag beträgt %2$s.</string>
     <string name="activity_main_alert_tstorm">Gewitter werden mit einer Wahrscheinlichkeit von %1$s erwartet</string>
