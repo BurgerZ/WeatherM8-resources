@@ -6,6 +6,7 @@
     <string name="act_set_city_find_side_error">Localizare eşuată</string>
     <string name="act_set_city_swipe_hint">Glisați spre stânga pentru a șterge orașul</string>
     <string name="act_weather_find_city_added">Oraş adăugat</string>
+    <string name="city_exceeded_warning">Puteți adăuga până la 10 orașe</string>
     <string name="act_weather_find_city_click_retry">Reîncercaţi</string>
     <string name="act_weather_find_city_net_no_good">Imposibil de conectat la reţea</string>
     <string name="act_weather_find_city_no_result">Niciun rezultat</string>
@@ -44,6 +45,7 @@
     <string name="get_accounts_msg">Această aplicație necesită acces la lista de conturi ale dispozitivului pentru a verifica achizițiile și pentru a opri anunțurile.</string>
     <string name="get_accounts_title">Acces la conturi</string>
     <string name="common_auto">Auto</string>
+    <string name="common_default">Implicit</string>
     <string name="common_recommended">Recomandat</string>
 
     <string name="network_error">Nu s-a putut conecta la server.\nVerificați setările de rețea.</string>
@@ -72,7 +74,7 @@
     <string name="weather_details_wind_title">Vânt</string>
     <string name="weather_details_timezone_title">Fus orar</string>
     <string name="weather_details_elevation_title">Altitudine</string>
-    <string name="weather_details_update_date_string">Timp de observare: %s</string>
+    <string name="weather_details_update_date_string">Timpul observării: %s</string>
 
 
     <string name="time_units_hour">" o"</string>
@@ -87,7 +89,7 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="menu_moon_phases">Fazele lunii</string>
     <string name="moon_age">Vârstă: %1$s zile %2$s ore %3$s minute</string>
     <string name="moon_angle">Unghi: %s</string>
-    <string name="moon_distanse">Distanță: %s км</string>
+    <string name="moon_distanse">Distanță: %s km</string>
     <string name="moon_firstquarter">Primul pătrar</string>
     <string name="moon_full">Lună plină</string>
     <string name="moon_illuminated">Iluminată: %s%%</string>
@@ -107,12 +109,20 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_app_theme_title">Temă</string>
     <string name="settings_app_theme_light">Luminoasă</string>
     <string name="settings_app_theme_dark">Întunecată</string>
-    <string name="settings_alerts_title">Gestionaţi alertele</string>
+    <string name="settings_alerts_title">Gestionaţi alertele meteo</string>
     <string name="settings_autoupdate_weather_summary">Actualizare automată a prognozei meteo</string>
     <string name="settings_autoupdate_weather_title">Actualizare automată</string>
     <string name="settings_category_units">Unități</string>
     <string name="settings_city_base">Baza de date a orașelor</string>
     <string name="settings_menu_title">Setări</string>
+    <string name="settings_geolocation_title">Locaţie</string>
+    <string name="settings_autolocate_title">Localizare automată</string>
+    <string name="settings_autolocate_summary">Localizare automată a dispozitivului</string>
+    <string name="settings_geolocation_names_source_title">Sursă nume localizare geografică</string>
+    <string name="geolocation_names_source_default">Implicit</string>
+    <string name="geolocation_names_source_google">Google</string>
+    <string name="settings_autolocate_detailed_title">Informații detaliate despre locație</string>
+    <string name="settings_autolocate_detailed_summary">Se obțin și se afișează informații detaliate despre locația actuală, cum ar fi strada, regiunea, țara</string>
     <string name="settings_notification_priority_summary">Notificările cu minimă prioritate apar numai în panoul de notificare</string>
     <string name="settings_notification_priority_title">Prioritate minimă</string>
     <string name="settings_notification_summary">Se afişează condițiile meteorologice curente din zona de notificare</string>
@@ -120,6 +130,7 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_notifications_summary">Setări notificare meteo</string>
     <string name="settings_notifications_title">Notificare</string>
     <string name="settings_notify_type_title">Pictogramă notificare</string>
+    <string name="settings_notification_background_color_title">Culoare fundal notificare</string>
     <string name="settings_pressure_unit">Presiune</string>
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_pressure_unit_mb">mb</string>
@@ -129,7 +140,9 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="settings_translations">Traducere aplicaţie</string>
     <string name="settings_translations_summary">Mulţumiri traducătorilor aplicației</string>
     <string name="settings_update_interval_title">Interval de actualizare</string>
-    <string name="settings_update_wifi_only_summary">Se actualizează automat prognoza meteo doar atunci când conexiunea Wi-Fi a fost stabilită</string>
+    <string name="settings_update_on_app_start_title">Actualizare la pornirea aplicației</string>
+    <string name="settings_update_on_app_start_summary">Se actualizează prognoza meteo la lansarea aplicației</string>
+    <string name="settings_update_wifi_only_summary">Se actualizează prognoza meteo numai atunci când a fost stabilită o conexiune Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Actualizare doar în Wi-Fi</string>
     <string name="settings_update_quiet_hours_end_time_title">Oprire</string>
     <string name="settings_update_quiet_hours_start_time_title">Pornire</string>
@@ -181,7 +194,12 @@ Atingeți butonul de mai jos pentru a adăuga manual un oraș sau pentru a înce
     <string name="zodiac_scorpio">Scorpion</string>
     <string name="zodiac_taurus">Taur</string>
     <string name="zodiac_virgo">Fecioară</string>
-    <string name="settings_icons_title">Iconițe meteo</string>
+
+    <string name="settings_icons_title">Pictograme meteo</string>
+    <string name="settings_icons_builtin_title">Pictograme meteo încorporate</string>
+    <string name="settings_icons_temperature_title">Pictograme de temperatură</string>
+    <string name="settings_icons_theme_details_title">Detalii temă</string>
+
     <string name="settings_app_locale_title">Limba</string>
     <string name="activity_main_expire_time">Expiră %1$s</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
@@ -231,6 +249,7 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="widget_config_show_cityname_title">Afişare nume oraş</string>
     <string name="widget_config_show_local_time_title">Afişare timp local</string>
     <string name="widget_config_show_leading_zero_title">Afişare zero din faţă</string>
+    <string name="widget_config_show_ampm_title">Afişare AM/PM (format 12 ore)</string>
 
     <string name="widget_config_click_settings">Setări clic pe suprafaţa widget-ului</string>
     <string name="widget_config_click_apps">Selectaţi aplicaţia</string>
@@ -242,6 +261,7 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <!-- Color picker -->
     <string name="press_color_to_apply">Apăsați pe culoare pentru a aplica</string>
     <string name="dialog_color_picker">Selector de culoare</string>
+    <string name="color_picker_use_default_color">Utilizare culoare implicită</string>
 
     <string name="feedback_title">Titlu</string>
     <string name="feedback_title_hint">Descrieți problema pe scurt</string>
@@ -254,7 +274,7 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="feedback_sending">Trimitere feedback…</string>
     <string name="feedback_sent">Mulţumesc pentru feedback!</string>
     <string name="feedback_error">Eroare la trimiterea feedback-ului</string>
-    
+
     <!-- AQI -->
     <string name="aqi_main_title">Calitatea aerului</string>
     <string name="aqi_main_publish_time">Actualizat la %1$s</string>
@@ -273,7 +293,8 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_aqi_onoff_summary">Afișare informații despre indicele de calitate a aerului pentru locațiile dvs. (dacă sunt disponibile)</string>
     <string name="settings_aqi_max_distance_closest">Cea mai apropiată staţie</string>
     <string name="settings_notification_statusbar_color_title">Culoare pictogramă de notificare</string>
-    <string name="settings_ads_donations_title">Cumpara-mi cafea</string>
+    <string name="settings_notification_text_color_title">Culoarea textului de notificare</string>
+    <string name="settings_ads_donations_title">Cumpăraţi-mi o cafea</string>
     <string name="settings_ads_donation_expl">Donarea prin Google Play apăsând aceste butoane nu va duce la eliminarea anunțurilor. Pentru a le elimina, ar trebui să utilizați butonul \"Eliminați anunțurile\".</string>
     <string name="widget_config_realtime_icon_size_title">Dimensiunea curentă a pictogramei meteo</string>
     <string name="widget_config_forecast_icon_size_title">Dimensiunea pictogramei prognozei meteo</string>
@@ -281,15 +302,16 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="weather_details_daylight_diff_longer">Cu %1$s mai lung</string>
     <string name="weather_details_daylight_diff_shorter">Cu %1$s mai scurt</string>
     <string name="widget_config_show_date_title">Afişare dată</string>
+    <string name="widget_config_show_update_date_title">Afișare dată actualizare prognoză</string>
     <string name="widget_config_show_realtime_icon_title">Afișare pictogramă meteo curent</string>
     <string name="widget_config_show_text_shadow_title">Afişare umbră text</string>
     <string name="radar_tab_cloud">Nori</string>
-    <string name="radar_tab_rain">Precipitare</string>
+    <string name="radar_tab_rain">Precipitaţii</string>
     <string name="radar_date_format">dd/MM HH:mm</string>
     <string name="loading_data">Încărcare date…</string>
     <string name="settings_weather_data_order_title">Ordinea datelor meteo</string>
     <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
-    
+
     <!-- Weather alerts -->
     <string name="activity_main_alert_precip">Se aşteaptă %1$s. Cantitatea zilnică de precipitații: %2$s.</string>
     <string name="activity_main_alert_wind">Se așteaptă vânt cu viteza maximă de până la %1$s.</string>
@@ -302,11 +324,11 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="activity_main_alert_type_wind">Vânt</string>
     <string name="activity_main_alert_type_wind_gusts">Rafale de vânt</string>
     <string name="activity_main_alert_type_tstorm">Furtuni</string>
-    <string name="activity_main_alert_unit_mm">mm</string>
-    <string name="activity_main_alert_unit_cm">cm</string>
-    <string name="activity_main_alert_unit_inch">in</string>
-    <string name="activity_main_alert_unit_kmh">km/h</string>
-    <string name="activity_main_alert_unit_mph">mph</string>
-    <string name="activity_main_alert_unit_mps">m/s</string>
-    
+    <string name="activity_main_alert_unit_mm">" mm"</string>
+    <string name="activity_main_alert_unit_cm">" cm"</string>
+    <string name="activity_main_alert_unit_inch">" in"</string>
+    <string name="activity_main_alert_unit_kmh">"km/h"</string>
+    <string name="activity_main_alert_unit_mph">" mph"</string>
+    <string name="activity_main_alert_unit_mps">"m/s"</string>
+
 </resources>
