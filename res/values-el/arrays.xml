@@ -94,6 +94,18 @@
         <item>Απλό</item>
     </string-array>
     <string-array name="widget_dateformat_values">
+        <item>d MMM</item>
+        <item>MMM d</item>
+        <item>d MMMM</item>
+        <item>MMMM d</item>
+        <item>EEEE, d MMM</item>
+        <item>EEEE, MMM d</item>
+        <item>EEEE, d MMMM</item>
+        <item>EEEE, MMMM d</item>
+        <item>E, d MMM</item>
+        <item>E, MMM d</item>
+        <item>E, d MMMM</item>
+        <item>E, MMMM d</item>
         <item>d MMMM yyyy</item>
         <item>d MMM yyyy</item>
         <item>MMMM d, yyyy</item>
@@ -118,6 +130,7 @@
     <string-array name="pressure_level_entries">
         <item>Επίπεδο θάλασσας</item>
         <item>Επίπεδο τοποθεσίας</item>
+        <item>Αισθητήρας πίεσης τηλεφώνου</item>
     </string-array>
     <string-array name="aqi_title_prefix">
         <item>AQI %1$s</item>
