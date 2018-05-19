@@ -175,9 +175,9 @@ Tippen Sie auf den Button, um den Standort manuell hinzuzufügen oder es noch ei
     <string name="settings_notification_statusbar_color_title">Benachrichtigungssymbolfarbe</string>
     <string name="settings_notification_summary">Zeige aktuelle Wetterbedingungen im Benachrichtigungsbereich</string>
     <string name="settings_notification_title">Zeige Benachrichtigung</string>
-    <string name="settings_notifications_summary">Wetter-Benachrichtigungs-Einstellungen</string>
+    <string name="settings_notifications_summary">Einstellungen für Wetterbenachrichtigungen</string>
     <string name="settings_notifications_title">Benachrichtigungen</string>
-    <string name="settings_notify_type_title">Benachrichtigungs-Symbol</string>
+    <string name="settings_notify_type_title">Benachrichtigungssymbol</string>
     <string name="settings_permissions">Berechtigungen</string>
     <string name="settings_pressure_level_title">Anzeige des Drucks für</string>
     <string name="settings_pressure_unit">Druck</string>
