@@ -140,7 +140,7 @@
     <string name="settings_notification_statusbar_color_title">通知图标颜色</string>
     <string name="settings_notification_text_color_title">通知文本颜色</string>
 
-    <string name="settings_alerts_title">管理预警</string>
+    <string name="settings_alerts_title">管理天气预警</string>
 
     <string name="settings_icons_title">天气图标</string>
     <string name="settings_icons_builtin_title">内置天气图标</string>
@@ -241,7 +241,7 @@
     <string name="widget_dateformat_default_value">yyyy年MMMMd日</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">预警: %1$d</string>
+    <string name="activity_main_alert">预警: %1$d | 点击这里</string>
     <string name="activity_main_alert_precip">%1$s预警。预计当日降水量为%2$s。</string>
     <string name="activity_main_alert_wind">预计风的最高风速可达%1$s。</string>
     <string name="activity_main_alert_wind_gusts">预计大风的最高风速可达%1$s。</string>
@@ -293,6 +293,7 @@
     <string name="widget_config_text_color_title">文本颜色</string>
     <string name="widget_config_show_alarm_title">显示闹钟</string>
     <string name="widget_config_show_date_title">显示日期</string>
+    <string name="widget_config_show_update_date_title">显示天气更新日期</string>
     <string name="widget_config_use_background_title">显示小工具背景</string>
     <string name="widget_config_background_color_title">背景颜色</string>
     <string name="widget_config_background_type_title">背景类型</string>
