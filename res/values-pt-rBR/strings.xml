@@ -15,7 +15,7 @@
     <string name="activity_find_city_dialog_message">Permitir que o Weather M8 verifique a sua localização</string>
     <string name="activity_find_city_dialog_set">Configurações</string>
     <string name="activity_find_city_dialog_title">Acesso à localização</string>
-    <string name="activity_main_alert">Alertas: %1$d</string>
+    <string name="activity_main_alert">Alertas: %1$d | toque aqui</string>
     <string name="activity_main_alert_day_night">No dia %1$s está previsto à noite %2$s</string>
     <string name="activity_main_alert_precip">Previsão de %1$s. A quantidade de precipitação diária é %2$s</string>
     <string name="activity_main_alert_tstorm">Previsão de trovoada com uma probabilidade de %1$s</string>

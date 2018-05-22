@@ -15,7 +15,7 @@
     <string name="activity_find_city_dialog_message">"Permetti all'applicazione di vedere la tua posizione"</string>
     <string name="activity_find_city_dialog_set">Impostazioni</string>
     <string name="activity_find_city_dialog_title">Accesso alla posizione</string>
-    <string name="activity_main_alert">Allerte: %1$d</string>
+    <string name="activity_main_alert">Allerte: %1$d | tocca qui</string>
     <string name="activity_main_alert_day_night">Su giorno %1$s è previsto durante la notte %2$s</string>
     <string name="activity_main_alert_precip">Previsione di %1$s. La quantità di precipitazioni al giorno è %2$s</string>
     <string name="activity_main_alert_tstorm">Previsione di temporale con una probabilità di %1$s</string>
