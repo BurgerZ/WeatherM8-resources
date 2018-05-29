@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Καιρός M8</string>
-    <string name="app_version">¨Εκδοση: %s</string>
+    <string name="app_version">'Εκδοση: %s</string>
     <string name="location_management">Τοποθεσίες</string>
     <string name="gps_hint">GPS</string>
     <string name="network_unavailable">"Δεν είναι δυνατή η σύνδεση με το δίκτυο."</string>
@@ -9,9 +9,10 @@
     <string name="act_find_city_hint">Πληκτρολογήστε την τοποθεσία σας</string>
     <string name="act_set_city_find_side">Εντοπισμός…</string>
     <string name="act_set_city_find_side_error">"Δεν μπορεί να εντοπιστεί η συσκευή"</string>
-    <string name="button_add_city">Προσθήκη</string>
+    <string name="button_add_city">Προσθήκη πόλης</string>
+    <string name="loading_data">Φόρτωση δεδομένων…</string>
     <string name="locate_fail_detail_err">Δεν μπορεί να εντοπιστεί η συσκευή
-Πατήστε το κουμπί παρακάτω για να προσθέσετε την πόλη με το χέρι ή προσπάθεια εντοπισμού και πάλι"</string>
+Πατήστε το κουμπί παρακάτω για να προσθέσετε την πόλη χειροκίνητα ή προσπάθεια εντοπισμού και πάλι</string>
     <string name="act_set_city_swipe_hint">Σύρετε προς τα αριστερά για να διαγράψετε την πόλη</string>
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Ακύρωση</string>
@@ -30,7 +31,7 @@
     <string name="activity_main_update_time_expire">Τα δεδομένα έληξαν</string>
     <string name="activity_main_update_time_right_now">μόλις τώρα</string>
     <string name="activity_main_refresh_fail">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο"</string>
-    <string name="activity_find_city_dialog_cancel">Άκυρο</string>
+    <string name="activity_find_city_dialog_cancel">Ακύρωση</string>
     <string name="activity_find_city_dialog_set">Ρυθμίσεις</string>
     <string name="activity_find_city_dialog_title">Πρόσβαση στην τοποθεσία σας</string>
     <string name="activity_find_city_dialog_message">Έπιτρέψτε στην εφαρμογη να προσδιορίσει την τοποθεσία σας</string>
@@ -49,6 +50,7 @@
     <string name="international_detail_menu_title">Λεπτομέρειες</string>
     <string name="share_menu_title">Κοινή χρήση</string>
 
+    <string name="color_picker_use_default_color">Χρήση προεπιλ. χρώματος</string>
     <string name="common_auto">Αυτόματα</string>
     <string name="common_default">Προεπιλογή</string>												  
     <string name="common_recommended">Συνιστάται</string>
@@ -153,7 +155,7 @@
     <string name="settings_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα widgets</string>
 
     <string name="settings_ads_title">Διαφήμιση και δωρεές</string>
-    <string name="settings_ads_donations_title">Αγοράστε μου καφέ</string>
+    <string name="settings_ads_donations_title">Κεράστε με ένα καφέ</string>
     <string name="settings_ads_explanation">"Γιατί βλέπετε μια διαφήμιση?
 Γράφοντας εφαρμογές για το Android είναι ένα χόμπι για μένα, το οποίο κάνω στον προσωπικό μου ελεύθερο χρόνο. Γι 'αυτό παρακαλώ δείξτε κατανόηση για την εμφάνιση ενός ορισμένου αριθμού διαφημίσεων. Η εμφάνιση διαφημίσεων στην εφαρμογή συνεισφέρουν στην περαιτέρω ανάπτυξη."</string>
     <string name="settings_ads_menu_hide_title">Απόκρυψη αυτού του στοιχείου μενού</string>
@@ -183,13 +185,13 @@
     <string name="feedback_sent">Ευχαριστώ για το σχόλιό σας!</string>
     <string name="feedback_error">Σφάλμα κατά την αποστολή σχολίων</string>
 
-    <string name="share_btn_cancel">Άκυρο</string>
+    <string name="share_btn_cancel">Ακύρωση</string>
     <string name="share_btn_confirm">Κοινή χρήση</string>
     <string name="share_subject">Κοινή χρήση</string>
     <string name="share_button">Κοινή χρήση</string>
     <string name="share_weather_save_pic_fail">"Δεν πήρατε στιγμιότυπο οθόνης"</string>
     <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_desc">\#Weather M8# σήμερα %1$s %2$s</string>
+    <string name="share_weather_desc">\#Weather M8# Σήμερα %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="hourly_forcast_now">Τώρα</string>
     <string name="sunrise">Ανατολή ηλίου</string>
@@ -296,9 +298,9 @@
     <string name="widget_config_font_title">Γραμματοσειρά κειμένου</string>
     <string name="widget_config_font_size_title">Μέγεθος κειμένου</string>
     <string name="widget_config_text_color_title">Χρώμα κειμένου</string>
-    <string name="widget_config_show_alarm_title">¨Ενδειξη επόμενου ξυπνητηριού</string>
+    <string name="widget_config_show_alarm_title">Ένδειξη επόμενης αφύπνησης</string>
     <string name="widget_config_show_date_title">Ένδειξη ημέρας</string>
-    <string name="widget_config_show_update_date_title">Εμφάνιση ημερομηνίας ενημέρωσης καιρού</string>																						  
+    <string name="widget_config_show_update_date_title">Εμφάνιση ημερομ. ενημέρωσης καιρού</string>																						  
     <string name="widget_config_use_background_title">Εμφάνιση φόντου widget</string>
     <string name="widget_config_background_color_title">Χρώμα φόντου</string>
     <string name="widget_config_background_type_title">Τύπος Φόντου</string>
@@ -310,7 +312,7 @@
     <string name="widget_config_show_cityname_title">Εμφάνιση ονόματος πόλης</string>
     <string name="widget_config_show_local_time_title">Εμφάνιση τοπικής ώρας</string>
     <string name="widget_config_show_leading_zero_title">Εμφάνιση μπροστά το μηδέν</string>
-    <string name="widget_config_show_ampm_title">Ένδειξη ΠΜ/ΜΜ (12ω μορφή)</string>																				 
+    <string name="widget_config_show_ampm_title">Ένδειξη ΠΜ/ΜΜ (12ωρη μορφή)</string>																				 
 
     <string name="widget_config_click_settings">Αγγίξτε για ρυθμίσεις των περιοχών widget</string>
     <string name="widget_config_click_apps">Επιλέξτε εφαρμογή</string>
@@ -363,7 +365,7 @@
 
     <!-- AQI -->
     <string name="aqi_main_title">Ποιότητα αέρα</string>
-    <string name="aqi_main_publish_time">Ενημερώθηκε την %1$s</string>
+    <string name="aqi_main_publish_time">Ενημερώθηκε στις %1$s</string>
 
     <string name="aqi_ring_top_pollution">Σημαντικοί ρύποι</string>
     <string name="aqi_ring_desc">Δείκτης ποιότητας αέρα</string>
@@ -392,7 +394,7 @@
     <string name="aqi_data_source">%s</string>
 
     <!-- Radar -->
-    <string name="radar_title">Radar</string>
+    <string name="radar_title">Δορυφόρος</string>
     <string name="radar_tab_cloud">Συννεφιά</string>
     <string name="radar_tab_rain">Βροχόπτωση</string>
 
