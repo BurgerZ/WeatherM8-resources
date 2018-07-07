@@ -301,7 +301,7 @@ Programiranje aplikacij Android je hobi, ki ga delam le v prostem času. Potreba
     <string name="widget_config_text_color_title">Barva teksta</string>
     <string name="widget_config_title">Konfig. pripomočkov</string>
     <string name="widget_config_use_background_title">Prikaži ozadje pripomočka</string>
-    <string name="widget_config_show_update_date_title">Prikaži predvideni datum posodobitve/string>
+    <string name="widget_config_show_update_date_title">Prikaži predvideni datum posodobitve</string>
     <string name="widget_dateformat_default_value">d MMMM yyyy</string>
     <string name="widget_update_date_string">Posodobljeno %s</string>
     <string name="widget_update_updating_string">Posodabljanje…</string>
