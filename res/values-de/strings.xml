@@ -211,7 +211,7 @@ Tippen Sie auf den Button, um den Standort manuell hinzuzufügen oder es noch ei
     <string name="settings_weather_details_summary">Wählen Sie die Wetterdetails aus, die auf dem Hauptbildschirm angezeigt werden sollen</string>
     <string name="settings_weather_details_title">Wetter-Details</string>
     <string name="settings_weather_forecast_spider_title">Prognosedaten</string>
-    <string name="settings_weather_realtime_spider_title">Echtzeitdaten</string>
+    <string name="settings_weather_realtime_spider_title">Aktuelle Temperatur</string>
     <string name="settings_weather_spider_title">Updatequelle</string>
     <string name="settings_weather_station_title">Meteostation</string>
     <string name="settings_weather_transfer_summary">Zeige Wetterbeschreibung Tag zu Nacht Transfer</string>
@@ -297,9 +297,9 @@ Tippen Sie auf den Button, um den Standort manuell hinzuzufügen oder es noch ei
     <string name="widget_config_font_title">Schriftart</string>
     <string name="widget_config_forecast_icon_size_title">Wettervorhersage Symbolgröße</string>
     <string name="widget_config_no_backups_found">Keine Sicherung der Widget-Einstellungen vorhanden!</string>    
-    <string name="widget_config_realtime_font_size_title">Echtzeit-Daten Textgröße</string>
-    <string name="widget_config_realtime_font_title">Echtzeit-Datenschrift</string>
-    <string name="widget_config_realtime_icon_size_title">Aktuelle Wettersymbolgröße</string>
+    <string name="widget_config_realtime_font_size_title">Aktuelle Temperatur Textgröße</string>
+    <string name="widget_config_realtime_font_title">Aktuelle Temperatur Schrift</string>
+    <string name="widget_config_realtime_icon_size_title">Aktuelles Wetter Symbolgröße</string>
     <string name="widget_config_restore_done">Widget-Einstellungen aus der Sicherung wiederhergestellt!</string>    
     <string name="widget_config_show_alarm_title">Nächsten Alarm anzeigen</string>
     <string name="widget_config_show_ampm_title">Zeige AM/PM (12h Format)</string>    
