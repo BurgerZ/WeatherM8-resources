@@ -11,6 +11,7 @@
     <string name="act_set_city_find_side_error">"無法定位"</string>
     <string name="button_add_city">添加</string>
     <string name="locate_fail_detail_err">"無法定位，點擊螢幕重新定位或手動添加城市"</string>
+	
     <string name="act_set_city_swipe_hint">向左滑動刪除城市</string>
     <string name="button_allow">確定</string>
     <string name="button_not_allow">取消</string>
@@ -20,6 +21,7 @@
     <string name="location_tag">位置</string>
     <string name="act_weather_find_city_no_result">沒有結果</string>
     <string name="act_weather_find_city_added">已添加</string>
+    <string name="city_exceeded_warning">最多只能添加10個城市</string>
     <string name="view_forecast_item_yesterday">昨天</string>
     <string name="view_indexes_item_today">今天</string>
     <string name="view_indexes_item_tommorrow">明天</string>
@@ -58,11 +60,16 @@
 
     <!-- Preferences -->
     <string name="settings_menu_title">設定</string>
-    <string name="settings_autoupdate_weather_title">自動更新</string>
-    <string name="settings_autoupdate_weather_summary">自動更新天氣預報</string>
+    <string name="settings_geolocation_title">位置</string>
+    <string name="settings_autolocate_title">自動定位</string>
+    <string name="settings_autolocate_summary">自動尋找設備之位置</string>
     <string name="settings_geolocation_names_source_title">位置名稱來源</string> 
     <string name="geolocation_names_source_default">預設</string> 
     <string name="geolocation_names_source_google">Google</string> 
+    <string name="settings_autolocate_detailed_title">顯示詳細位置資訊</string>
+    <string name="settings_autolocate_detailed_summary">顯示有關您目前位置的詳細資訊，例如：街道、地區、國家或地區</string>
+    <string name="settings_autoupdate_weather_title">自動更新</string>
+    <string name="settings_autoupdate_weather_summary">自動更新天氣資訊</string>
     <string name="settings_update_on_app_start_title">啟動時自動更新</string> 
     <string name="settings_update_on_app_start_summary">啟動應用程式時自動更新天氣資訊</string>
     <string name="settings_update_wifi_only_summary">僅在有Wi-Fi連線時自動更新天氣預報</string>
@@ -312,6 +319,7 @@
     <string name="widget_config_restore_done">小工具還原完成！</string> 
     <string name="widget_config_no_backups_found">找不到小工具備份</string>
 
+	
     <!-- Moon Phases -->
     <string name="menu_moon_phases">月相</string>
     <string name="moon_age">月齡：%1$s天%2$s小時%3$s分鐘</string>
