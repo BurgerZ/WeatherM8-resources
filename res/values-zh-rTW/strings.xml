@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+<resources>
     <string name="app_name">Weather M8</string>
     <string name="app_version">版本：%s</string>
     <string name="location_management">地點</string>
