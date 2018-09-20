@@ -50,6 +50,7 @@
     <string name="share_menu_title">공유</string>
 
     <string name="common_auto">자동</string>
+    <string name="common_default">기본</string>
     <string name="common_recommended">추천</string>
 
     <string name="network_error">서버에 연결할 수 없습니다.\n네트워크 설정을 확인하세요.</string>
@@ -135,12 +136,15 @@
     <string name="settings_notification_priority_summary">최소 우선순위 알림은 알림 창에만 나타납니다</string>
 
     <string name="settings_notify_type_title">알림 아이콘</string>
+    <string name="settings_notification_background_color_title">알림 배경 색상</string>
     <string name="settings_notification_statusbar_color_title">알림 아이콘 색상</string>
+    <string name="settings_notification_text_color_title">알림 글자 </string>
 
-    <string name="settings_alerts_title">알람 관리</string>
+    <string name="settings_alerts_title">날씨 알람 관리</string>
 
     <string name="settings_icons_title">날씨 아이콘</string>
     <string name="settings_icons_builtin_title">기본으로 포함된 알림 아이콘</string>
+    <string name="settings_icons_temperature_title">온도 아이콘</string>
     <string name="settings_icons_theme_details_title">테마 세부사항</string>
 
     <string name="settings_widgets_title">위젯</string>
@@ -237,7 +241,7 @@
     <string name="widget_dateformat_default_value">yyyy년 MMMM d일</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">알람: %1$d</string>
+    <string name="activity_main_alert">알람: %1$d | 이곳을 누르기</string>
     <string name="activity_main_alert_precip">%1$s 예상됨. 하루 강수량 양은 %2$s.</string>
     <string name="activity_main_alert_wind">바람 예상됨, 최대 풍속은 %1$s.</string>
     <string name="activity_main_alert_wind_gusts">%1$s 풍속이 최대 풍속으로 예상됩니다.</string>
@@ -290,6 +294,7 @@
     <string name="widget_config_text_color_title">텍스트 색상</string>
     <string name="widget_config_show_alarm_title">다음 알람 보기</string>
     <string name="widget_config_show_date_title">날짜 보기</string>
+    <string name="widget_config_show_update_date_title">예보 갱신 일자 보기</string>
     <string name="widget_config_use_background_title">백그라운드 위젯 보기</string>
     <string name="widget_config_background_color_title">백그라운드 색상</string>
     <string name="widget_config_background_type_title">백그라운드 종류</string>
@@ -309,6 +314,10 @@
     <string name="widget_config_click_date">날짜</string>
     <string name="widget_config_click_weather_icon">시계 아이콘</string>
     <string name="widget_config_click_temperature">온도</string>
+    
+    <string name="widget_config_backup_done">위젯 설정이 백업되었습니다!</string>
+    <string name="widget_config_restore_done">위젯 설정이 복원되었습니다!</string>
+    <string name="widget_config_no_backups_found">백업된 위젯 설정을 찾을 수 없습니다</string>
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">달의 위상</string>
@@ -345,6 +354,7 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">적용하려면 색을 누르세요</string>
     <string name="dialog_color_picker">색상 고르기</string>
+    <string name="color_picker_use_default_color">기본 색상 사용하기</string>
 
     <string name="date_time_am">오전</string>
     <string name="date_time_pm">오후</string>
