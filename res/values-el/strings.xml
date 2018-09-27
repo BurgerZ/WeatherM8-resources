@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Καιρός M8</string>
-    <string name="app_version">'Εκδοση: %s</string>
+    <string name="app_version">"'Εκδοση: %s"</string>
     <string name="location_management">Τοποθεσίες</string>
     <string name="gps_hint">GPS</string>
     <string name="network_unavailable">"Δεν είναι δυνατή η σύνδεση με το δίκτυο."</string>

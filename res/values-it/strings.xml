@@ -115,7 +115,7 @@ Controlla le tue impostazioni di rete"</string>
     <string name="radar_tab_rain">Precipitazione</string>
     <string name="radar_title">Immagini radar</string>
     <string name="settings_about">Informazioni</string>
-    <string name="settings_ads_donation_expl">Fai donazioni tramite Google Play selezionando una delle opzioni di seguito. Le donazioni non rimuoveranno gli annunci dall'app. Per rimuovere gli annunci selezionare il \"Rimuovi annunci\"</string>
+    <string name="settings_ads_donation_expl">"Fai donazioni tramite Google Play selezionando una delle opzioni di seguito. Le donazioni non rimuoveranno gli annunci dall'app. Per rimuovere gli annunci selezionare il \"Rimuovi annunci\""</string>
     <string name="settings_ads_donations_title">Offrimi un caffè</string>
     <string name="settings_ads_explanation">"Perché l'app ha annunci?
 Programmare le applicazioni Android è un passatempo che faccio solo nel mio tempo libero. La necessità di annunci nell'app stimola lo sviluppo di versioni future"</string>
@@ -129,9 +129,9 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="settings_app_theme_light">Chiaro</string>
     <string name="settings_app_theme_title">Tema</string>
     <string name="settings_aqi_max_distance_closest">Stazione più vicina</string>
-    <string name="settings_aqi_max_distance_summary">Ottenere informazioni di qualità dell'aria di stazioni meteorologiche situate a una distanza di %1$s</string>
+    <string name="settings_aqi_max_distance_summary">"Ottenere informazioni di qualità dell'aria di stazioni meteorologiche situate a una distanza di %1$s"</string>
     <string name="settings_aqi_max_distance_title">AQI Raggio di Controllo</string>
-    <string name="settings_aqi_onoff_summary">Mostra le informazioni sulla qualità dell'aria nella posizione corrente (se disponibile)</string>
+    <string name="settings_aqi_onoff_summary">"Mostra le informazioni sulla qualità dell'aria nella posizione corrente (se disponibile)"</string>
     <string name="settings_aqi_onoff_title">"Informazioni sulla qualità dell'Aria"</string>
     <string name="settings_autolocate_detailed_summary">Ottieni e mostra informazioni dettagliate del posizione corrente (strada, quartiere, e paese)</string>
     <string name="settings_autolocate_detailed_title">Informazioni dettagliate del posizione</string>
@@ -154,7 +154,7 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="settings_notification_background_color_title">Colore di sfondo della notifica</string>
     <string name="settings_notification_priority_summary">Le notifiche con priorità minima appaiono solamente nel pannello notifiche</string>
     <string name="settings_notification_priority_title">Priorità minima</string>
-    <string name="settings_notification_statusbar_color_title">Colore dell'icona di notifica</string>
+    <string name="settings_notification_statusbar_color_title">"Colore dell'icona di notifica"</string>
     <string name="settings_notification_summary">Mostra meteo attuale nel pannello delle notifiche</string>
     <string name="settings_notification_text_color_title">Colore del testo di notifica</string>
     <string name="settings_notification_title">Mostra Notifica</string>
@@ -234,10 +234,10 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="widget_config_click_settings">Impostazioni aggiuntive</string>
     <string name="widget_config_click_temperature">Temperatura</string>
     <string name="widget_config_click_weather_icon">Icone del tempo</string>
-    <string name="widget_config_clock_color_title">Colore dell'orologio</string>
+    <string name="widget_config_clock_color_title">"Colore dell'orologio"</string>
     <string name="widget_config_clock_font_size_title">Dimensione carattere orologio</string>
     <string name="widget_config_clock_font_title">Fonte di orologio</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">Riaggancia se l'orologio nel widget non si clock</string>
+    <string name="widget_config_custom_clock_font_onoff_summary">"Riaggancia se l'orologio nel widget non si clock"</string>
     <string name="widget_config_custom_clock_font_onoff_title">Modifica la sorgente di clock</string>
     <string name="widget_config_date_font_size_title">Dimensione del carattere della data</string>
     <string name="widget_config_dateformat_title">Formato della data</string>
@@ -247,17 +247,17 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="widget_config_no_backups_found">Nessuna copia delle impostazioni del widget trovate</string>
     <string name="widget_config_realtime_font_size_title">Dimensione dei dati di temperatura</string>
     <string name="widget_config_realtime_font_title">Fonte dei dati di temperatura</string>
-    <string name="widget_config_realtime_icon_size_title">Dimensione dell'icona dei dati attuali</string>
+    <string name="widget_config_realtime_icon_size_title">"Dimensione dell'icona dei dati attuali"</string>
     <string name="widget_config_restore_done">Copia delle definizioni dei widget ripristinati!</string>
     <string name="widget_config_show_alarm_title">Mostra la prossima sveglia</string>
     <string name="widget_config_show_ampm_title">Mostrar AM/PM (formato 12h)</string>
     <string name="widget_config_show_cityname_title">Mostra il nome della località</string>
     <string name="widget_config_show_date_title">Mostra la data</string>
     <string name="widget_config_show_leading_zero_title">Mostra zero in ore</string>
-    <string name="widget_config_show_local_time_title">Mostra l'ora locale</string>
-    <string name="widget_config_show_realtime_icon_title">Mostra l'icona del tempo corrente</string>
-    <string name="widget_config_show_text_shadow_title">Mostra l'ombra del testo</string>
-    <string name="widget_config_show_update_date_title">Mostra l'ultimo aggiornamento</string>
+    <string name="widget_config_show_local_time_title">"Mostra l'ora locale"</string>
+    <string name="widget_config_show_realtime_icon_title">"Mostra l'icona del tempo corrente"</string>
+    <string name="widget_config_show_text_shadow_title">"Mostra l'ombra del testo"</string>
+    <string name="widget_config_show_update_date_title">"Mostra l'ultimo aggiornamento"</string>
     <string name="widget_config_text_color_title">Colore testo</string>
     <string name="widget_config_title">Configurazione Widget</string>
     <string name="widget_config_use_background_title">Mostra lo sfondo del widget</string>
