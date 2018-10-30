@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">Преди %d минути</item>
-        <item quantity="one">Преди %d минута</item>
+        <item quantity="other">преди %d минути</item>
+        <item quantity="one">преди %d минута</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
-        <item quantity="other">Преди %d часа</item>
-        <item quantity="one">Преди %d час</item>
+        <item quantity="other">преди %d часа</item>
+        <item quantity="one">преди %d час</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
-        <item quantity="other">Преди %d дни</item>
-        <item quantity="one">Преди %d ден</item>
+        <item quantity="other">преди %d дни</item>
+        <item quantity="one">преди %d ден</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Ясно</item>
