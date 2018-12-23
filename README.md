@@ -31,8 +31,8 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-ro|Romanian|**Igor Sorocean** |
 |values-ru|Russian|**Andrei Zhukouski**|
 |values-pl|Polish|**trybit**, **Jan Folta Gutek**|
-|values-pt-BR|Portuguese Brasil|**Lineu Junior**, **Lippe35** |
-|values-pt-PT|Portuguese|**Lippe35** |
+|values-pt-BR|Portuguese (Brasil)|**Lineu Junior**, **Lippe35** |
+|values-pt-PT|Portuguese (Portugal)|**Lippe35** |
 |values-sk|Slovak|**Luboš Belobruch**, **Ivan Urda**|
 |values-sl|Slovenian|**Boštjan Rebolj**|
 |values-sr|Serbian|**Milan Andrejić**|
@@ -46,4 +46,4 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 **Weather M8** can be downloaded on [Google Play Store](https://play.google.com/store/apps/details?id=pro.burgerz.miweather8)
 
 ## Copyright
-Weather Mate (Weather M8) © 2016-2018 zaa.bz, **Andrei Zhukouski**
+Weather Mate (Weather M8) © 2016-2019 zaa.bz, **Andrei Zhukouski**
