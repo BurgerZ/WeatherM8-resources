@@ -23,7 +23,7 @@
     <string name="activity_main_alert_type_rain">Regen</string>
     <string name="activity_main_alert_type_snow">Schnee</string>
     <string name="activity_main_alert_type_tstorm">Gewitterstürme</string>
-    <string name="activity_main_alert_type_wind">Wind</string>
+    <string name="activity_main_alert_type_wind">Windrichtung</string>
     <string name="activity_main_alert_type_wind_gusts">Windböen</string>
     <string name="activity_main_alert_unit_cm">cm</string>
     <string name="activity_main_alert_unit_inch">Zoll</string>
