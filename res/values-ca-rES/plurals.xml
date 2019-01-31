@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">fa %d mins</item>
+        <item quantity="other">fa %d min</item>
         <item quantity="one">fa %d min</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
