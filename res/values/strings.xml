@@ -140,6 +140,9 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_notification_statusbar_color_title">Notification icon color</string>
     <string name="settings_notification_text_color_title">Notification text color</string>
 
+    <string name="weather_alert_notification_channel_name">Alerts</string>
+    <string name="weather_main_notification_channel_name">Weather</string>
+
     <string name="settings_alerts_title">Manage weather alerts</string>
 
     <string name="settings_icons_title">Weather icons</string>
@@ -241,7 +244,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_dateformat_default_value">d MMMM yyyy</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">Alerts: %1$d | tap here</string>
+    <string name="activity_main_alert">Alerts: %1$d</string>
     <string name="activity_main_alert_precip">%1$s expected. The amount of precipitation per day is %2$s.</string>
     <string name="activity_main_alert_wind">Wind expected, the maximum wind speed up to %1$s.</string>
     <string name="activity_main_alert_wind_gusts">Wind gusts expected with the maximum wind speed of up to %1$s.</string>
@@ -319,6 +322,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_config_restore_done">Widget settings restored from backup!</string>
     <string name="widget_config_no_backups_found">No widget settings backups found</string>
 
+    <string name="widgets_notification_info">Updating widgets…</string>
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Moon Phases</string>
