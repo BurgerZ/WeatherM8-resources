@@ -140,7 +140,10 @@ Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-
     <string name="settings_notification_statusbar_color_title">Color de la icona de notificació</string>
 	<string name="settings_notification_text_color_title">Color del text de la notificació</string>
 
-    <string name="settings_alerts_title">"Gestió d'alertes meteorològiques"</string>
+    <string name="weather_alert_notification_channel_name">Alertes</string>
+    <string name="weather_main_notification_channel_name">El temps</string>
+	
+	<string name="settings_alerts_title">"Gestió d'alertes meteorològiques"</string>
 
     <string name="settings_icons_title">Icones del temps</string>
     <string name="settings_icons_builtin_title">Icones del temps incorporats</string>
@@ -241,7 +244,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_dateformat_default_value">d MMMM yyyy</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">Alertes: %1$d | toqueu aquí</string>
+    <string name="activity_main_alert">Alertes: %1$d</string>
     <string name="activity_main_alert_precip">Previsió de %1$s. La quantitat de precipitació per dia és %2$s.</string>
     <string name="activity_main_alert_wind">Previsió de vent, la velocitat màxima del vent és de fins a %1$s.</string>
     <string name="activity_main_alert_wind_gusts">Les ràfegues de vent esperades amb la velocitat màxima del vent és de fins a %1$s.</string>
@@ -319,7 +322,8 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_restore_done">"S'ha restaurat la configuració dels ginys des de la còpia de seguretat!"</string>
     <string name="widget_config_no_backups_found">"No s'ha trobat cap còpia de seguretat de la configuració del giny"</string>
 
-
+	<string name="widgets_notification_info">S'estan actualitzant els ginys…</string>
+	
 	<!-- Moon Phases -->
     <string name="menu_moon_phases">Fases lunars</string>
     <string name="moon_age">Edat: %1$s dies %2$s hores %3$s minuts</string>
