@@ -15,7 +15,7 @@
     <string name="activity_find_city_dialog_message">Permitir que o Weather M8 verifique a sua localização</string>
     <string name="activity_find_city_dialog_set">Definições</string>
     <string name="activity_find_city_dialog_title">Acesso à localização</string>
-    <string name="activity_main_alert">Alertas: %1$d | toque aqui</string>
+    <string name="activity_main_alert">Alertas: %1$d</string>
     <string name="activity_main_alert_day_night">No dia %1$s está previsto à noite %2$s</string>
     <string name="activity_main_alert_precip">Previsão de %1$s. A quantidade de precipitação diária é %2$s</string>
     <string name="activity_main_alert_tstorm">Previsão de trovoada com uma probabilidade de %1$s</string>
@@ -207,6 +207,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="view_forecast_item_yesterday">Ontem</string>
     <string name="view_indexes_item_today">Hoje</string>
     <string name="view_indexes_item_tommorrow">Amanhã</string>
+    <string name="weather_alert_notification_channel_name">Alertas</string>
     <string name="weather_details_daylight_diff_longer">%1$s mais</string>
     <string name="weather_details_daylight_diff_shorter">%1$s menos</string>
     <string name="weather_details_daylight_hours_title">Horas diurnas</string>
@@ -223,6 +224,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="weather_details_visibility_miles">%1$s milhas</string>
     <string name="weather_details_visibility_title">Visibilidade</string>
     <string name="weather_details_wind_title">Vento</string>
+    <string name="weather_main_notification_channel_name">Tempo</string>
     <string name="widget_config_background_color_title">Cor de fundo</string>
     <string name="widget_config_background_type_border">Com limite</string>
     <string name="widget_config_background_type_solid">Preenchido</string>
@@ -263,6 +265,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
     <string name="widget_update_date_string">Atualizado %s</string>
     <string name="widget_update_updating_string">A atualizar…</string>
+    <string name="widgets_notification_info">A atualizar widgets…</string>
     <string name="wind_unit_knot">%1$s nós</string>
     <string name="zodiac_aquarius">Aquário</string>
     <string name="zodiac_aries">Carneiro</string>
