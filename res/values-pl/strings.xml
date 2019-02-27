@@ -181,6 +181,7 @@
   <string name="settings_notifications_title">Powiadomienia</string>
   <string name="settings_notify_type_title">Ikona powiadomień</string>
   <string name="settings_permissions">Uprawnienia</string>
+  <string name="settings_permissions_privacy">Polityka prywatności</string>
   <string name="settings_pressure_level_title">Pokazuj ciśnienie dla</string>
   <string name="settings_pressure_unit">Ciśnienie</string>
   <string name="settings_pressure_unit_atm">atm</string>
@@ -249,6 +250,7 @@
   <string name="view_forecast_item_yesterday">Wczoraj</string>
   <string name="view_indexes_item_today">Dzisiaj</string>
   <string name="view_indexes_item_tommorrow">Jutro</string>
+  <string name="weather_alert_notification_channel_name">Alerty</string>
   <string name="weather_details_daylight_diff_longer">%1$s dłuższy</string>
   <string name="weather_details_daylight_diff_shorter">%1$s krótszy</string>
   <string name="weather_details_daylight_hours_title">Długość dnia</string>
@@ -275,6 +277,8 @@
   <string name="weather_details_visibility_title">Widoczność</string>
   <string name="weather_details_wind_connect">%1$s %2$s</string>
   <string name="weather_details_wind_title">Wiatr</string>
+  <string name="weather_foreground_notification_channel_name">Usługi pogody</string>
+  <string name="weather_main_notification_channel_name">Pogoda</string>
   <string name="weather_short_month_update_date">d MMM</string>
   <string name="weather_update_date">d MMMM</string>
   <string name="widget_config_background_color_title">Kolor tła</string>
@@ -317,7 +321,8 @@
   <string name="widget_config_use_background_title">Pokazuj tło widżetu</string>
   <string name="widget_dateformat_default_value">d MMMM yyyy</string>
   <string name="widget_update_date_string">Zaktualizowano %s</string>
-  <string name="widget_update_updating_string">Aktualizuje…</string>
+  <string name="widget_update_updating_string">Aktualizuję…</string>
+  <string name="widgets_notification_info">Aktualizowanie widżetów…</string>
   <string name="wind_unit">%1$skm/h</string>
   <string name="wind_unit_bft">%1$s bft</string>
   <string name="wind_unit_knot">%1$sknot</string>
