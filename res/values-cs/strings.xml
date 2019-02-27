@@ -69,6 +69,8 @@ Klepněte na tlačítko níže nebo zkuste získat polohu později"</string>
     <string name="settings_app_locale_title">Jazyk</string>
     <string name="settings_autoupdate_weather_summary">Aktualizovat předpověď automaticky</string>
     <string name="settings_autoupdate_weather_title">Automatická aktualizace</string>
+    <string name="settings_update_on_app_start_title">Aktualizace při spuštění</string>
+    <string name="settings_update_on_app_start_summary">Aktualizovat předpověď při spuštění aplikace</string>
     <string name="settings_category_units">Jednotky</string>
     <string name="settings_city_base">Databáze měst</string>
     <string name="settings_icons_title">Ikony počasí</string>
@@ -166,6 +168,7 @@ Programování aplikací pro Android je můj koníček, kterým se zabývám ve 
     <string name="settings_app_theme_dark">Tmavý</string>
     <string name="settings_app_theme_light">Světlý</string>
     <string name="settings_app_theme_title">Motiv</string>
+    <string name="settings_permissions_privacy">Ochrana soukromí</string>
     <string name="settings_help">Pomoc</string>
     <string name="settings_pressure_level_title">Zobrazit tlak pro</string>
     <string name="settings_realtime_feelslike_as_main_summary">Zobrazit pocitovou teplotu jako hlavní teplotu počasí</string>
@@ -174,6 +177,7 @@ Programování aplikací pro Android je můj koníček, kterým se zabývám ve 
     <string name="settings_weather_forecast_spider_title">Předpověď počasí</string>
     <string name="settings_weather_realtime_spider_title">Aktuální počasí</string>
     <string name="settings_weather_station_title">Meteo stanice</string>
+    <string name="weather_foreground_notification_channel_name">Služby počasí</string>
     <string name="weather_details_update_date_string">Aktualizováno: %s</string>
     <string name="widget_config_background_color_title">Barva pozadí</string>
     <string name="widget_config_background_type_border">Rámeček</string>
