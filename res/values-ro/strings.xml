@@ -216,6 +216,7 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_ads_remove_summary">Eliminați anunțurile pentru o săptămână (o dată pe lună)</string>
     <string name="settings_thirdparty">Biblioteci și resurse</string>
     <string name="settings_permissions">Permisiuni</string>
+    <string name="settings_permissions_privacy">Politica de confidențialitate</string>
     <string name="settings_help">Ajutor</string>
     <string name="settings_feedback">Trimiteţi feedback</string>
     <string name="settings_dialog_enter_timezone">Introduceţi fusul orar pentru orașul selectat (%s), de examplu GMT+03:00:</string>
@@ -257,6 +258,11 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="widget_config_click_date">Dată</string>
     <string name="widget_config_click_weather_icon">Pictogramă meteo</string>
     <string name="widget_config_click_temperature">Temperatură</string>
+    <string name="widget_config_backup_done">Setările widget-ului au fost salvate!</string>
+    <string name="widget_config_restore_done">Setările widget-ului restaurate din copia de rezervă!</string>
+    <string name="widget_config_no_backups_found">Nu s-au găsit copii de rezervă pentru setările widget-ului</string>
+
+    <string name="widgets_notification_info">Actualizarea widget-urilor…</string>
 
     <!-- Color picker -->
     <string name="press_color_to_apply">Apăsați pe culoare pentru a aplica</string>
@@ -294,6 +300,9 @@ Scrierea aplicațiilor pentru Android este un hobby pentru mine, pe care îl fac
     <string name="settings_aqi_max_distance_closest">Cea mai apropiată staţie</string>
     <string name="settings_notification_statusbar_color_title">Culoare pictogramă de notificare</string>
     <string name="settings_notification_text_color_title">Culoarea textului de notificare</string>
+    <string name="weather_alert_notification_channel_name">Alerte</string>
+    <string name="weather_main_notification_channel_name">Meteo</string>
+    <string name="weather_foreground_notification_channel_name">Servicii meteo</string>
     <string name="settings_ads_donations_title">Cumpăraţi-mi o cafea</string>
     <string name="settings_ads_donation_expl">Donarea prin Google Play apăsând aceste butoane nu va duce la eliminarea anunțurilor. Pentru a le elimina, ar trebui să utilizați butonul \"Eliminați anunțurile\".</string>
     <string name="widget_config_realtime_icon_size_title">Dimensiunea curentă a pictogramei meteo</string>
