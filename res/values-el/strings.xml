@@ -200,7 +200,9 @@
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_drawer_on_top">Καθημερινή πρόβλεψη</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-
+    <string name="weather_foreground_notification_channel_name">Υπηρεσίες Καιρού</string>
+    <string name="settings_permissions_privacy">Πολιτική Απορρήτου</string>
+    
     <!-- Weather details -->
     <string name="more_details">Περισότερες Λεπτομέρειες</string>
     <string name="weather_details_title">Λεπτομέρειες καιρού</string>
