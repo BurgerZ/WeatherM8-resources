@@ -140,6 +140,9 @@
     <string name="settings_notification_statusbar_color_title">通知图标颜色</string>
     <string name="settings_notification_text_color_title">通知文本颜色</string>
 
+    <string name="weather_alert_notification_channel_name">预警</string>
+    <string name="weather_main_notification_channel_name">天气</string>
+    <string name="weather_foreground_notification_channel_name">天气服务</string>
     <string name="settings_alerts_title">管理天气预警</string>
 
     <string name="settings_icons_title">天气图标</string>
@@ -241,7 +244,7 @@
     <string name="widget_dateformat_default_value">yyyy年MMMMd日</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">预警: %1$d | 点击这里</string>
+    <string name="activity_main_alert">预警: %1$d</string>
     <string name="activity_main_alert_precip">%1$s预警。预计当日降水量为%2$s。</string>
     <string name="activity_main_alert_wind">预计风的最高风速可达%1$s。</string>
     <string name="activity_main_alert_wind_gusts">预计大风的最高风速可达%1$s。</string>
@@ -317,6 +320,7 @@
     <string name="widget_config_backup_done">备份小工具设置！</string>
     <string name="widget_config_restore_done">从备份中恢复小工具设置！</string>
     <string name="widget_config_no_backups_found">未找到小工具设置备份！</string>
+    <string name="widgets_notification_info">正在更新小部件</string>
     <!-- Moon Phases -->
     <string name="menu_moon_phases">月相</string>
     <string name="moon_age">月龄:%1$s天%2$s小时%3$s分钟</string>
