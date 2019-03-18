@@ -112,6 +112,9 @@ Tap the button below to add city manually or try to locate again"</string>
     <string name="settings_wind_unit_ms">m/s</string>
     <string name="settings_wind_unit_mph">mph</string>
     <string name="settings_temp_unit">Temperature</string>
+    <string name="settings_precipitation_unit">Precipitation</string>
+    <string name="settings_precipitation_unit_mm">mm</string>
+    <string name="settings_precipitation_unit_in">inches</string>
     <string name="settings_visibility_unit">Visibility</string>
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
@@ -228,12 +231,13 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s miles</string>
 
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    <string name="weather_details_precipitation_amount_in">%1$s in</string>
+
     <string name="weather_details_update_date_string">Observation time: %s</string>
 
     <string name="weather_details_daylight_diff_longer">%1$s longer</string>
     <string name="weather_details_daylight_diff_shorter">%1$s shorter</string>
-
-    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
 
     <string name="time_units_hour">" h"</string>
     <string name="time_units_minute">" m"</string>

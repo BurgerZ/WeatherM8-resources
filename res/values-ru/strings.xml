@@ -106,6 +106,9 @@
     <string name="settings_wind_unit_ms">м/с</string>
     <string name="settings_wind_unit_mph">миль/ч</string>
     <string name="settings_temp_unit">Температура</string>
+    <string name="settings_precipitation_unit">Осадки</string>
+    <string name="settings_precipitation_unit_mm">мм</string>
+    <string name="settings_precipitation_unit_in">дюймы</string>
     <string name="settings_visibility_unit">Видимость</string>
     <string name="settings_visibility_unit_kilometers">км</string>
     <string name="settings_visibility_unit_meters">м</string>
@@ -226,6 +229,7 @@
     <string name="weather_details_daylight_diff_shorter">На %1$s короче</string>
 
     <string name="weather_details_precipitation_amount_mm">%1$s мм</string>
+    <string name="weather_details_precipitation_amount_in">%1$s дюйм</string>
 
     <string name="time_units_hour">" ч"</string>
     <string name="time_units_minute">" мин"</string>
