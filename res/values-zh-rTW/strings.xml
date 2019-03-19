@@ -112,6 +112,9 @@
     <string name="settings_wind_unit_ms">公尺/秒</string>
     <string name="settings_wind_unit_mph">英里/時</string>
     <string name="settings_temp_unit">溫度</string>
+    <string name="settings_precipitation_unit">降雨量</string>
+    <string name="settings_precipitation_unit_mm">毫米</string>
+    <string name="settings_precipitation_unit_in">英寸</string>
     <string name="settings_visibility_unit">能見度</string>
     <string name="settings_visibility_unit_kilometers">公里</string>
     <string name="settings_visibility_unit_meters">公尺</string>
@@ -222,6 +225,9 @@
     <string name="weather_details_visibility">%1$s 公里</string>
     <string name="weather_details_visibility_meters">%1$s 公尺</string>
     <string name="weather_details_visibility_miles">%1$s 英里</string>
+	
+    <string name="weather_details_precipitation_amount_mm">%1$s 毫米</string>
+    <string name="weather_details_precipitation_amount_in">%1$s 英寸</string>
 
     <string name="weather_details_update_date_string">觀測時間：%s</string>
 	
