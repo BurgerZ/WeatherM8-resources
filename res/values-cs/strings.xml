@@ -87,6 +87,9 @@ Klepněte na tlačítko níže nebo zkuste získat polohu později"</string>
     <string name="settings_pressure_unit_mb">mb</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_temp_unit">Teplota</string>
+    <string name="settings_precipitation_unit">Srážky</string>
+    <string name="settings_precipitation_unit_mm">mm</string>
+    <string name="settings_precipitation_unit_in">in</string>
     <string name="settings_translations">Překlady</string>
     <string name="settings_translations_summary">Poděkovat překladatelům aplikace</string>
     <string name="settings_update_interval_title">Interval aktualizace</string>
@@ -136,6 +139,8 @@ Klepněte na tlačítko níže nebo zkuste získat polohu později"</string>
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s míle</string>
     <string name="weather_details_visibility_title">Viditelnost</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    <string name="weather_details_precipitation_amount_in">%1$s in</string>
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">Vítr</string>
     <string name="widget_update_date_string">Aktualizováno: %s</string>
