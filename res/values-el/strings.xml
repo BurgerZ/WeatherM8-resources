@@ -43,18 +43,14 @@
         \u2022 Πρόσβαση τοποθεσίας της συσκευής για να συλλέξει τις τρέχουσες συντεταγμένες σας.
         \u2022 Πρόσβαση στις φωτογραφίες, πολυμέσα και τα αρχεία για την αποθήκευση screenshots για \"Κοινή χρήση\" χαρακτηριστικού."</string>
     <string name="first_start_network_title">Σύνδεση στο Internet και πρόσβαση στην τοποθεσία σας</string>
-
     <string name="get_accounts_msg">Αυτή η εφαρμογή απαιτεί πρόσβαση στη λίστα λογαριασμών της συσκευής για να ελέγξει τις αγορές σας για να απενεργοποιήσει τις διαφημίσεις.</string>
     <string name="get_accounts_title">Πρόσβαση λογαριασμών</string>
-
     <string name="international_detail_menu_title">Λεπτομέρειες</string>
     <string name="share_menu_title">Κοινή χρήση</string>
-
     <string name="color_picker_use_default_color">Χρήση προεπιλ. χρώματος</string>
     <string name="common_auto">Αυτόματα</string>
     <string name="common_default">Προεπιλογή</string>												  
     <string name="common_recommended">Συνιστάται</string>
-
     <string name="network_error">Δεν ήταν δυνατή η σύνδεση στο server.\nΕλέγξτε τις ρυθμίσεις δικτύου.</string>
     <string name="network_in_quiet_hours">Βρίσκεστε σε κατάσταση "Ώρες ησυχίας". Οι ενημερώσεις ακυρώθηκαν.</string>
     <string name="network_in_roaming">Έχετε ρυθμίσει απενεργοποίηση ενημερώσεων κατά την περιαγωγή.</string>
@@ -114,46 +110,36 @@
     <string name="settings_wind_unit_ms">m/s</string>
     <string name="settings_wind_unit_mph">mph</string>
     <string name="settings_temp_unit">Θερμοκρασία</string>
+    <string name="settings_precipitation_unit">Υετός</string>
+    <string name="settings_precipitation_unit_mm">mm</string>
+    <string name="settings_precipitation_unit_in">ίντσες</string>
     <string name="settings_visibility_unit">Ορατότητα</string>
     <string name="settings_visibility_unit_kilometers">χιλιόμετρα</string>
     <string name="settings_visibility_unit_meters">μέτρα</string>
     <string name="settings_visibility_unit_miles">μίλια</string>
-
     <string name="settings_realtime_feelslike_as_main_title">Θερμοκρασία αίσθησης σαν κύρια </string>
     <string name="settings_realtime_feelslike_as_main_summary">Ένδειξη θερμοκρασίας αίσθησης ως κύρια θερμοκρασία του καιρού</string>
-
     <string name="settings_show_plus_sign_temp_title">Ενδειξη συμβόλου "+"</string>
     <string name="settings_show_plus_sign_temp_summary">Ενδειξη συμβόλου "+" για θετικές θερμοκρασίες</string>
-
     <string name="settings_pressure_level_title">Εμφάνιση πίεσης στο</string>	
-
     <string name="settings_city_base">Δεδομένα Πόλης</string>
-
     <string name="settings_notifications_title">Ειδοποιήσεις</string>
     <string name="settings_notifications_summary">Ρυθμίσεις ειδοποίησης καιρού</string>
     <string name="settings_notification_title">Εμφάνιση ειδοποιήσεων</string>
     <string name="settings_notification_summary">Εμφάνιση τρέχουσας καιρικής συνθήκης στην γραμμή ειδοποιήσεων</string>
-
     <string name="settings_notification_priority_title">Ελάχιστη προτεραιότητα</string>
     <string name="settings_notification_priority_summary">Ειδοποιήσεις ελάχιστης προτεραιότητας θα εμφανίζονται μόνο στον πίνακα ειδοποιήσεων</string>
-
     <string name="settings_notify_type_title">Εικονίδιο ειδοποιήσεων</string>
     <string name="settings_notification_background_color_title">Χρώμα φόντου ειδοποίησης</string>
     <string name="settings_notification_statusbar_color_title">Χρώμα εικονιδίου ειδοποίησης</string>
     <string name="settings_notification_text_color_title">Χρώμα κειμένου ειδοποίησης</string>																							   
-
-
     <string name="settings_alerts_title">Διαχείριση ειδοποιήσεων</string>
-
     <string name="settings_icons_title">Εικονίδια καιρού</string>
     <string name="settings_icons_builtin_title">Ενσωματωμένα εικονίδια καιρού</string>
     <string name="settings_icons_temperature_title">Εικονίδια θερμοκρασίας</string>
-
     <string name="settings_icons_theme_details_title">Λεπτομέρειες θέματος</string>
-
     <string name="settings_widgets_title">Widgets</string>
     <string name="settings_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα widgets</string>
-
     <string name="settings_ads_title">Διαφήμιση και δωρεές</string>
     <string name="settings_ads_donations_title">Κεράστε με ένα καφέ</string>
     <string name="settings_ads_explanation">"Γιατί βλέπετε μια διαφήμιση?
@@ -172,7 +158,6 @@
     <string name="settings_help">Βοήθεια</string>
     <string name="settings_feedback">Στείλετε τα σχόλιά σας</string>
     <string name="settings_dialog_enter_timezone">Εισάγετε τη ζώνη ώρας για την επιλεγμένη πόλη (%s), παράδειγμα GMT+03:00:</string>
-
     <string name="feedback_title">Τίτλος</string>
     <string name="feedback_title_hint">Περιγράψτε με συντομία το ζήτημα</string>
     <string name="feedback_description">Περιγραφή</string>
@@ -184,7 +169,6 @@
     <string name="feedback_sending">Αποστολή σχολίων…</string>
     <string name="feedback_sent">Ευχαριστώ για το σχόλιό σας!</string>
     <string name="feedback_error">Σφάλμα κατά την αποστολή σχολίων</string>
-
     <string name="share_btn_cancel">Ακύρωση</string>
     <string name="share_btn_confirm">Κοινή χρήση</string>
     <string name="share_subject">Κοινή χρήση</string>
@@ -217,7 +201,6 @@
     <string name="weather_details_daylight_hours_title">Ώρες ημέρας</string>
     <string name="weather_details_timezone_title">Ζώνη ώρας</string>
     <string name="weather_details_elevation_title">Υψόμετρο</string>
-
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_pressure">%1$s hPa</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
@@ -228,20 +211,14 @@
     <string name="weather_details_visibility">%1$s χιλ/τρα</string>
     <string name="weather_details_visibility_meters">%1$s μέτρα</string>
     <string name="weather_details_visibility_miles">%1$s μίλια</string>
-
     <string name="weather_details_update_date_string">Χρόνος ενημέρωσης: %s</string>
-
     <string name="weather_details_daylight_diff_longer">%1$s πιο αργά</string>
     <string name="weather_details_daylight_diff_shorter">%1$s πιο νωρίς</string>
-
     <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
-
-
-
+    <string name="weather_details_precipitation_amount_in">%1$s in</string>
     <string name="time_units_hour">Ω</string>
     <string name="time_units_minute">Λ</string>
     <string name="time_units_second">Δ</string>
-
     <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="daily_forecast_detail_date">d MMM</string>
     <string name="weather_update_date">d MMMM</string>
@@ -267,18 +244,14 @@
     <string name="activity_main_alert_unit_kmh">km/h</string>
     <string name="activity_main_alert_unit_mph">mph</string>
     <string name="activity_main_alert_unit_mps">m/s</string>
-
-
     <string name="daily_forcast_no_wind">Άπνοια</string>
     <string name="daily_forcast_whirl_wind">Ανεμοστρόβιλος</string>
     <string name="delete">Διαγραφή</string>
-
     <string name="wind_unit">%1$skm/h</string>
     <string name="wind_unit_bft">%1$sbft</string>
     <string name="wind_unit_knot">%1$sknot</string> 
     <string name="wind_unit_ms">%1$sm/s</string>
     <string name="wind_unit_mph">%1$smph</string>
-
     <string name="hourly_forecast_title">Ωριαία πρόγνωση</string>
 
     <!-- Widgets -->
@@ -308,14 +281,12 @@
     <string name="widget_config_background_type_title">Τύπος Φόντου</string>
     <string name="widget_config_background_type_solid">Επιφάνεια</string>
     <string name="widget_config_background_type_border">Περίγραμμα</string>
-
     <string name="widget_config_show_text_shadow_title">Εμφάνιση σκιάς κειμένου</string>
     <string name="widget_config_show_realtime_icon_title">Εμφάνιση τρέχοντος εικονιδίου καιρού</string>
     <string name="widget_config_show_cityname_title">Εμφάνιση ονόματος πόλης</string>
     <string name="widget_config_show_local_time_title">Εμφάνιση τοπικής ώρας</string>
     <string name="widget_config_show_leading_zero_title">Εμφάνιση μπροστά το μηδέν</string>
     <string name="widget_config_show_ampm_title">Ένδειξη ΠΜ/ΜΜ (12ωρη μορφή)</string>																				 
-
     <string name="widget_config_click_settings">Αγγίξτε για ρυθμίσεις των περιοχών widget</string>
     <string name="widget_config_click_apps">Επιλέξτε εφαρμογή</string>
     <string name="widget_config_click_clock">Ώρα</string>
@@ -344,7 +315,6 @@
     <string name="moon_rise">Ανατολή: %s</string>
     <string name="moon_set">Δύση: %s</string>
     <string name="moon_zodiac">Ζωδιακός κύκλος: %s</string>
-
     <string name="zodiac_aries">Κριός</string>
     <string name="zodiac_taurus">Ταύρος</string>
     <string name="zodiac_gemini">Δίδυμοι</string>
@@ -361,19 +331,15 @@
     <!-- Color picker -->
     <string name="press_color_to_apply">Αγγίξτε στο χρώμα για εφαρμογή</string>
     <string name="dialog_color_picker">Επιλογέας χρώματος</string>
-
     <string name="date_time_am">πμ</string>
     <string name="date_time_pm">μμ</string>
 
     <!-- AQI -->
     <string name="aqi_main_title">Ποιότητα αέρα</string>
     <string name="aqi_main_publish_time">Ενημερώθηκε στις %1$s</string>
-
     <string name="aqi_ring_top_pollution">Σημαντικοί ρύποι</string>
     <string name="aqi_ring_desc">Δείκτης ποιότητας αέρα</string>
-
     <string name="aqi_sub_desc">AQI</string>
-
     <string name="aqi_detail_subtitle">AQI %1$s</string>
     <string name="aqi_detail_pm25">PM2.5</string>
     <string name="aqi_detail_pm10">PM10</string>
@@ -381,17 +347,14 @@
     <string name="aqi_detail_no2">NO₂</string>
     <string name="aqi_detail_co">CO</string>
     <string name="aqi_detail_o3">O₃</string>
-
     <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_pm10">PM10</string>
     <string name="top_pollution_so2">SO2</string>
     <string name="top_pollution_no2">NO2</string>
     <string name="top_pollution_co">CO</string>
     <string name="top_pollution_o3">O3</string>
-
     <string name="aqi_detail_5_days">Ημερήσιες προβλέψεις</string>
     <string name="aqi_detail_24_hours">Ωριαίες προβλέψεις</string>
-
     <string name="aqi_detail_unit">Μονάδα: µg/m³ (CO: mg/m³)</string>
     <string name="aqi_data_source">%s</string>
 
@@ -399,7 +362,6 @@
     <string name="radar_title">Δορυφόρος</string>
     <string name="radar_tab_cloud">Συννεφιά</string>
     <string name="radar_tab_rain">Βροχόπτωση</string>
-
     <string name="radar_date_format">dd/MM HH:mm</string>
 
 </resources>
