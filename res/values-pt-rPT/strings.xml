@@ -163,6 +163,9 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_notify_type_title">Ícone de notificação</string>
     <string name="settings_permissions">Permissões</string>
     <string name="settings_permissions_privacy">Política de Privacidade</string>
+    <string name="settings_precipitation_unit">Precipitação</string>
+    <string name="settings_precipitation_unit_mm">mm</string>
+    <string name="settings_precipitation_unit_in">Polegadas</string>
     <string name="settings_pressure_level_title">Dados da pressão</string>
     <string name="settings_pressure_unit">Pressão</string>
     <string name="settings_realtime_feelslike_as_main_summary">Mostrar informação da sensação térmica como a temperatura principal</string>
@@ -214,6 +217,8 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="weather_details_daylight_hours_title">Horas diurnas</string>
     <string name="weather_details_elevation_title">Altitude</string>
     <string name="weather_details_humidity_title">Humidade</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    <string name="weather_details_precipitation_amount_in">%1$s polegadas</string>
     <string name="weather_details_precipitation_prob_title">Precipitação</string>
     <string name="weather_details_pressure_title">Pressão</string>
     <string name="weather_details_real_feel_title">Sensação térmica</string>
