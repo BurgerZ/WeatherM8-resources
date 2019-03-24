@@ -141,13 +141,17 @@
     <string name="settings_notify_type_title">顯示圖標</string>
     <string name="settings_notification_background_color_title">通知欄背景顏色</string> 
     <string name="settings_notification_statusbar_color_title">圖標顏色</string> 
-    <string name="settings_notification_text_color_title">通知欄文字顏色</string> 
+    <string name="settings_notification_text_color_title">通知欄文字顏色</string>
+		
+    <string name="weather_alert_notification_channel_name">預警</string>
+    <string name="weather_main_notification_channel_name">天氣</string>
+    <string name="weather_foreground_notification_channel_name">氣象服務</string>
 	
     <string name="settings_alerts_title">天氣預警管理</string>
 
     <string name="settings_icons_title">天氣圖標</string>
     <string name="settings_icons_builtin_title">內置天氣圖標</string>
-	<string name="settings_icons_temperature_title">溫度圖標</string> 
+    <string name="settings_icons_temperature_title">溫度圖標</string> 
     <string name="settings_icons_theme_details_title">主題細節</string>
 
     <string name="settings_widgets_title">小工具</string>
@@ -168,6 +172,7 @@
     <string name="settings_translations_summary">感謝翻譯者們</string>
     <string name="settings_thirdparty">第三方資料庫與資源</string>
     <string name="settings_permissions">權限</string>
+    <string name="settings_permissions_privacy">隱私權政策</string>
     <string name="settings_help">幫助(外部連結)</string>
     <string name="settings_feedback">反饋</string>
     <string name="settings_dialog_enter_timezone">輸入所選城市的時區(%s)，例如 GMT+03:00</string>
