@@ -328,7 +328,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_config_restore_done">"S'ha restaurat la configuració dels ginys des de la còpia de seguretat!"</string>
     <string name="widget_config_no_backups_found">"No s'ha trobat cap còpia de seguretat de la configuració del giny"</string>
 
-	<string name="widgets_notification_info">S'estan actualitzant els ginys…</string>
+	<string name="widgets_notification_info">"S'estan actualitzant els ginys…"</string>
 	
 	<!-- Moon Phases -->
     <string name="menu_moon_phases">Fases lunars</string>

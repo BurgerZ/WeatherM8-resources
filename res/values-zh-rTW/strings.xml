@@ -239,8 +239,6 @@
     <string name="weather_details_daylight_diff_longer">較昨天增加%1$s</string>
     <string name="weather_details_daylight_diff_shorter">較昨天減少%1$s</string>
 	
-    <string name="weather_details_precipitation_amount_mm">%1$s 毫米</string>
-	
     <string name="time_units_hour">小時</string>
     <string name="time_units_minute">分鐘</string>
     <string name="time_units_second">秒鐘</string>
