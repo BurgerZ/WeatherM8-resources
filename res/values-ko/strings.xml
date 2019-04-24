@@ -147,7 +147,7 @@
     <string name="weather_main_notification_channel_name">날씨</string>
     <string name="weather_foreground_notification_channel_name">날씨 정보 제공자</string>
     
-    <string name="settings_alerts_title">날씨 알람 관리</string>
+    <string name="settings_alerts_title">날씨 알림 관리</string>
 
     <string name="settings_icons_title">날씨 아이콘</string>
     <string name="settings_icons_builtin_title">기본으로 포함된 알림 아이콘</string>
