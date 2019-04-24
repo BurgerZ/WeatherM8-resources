@@ -252,7 +252,7 @@
     <string name="widget_dateformat_default_value">yyyy년 MMMM d일</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">알람: %1$d</string>
+    <string name="activity_main_alert">알림: %1$d</string>
     <string name="activity_main_alert_precip">%1$s 예상됨. 하루 강수량 양은 %2$s.</string>
     <string name="activity_main_alert_wind">바람 예상됨, 최대 풍속은 %1$s.</string>
     <string name="activity_main_alert_wind_gusts">%1$s 풍속이 최대 풍속으로 예상됩니다.</string>
@@ -303,7 +303,7 @@
     <string name="widget_config_font_title">텍스트 폰트</string>
     <string name="widget_config_font_size_title">텍스트 크기</string>
     <string name="widget_config_text_color_title">텍스트 색상</string>
-    <string name="widget_config_show_alarm_title">다음 알람 보기</string>
+    <string name="widget_config_show_alarm_title">다음 알림 보기</string>
     <string name="widget_config_show_date_title">날짜 보기</string>
     <string name="widget_config_show_update_date_title">예보 갱신 일자 보기</string>
     <string name="widget_config_use_background_title">백그라운드 위젯 보기</string>
