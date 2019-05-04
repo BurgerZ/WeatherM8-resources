@@ -112,6 +112,9 @@
     <string name="settings_wind_unit_ms">m/s</string>
     <string name="settings_wind_unit_mph">mph</string>
     <string name="settings_temp_unit">온도</string>
+    <string name="settings_precipitation_unit">강수량</string>
+    <string name="settings_precipitation_unit_mm">mm</string>
+    <string name="settings_precipitation_unit_in">inches</string>
     <string name="settings_visibility_unit">가시성</string>
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
@@ -139,8 +142,12 @@
     <string name="settings_notification_background_color_title">알림 배경 색상</string>
     <string name="settings_notification_statusbar_color_title">알림 아이콘 색상</string>
     <string name="settings_notification_text_color_title">알림 글자 </string>
-
-    <string name="settings_alerts_title">날씨 알람 관리</string>
+    
+    <string name="weather_alert_notification_channel_name">알림</string>
+    <string name="weather_main_notification_channel_name">날씨</string>
+    <string name="weather_foreground_notification_channel_name">날씨 정보 제공자</string>
+    
+    <string name="settings_alerts_title">날씨 알림 관리</string>
 
     <string name="settings_icons_title">날씨 아이콘</string>
     <string name="settings_icons_builtin_title">기본으로 포함된 알림 아이콘</string>
@@ -165,6 +172,7 @@
     <string name="settings_translations_summary">응용 프로그램 번역자 크래딧</string>
     <string name="settings_thirdparty">서드 파티 라이브러리와 리소스</string>
     <string name="settings_permissions">권한</string>
+    <string name="settings_permissions_privacy">개인정보 보호정책</string>
     <string name="settings_help">도움말</string>
     <string name="settings_feedback">피드백 보내기</string>
     <string name="settings_dialog_enter_timezone">선택한 도시 (%s)의 시간대를 입력하세요, 예시 GMT+03:00:</string>
@@ -222,6 +230,9 @@
     <string name="weather_details_visibility">%1$s km</string>
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s miles</string>
+    
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    <string name="weather_details_precipitation_amount_in">%1$s in</string>
 
     <string name="weather_details_update_date_string">관측 시간: %s</string>
 
@@ -241,7 +252,7 @@
     <string name="widget_dateformat_default_value">yyyy년 MMMM d일</string>
 
     <!-- Weather alerts -->
-    <string name="activity_main_alert">알람: %1$d | 이곳을 누르기</string>
+    <string name="activity_main_alert">알림: %1$d</string>
     <string name="activity_main_alert_precip">%1$s 예상됨. 하루 강수량 양은 %2$s.</string>
     <string name="activity_main_alert_wind">바람 예상됨, 최대 풍속은 %1$s.</string>
     <string name="activity_main_alert_wind_gusts">%1$s 풍속이 최대 풍속으로 예상됩니다.</string>
@@ -292,7 +303,7 @@
     <string name="widget_config_font_title">텍스트 폰트</string>
     <string name="widget_config_font_size_title">텍스트 크기</string>
     <string name="widget_config_text_color_title">텍스트 색상</string>
-    <string name="widget_config_show_alarm_title">다음 알람 보기</string>
+    <string name="widget_config_show_alarm_title">다음 알림 보기</string>
     <string name="widget_config_show_date_title">날짜 보기</string>
     <string name="widget_config_show_update_date_title">예보 갱신 일자 보기</string>
     <string name="widget_config_use_background_title">백그라운드 위젯 보기</string>
