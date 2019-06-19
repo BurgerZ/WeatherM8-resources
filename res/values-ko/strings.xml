@@ -239,8 +239,6 @@
     <string name="weather_details_daylight_diff_longer">%1$s 길어짐</string>
     <string name="weather_details_daylight_diff_shorter">%1$s 짧아짐</string>
 
-    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
-
     <string name="time_units_hour">" 시"</string>
     <string name="time_units_minute">" 분"</string>
     <string name="time_units_second">" 초"</string>
@@ -408,4 +406,3 @@
 
     <string name="loading_data">데이터 불러오는 중…</string>
 </resources>
-
