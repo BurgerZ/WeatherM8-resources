@@ -46,4 +46,4 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 **Weather M8** can be downloaded on [Google Play Store](https://play.google.com/store/apps/details?id=pro.burgerz.miweather8)
 
 ## Copyright
-Weather Mate (Weather M8) © 2016-2019 zaa.bz, **Andrei Zhukouski**
+Weather Mate (Weather M8) © 2016-2020 zaa.bz, **Andrei Zhukouski**
