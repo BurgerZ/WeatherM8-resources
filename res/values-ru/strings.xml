@@ -190,6 +190,7 @@
     <string name="share_weather_desc">\#Погода M8# Сегодня: %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="hourly_forcast_now">Сейчас</string>
+    <string name="astronomy_title">Астрономия</string>
     <string name="sunrise">Восход</string>
     <string name="sunset">Закат</string>
     <string name="daily_forcast_weather_transfer">%1$s \u21E8 %2$s</string>

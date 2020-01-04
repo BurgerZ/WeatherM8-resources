@@ -198,6 +198,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="share_weather_desc">\#Weather M8# Today %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="hourly_forcast_now">Now</string>
+    <string name="astronomy_title">Astronomy</string>
     <string name="sunrise">Sunrise</string>
     <string name="sunset">Sunset</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>

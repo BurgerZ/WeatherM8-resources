@@ -206,6 +206,7 @@
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Памылка захавання скрыншота</string>
+  <string name="astronomy_title">Астраномiя</string>
   <string name="sunrise">Усход</string>
   <string name="sunset">Захад</string>
   <string name="time_units_hour">" г"</string>
