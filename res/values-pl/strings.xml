@@ -57,6 +57,7 @@
   <string name="aqi_ring_desc">Indeks jakości powietrza (AQI)</string>
   <string name="aqi_ring_top_pollution">Główne zanieczyszczenia</string>
   <string name="aqi_sub_desc">AQI</string>
+  <string name="astronomy_title">Astronomia</string>
   <string name="button_add_city">Dodaj miasto</string>
   <string name="button_allow">OK</string>
   <string name="button_not_allow">Anuluj</string>
@@ -87,7 +88,9 @@
   <string name="feedback_sent">Dziękuję za Twoją opinię!</string>
   <string name="feedback_title">Tytuł</string>
   <string name="feedback_title_hint">Opisz krótko problem</string>
-  <string name="first_start_network_msg">"Ta aplikacja wymaga aktywnego połączenia z Internetem, w celu pobierania danych. Aplikacja whkorzystuje następujące uprawnienia: • Dostęp do aktualnej pozycji urządzenia, dla uzyskania danych pogodowych..\n\		• Dostęp do zdjęć, multimediów i plików, celem zapisu zrzutów ekranu (funkcja \"Udostępnij\")"</string>
+  <string name="first_start_network_msg">"Ta aplikacja wymaga aktywnego połączenia z Internetem, w celu pobierania danych.
+ Aplikacja whkorzystuje następujące uprawnienia:
+ • Dostęp do aktualnej pozycji urządzenia, dla uzyskania danych pogodowych..\n\		• Dostęp do zdjęć, multimediów i plików, celem zapisu zrzutów ekranu (funkcja \"Udostępnij\")"</string>
   <string name="first_start_network_title">Połączenie z internetem i dostęp do lokalizacji</string>
   <string name="geolocation_names_source_default">Domyślna</string>
   <string name="geolocation_names_source_google">Google</string>
@@ -182,6 +185,8 @@
   <string name="settings_notify_type_title">Ikona powiadomień</string>
   <string name="settings_permissions">Uprawnienia</string>
   <string name="settings_permissions_privacy">Polityka prywatności</string>
+  <string name="settings_precipitation_unit">Opad atmosferyczny</string>
+  <string name="settings_precipitation_unit_in">cale</string>
   <string name="settings_pressure_level_title">Pokazuj ciśnienie dla</string>
   <string name="settings_pressure_unit">Ciśnienie</string>
   <string name="settings_pressure_unit_atm">atm</string>
@@ -258,6 +263,7 @@
   <string name="weather_details_humidity">%1$s%%</string>
   <string name="weather_details_humidity_title">Wilgotność</string>
   <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+  <string name="weather_details_precipitation_amount_in">%1$s cali</string>
   <string name="weather_details_precipitation_prob_title">Opady</string>
   <string name="weather_details_pressure">%1$s hPa</string>
   <string name="weather_details_pressure_atm">%1$s atm</string>
