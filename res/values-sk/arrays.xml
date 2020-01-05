@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-        <item>Peking</item>
-        <item>Amsterodam</item>
-        <item>Varšava</item>
-        <item>Vilnius</item>
-        <item>Riga</item>
-        <item>Madrid</item>
-        <item>Perm</item>
-        <item>Řím</item>
-        <item>Dubaj</item>
-        <item>Minsk</item>
-        <item>Blagodarnyj</item>
-        <item>Karaganda</item>
-        <item>Orel</item>
-        <item>Berlín</item>
-        <item>Praha</item>
-        <item>Moskva</item>
-        <item>St. Petersburg</item>
-        <item>Chicago</item>
-        <item>New York</item>
-        <item>Paříž</item>
-        <item>Londýn</item>
-        <item>Los Angeles</item>
-        <item>Kaliningrad</item>
+        <item>Bratislava</item>
+        <item>Košice</item>
+        <item>Prešov</item>
+        <item>Žilina</item>
+        <item>Banská Bystrica</item>
+        <item>Humenné</item>
+        <item>Pezinok</item>
+        <item>Poprad</item>
+        <item>Trebišov</item>
+        <item>Stropkov</item>
+        <item>Štrbské pleso</item>
+        <item>Lučenec</item>
+        <item>Chopok</item>
+        <item>Prievidza</item>
+        <item>Dudince</item>
+        <item>Nitra</item>
+        <item>Trnava</item>
+        <item>Piešťany</item>
+        <item>Hurbanovo</item>
+        <item>Lomnický stit</item>
+        <item>Sliač</item>
+        <item>Telgárt</item>
+        <item>Liptovský Mikuláš</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Najslabší</item>
@@ -95,7 +95,7 @@
     <string-array name="weather_icons_entries">
         <item>MIUI 8</item>
         <item>YunOS</item>
-        <item>Simple</item>
+        <item>Jednoduché</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Dobrá</item>
