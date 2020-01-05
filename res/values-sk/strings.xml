@@ -315,7 +315,7 @@ Skontrolujte nastavenie siete."</string>
      <string name="settings_autolocate_detailed_summary">Získať a zobraziť podrobné informácie o vašej polohe</string>
      <string name="settings_autolocate_detailed_title">Podrobné informácie o polohe</string>
      <string name="settings_autolocate_summary">Automaticky lokalizovať vaše zariadenie</string>
-     <string name="settings_autolocate_title">Automaticky lokaliozovať</string>
+     <string name="settings_autolocate_title">Automaticky lokalizovať</string>
      <string name="settings_geolocation_names_source_title">Zdroj polohy</string>
      <string name="settings_geolocation_title">Poloha</string>
      <string name="settings_icons_temperature_title">Ikony teploty</string>
