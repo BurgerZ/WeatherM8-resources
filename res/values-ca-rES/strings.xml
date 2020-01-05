@@ -11,7 +11,7 @@
     <string name="act_set_city_find_side_error">"No es pot localitzar el dispositiu"</string>
     <string name="button_add_city">Afegeix una ciutat</string>
     <string name="locate_fail_detail_err">"No es pot localitzar el dispositiu
-Premeu el botó de sota per afegir manualment una ciutat o tracta de localitzar-la de nou"</string>
+Premeu el botó de sota per afegir manualment una ciutat o proveu a localitzar-la de nou"</string>
     <string name="act_set_city_swipe_hint">"Llisqueu cap a l'esquerra per esborrar la ciutat"</string>
     <string name="button_allow">"D'acord"</string>
     <string name="button_not_allow">Cancel·la</string>
@@ -198,6 +198,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="share_weather_desc">\#ElTemps M8# Avui a %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="hourly_forcast_now">Ara</string>
+	<string name="astronomy_title">Astronomia</string>
     <string name="sunrise">Alba</string>
     <string name="sunset">Ocàs</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
@@ -243,7 +244,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="time_units_minute">" min"</string>
     <string name="time_units_second">" s"</string>
 
-    <string name="hourly_forecast_detail_date">E, d MMM</string>
+    <string name="hourly_forecast_detail_date">E d MMM</string>
     <string name="daily_forecast_detail_date">d MMM</string>
     <string name="weather_update_date">d MMMM</string>
     <string name="weather_short_month_update_date">d MMM</string>
