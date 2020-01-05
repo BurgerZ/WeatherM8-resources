@@ -15,29 +15,29 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-cs|Czech|**Miloslav Kubín**,  **Ladislav Loun**|
 |values-de|Deutch|**MIUI Germany**, **hEnRy gLäSeR**|
 |values-el|Greek|**Dimitrios Skodras**, **Spiros Kaparos**|
-|values-es|Spanish|**Nicolás Berrutti**, **Jaime Muñoz Martín** |
+|values-es|Spanish|**Nicolás Berrutti**, **Jaime Muñoz Martín**|
 |values-fa|Persian|**رحمان رحمانی پرست**|
 |values-fi|Finnish|**Kalle Lahtinen**|
 |values-fr|French|**Nicolas Zeller**|
 |values-hi|Hindi|**Abhishek**|
 |values-hr|Croatian|**MASVA, MIUI Adria**|
 |values-hu|Hungarian|**Gergő Bancsi**|
-|values-in|Indonesian|**Anggit Pramudita**, **Diki Ananta** |
-|values-it|Italian|**Ignis_su**, **Lippe35** |
+|values-in|Indonesian|**Anggit Pramudita**, **Diki Ananta**|
+|values-it|Italian|**Ignis_su**, **Lippe35**|
 |values-iw|Hebrew|**Alex Travitsky**|
 |values-ko|Korean|**wolfwork**|
 |values-lt|Lithuanian|**Vladimir Zemlianskij**|
 |values-nl|Dutch|**Jelger Postma**|
-|values-ro|Romanian|**Igor Sorocean** |
+|values-ro|Romanian|**Igor Sorocean**|
 |values-ru|Russian|**Andrei Zhukouski**|
 |values-pl|Polish|**trybit**, **Jan Folta Gutek**|
-|values-pt-BR|Portuguese (Brasil)|**Lineu Junior**, **Lippe35** |
-|values-pt-PT|Portuguese (Portugal)|**Lippe35** |
-|values-sk|Slovak|**Luboš Belobruch**, **Ivan Urda**|
+|values-pt-BR|Portuguese (Brazil)|**Lineu Junior**, **Lippe35**|
+|values-pt-PT|Portuguese (Portugal)|**Lippe35**|
+|values-sk|Slovak|**Luboš Belobruch**, **Ivan Urda**, **ingbrzy**|
 |values-sl|Slovenian|**Boštjan Rebolj**|
 |values-sr|Serbian|**Milan Andrejić**|
 |values-tr|Turkish|**Murat Turan**|
-|values-uk|Ukrainian|**Євген Гіль** |
+|values-uk|Ukrainian|**Євген Гіль**|
 |values-vi|Vietnamese|**Nguyễn Minh Chất**|
 |values-zh-CN|Chinese (PRC)|**i Silence**, **文科**|
 |values-zh-TW|Chinese (Taiwan)|**cjh**|
