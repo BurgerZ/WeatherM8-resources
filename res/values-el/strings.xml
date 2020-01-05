@@ -11,8 +11,8 @@
     <string name="act_set_city_find_side_error">"Δεν μπορεί να εντοπιστεί η συσκευή"</string>
     <string name="button_add_city">Προσθήκη πόλης</string>
     <string name="loading_data">Φόρτωση δεδομένων…</string>
-    <string name="locate_fail_detail_err">Δεν μπορεί να εντοπιστεί η συσκευή
-Πατήστε το κουμπί παρακάτω για να προσθέσετε την πόλη χειροκίνητα ή προσπάθεια εντοπισμού και πάλι</string>
+    <string name="locate_fail_detail_err">"Δεν μπορεί να εντοπιστεί η συσκευή
+Πατήστε το κουμπί παρακάτω για να προσθέσετε την πόλη χειροκίνητα ή προσπάθεια εντοπισμού και πάλι"</string>
     <string name="act_set_city_swipe_hint">Σύρετε προς τα αριστερά για να διαγράψετε την πόλη</string>
     <string name="button_allow">OK</string>
     <string name="button_not_allow">Ακύρωση</string>
@@ -178,12 +178,15 @@
     <string name="share_weather_desc">\#Weather M8# Σήμερα %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="hourly_forcast_now">Τώρα</string>
+    <string name="astronomy_title"Αστρονομία</string>
     <string name="sunrise">Ανατολή ηλίου</string>
     <string name="sunset">Ηλιοβασίλεμα</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s αργότερα.</string>
     <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
     <string name="daily_forcast_drawer_on_top">Καθημερινή πρόβλεψη</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+    <string name="weather_alert_notification_channel_name">Ειδοποιήσεις</string>
+    <string name="weather_main_notification_channel_name">Καιρός</string>
     <string name="weather_foreground_notification_channel_name">Υπηρεσίες Καιρού</string>
     <string name="settings_permissions_privacy">Πολιτική Απορρήτου</string>
     
@@ -216,9 +219,9 @@
     <string name="weather_details_daylight_diff_shorter">%1$s πιο νωρίς</string>
     <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
     <string name="weather_details_precipitation_amount_in">%1$s in</string>
-    <string name="time_units_hour">Ω</string>
-    <string name="time_units_minute">Λ</string>
-    <string name="time_units_second">Δ</string>
+    <string name="time_units_hour">" ω"</string>
+    <string name="time_units_minute">" λ"</string>
+    <string name="time_units_second">" δ"</string>
     <string name="hourly_forecast_detail_date">d MMM, E</string>
     <string name="daily_forecast_detail_date">d MMM</string>
     <string name="weather_update_date">d MMMM</string>
@@ -238,20 +241,20 @@
     <string name="activity_main_alert_type_wind">Άνεμος</string>
     <string name="activity_main_alert_type_wind_gusts">Θυελλώδεις άνεμοι</string>
     <string name="activity_main_alert_type_tstorm">Καταιγίδες</string>
-    <string name="activity_main_alert_unit_mm">mm</string>
-    <string name="activity_main_alert_unit_cm">cm</string>
-    <string name="activity_main_alert_unit_inch">in</string>
-    <string name="activity_main_alert_unit_kmh">km/h</string>
-    <string name="activity_main_alert_unit_mph">mph</string>
-    <string name="activity_main_alert_unit_mps">m/s</string>
+    <string name="activity_main_alert_unit_mm">" mm"</string>
+    <string name="activity_main_alert_unit_cm">" cm"</string>
+    <string name="activity_main_alert_unit_inch">" in"</string>
+    <string name="activity_main_alert_unit_kmh">" km/h"</string>
+    <string name="activity_main_alert_unit_mph">" mph"</string>
+    <string name="activity_main_alert_unit_mps">" m/s"</string>
     <string name="daily_forcast_no_wind">Άπνοια</string>
     <string name="daily_forcast_whirl_wind">Ανεμοστρόβιλος</string>
     <string name="delete">Διαγραφή</string>
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_bft">%1$sbft</string>
-    <string name="wind_unit_knot">%1$sknot</string> 
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="wind_unit_mph">%1$smph</string>
+    <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_bft">%1$ sbft</string>
+    <string name="wind_unit_knot">%1$ sknot</string> 
+    <string name="wind_unit_ms">%1$ sm/s</string>
+    <string name="wind_unit_mph">%1$ smph</string>
     <string name="hourly_forecast_title">Ωριαία πρόγνωση</string>
 
     <!-- Widgets -->
