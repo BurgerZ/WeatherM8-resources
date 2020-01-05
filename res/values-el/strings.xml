@@ -178,7 +178,7 @@
     <string name="share_weather_desc">\#Weather M8# Σήμερα %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="hourly_forcast_now">Τώρα</string>
-    <string name="astronomy_title"Αστρονομία</string>
+    <string name="astronomy_title">Αστρονομία</string>
     <string name="sunrise">Ανατολή ηλίου</string>
     <string name="sunset">Ηλιοβασίλεμα</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s αργότερα.</string>
