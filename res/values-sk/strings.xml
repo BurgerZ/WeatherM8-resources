@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="act_find_city_hint">Zadať mesto</string>
-    <string name="act_find_city_hot_title">Pridat</string>
-    <string name="act_set_city_find_side">Lokalizujem…</string>
-    <string name="act_set_city_find_side_error">Nemôžem získať polohu</string>
-    <string name="act_set_city_swipe_hint">Posunúť vľavo pre zmazanie miesta</string>
+    <string name="act_find_city_hot_title">Pridať</string>
+    <string name="act_set_city_find_side">Lokalizácia...</string>
+    <string name="act_set_city_find_side_error">Nie je možné získať polohu</string>
+    <string name="act_set_city_swipe_hint">Posunúť vľavo pre vymazanie miesta</string>
     <string name="act_weather_find_city_added">Pridané</string>
     <string name="act_weather_find_city_click_retry">Opakovať</string>
-    <string name="act_weather_find_city_net_no_good">Nedá sa pripojiť k sieti.</string>
+    <string name="act_weather_find_city_net_no_good">Nie je možné pripojiť sa k sieti.</string>
     <string name="act_weather_find_city_no_result">Žiadne výsledky</string>
     <string name="act_weather_find_city_searching">Vyhľadávanie…</string>
     <string name="activity_detail_time_format">E</string>
@@ -17,7 +17,7 @@
     <string name="activity_find_city_dialog_title">Prístup k polohe</string>
     <string name="activity_main_alert">Výstrahy: %1$d</string>
     <string name="activity_main_expire_time">Koniec platnosti %1$s</string>
-    <string name="activity_main_refresh_fail">Nedá sa pripojiť k sieti.</string>
+    <string name="activity_main_refresh_fail">Nie je možné pripojiť k sieti.</string>
     <string name="activity_main_time_format">E</string>
     <string name="activity_main_update_time">Aktualizované: %1$s</string>
     <string name="activity_main_update_time_right_now">Teraz</string>
@@ -36,35 +36,35 @@
     <string name="first_start_network_msg">"Táto aplikácia požaduje pripojenie k internetu pre získanie predpovedi.
         Aplikácia požaduje tieto oprávnenia:
         • Prístup k polohe pre získanie aktuálnej polohy.
-        • Prístup k fotkám, videám a súborom k ukladaniu obrazoviek pre funkcu \"Zdielať\"."</string>
+        • Prístup k fotografiám, videám a súborom k ukladaniu snímky obrazovky pre funkciu \"Zdielať\"."</string>
     <string name="first_start_network_title">Pripojenie k internetu a prístup k polohe</string>
     <string name="gps_hint">GPS</string>
     <string name="hour_minute_time_format">HH:mm</string>
     <string name="hourly_forcast_now">Teraz</string>
     <string name="hourly_forecast_title">Hodinová predpoveď</string>
     <string name="international_detail_menu_title">Podrobnosti</string>
-    <string name="locate_fail_detail_err">"Nedá sa získať poloha
-Klepnite na tlačítko nižšie alebo skúste získať polohu neskôr"</string>
+    <string name="locate_fail_detail_err">"Nie je možné získať polohu
+Dotknite sa tlačidla nižšie alebo skúste získať polohu neskôr"</string>
     <string name="location_management">Poloha</string>
     <string name="location_tag">Poloha</string>
-    <string name="menu_moon_phases">Mesačná fáza</string>
+    <string name="menu_moon_phases">Fáza mesiaca</string>
     <string name="moon_age">Vek: %1$s d. %2$s hod. %3$s min.</string>
     <string name="moon_angle">Uhol: %s°</string>
     <string name="moon_distanse">Vzdialenosť: %s km</string>
-    <string name="moon_firstquarter">Prvá štvrť</string>
+    <string name="moon_firstquarter">Prvá štvrtina</string>
     <string name="moon_full">Spln</string>
     <string name="moon_illuminated">Mesačný svit: %s%%</string>
-    <string name="moon_lastquarter">Posledná štvrť</string>
+    <string name="moon_lastquarter">Posledná štvrtina</string>
     <string name="moon_newmoon">Nov</string>
     <string name="moon_since">Dátum: %1$s. %2$s</string>
     <string name="moon_waningcrescent">Ubúdajúci kosák</string>
-    <string name="moon_waninggibbous">Ubúbajúci mesiac</string>
+    <string name="moon_waninggibbous">Ubúdajúci mesiac</string>
     <string name="moon_waxingcrescent">Dorastajúci kosák</string>
     <string name="moon_waxinggibbous">Dorastajúci mesiac</string>
     <string name="moon_zodiac">Zverokruh: %s</string>
     <string name="more_details">Viac podrobností</string>
-    <string name="network_unavailable">Nedá sa pripojiť k sieti.</string>
-    <string name="settings_about">O aplikácii…</string>
+    <string name="network_unavailable">Nie je možné pripojiť sa k sieti.</string>
+    <string name="settings_about">O aplikácii</string>
     <string name="settings_alerts_title">Správa upozornení</string>
     <string name="settings_app_locale_title">Jazyk</string>
     <string name="settings_autoupdate_weather_summary">Aktualizovať predpoveď automaticky</string>
@@ -80,18 +80,16 @@ Klepnite na tlačítko nižšie alebo skúste získať polohu neskôr"</string>
     <string name="settings_notifications_summary">Nastaviť upozornenie na počasie</string>
     <string name="settings_notifications_title">Upozornenie</string>
     <string name="settings_notify_type_title">Ikona upozornenia</string>
-    
     <string name="settings_notification_statusbar_color_title">Farba ikony upozornenia</string>
-
     <string name="settings_pressure_unit">Tlak</string>
     <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_pressure_unit_mb">mb</string>
     <string name="settings_pressure_unit_mm">mmHg</string>
     <string name="settings_temp_unit">Teplota</string>
     <string name="settings_translations">Preklady</string>
-    <string name="settings_translations_summary">Poďakovať prekladatelom aplikácii…</string>
+    <string name="settings_translations_summary">Poďakovať prekladateľom aplikácie</string>
     <string name="settings_update_interval_title">Interval aktualizácie</string>
-    <string name="settings_visibility_unit">Viditelnosť</string>
+    <string name="settings_visibility_unit">Viditeľnosť</string>
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">míle</string>
@@ -100,7 +98,7 @@ Klepnite na tlačítko nižšie alebo skúste získať polohu neskôr"</string>
     <string name="settings_weather_spider_title">Zdroj údajov o počasí</string>
     <string name="settings_weather_transfer_summary">Zobraziť popis predpovedi počasia na deň / noc</string>
     <string name="settings_weather_transfer_title">Predpoveď počasia na deň / noc</string>
-    <string name="settings_wind_unit">Rychlosť vetra</string>
+    <string name="settings_wind_unit">Rýchlosť vetra</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_mph">míle/h</string>
     <string name="settings_wind_unit_ms">m/s</string>
@@ -112,7 +110,7 @@ Klepnite na tlačítko nižšie alebo skúste získať polohu neskôr"</string>
     <string name="share_weather_desc">\#Počasie# Dnes %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s, %2$s</string>
     <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">Nedá sa uložiť snímka obrazovky</string>
+    <string name="share_weather_save_pic_fail">Nie je možné uložiť snímku obrazovky</string>
     <string name="sunrise">Východ slnka</string>
     <string name="sunset">Západ slnka</string>
     <string name="time_units_hour">h</string>
@@ -130,17 +128,17 @@ Klepnite na tlačítko nižšie alebo skúste získať polohu neskôr"</string>
     <string name="weather_details_pressure_mb">%1$s mb</string>
     <string name="weather_details_pressure_mm">%1$s mmHg</string>
     <string name="weather_details_pressure_title">Tlak</string>
-    <string name="weather_details_real_feel_title">Na pocit</string>
+    <string name="weather_details_real_feel_title">Pocitovo</string>
     <string name="weather_details_title">Podrobnosti o počasí</string>
     <string name="weather_details_uv_index_title">UV Index</string>
     <string name="weather_details_visibility">%1$s km</string>
     <string name="weather_details_visibility_meters">%1$s m</string>
     <string name="weather_details_visibility_miles">%1$s míle</string>
-    <string name="weather_details_visibility_title">Viditelnosť</string>
+    <string name="weather_details_visibility_title">Viditeľnosť</string>
     <string name="weather_details_wind_connect">%1$s %2$s</string>
     <string name="weather_details_wind_title">Vietor</string>
     <string name="widget_update_date_string">Aktualizované: %s</string>
-    <string name="widget_update_updating_string">Aktualizujem…</string>
+    <string name="widget_update_updating_string">Aktualizácia…</string>
     <string name="wind_unit">%1$s km/h</string>
     <string name="wind_unit_mph">%1$s míle/h</string>
     <string name="wind_unit_ms">%1$s m/s</string>
@@ -153,22 +151,22 @@ Klepnite na tlačítko nižšie alebo skúste získať polohu neskôr"</string>
     <string name="zodiac_libra">Váhy</string>
     <string name="zodiac_pisces">Ryby</string>
     <string name="zodiac_sagittarius">Strelec</string>
-    <string name="zodiac_scorpio">Škorpion</string>
+    <string name="zodiac_scorpio">Škorpión</string>
     <string name="zodiac_taurus">Býk</string>
     <string name="zodiac_virgo">Panna</string>
     <string name="common_auto">Auto</string>
     <string name="common_recommended">Doporučené</string>
     <string name="dialog_color_picker">Výber farby</string>
-    <string name="press_color_to_apply">Kliknúť na farbu pre potvrdenie</string>
+    <string name="press_color_to_apply">Dotknite sa farby pre potvrdenie</string>
     <string name="settings_ads_explanation">"Prečo vidíte reklamy?
-Programovanie aplikácií pre Android je môj koníček, ktorým sa zaoberám vo voľnom čase. Majte prosím pochopenie so zobrazováním určitého počtu reklám, vďaka ktorým je zajistený ďalší rozvoj aplikácie"</string>
+Vývoj aplikácií pre Android je môj koníček, ktorým sa zaoberám vo voľnom čase. Majte prosím pochopenie so zobrazovaním určitého počtu reklám, vďaka ktorým je zajistený ďalší vývoj tejto aplikácie"</string>
     <string name="settings_ads_remove_summary">Odstrániť reklamy na týždeň (raz za mesiac)</string>
-    <string name="settings_ads_remove_title">Odstraniť reklamy</string>
-    <string name="settings_ads_title">Reklamy a dary</string>
+    <string name="settings_ads_remove_title">Odstrániť reklamy</string>
+    <string name="settings_ads_title">Reklamy a podpora</string>
     <string name="settings_ads_yandex">Yandex Money</string>
     <string name="settings_app_theme_dark">Tmavý</string>
     <string name="settings_app_theme_light">Svetlý</string>
-    <string name="settings_app_theme_title">Motiv</string>
+    <string name="settings_app_theme_title">Motív</string>
     <string name="settings_help">Nápoveda</string>
     <string name="settings_pressure_level_title">Zobraziť tlak pre</string>
     <string name="settings_realtime_feelslike_as_main_summary">Zobraziť pocitovú teplotu ako hlavnú teplotu počasia</string>
@@ -177,29 +175,29 @@ Programovanie aplikácií pre Android je môj koníček, ktorým sa zaoberám vo
     <string name="settings_weather_forecast_spider_title">Predpoveď počasia</string>
     <string name="settings_weather_realtime_spider_title">Aktuálne počasie</string>
     <string name="settings_weather_station_title">Meteo stanica</string>
-    <string name="weather_details_update_date_string">Aktualizováné: %s</string>
+    <string name="weather_details_update_date_string">Aktualizovane: %s</string>
     <string name="widget_config_background_color_title">Farba pozadia</string>
     <string name="widget_config_background_type_border">Rámček</string>
     <string name="widget_config_background_type_solid">Plocha</string>
     <string name="widget_config_background_type_title">Typ pozadia</string>
-    <string name="widget_config_click_apps">Vybrať aplikaciu</string>
+    <string name="widget_config_click_apps">Vybrať aplikáciu</string>
     <string name="widget_config_click_clock">Hodiny</string>
     <string name="widget_config_click_date">Dátum</string>
     <string name="widget_config_click_settings">Ďalšie nastavenie widgetu</string>
     <string name="widget_config_click_temperature">Teplota</string>
     <string name="widget_config_click_weather_icon">Ikony počasia</string>
-    <string name="widget_config_clock_color_title">Farba hodin</string>
+    <string name="widget_config_clock_color_title">Farba hodín</string>
     <string name="widget_config_clock_font_size_title">Veľkosť písma hodín</string>
     <string name="widget_config_clock_font_title">Písmo hodín</string>
     <string name="widget_config_custom_clock_font_onoff_summary">Vypnúť, ak sa hodiny neaktualizujú</string>
     <string name="widget_config_custom_clock_font_onoff_title">Vlastné písmo hodín</string>
-    <string name="widget_config_date_font_size_title">Veľkosť písma data</string>
-    <string name="widget_config_dateformat_title">Formát data</string>
+    <string name="widget_config_date_font_size_title">Veľkosť písma dátumu</string>
+    <string name="widget_config_dateformat_title">Formát dátumu</string>
     <string name="widget_config_font_size_title">Veľkosť textu</string>
     <string name="widget_config_font_title">Písmo</string>
     <string name="widget_config_realtime_font_size_title">Veľkosť písma informácií v reálnom čase</string>
     <string name="widget_config_realtime_font_title">Písmo informácií v reálnom čase</string>
-    <string name="widget_config_show_alarm_title">Zobraziť následujúcí budík</string>
+    <string name="widget_config_show_alarm_title">Zobraziť nasledujúci budík</string>
     <string name="widget_config_show_cityname_title">Zobraziť polohu</string>
     <string name="widget_config_show_local_time_title">Zobraziť miestny čas</string>
     <string name="widget_config_text_color_title">Farba textu</string>
@@ -212,27 +210,27 @@ Programovanie aplikácií pre Android je môj koníček, ktorým sa zaoberám vo
     <string name="feedback_error">Chyba pri odosielaní spätnej väzby</string>
     <string name="feedback_fill_required">Povinné polia musia byť vyplnené</string>
     <string name="feedback_select_upload_settings">Odoslať nastavenie aplikácii</string>
-    <string name="feedback_sending">Odosielam spätnú väzbu…</string>
-    <string name="feedback_sent">Dakujem za spätnú väzbu!</string>
+    <string name="feedback_sending">Odosiela sa spätná väzba…</string>
+    <string name="feedback_sent">Ďakujem za spätnú väzbu!</string>
     <string name="feedback_title">Nadpis</string>
     <string name="feedback_title_hint">Stručný popis problému</string>
     <string name="network_error">"Nedá se pripojiť k serveru.
-Zkontrolujte sieťové nastavenie."</string>
-    <string name="network_in_quiet_hours">Nachádzte sa v období nočného kľudu. Aktualizácia zrušená.</string>
-    <string name="network_in_roaming">Nedá sa aktualizovať behom roamingu.</string>
-    <string name="network_wifi_only">Aktualizácia umožnena iba cez Wi-Fi.</string>
-    <string name="settings_dialog_enter_timezone">Zadejte časovú zónu pre vybrané mesto (%s), napríklad GMT+03:00:</string>
+Skontrolujte nastavenie siete."</string>
+    <string name="network_in_quiet_hours">Je aktívny režim Nerušiť. Aktualizácia je pozastavená.</string>
+    <string name="network_in_roaming">Nie je možné aktualizovať v roamingu.</string>
+    <string name="network_wifi_only">Aktualizácia len cez Wi-Fi.</string>
+    <string name="settings_dialog_enter_timezone">Zadajte časovú zónu pre vybrané mesto (%s), napríklad GMT+03:00:</string>
     <string name="settings_feedback">Odoslať spätnú väzbu</string>
     <string name="settings_icons_theme_details_title">Podrobnosti motívu</string>
     <string name="settings_update_wifi_only_summary">Aktualizovať predpoveď automaticky iba pomocou Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Aktualizovať iba pomocou Wi-Fi</string>
-    <string name="settings_widgets_not_found">Neboly najdené žiadne widgety</string>
+    <string name="settings_widgets_not_found">Neboli nájdené žiadne widgety</string>
     <string name="settings_widgets_title">Widgety</string>
     <string name="weather_details_elevation_title">Nadmorská výška</string>
     <string name="weather_details_timezone_title">Časová zóna</string>
     <string name="date_time_am">dop.</string>
     <string name="date_time_pm">odp.</string>
-    <string name="activity_main_update_time_expire">Neaktuálne data</string>
+    <string name="activity_main_update_time_expire">Neaktuálne dáta</string>
     <string name="aqi_data_source">%s</string>
     <string name="aqi_detail_24_hours">Hodinová predpoveď</string>
     <string name="aqi_detail_5_days">Denná predpoveď</string>
@@ -249,26 +247,26 @@ Zkontrolujte sieťové nastavenie."</string>
     <string name="aqi_ring_desc">Index kvality ovzdušia</string>
     <string name="aqi_ring_top_pollution">Emisie</string>
     <string name="aqi_sub_desc">AQI</string>
-    <string name="get_accounts_msg">Táto aplikácia požaduje prístup ku kontaktom a účtom pre overenie nákupu za účelem odstranenia reklám.</string>
+    <string name="get_accounts_msg">Táto aplikácia požaduje prístup ku kontaktom a účtom pre overenie nákupu za účelom odstránenia reklám.</string>
     <string name="get_accounts_title">Prístup ku kontaktom a účtom</string>
     <string name="moon_rise">Východ: %s</string>
     <string name="moon_set">Západ: %s</string>
     <string name="settings_ads_webmoney">Webmoney</string>
     <string name="settings_aqi_max_distance_closest">Najbližšia stanica</string>
-    <string name="settings_aqi_max_distance_summary">Získať údaje pre kvalitu ovzdušia z meteo stanice do vzdálenosti %1$s od polohy</string>
+    <string name="settings_aqi_max_distance_summary">Získať údaje pre kvalitu ovzdušia z meteo stanice do vzdialenosti %1$s od vašej polohy</string>
     <string name="settings_aqi_max_distance_title">Okruh preverovania AQI</string>
     <string name="settings_aqi_onoff_summary">Zobraziť index kvality ovzdušia pre polohu (ak je dostupný)</string>
     <string name="settings_aqi_onoff_title">Informácia o kvalite ovzdušia</string>
     <string name="settings_aqi_title">@string/aqi_main_title</string>
-    <string name="settings_icons_builtin_title">Štandartné ikony počasia</string>
+    <string name="settings_icons_builtin_title">Štandardné ikony počasia</string>
     <string name="settings_permissions">Povolenia</string>
     <string name="settings_pressure_unit_atm">atm</string>
-    <string name="settings_show_plus_sign_temp_summary">Zobraziť znamienko plus pro kladnú teplotu</string>
-    <string name="settings_show_plus_sign_temp_title">Zobrazit znamienko</string>
+    <string name="settings_show_plus_sign_temp_summary">Zobraziť znamienko plus pre teplotu nad nulou</string>
+    <string name="settings_show_plus_sign_temp_title">Zobraziť znamienko +</string>
     <string name="settings_sound_volume">Hlasitosť zvuku</string>
     <string name="settings_update_quiet_hours_end_time_title">Koniec</string>
     <string name="settings_update_quiet_hours_start_time_title">Začiatok</string>
-    <string name="settings_update_quiet_hours_title">Obdobie nočného kľudu</string>
+    <string name="settings_update_quiet_hours_title">Režim Nerušiť</string>
     <string name="settings_wind_unit_knot">kn</string>
     <string name="top_pollution_co">CO</string>
     <string name="top_pollution_no2">NO2</string>
@@ -277,9 +275,9 @@ Zkontrolujte sieťové nastavenie."</string>
     <string name="top_pollution_pm25">PM2.5</string>
     <string name="top_pollution_so2">SO2</string>
     <string name="weather_details_pressure_atm">%1$s atm</string>
-    <string name="widget_config_show_leading_zero_title">Zobraziť nulu na začiatku hodin</string>
+    <string name="widget_config_show_leading_zero_title">Zobraziť nulu na začiatku hodín</string>
     <string name="wind_unit_knot">%1$s kn</string>
-    <string name="settings_ads_menu_hide_title">Skrýť túto položku menu</string>
+    <string name="settings_ads_menu_hide_title">Skryť túto položku menu</string>
     <string name="hourly_forecast_detail_date">d. MMM, E</string>
     <string name="daily_forecast_detail_date">d. MMM</string>
     <string name="weather_update_date">d. MMMM</string>
@@ -287,7 +285,7 @@ Zkontrolujte sieťové nastavenie."</string>
     <string name="widget_dateformat_default_value">d. MMMM yyyy</string>
     <string name="radar_title">Radar</string>
     <string name="settings_ads_donations_title">Prispieť na kávu</string>
-    <string name="settings_ads_donation_expl">Stlačením týchto tlačítok pre prispenie prostredníctvom služby Google Play NIE SÚ odstranené reklamy. Ak ich chcete odstrániť, použite tlačítko \"Odobrať reklamy\".</string>
+    <string name="settings_ads_donation_expl">Stlačením týchto tlačidiel pre prispenie prostredníctvom služby Google Play NIE SÚ odstránené reklamy. Ak ich chcete odstrániť, použite tlačítko \"Odobrať reklamy\".</string>
     <string name="widget_config_realtime_icon_size_title">Veľkosť ikony aktuálneho počasia</string>
     <string name="widget_config_forecast_icon_size_title">Veľkosť ikony predpovedí počasia</string>    
     <string name="widget_config_show_date_title">Zobraziť dátum</string>
@@ -296,6 +294,6 @@ Zkontrolujte sieťové nastavenie."</string>
     <string name="radar_tab_cloud">Oblačnosť</string>
     <string name="radar_tab_rain">Zrážky</string>
     <string name="radar_date_format">dd.MM HH:mm</string>
-    <string name="loading_data">Načítám dáta…</string> 
+    <string name="loading_data">Načítavanie…</string> 
     <string name="settings_weather_data_order_title">Poradie údajov o počasí</string>
 </resources>
