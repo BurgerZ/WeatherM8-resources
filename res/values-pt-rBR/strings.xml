@@ -43,6 +43,7 @@
     <string name="aqi_ring_desc">Qualidade do ar</string>
     <string name="aqi_ring_top_pollution">Principais poluentes</string>
     <string name="aqi_sub_desc">IQA</string>
+    <string name="astronomy_title">Astronomia</string>
     <string name="button_add_city">Adicionar localização</string>
     <string name="button_not_allow">Cancelar</string>
     <string name="city_exceeded_warning">Só pode adicionar apenas 10 localizações</string>

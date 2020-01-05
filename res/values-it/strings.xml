@@ -43,6 +43,7 @@
     <string name="aqi_ring_desc">"Qualità dell'Aria"</string>
     <string name="aqi_ring_top_pollution">Principali inquinanti</string>
     <string name="aqi_sub_desc">AQI</string>
+    <string name="astronomy_title">Astronomia</string>
     <string name="button_add_city">Aggiungi una Città</string>
     <string name="button_not_allow">Cancella</string>
     <string name="city_exceeded_warning">È possibile aggiungere solo 10 posizioni</string>
