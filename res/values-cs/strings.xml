@@ -325,4 +325,5 @@ Zkontrolujte síťové nastavení."</string>
     <string name="common_default">Výchozí</string>
     <string name="settings_icons_temperature_title">Ikona teploty</string>
     <string name="widget_config_show_update_date_title">Zobrazit údaje o aktualizaci počasí</string>
+    <string name="astronomy_title">Astronomické údaje</string>
 </resources>
