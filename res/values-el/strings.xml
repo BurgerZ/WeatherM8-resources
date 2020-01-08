@@ -251,10 +251,10 @@
     <string name="daily_forcast_whirl_wind">Ανεμοστρόβιλος</string>
     <string name="delete">Διαγραφή</string>
     <string name="wind_unit">%1$s km/h</string>
-    <string name="wind_unit_bft">%1$ sbft</string>
-    <string name="wind_unit_knot">%1$ sknot</string> 
-    <string name="wind_unit_ms">%1$ sm/s</string>
-    <string name="wind_unit_mph">%1$ smph</string>
+    <string name="wind_unit_bft">%1$s bft</string>
+    <string name="wind_unit_knot">%1$s knot</string>
+    <string name="wind_unit_ms">%1$s m/s</string>
+    <string name="wind_unit_mph">%1$s mph</string>
     <string name="hourly_forecast_title">Ωριαία πρόγνωση</string>
 
     <!-- Widgets -->
