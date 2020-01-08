@@ -117,8 +117,8 @@ Pulse el botón de abajo para añadir manualmente una ciudad o trate de localiza
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">millas</string>
 
-    <string name="settings_realtime_feelslike_as_main_title">Sensación térmica cóo temperatura principal</string>
-    <string name="settings_realtime_feelslike_as_main_summary">Muestra la temperatura de sensación real cómo temperatura principal</string>
+    <string name="settings_realtime_feelslike_as_main_title">Sensación térmica como temperatura principal</string>
+    <string name="settings_realtime_feelslike_as_main_summary">Muestra la temperatura de sensación real como temperatura principal</string>
 
     <string name="settings_show_plus_sign_temp_title">Mostrar signo "+"</string>
     <string name="settings_show_plus_sign_temp_summary">Mostrar signo "+" para temperaturas positivas</string>
