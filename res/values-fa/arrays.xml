@@ -30,19 +30,19 @@
         <item>نیمه ابری</item>
         <item>تمام ابری</item>
         <item>مه آلود</item>
-        <item>رگبار سنگین</item>
+        <item>احتمال رگبار</item>
         <item>بارش متوالی</item>
         <item>رگبار خفیف</item>
         <item>رعد و برق</item>
         <item>دوش باران</item>
-        <item>باران سنگین</item>
-        <item>باران نیمه سنگین</item>
+        <item>احتمال باران</item>
+        <item>باران نیمه محتمل</item>
         <item>باران سبک</item>
         <item>مخلوط برف و باران</item>
         <item>کولاک</item>
         <item>برف</item>
-        <item>برف سنگین</item>
-        <item>برف نیمه سنگین</item>
+        <item>احتمال برف</item>
+        <item>برف نیمه محتمل</item>
         <item>برف سبک</item>
         <item>طوفان شن قوی</item>
         <item>طوفان شن</item>
@@ -52,17 +52,17 @@
         <item>گرد و خاک</item>
         <item>مه</item>
         <item>باران منجمد</item>
-        <item>فاقد هواشناسی</item>
+        <item>فاقد اطلاعات هواشناسی</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>N</item>
-        <item>NE</item>
-        <item>E</item>
-        <item>SE</item>
-        <item>S</item>
-        <item>SW</item>
-        <item>W</item>
-        <item>NW</item>
+        <item>شمالی</item>
+        <item>شمال شرقی</item>
+        <item>شرقی</item>
+        <item>جنوب شرقی</item>
+        <item>جنوبی</item>
+        <item>جنوب غربی</item>
+        <item>غربی</item>
+        <item>شمال غربی</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
         <item>آیکون آب و هوا</item>
@@ -94,7 +94,7 @@
     </string-array>
     <string-array name="pressure_level_entries">
         <item>سطح دریا</item>
-        <item>سطح محل سکونت</item>
+        <item>ارتفاع محل سکونت</item>
         <item>سنسور فشار تلفن</item>
     </string-array>
     <string-array name="aqi_title_prefix">
