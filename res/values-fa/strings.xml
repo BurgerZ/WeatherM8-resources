@@ -100,25 +100,25 @@
     <string name="settings_weather_details_summary">انتخاب جزئیات آب و هوا برای مشاهده در صفحه نمایش اصلی</string>
     <string name="settings_category_units">واحد</string>
     <string name="settings_pressure_unit">فشار</string>
-    <string name="settings_pressure_unit_atm">اتمسفر</string>
-    <string name="settings_pressure_unit_hpa">هکتو پاسکال</string>
-    <string name="settings_pressure_unit_mb">میلی بار</string>
-    <string name="settings_pressure_unit_mm">میلی متر جیوه</string>
-    <string name="settings_pressure_unit_in">اینچ جیوه</string>
+    <string name="settings_pressure_unit_atm">atm</string>
+    <string name="settings_pressure_unit_hpa">hPa</string>
+    <string name="settings_pressure_unit_mb">mb</string>
+    <string name="settings_pressure_unit_mm">mmHg</string>
+    <string name="settings_pressure_unit_in">inHg</string>
     <string name="settings_wind_unit">سرعت باد</string>
-    <string name="settings_wind_unit_bft">بی اف تی</string>
-    <string name="settings_wind_unit_kmh">کیلومتر بر ساعت</string>
-    <string name="settings_wind_unit_knot">گره</string>
-    <string name="settings_wind_unit_ms">متر بر ثانیه</string>
-    <string name="settings_wind_unit_mph">مایل بر ساعت</string>
+    <string name="settings_wind_unit_bft">bft</string>
+    <string name="settings_wind_unit_kmh">Km/h</string>
+    <string name="settings_wind_unit_knot">knot</string>
+    <string name="settings_wind_unit_ms">m/s</string>
+    <string name="settings_wind_unit_mph">mph</string>
     <string name="settings_temp_unit">دما</string>
     <string name="settings_precipitation_unit">بارش</string>
-    <string name="settings_precipitation_unit_mm">میلی متر</string>
-    <string name="settings_precipitation_unit_in">اینچ</string>
+    <string name="settings_precipitation_unit_mm">mm</string>
+    <string name="settings_precipitation_unit_in">inches</string>
     <string name="settings_visibility_unit">دید</string>
-    <string name="settings_visibility_unit_kilometers">کیلومتر</string>
-    <string name="settings_visibility_unit_meters">متر</string>
-    <string name="settings_visibility_unit_miles">مایل</string>
+    <string name="settings_visibility_unit_kilometers">km</string>
+    <string name="settings_visibility_unit_meters">m</string>
+    <string name="settings_visibility_unit_miles">miles</string>
 
     <string name="settings_realtime_feelslike_as_main_title">احساس واقعی به جای دمای اصلی</string>
     <string name="settings_realtime_feelslike_as_main_summary">نمایش دمای احساس واقعی به جای دمای اصلی</string>
@@ -222,18 +222,18 @@
     <string name="weather_details_elevation_title">ارتفاع</string>
 
     <string name="weather_details_wind_connect">%1$s %2$s</string>
-    <string name="weather_details_pressure">%1$s هکتو پاسکال</string>
-    <string name="weather_details_pressure_atm">%1$s اتمسفر</string>
-    <string name="weather_details_pressure_mb">%1$s میلی بار</string>
-    <string name="weather_details_pressure_mm">%1$s میلی متر جیوه</string>
-    <string name="weather_details_pressure_in">%1$s اینچ</string>
+    <string name="weather_details_pressure">%1$s hpa</string>
+    <string name="weather_details_pressure_atm">%1$s atm</string>
+    <string name="weather_details_pressure_mb">%1$s mb</string>
+    <string name="weather_details_pressure_mm">%1$s mmHg</string>
+    <string name="weather_details_pressure_in">%1$s inHg</string>
     <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_visibility">%1$s کیلومتر</string>
-    <string name="weather_details_visibility_meters">%1$s متر</string>
-    <string name="weather_details_visibility_miles">%1$s مایل</string>
+    <string name="weather_details_visibility">%1$s km</string>
+    <string name="weather_details_visibility_meters">%1$s m</string>
+    <string name="weather_details_visibility_miles">%1$s miles</string>
 
-    <string name="weather_details_precipitation_amount_mm">%1$s میلی متر</string>
-    <string name="weather_details_precipitation_amount_in">%1$s اینچ</string>
+    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
+    <string name="weather_details_precipitation_amount_in">%1$s in</string>
 
     <string name="weather_details_update_date_string">زمان مشاهده: %s</string>
 
@@ -275,11 +275,11 @@
     <string name="daily_forcast_whirl_wind">گردباد</string>
     <string name="delete">حذف</string>
 
-    <string name="wind_unit">%1$s کیلومتر بر ساعت</string>
-    <string name="wind_unit_bft">%1$s بی اف تی</string>
-    <string name="wind_unit_knot">%1$s گره</string>
-    <string name="wind_unit_ms">%1$s متر بر ثانیه</string>
-    <string name="wind_unit_mph">%1$s مایل بر ساعت</string>
+    <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_bft">%1$s bft</string>
+    <string name="wind_unit_knot">%1$s knot</string>
+    <string name="wind_unit_ms">%1$s m/s</string>
+    <string name="wind_unit_mph">%1$s mph</string>
 
     <string name="hourly_forecast_title">پیش بینی ساعتی</string>
 
@@ -398,7 +398,7 @@
     <string name="aqi_detail_5_days">پیش بینی روزانه</string>
     <string name="aqi_detail_24_hours">پیش بینی ساعتی</string>
 
-    <string name="aqi_detail_unit">واحد: میکرو گرم بر متر مکعب (CO: میلی گرم بر متر مکعب)</string>
+    <string name="aqi_detail_unit">Unit: µg/m³ (CO: mg/m³)</string>
     <string name="aqi_data_source">%s</string>
 
     <!-- Radar -->
