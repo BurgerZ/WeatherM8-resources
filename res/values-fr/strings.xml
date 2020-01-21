@@ -32,7 +32,7 @@
     <string name="daily_forcast_weather_transfer">%1$s. %2$s plus tard.</string>
     <string name="daily_forcast_whirl_wind">Vent tourbillonneux</string>
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Supprimer</string>
     <string name="dialog_color_picker">Palette</string>
     <string name="first_start_network_msg">"Cette application utilise un accès internet pour accèder aux données météo.
         L'application utilise les permissions:
@@ -76,7 +76,7 @@ appuyer sur le bouton ci-dessous pour ajouter une ville manuellement ou tentez d
     <string name="settings_city_base">Base de donnée des villes</string>
     <string name="settings_icons_title">Icônes météo</string>
     <string name="settings_menu_title">Paramètres</string>
-    <string name="settings_notification_priority_summary">Minimum-priority notifications appears only in notification shade</string>
+    <string name="settings_notification_priority_summary">"Les notifications de priorité minimale apparaissent uniquement dans la barre notifications"</string>
     <string name="settings_notification_priority_title">Priorité minimum</string>
     <string name="settings_notification_summary">Afficher la météo actuelle dans la zone de notifications</string>
     <string name="settings_notification_title">Afficher les notification</string>
@@ -95,11 +95,11 @@ appuyer sur le bouton ci-dessous pour ajouter une ville manuellement ou tentez d
     <string name="settings_visibility_unit_kilometers">km</string>
     <string name="settings_visibility_unit_meters">m</string>
     <string name="settings_visibility_unit_miles">miles</string>
-    <string name="settings_weather_details_summary">Select weather details to show on the main screen</string>
-    <string name="settings_weather_details_title">Weather details</string>
+    <string name="settings_weather_details_summary">"Sélectionnez les détails météo à afficher sur l'écran principal"</string>
+    <string name="settings_weather_details_title">Détails météo</string>
     <string name="settings_weather_spider_title">Changer la source</string>
-    <string name="settings_weather_transfer_summary">Show weather description day to night transfer</string>
-    <string name="settings_weather_transfer_title">Weather description transfer</string>
+    <string name="settings_weather_transfer_summary">Afficher la description météo du transfert de jour en nuit</string>
+    <string name="settings_weather_transfer_title">Transfert de description météo</string>
     <string name="settings_wind_unit">Vitesse du vent</string>
     <string name="settings_wind_unit_kmh">km/h</string>
     <string name="settings_wind_unit_mph">mph</string>
@@ -144,9 +144,9 @@ appuyer sur le bouton ci-dessous pour ajouter une ville manuellement ou tentez d
     <string name="widget_config_title">Configuration du widget</string>
     <string name="widget_update_date_string">Mis à jour %s</string>
     <string name="widget_update_updating_string">Mise à jour…</string>
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_mph">%1$smph</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
+    <string name="wind_unit">%1$s km/h</string>
+    <string name="wind_unit_mph">%1$s mph</string>
+    <string name="wind_unit_ms">%1$s m/s</string>
     <string name="zodiac_aquarius">Verseau</string>
     <string name="zodiac_aries">Bélier</string>
     <string name="zodiac_cancer">Cancer</string>
