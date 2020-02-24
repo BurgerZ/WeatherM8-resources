@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
- <resources>
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
     <string-array name="hot_city">
         <item>Peking</item>
-        <item>Shanghai</item>
-        <item>Hong Kong</item>
-        <item>Taipei City</item>
-        <item>Jakarta</item>
-        <item>Delhi</item>
-        <item>Mumbai</item>
-        <item>Moskau</item>
-        <item>Hyderabad</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapur</item>
-        <item>Berlin</item>
+        <item>Amsterdam</item>
+        <item>Warschau</item>
+        <item>Vilnius</item>
+        <item>Riga</item>
+        <item>Madrid</item>
+        <item>Perm</item>
         <item>Rom</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
+        <item>Dubai</item>
+        <item>Minsk</item>
+        <item>Blagodarnyy</item>
+        <item>Karaganda</item>
+        <item>Orel</item>
+        <item>Berlin</item>
+        <item>Prag</item>
+        <item>Moskau</item>
+        <item>St. Petersburg</item>
         <item>Chicago</item>
-        <item>Tokyo</item>
+        <item>New York</item>
         <item>Paris</item>
-        <item>Bangkok</item>
-        <item>Seoul</item>
-        <item>Kuala Lumpur</item>
+        <item>London</item>
+        <item>Los Angeles</item>
+        <item>Kaliningrad</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sonnig (Klar)</item>
+        <item>Sonnig</item>
         <item>Bewölkt</item>
         <item>Bedeckt</item>
         <item>Neblig</item>
-        <item>Starker Regenschauer</item>
-        <item>Regenguss</item>
+        <item>Schwere Regenfälle</item>
+        <item>Platzregen </item>
         <item>Regensturm</item>
         <item>Gewitter</item>
         <item>Schauer</item>
@@ -40,7 +41,7 @@
         <item>Leichter Regen</item>
         <item>Schneeregen</item>
         <item>Schneesturm</item>
-        <item>Schneefall</item>
+        <item>Schnee</item>
         <item>Starker Schneefall</item>
         <item>Mäßiger Schneefall</item>
         <item>Leichter Schneefall</item>
@@ -65,20 +66,20 @@
         <item>NW</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
-        <item>Wetter Symbol</item>
+        <item>Wettersymbol</item>
         <item>Temperatur</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Niedrig | 0-2.9</item> <!-- 0-2.9 -->
-        <item>Mäßig | 3-5.9</item> <!-- 3-5.9 -->
-        <item>Hoch | 6-7.9</item> <!-- 6-7.9 -->
-        <item>Sehr hoch | 8-10.9</item> <!-- 8-10.9 -->
-        <item>Extrem | 11+</item> <!-- 11+ -->
+        <item>Niedrig</item> <!-- 0-2.9 -->
+        <item>Mäßig</item> <!-- 3-5.9 -->
+        <item>Hoch</item> <!-- 6-7.9 -->
+        <item>Sehr hoch</item> <!-- 8-10.9 -->
+        <item>Extrem</item> <!-- 11+ -->
     </string-array>
     <string-array name="update_check_interval_entries">
         <item>15 Minuten</item>
         <item>30 Minuten</item>
-        <item>1 Stunden</item>
+        <item>1 Stunde</item>
         <item>2 Stunden</item>
         <item>3 Stunden</item>
         <item>4 Stunden</item>
@@ -93,10 +94,22 @@
         <item>Einfach</item>
     </string-array>
     <string-array name="widget_dateformat_values">
+        <item>d. MMM.</item>
+        <item>MMM. d.</item>
+        <item>d. MMMM</item>
+        <item>MMMM d.</item>
+        <item>EEEE, d. MMM.</item>
+        <item>EEEE, MMM. d.</item>
+        <item>EEEE, d. MMMM</item>
+        <item>EEEE, MMMM d.</item>
+        <item>E, d. MMM.</item>
+        <item>E, MMM. d.</item>
+        <item>E, d. MMMM</item>
+        <item>E, MMMM d.</item>
         <item>d. MMMM yyyy</item>
-        <item>d. MMM yyyy</item>
-        <item>MMMM d, yyyy</item>
-        <item>MMM d, yyyy</item>
+        <item>d. MMM. yyyy</item>
+        <item>MMMM d., yyyy</item>
+        <item>MMM. d., yyyy</item>
         <item>dd/MM/yy</item>
         <item>dd.MM.yy</item>
         <item>dd/MM/yyyy</item>
@@ -104,9 +117,9 @@
         <item>MM/dd/yyyy</item>
         <item>yyyy/MM/dd</item>
         <item>E, d. MMMM yyyy</item>
-        <item>E, d. MMM yyyy</item>
-        <item>E, MMMM d, yyyy</item>
-        <item>E, MMM d, yyyy</item>
+        <item>E, d. MMM. yyyy</item>
+        <item>E, MMMM d., yyyy</item>
+        <item>E, MMM. d., yyyy</item>
         <item>E, dd/MM/yy</item>
         <item>E, dd.MM.yy</item>
         <item>E, dd/MM/yyyy</item>
@@ -130,7 +143,7 @@
     <string-array name="aqi_value">
         <item>Gut</item>
         <item>Mäßig</item>
-        <item>Ungesund für empfindliche Gruppen</item>
+        <item>Ungesund für empfindliche Personen</item>
         <item>Ungesund</item>
         <item>Sehr ungesund</item>
         <item>Gefährlich</item>
