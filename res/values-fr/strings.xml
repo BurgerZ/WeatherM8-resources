@@ -160,8 +160,6 @@ appuyer sur le bouton ci-dessous pour ajouter une ville manuellement ou tentez d
     <string name="widget_config_forecast_icon_size_title">Prévision de la taille des icônes météo</string>
     <string name="widget_config_font_title">Police de texte</string>
     <string name="widget_config_font_size_title">Taille du texte</string>
-    <string name="widget_config_text_color_title">Couleur du texte</string>
-    <string name="widget_config_show_alarm_title">"Afficher l'alarme suivante"</string>
     <string name="widget_config_show_date_title">Afficher la date</string>
     <string name="widget_config_show_update_date_title">Afficher la date de mise à jour des prévisions</string>
     <string name="widget_config_use_background_title">"Afficher l'arrière-plan du widget"</string>
