@@ -175,7 +175,7 @@ Apps für Android erstellen ist für mich ein Hobby, das ich in meiner Freizeit 
     <string name="sunrise">Sonnenaufgang</string>
     <string name="sunset">Sonnenuntergang</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s später.</string>
-    <string name="daily_forcast_drawer_on_top">Tägl. Vorhersage</string>
+    <string name="daily_forcast_drawer_on_top">Tagesvorhersage</string>
 
     <!-- Weather details -->
     <string name="more_details">Mehr Details</string>
@@ -224,7 +224,7 @@ Apps für Android erstellen ist für mich ein Hobby, das ich in meiner Freizeit 
 
     <string name="wind_unit_knot">%1$s Knoten</string>
 
-    <string name="hourly_forecast_title">Stündl. Vorhersage</string>
+    <string name="hourly_forecast_title">Stündliche Vorhersage</string>
 
     <!-- Widgets -->
     <string name="widget_update_date_string">Aktualisiert %s</string>
@@ -247,7 +247,7 @@ Apps für Android erstellen ist für mich ein Hobby, das ich in meiner Freizeit 
     <string name="widget_config_text_color_title">Textfarbe</string>
     <string name="widget_config_show_alarm_title">Nächsten Alarm anzeigen</string>
     <string name="widget_config_show_date_title">Datum anzeigen</string>
-    <string name="widget_config_show_update_date_title">Aktualisierungsdatum der Vorhersage anzeigen</string>
+    <string name="widget_config_show_update_date_title">Aktualisierungsdatum Vorhersage anzeigen</string>
     <string name="widget_config_use_background_title">Widget-Hintergrund anzeigen</string>
     <string name="widget_config_background_color_title">Hintergrundfarbe</string>
     <string name="widget_config_background_type_title">Hintergrundtyp</string>
@@ -318,8 +318,8 @@ Apps für Android erstellen ist für mich ein Hobby, das ich in meiner Freizeit 
     <string name="aqi_ring_top_pollution">Wichtigste Schadstoffe</string>
     <string name="aqi_ring_desc">Luftqualitätsindex</string>
 
-    <string name="aqi_detail_5_days">Tägl. Vorhersage</string>
-    <string name="aqi_detail_24_hours">Stündl. Vorhersage</string>
+    <string name="aqi_detail_5_days">Tagesvorhersage</string>
+    <string name="aqi_detail_24_hours">Stündliche Vorhersage</string>
 
     <string name="aqi_detail_unit">Einheit: µg/m³ (CO: mg/m³)</string>
 
