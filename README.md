@@ -35,7 +35,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-pt-PT|Portuguese (Portugal)|**Lippe35**|
 |values-sk|Slovak|**Luboš Belobruch**, **Ivan Urda**, **ingbrzy**|
 |values-sl|Slovenian|**Boštjan Rebolj**|
-|values-sr|Serbian|**Milan Andrejić**|
+|values-sr|Serbian|**Milan Andrejić**, **Darko Perić**|
 |values-tr|Turkish|**Murat Turan**|
 |values-uk|Ukrainian|**Євген Гіль**|
 |values-vi|Vietnamese|**Nguyễn Minh Chất**|
