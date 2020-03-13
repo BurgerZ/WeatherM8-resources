@@ -1,95 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="hot_city">
-        <item>Peking</item>
-        <item>Amsterdam</item>
-        <item>Varšava</item>
-        <item>Vilna</item>
-        <item>Riga</item>
-        <item>Madrid</item>
-        <item>Perm</item>
-        <item>Rim</item>
-        <item>Dubai</item>
-        <item>Minsk</item>
-        <item>Blagodarnyy</item>
-        <item>Karaganda</item>
-        <item>Orel</item>
-        <item>Berlin</item>
-        <item>Prag</item>
-        <item>Moskva</item>
-        <item>St. Peterburg</item>
-        <item>Čikago</item>
-        <item>New York</item>
-        <item>Pariz</item>
-        <item>London</item>
-        <item>Los Anđeles</item>
-        <item>Kaliningrad</item>
+        <item>Пекинг</item>
+        <item>Амстердам</item>
+        <item>Варшава</item>
+        <item>Вилњус</item>
+        <item>Рига</item>
+        <item>Мадрид</item>
+        <item>Перм</item>
+        <item>Рим</item>
+        <item>Дубаи</item>
+        <item>Минск</item>
+        <item>Благодарни</item>
+        <item>Караганда</item>
+        <item>Орел</item>
+        <item>Берлин</item>
+        <item>Праг</item>
+        <item>Москва</item>
+        <item>Санкт Петерсбург</item>
+        <item>Чикаго</item>
+        <item>Њујорк</item>
+        <item>Париз</item>
+        <item>Лондон</item>
+        <item>Лос Анђелес</item>
+        <item>Калињинград</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sunčano</item>
-        <item>Oblačno</item>
-        <item>Tmurno</item>
-        <item>Maglovito</item>
-        <item>Jak pljusak</item>
-        <item>Provala oblaka</item>
-        <item>Pljusak</item>
-        <item>Oluja</item>
-        <item>Kratak pljusak</item>
-        <item>Jaka kiša</item>
-        <item>Srednja kiša</item>
-        <item>Slaba kiša</item>
-        <item>Susnežica</item>
-        <item>Vejavica</item>
-        <item>Sneg</item>
-        <item>Mećava</item>
-        <item>Srednji sneg</item>
-        <item>Slabi sneg</item>
-        <item>Jaka peščana oluja</item>
-        <item>Peščana oluja</item>
-        <item>Peščan</item>
-        <item>Vetrovito</item>
-        <item>Grad</item>
-        <item>Prašina</item>
-        <item>Izmaglica</item>
-        <item>Ledena kiša</item>
-        <item>Nema prognoze</item>
+        <item>Ведро</item>
+        <item>Облачно</item>
+        <item>Тмурно</item>
+        <item>Магловито</item>
+        <item>Јак пљусак</item>
+        <item>Провала облака</item>
+        <item>Пљусак</item>
+        <item>Олуја</item>
+        <item>Кратак пљусак</item>
+        <item>Јака киша</item>
+        <item>Умерена киша</item>
+        <item>Слаба киша</item>
+        <item>Суснежица</item>
+        <item>Вејавица</item>
+        <item>Снег</item>
+        <item>Густ снег</item>
+        <item>Умерен снег</item>
+        <item>Слаб снег</item>
+        <item>Јака пешчана олуја</item>
+        <item>Пешчана олуја</item>
+        <item>Слаба пешчана олуја</item>
+        <item>Ветровито</item>
+        <item>Град</item>
+        <item>Прашина</item>
+        <item>Измаглица</item>
+        <item>Ледена киша</item>
+        <item>Нема прогнозе</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Severni</item>
-        <item>Severoistočni</item>
-        <item>Istočni</item>
-        <item>Jugoistočni</item>
-        <item>Jug</item>
-        <item>Jugozapadni</item>
-        <item>Zapadni</item>
-        <item>Severozapadni</item>
+        <item>С</item>
+        <item>СИ</item>
+        <item>И</item>
+        <item>ЈИ</item>
+        <item>Ј</item>
+        <item>ЈЗ</item>
+        <item>З</item>
+        <item>СЗ</item>
     </string-array>
     <string-array name="weather_notif_type_entries">
-        <item>Vreme Ikona</item>
-        <item>Temperatura</item>
+        <item>Иконица времена</item>
+        <item>Температура</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Najslabije</item>
-        <item>Slabo</item>
-        <item>Srednji-opseg</item>
-        <item>Jak</item>
-        <item>Najjači</item>
+        <item>Најслабији</item>
+        <item>Слаб</item>
+        <item>Средњи</item>
+        <item>Јак</item>
+        <item>Најјачи</item>
     </string-array>
     <string-array name="update_check_interval_entries">
-        <item>15 minuta</item>
-        <item>30 minuta</item>
-        <item>1 sat</item>
-        <item>2 sata</item>
-        <item>3 sata</item>
-        <item>4 sata</item>
-        <item>5 sati</item>
-        <item>6 sati</item>
-        <item>12 sati</item>
-        <item>24 sati</item>
+        <item>15 минута</item>
+        <item>30 минута</item>
+        <item>1 сат</item>
+        <item>2 сата</item>
+        <item>3 сата</item>
+        <item>4 сата</item>
+        <item>5 сати</item>
+        <item>6 сати</item>
+        <item>12 сати</item>
+        <item>24 сата</item>
     </string-array>
     <string-array name="weather_icons_entries">
         <item>MIUI 8</item>
         <item>YunOS</item>
-        <item>Jednostavan</item>
+        <item>Simple</item>
+    </string-array>
+    <string-array name="widget_dateformat_values">
+        <item>d MMM</item>
+        <item>MMM d</item>
+        <item>d MMMM</item>
+        <item>MMMM d</item>
+        <item>EEEE, d MMM</item>
+        <item>EEEE, MMM d</item>
+        <item>EEEE, d MMMM</item>
+        <item>EEEE, MMMM d</item>
+        <item>E, d MMM</item>
+        <item>E, MMM d</item>
+        <item>E, d MMMM</item>
+        <item>E, MMMM d</item>
+        <item>d MMMM yyyy</item>
+        <item>d MMM yyyy</item>
+        <item>MMMM d, yyyy</item>
+        <item>MMM d, yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>dd.MM.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd.MM.yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>yyyy/MM/dd</item>
+        <item>E, d MMMM yyyy</item>
+        <item>E, d MMM yyyy</item>
+        <item>E, MMMM d, yyyy</item>
+        <item>E, MMM d, yyyy</item>
+        <item>E, dd/MM/yy</item>
+        <item>E, dd.MM.yy</item>
+        <item>E, dd/MM/yyyy</item>
+        <item>E, dd.MM.yyyy</item>
+        <item>E, MM/dd/yyyy</item>
+        <item>E, yyyy/MM/dd</item>
+    </string-array>
+    <string-array name="pressure_level_entries">
+        <item>Ниво мора</item>
+        <item>Ниво локације</item>
+        <item>Сензор притиска телефона</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Добар</item>
+        <item>Умерен</item>
+        <item>Нездрав за осетљиве групе</item>
+        <item>Нездрав</item>
+        <item>Јако нездрав</item>
+        <item>Опасан</item>
     </string-array>
 </resources>

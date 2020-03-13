@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">%d minuta</item>
-        <item quantity="one">%d minut</item>
-    </plurals>
     <plurals name="activity_main_update_time_in_one_day">
-        <item quantity="other">%d sata</item>
-        <item quantity="one">%d sat vremena</item>
+        <item quantity="other">пре %d сати</item>
+        <item quantity="one">пре %d сат</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">пре %d минута</item>
+        <item quantity="one">пре %d минут</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
-        <item quantity="other">%d dana</item>
-        <item quantity="one">%d day ago</item>
+        <item quantity="other">пре %d дана</item>
+        <item quantity="one">пре %d дан</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Vedro</item>
-        <item quantity="one">Sunčano</item>
+        <item quantity="other">Ведро</item>
+        <item quantity="one">Ведро</item>
     </plurals>
 </resources>
