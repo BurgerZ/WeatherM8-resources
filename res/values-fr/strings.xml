@@ -200,7 +200,7 @@ appuyer sur le bouton ci-dessous pour ajouter une ville manuellement ou tentez d
     <string name="settings_show_plus_sign_temp_summary">Afficher le signe "+" pour les températures positives</string>
     <string name="settings_pressure_level_title">Afficher la pression pour</string>
     <string name="settings_ads_donations_title">Achetez-moi un café</string>
-    <string name="settings_ads_explanation">"Pourquoi voyez-vous une publicité?
+    <string name="settings_ads_explanation">"Pourquoi voyez-vous une publicité ?
 L'écriture d'applications pour Android est un passe-temps pour moi, ce que je fais pendant mon temps libre personnel. Veuillez donc traiter avec compréhension l'apparition d'un certain nombre de bannières. L'affichage d'annonces dans l'application stimule le développement ultérieur."</string>
     <string name="settings_ads_menu_hide_title">Masquer cet élément de menu</string>
     <string name="settings_ads_remove_title">Supprimer les annonces</string>
