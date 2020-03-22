@@ -72,6 +72,7 @@
     <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Обновлять только по Wi-Fi</string>
     <string name="settings_update_interval_title">Интервал обновления</string>
+    <string name="settings_update_interval_hint">* Использование значений  меньше 1 часа может работать некорректно</string>
     <string name="settings_update_quiet_hours_end_time_title">Конец</string>
     <string name="settings_update_quiet_hours_start_time_title">Начало</string>
     <string name="settings_update_quiet_hours_title">Тихие часы</string>
