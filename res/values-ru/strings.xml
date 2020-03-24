@@ -273,6 +273,7 @@
     <string name="widget_update_updating_string">Обновление…</string>
     <!-- Widget config -->
     <string name="widget_config_title">Настройки виджета</string>
+    <string name="widget_config_font_hint">* Для использования собственных шрифтов, скопируйте их в папку /sdcard/Downloads</string>
     <string name="widget_config_custom_clock_font_onoff_title">Поменять шрифт часов</string>
     <string name="widget_config_custom_clock_font_onoff_summary">Выключите данный пункт, если часы не будут обновляться</string>
     <string name="widget_config_clock_font_title">Шрифт часов</string>

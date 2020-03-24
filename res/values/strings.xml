@@ -289,6 +289,7 @@ Writing applications for Android is a hobby for me, which I do in my personal fr
     <string name="widget_update_updating_string">Updating…</string>
     <!-- Widget config -->
     <string name="widget_config_title">Widget config</string>
+    <string name="widget_config_font_hint">* To use your own fonts, place them to the /sdcard/Downloads directory</string>
     <string name="widget_config_custom_clock_font_onoff_title">Custom clock font</string>
     <string name="widget_config_custom_clock_font_onoff_summary">Turn it off if widget clock is not updating</string>
     <string name="widget_config_clock_font_title">Clock font</string>
