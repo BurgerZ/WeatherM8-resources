@@ -75,7 +75,7 @@ Premeu el botó de sota per afegir manualment una ciutat o proveu a localitzar-l
     <string name="settings_update_wifi_only_summary">Actualitza la previsió meteorològica només amb Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Actualitza només amb Wi-Fi</string>
     <string name="settings_update_interval_title">"Interval d'actualització"</string>
-	<string name="settings_update_interval_hint">"* L'ús de valors inferiors a 1 hora pot no funcionar correctament"</string>
+	<string name="settings_update_interval_hint">"* L'ús de valors inferiors a 1 hora poden no funcionar correctament"</string>
     <string name="settings_update_quiet_hours_end_time_title">Fi</string>
     <string name="settings_update_quiet_hours_start_time_title">Inici</string>
     <string name="settings_update_quiet_hours_title">Període sense notificacions</string>
