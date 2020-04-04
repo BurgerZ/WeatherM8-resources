@@ -75,6 +75,7 @@ Premeu el botó de sota per afegir manualment una ciutat o proveu a localitzar-l
     <string name="settings_update_wifi_only_summary">Actualitza la previsió meteorològica només amb Wi-Fi</string>
     <string name="settings_update_wifi_only_title">Actualitza només amb Wi-Fi</string>
     <string name="settings_update_interval_title">"Interval d'actualització"</string>
+	<string name="settings_update_interval_hint">"* L'ús de valors inferiors a 1 hora poden no funcionar correctament"</string>
     <string name="settings_update_quiet_hours_end_time_title">Fi</string>
     <string name="settings_update_quiet_hours_start_time_title">Inici</string>
     <string name="settings_update_quiet_hours_title">Període sense notificacions</string>
@@ -288,6 +289,7 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
     <string name="widget_update_updating_string">"S'està actualitzant&#8230;"</string>
     <!-- Widget config -->
     <string name="widget_config_title">Configuració del giny</string>
+	<string name="widget_config_font_hint">* Per utilitzar les vostres fonts, ubiqueu-les al directori /sdcard/Downloads</string>
     <string name="widget_config_custom_clock_font_onoff_title">Font del rellotge personalitzada</string>
     <string name="widget_config_custom_clock_font_onoff_summary">"Desactiva-ho si el giny del rellotge no s'actualitza"</string>
     <string name="widget_config_clock_font_title">Font del rellotge</string>
@@ -409,3 +411,4 @@ Desenvolupar aplicacions per a Android és una afició per mi i ho faig en el me
 
     <string name="loading_data">"S'estan carregant les dades…"</string>
 </resources>
+
