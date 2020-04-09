@@ -179,6 +179,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="settings_translations">Traduções</string>
     <string name="settings_translations_summary">Créditos aos tradutores do aplicativo</string>
     <string name="settings_update_interval_title">Intervalo de atualização</string>
+    <string name="settings_update_interval_hint">* Usar valores inferiores a 1 hora pode não funcionar corretamente</string>
     <string name="settings_update_on_app_start_summary">Atualizar a informação do tempo ao entrar no aplicativo</string>
     <string name="settings_update_on_app_start_title">Atualizar ao entrar no aplicativo</string>
     <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
@@ -270,6 +271,7 @@ Programar aplicativos Android é um passatempo que faço apenas nos meus tempos 
     <string name="widget_config_show_update_date_title">Mostrar última atualização</string>
     <string name="widget_config_text_color_title">Cor do texto</string>
     <string name="widget_config_title">Configurações do widget</string>
+    <string name="widget_config_font_hint">* Para usar suas fontes, coloque-as no /sdcard/Downloads</string>
     <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
     <string name="widget_update_date_string">Atualizado %s</string>
     <string name="widget_update_updating_string">Atualizando…</string>

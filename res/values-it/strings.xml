@@ -179,6 +179,7 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="settings_translations">"Traduzioni dell'app"</string>
     <string name="settings_translations_summary">"Crediti ai traduttori dell'applicazione, traduci l'app nella tua lingua"</string>
     <string name="settings_update_interval_title">Intervallo aggiornamento</string>
+    <string name="settings_update_interval_hint">* L'uso di valori inferiori a 1 ora potrebbe non funzionare correttamente</string>
     <string name="settings_update_on_app_start_summary">Aggiornare le informazioni meteorologiche ogni qualvolta inizia app</string>
     <string name="settings_update_on_app_start_title">Aggiornare al iniziare</string>
     <string name="settings_update_quiet_hours_end_time_title">Fine</string>
@@ -270,6 +271,7 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="widget_config_show_update_date_title">"Mostra l'ultimo aggiornamento"</string>
     <string name="widget_config_text_color_title">Colore testo</string>
     <string name="widget_config_title">Configurazione Widget</string>
+    <string name="widget_config_font_hint">* Per usare i tuoi caratteri, posizionali su /sdcard/Downloads</string>
     <string name="widget_config_use_background_title">Mostra lo sfondo del widget</string>
     <string name="widget_update_date_string">Aggiornato il %s</string>
     <string name="widget_update_updating_string">Sto aggiornando…</string>
