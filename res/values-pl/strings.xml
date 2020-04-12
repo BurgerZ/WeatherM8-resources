@@ -203,6 +203,7 @@
   <string name="settings_thirdparty">Obce biblioteki i zasoby</string>
   <string name="settings_translations">Tłumaczenia</string>
   <string name="settings_translations_summary">Podziękowania dla tłumaczy aplikacji</string>
+  <string name="settings_update_interval_hint">* Korzystanie z wartości mniejszych niż 1 godzina może nie działać prawidłowo</string>
   <string name="settings_update_interval_title">Aktualizacja co</string>
   <string name="settings_update_on_app_start_summary">Zaktualizuj prognozę pogody po uruchomieniu aplikacji</string>
   <string name="settings_update_on_app_start_title">Zaktualizuj przy starcie aplikacji</string>
@@ -301,10 +302,11 @@
   <string name="widget_config_clock_color_title">Kolor zegara</string>
   <string name="widget_config_clock_font_size_title">Rozmiar czcionki zegara</string>
   <string name="widget_config_clock_font_title">Czcionka zegara</string>
-  <string name="widget_config_custom_clock_font_onoff_summary">Wyłącz jeśli zegar widżetu nie aktualizuje się</string>
+  <string name="widget_config_custom_clock_font_onoff_summary">Wyłącz, jeśli zegar widżetu nie aktualizuje się</string>
   <string name="widget_config_custom_clock_font_onoff_title">Niestandardowa czcionka zegara</string>
   <string name="widget_config_date_font_size_title">Rozmiar czcionki daty</string>
   <string name="widget_config_dateformat_title">Format daty</string>
+  <string name="widget_config_font_hint">* Aby użyć swoich własnych czcionek, umieść je w katalogu /sdcard/Downloads</string>
   <string name="widget_config_font_size_title">Rozmiar czcionki tekstu</string>
   <string name="widget_config_font_title">Czcionka tekstu</string>
   <string name="widget_config_forecast_icon_size_title">Wielkość ikony prognozowanej pogody</string>
