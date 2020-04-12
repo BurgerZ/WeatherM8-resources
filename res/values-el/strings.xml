@@ -300,7 +300,8 @@
     <string name="widget_config_restore_done">Επαναφορά ρυθμίσεων Widget απο αντίγραφο</string>
     <string name="widget_config_no_backups_found">Δεν βρέθηκε αντίγραφο ρυθμίσεων Widget</string>																				
     <string name="widgets_notification_info">Ενημέρωση widgets…</string>
-    
+    <string name="widget_config_font_hint">* Για να χρήση δικών σας γραμματοσειρών, τοποθετήστε τις στον κατάλογο /sdcard/Download</string>
+
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Φάσεις Σελήνης</string>
     <string name="moon_age">Χρόνος: %1$s ημέρες %2$s ώρες %3$s λεπτά</string>
