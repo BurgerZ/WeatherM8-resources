@@ -179,7 +179,7 @@ Programmare le applicazioni Android è un passatempo che faccio solo nel mio tem
     <string name="settings_translations">"Traduzioni dell'app"</string>
     <string name="settings_translations_summary">"Crediti ai traduttori dell'applicazione, traduci l'app nella tua lingua"</string>
     <string name="settings_update_interval_title">Intervallo aggiornamento</string>
-    <string name="settings_update_interval_hint">* L'uso di valori inferiori a 1 ora potrebbe non funzionare correttamente</string>
+    <string name="settings_update_interval_hint">* L'uso di un intervallo di aggiornamento inferiore a 1 ora potrebbe non funzionare correttamente</string>
     <string name="settings_update_on_app_start_summary">Aggiornare le informazioni meteorologiche ogni qualvolta inizia app</string>
     <string name="settings_update_on_app_start_title">Aggiornare al iniziare</string>
     <string name="settings_update_quiet_hours_end_time_title">Fine</string>

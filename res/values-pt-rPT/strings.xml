@@ -179,7 +179,7 @@ Programar aplicações Android é um passatempo que faço apenas nos meus tempos
     <string name="settings_translations">Traduções</string>
     <string name="settings_translations_summary">Créditos aos tradutores da aplicação</string>
     <string name="settings_update_interval_title">Intervalo de atualização</string>
-    <string name="settings_update_interval_hint">* Utilizar valores inferiores a 1 hora pode não funcionar corretamente</string>
+    <string name="settings_update_interval_hint">* Utilizar intervalo de actualização inferior a 1 hora pode não funcionar correctamente</string>
     <string name="settings_update_on_app_start_summary">Atualizar a informação do tempo ao entrar na aplicação</string>
     <string name="settings_update_on_app_start_title">Atualizar ao entrar na aplicação</string>
     <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
