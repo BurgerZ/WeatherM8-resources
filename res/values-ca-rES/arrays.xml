@@ -140,11 +140,11 @@
         <item>IQA %1$s</item>
     </string-array>
     <string-array name="aqi_value">
-        <item>Bo</item>
-        <item>Moderat</item>
+        <item>Bona</item>
+        <item>Moderada</item>
         <item>No saludable per a grups sensibles</item>
         <item>No saludable</item>
         <item>Molt insalubre</item>
-        <item>Perillós</item>
+        <item>Perillosa</item>
     </string-array>
 </resources>
