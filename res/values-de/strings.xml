@@ -206,7 +206,7 @@ Apps für Android erstellen ist für mich ein Hobby, das ich in meiner Freizeit 
     <string name="time_units_hour">" Std"</string>
     <string name="time_units_minute">" Min"</string>
     <string name="time_units_second">" Sek"</string>
-    <string name="hourly_forecast_detail_date">E, d. MMM.</string>
+    <string name="hourly_forecast_detail_date">E, d. MMM</string>
     <string name="daily_forecast_detail_date">d. MMM</string>
     <string name="weather_update_date">d. MMMM</string>
     <string name="weather_short_month_update_date">d. MMM.</string>
