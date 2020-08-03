@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Wetter M8</string>
     <string name="location_management">Orte</string>
     <string name="network_unavailable">Verbindung zum Netzwerk nicht möglich</string>
     <string name="act_find_city_hot_title">Hinzufügen</string>
@@ -66,6 +67,7 @@ Auf die Taste unten tippen, um den Ort manuell hinzuzufügen oder erneut zu such
     <string name="settings_update_wifi_only_summary">Wettervorhersage nur bei bestehender WLAN-Verbindung aktualisieren</string>
     <string name="settings_update_wifi_only_title">Nur über WLAN aktualisieren</string>
     <string name="settings_update_interval_title">Aktualisierungsintervall</string>
+    <string name="settings_update_interval_hint">* Die Verwendung von Werten unter 1 Stunde funktioniert möglicherweise nicht korrekt</string>
     <string name="settings_update_quiet_hours_end_time_title">Ende</string>
     <string name="settings_update_quiet_hours_title">Ruhestunden</string>
     <string name="settings_weather_transfer_title">Übertragung Wetterdaten</string>
@@ -169,18 +171,19 @@ Apps für Android erstellen ist für mich ein Hobby, das ich in meiner Freizeit 
     <string name="share_subject">Teilen</string>
     <string name="share_button">Teilen</string>
     <string name="share_weather_save_pic_fail">Screenshot nicht möglich</string>
-    <string name="share_weather_desc">\#Weather M8# Heute %1$s %2$s</string>
+    <string name="share_weather_desc">\#Wetter M8# Heute %1$s %2$s</string>
     <string name="hourly_forcast_now">Jetzt</string>
     <string name="astronomy_title">Astronomie</string>
     <string name="sunrise">Sonnenaufgang</string>
     <string name="sunset">Sonnenuntergang</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s später.</string>
+    <string name="daily_forcast_temperature_transfer">%1$s °C / %2$s °C</string>
     <string name="daily_forcast_drawer_on_top">Tagesvorhersage</string>
 
     <!-- Weather details -->
     <string name="more_details">Mehr Details</string>
     <string name="weather_details_title">Wetterdetails</string>
-    <string name="weather_details_real_feel_title">Fühlt sich an wie</string>
+    <string name="weather_details_real_feel_title">Gefühlte</string>
     <string name="weather_details_temperature_title">Temperatur</string>
     <string name="weather_details_uv_index_title">UV-Index</string>
     <string name="weather_details_pressure_title">Druck</string>
@@ -197,9 +200,14 @@ Apps für Android erstellen ist für mich ein Hobby, das ich in meiner Freizeit 
 
     <string name="weather_details_daylight_diff_longer">%1$s länger</string>
     <string name="weather_details_daylight_diff_shorter">%1$s kürzer</string>
+	
+    <string name="temperature_unit">%1$s °C</string>
 
-    <string name="hourly_forecast_detail_date">E, d. MMM.</string>
-    <string name="daily_forecast_detail_date">d. MMM.</string>
+    <string name="time_units_hour">" Std"</string>
+    <string name="time_units_minute">" Min"</string>
+    <string name="time_units_second">" Sek"</string>
+    <string name="hourly_forecast_detail_date">E, d. MMM</string>
+    <string name="daily_forecast_detail_date">d. MMM</string>
     <string name="weather_update_date">d. MMMM</string>
     <string name="weather_short_month_update_date">d. MMM.</string>
     <string name="widget_dateformat_default_value">d. MMMM yyyy</string>
@@ -276,7 +284,7 @@ Apps für Android erstellen ist für mich ein Hobby, das ich in meiner Freizeit 
 
     <!-- Moon Phases -->
     <string name="menu_moon_phases">Mondphasen</string>
-    <string name="moon_age">Alter: %1$s Tage %2$s Std. %3$s Min.</string>
+    <string name="moon_age">Alter: %1$s Tage %2$s Std %3$s Min</string>
     <string name="moon_newmoon">Neumond</string>
     <string name="moon_waxingcrescent">Zunehmender Halbmond</string>
     <string name="moon_firstquarter">Erstes Viertel</string>
