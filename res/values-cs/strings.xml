@@ -326,4 +326,5 @@ Zkontrolujte síťové nastavení."</string>
     <string name="settings_icons_temperature_title">Ikona teploty</string>
     <string name="widget_config_show_update_date_title">Zobrazit údaje o aktualizaci počasí</string>
     <string name="astronomy_title">Astronomické údaje</string>
+    <string name="widget_config_font_hint">* Chcete-li použít vlastní písma, umístěte je do adresáře: /sdcard/Downloads</string>
 </resources>
