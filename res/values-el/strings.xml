@@ -189,7 +189,6 @@
     <string name="weather_alert_notification_channel_name">Ειδοποιήσεις</string>
     <string name="weather_main_notification_channel_name">Καιρός</string>
     <string name="weather_foreground_notification_channel_name">Υπηρεσίες Καιρού</string>
-    <string name="settings_permissions_privacy">Πολιτική Απορρήτου</string>
     
     <!-- Weather details -->
     <string name="more_details">Περισότερες Λεπτομέρειες</string>
