@@ -1,253 +1,280 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">"Nhập vị trí "</string>
-    <string name="act_find_city_hot_title">"Thêm "</string>
-    <string name="act_set_city_find_side">Định vị…</string>
-    <string name="act_set_city_find_side_error">Không thể xác định vị trí thiết bị</string>
-    <string name="act_set_city_swipe_hint">"Vuốt sang trái xóa vị trí "</string>
-    <string name="act_weather_find_city_added">"Thêm "</string>
-    <string name="act_weather_find_city_click_retry">"Thử lại "</string>
-    <string name="act_weather_find_city_net_no_good">"Không có kết nối mạng "</string>
-    <string name="act_weather_find_city_no_result">"Không kết quả "</string>
-    <string name="act_weather_find_city_searching">Đang tìm…</string>
-    <string name="activity_detail_time_format">E</string>
-    <string name="activity_find_city_dialog_cancel">"Hủy "</string>
-    <string name="activity_find_city_dialog_message">Hãy xem vị trí của bạn</string>
-    <string name="activity_find_city_dialog_set">"Cài đặt "</string>
-    <string name="activity_find_city_dialog_title">"Chấp nhận vị trí "</string>
-    <string name="activity_main_alert">Cảnh báo: %1$d</string>
-    <string name="activity_main_expire_time">Hết hạn %1$s</string>
-    <string name="activity_main_refresh_fail">"Không có kết nối mạng "</string>
-    <string name="activity_main_time_format">E</string>
-    <string name="activity_main_update_time">Cập nhật: %1$s</string>
-    <string name="activity_main_update_time_right_now">"Hiện tại "</string>
     <string name="app_name">Thời tiết M8</string>
-    <string name="app_version">Phiên bản: %s</string>
-    <string name="button_add_city">Thêm thành phố</string>
-    <string name="button_allow">OK</string>
-    <string name="button_not_allow">"Hủy "</string>
-    <string name="daily_forcast_drawer_on_top">Dự báo hàng ngày</string>
-    <string name="daily_forcast_no_wind">Vẫn còn</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s sau.</string>
-    <string name="daily_forcast_whirl_wind">Gió</string>
-    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="delete">Xóa</string>
-    <string name="first_start_network_msg">"Ứng dụng này đòi hỏi hoạt động kết nối Internet để có được dữ liệu thời tiết.Ứng dụng sử dụng quyền:
-• Thiết bị truy cập vị trí để có được hiện tại của bạn tọa độ.
-• Truy cập ảnh, phương tiện truyền thông và các tập tin để tiết kiệm ảnh chụp màn hình cho \"chia sẻ\" tính năng."</string>
-    <string name="first_start_network_title">Kết nối Internet và địa điểm truy cập</string>
-    <string name="gps_hint">GPS</string>
-    <string name="hour_minute_time_format">HH:mm</string>
-    <string name="hourly_forcast_now">Hiện tại</string>
-    <string name="hourly_forecast_title">"Dự báo theo giờ "</string>
-    <string name="international_detail_menu_title">"Chi tiết "</string>
-    <string name="locate_fail_detail_err">Không thể xác định vị trí thiết bị tập vào nút bên dưới để thêm thành phố bằng tay hoặc cố gắng để xác định vị trí một lần nữa</string>
-    <string name="location_management">"Vị trí "</string>
-    <string name="location_tag">"Vị trí "</string>
-    <string name="menu_moon_phases">"Giai đoạn mặt trăng "</string>
-    <string name="moon_age">Tuổi: %1$s ngày %2$s giờ %3$s phút</string>
-    <string name="moon_angle">Góc độ mặt trăng: %s</string>
-    <string name="moon_distanse">Khoảng cách: %s км</string>
-    <string name="moon_firstquarter">"Thượng tuần "</string>
-    <string name="moon_full">"Trăng tròn "</string>
-    <string name="moon_illuminated">Chiếu sáng: %s%%</string>
-    <string name="moon_lastquarter">"Hạ tuần "</string>
+
+    <string name="app_translation_locale">vi</string>
+    <string name="app_translation_author">Nguyễn Minh Chất</string>
+
+    <!-- Common strings -->
+    <string name="wait">Please wait…</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_failed">Download failed. Try again later</string>
+    <string name="download_succeeded">Download completed</string>
+
+    <!-- City manager -->
+    <string name="city_manager_drag_swipe_tip">Tip: Long press to drag, swipe left to delete</string>
+    <string name="city_manager_locating">Định vị…</string>
+    <string name="city_manager_locating_no_permission">Không thể xác định vị trí thiết bị</string>
+
+    <!-- Main menu (Not used) -->
+
+    <!-- Location manager -->
+    <string name="location_manager_title">"Vị trí "</string>
+    <string name="location_manager_search_hint">Type city name here</string>
+
+    <!-- Weather details -->
+    <string name="weather_details_title">"Chi tiết thời tiết "</string>
+    <string name="weather_details_feelslike">"Cảm nhận "</string>
+    <string name="weather_details_humidity">Độ ẩm</string>
+    <string name="weather_details_wind">Gió</string>
+    <string name="weather_details_dewpoint">Dew point</string>
+    <string name="weather_details_pressure">"Áp suất "</string>
+    <string name="weather_details_precip">"Phần trăm mưa "</string>
+    <string name="weather_details_visibility">"Tầm nhìn "</string>
+    <string name="weather_details_uvindex">"Chỉ số UV "</string>
+    <string name="weather_details_timezone">Múi giờ</string>
+    <string name="weather_details_daylight_hours">"Giờ chiếu sáng "</string>
+
+    <!-- Hourly -->
+    <string name="forecast_hourly_title">"Dự báo theo giờ "</string>
+
+    <!-- Daily -->
+    <string name="forecast_daily_title">Dự báo hàng ngày</string>
+
+    <!-- Radar view -->
+    <string name="radar_view_title">Precipitation map</string>
+    <string name="radar_view_legend_overcast">Overcast</string>
+    <string name="radar_view_legend_drizzle">Drizzle</string>
+    <string name="radar_view_legend_light_rain">Light rain</string>
+    <string name="radar_view_legend_moderate_rain">Moderate rain</string>
+    <string name="radar_view_legend_heavy_rain">Heavy rain</string>
+    <string name="radar_view_legend_hail">Hail</string>
+    <string name="radar_view_legend_light_snow">Light snow</string>
+    <string name="radar_view_legend_medium_snow">Medium snow</string>
+    <string name="radar_view_legend_heavy_snow">Heavy snow</string>
+
+    <!-- AQI -->
+    <string name="aqi_title">Chất lượng không khí</string>
+    <string name="aqi_summary_1">Good</string>
+    <string name="aqi_summary_2">Moderate</string>
+    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
+    <string name="aqi_summary_4">Unhealthy</string>
+    <string name="aqi_summary_5">Very unhealthy</string>
+    <string name="aqi_summary_6">Hazardous</string>
+
+    <!-- Kp-Index -->
+    <string name="forecast_kpindex_title">Kp-Index</string>
+    <string name="forecast_kpindex_gm1">Minor Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm2">Moderate Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm3">Severe Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm4">Strong Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm5">Extreme Geomagnetic Storm</string>
+
+    <!-- Sun and moon -->
+    <string name="sun_moon_title">Sun and Moon</string>
+    <!-- Sun Info -->
+    <string name="sun_info_title">Sun</string>
+    <string name="sun_info_sunrise">"Bình minh "</string>
+    <string name="sun_info_sunset">Hoàng hôn</string>
+    <string name="sun_info_dawn">Dawn</string>
+    <string name="sun_info_dusk">Dusk</string>
+    <string name="sun_info_noon">Noon</string>
+    <string name="sun_info_nadir">Nadir</string>
+    <string name="sun_info_azimuth">Azimuth</string>
+    <string name="sun_info_height">Altitude</string>
+    <string name="sun_info_eclipse">Eclipse</string>
+    <string name="sun_info_eclipse_type_total">Total</string>
+    <string name="sun_info_eclipse_type_partial">Partial</string>
+    <string name="sun_info_eclipse_type_annular">Annular</string>
+
+
+    <!-- Moon Info -->
+    <string name="moon_info_title">Moon</string>
+    <string name="moon_info_moonrise">Rise</string>
+    <string name="moon_info_moonset">Set</string>
+    <string name="moon_info_date">Date</string>
+    <string name="moon_info_age">Age</string>
+    <string name="moon_info_illuminated">Illuminated</string>
+    <string name="moon_info_zodiac">Zodiac</string>
+    <string name="moon_info_distance">Distance</string>
+    <string name="moon_info_azimuth">Azimuth</string>
+    <string name="moon_info_altitude">Altitude</string>
+    <string name="moon_info_phase">Phase</string>
+    <string name="moon_info_eclipse">Eclipse</string>
+    <string name="moon_info_eclipse_type_total">Total</string>
+    <string name="moon_info_eclipse_type_partial">Partial</string>
+    <string name="moon_info_eclipse_type_annular">Annular</string>
+    <string name="moon_info_eclipse_type_penumbral">Penumbral</string>
+    <string name="moon_info_age_unit_days">days</string>
+    <string name="moon_info_distance_unit_km">km</string>
+
+    <!-- Moon phases -->
     <string name="moon_newmoon">Trăng non</string>
-    <string name="moon_since">Ngày: %1$s %2$s</string>
-    <string name="moon_waningcrescent">Trăng lưỡi liềm khuyết dần</string>
-    <string name="moon_waninggibbous">Trăng khuyết khuyết dần</string>
-    <string name="moon_waxingcrescent">Trăng lưỡi liềm to dần</string>
+    <string name="moon_waxingcrescent">Trăng lưỡi liềm khuyết dần</string>
+    <string name="moon_firstquarter">"Thượng tuần "</string>
     <string name="moon_waxinggibbous">Trăng khuyết to dần</string>
-    <string name="moon_zodiac">Hoàng đạo: %s</string>
-    <string name="more_details">"Thêm chi tiết "</string>
-    <string name="network_unavailable">Không có kết nối mạng.</string>
-    <string name="settings_about">"Thông tin "</string>
-    <string name="settings_alerts_title">"Cảnh báo "</string>
-    <string name="settings_app_locale_title">"Ngôn ngữ "</string>
-    <string name="settings_autoupdate_weather_summary">"Cập nhật thời tiết tự động "</string>
-    <string name="settings_autoupdate_weather_title">"Cập nhật tự động "</string>
-    <string name="settings_category_units">"Đơn vị "</string>
-    <string name="settings_city_base">"Dữ liệu thành phố "</string>
-    <string name="settings_icons_title">"Biểu tượng thời tiết "</string>
-    <string name="settings_menu_title">"Cài đặt "</string>
-    <string name="settings_notification_priority_summary">Thông báo ưu tiên tối thiểu chỉ xuất hiện trong vùng thông báo</string>
-    <string name="settings_notification_priority_title">Ưu tiên tối thiểu</string>
-    <string name="settings_notification_summary">Hiển thị điều kiện thời tiết hiện nay trên thanh thông báo</string>
-    <string name="settings_notification_title">"Hiện thông báo "</string>
-    <string name="settings_notifications_summary">"Cài đặt thông báo thời tiết "</string>
-    <string name="settings_notifications_title">"Thông báo "</string>
-    <string name="settings_notify_type_title">"Biểu tượng thông báo "</string>
-    <string name="settings_pressure_unit">"Áp suất "</string>
-    <string name="settings_pressure_unit_in">inHg</string>
-    <string name="settings_pressure_unit_mb">mb</string>
-    <string name="settings_pressure_unit_mm">mmHg</string>
-    <string name="settings_temp_unit">"Nhiệt độ "</string>
-    <string name="settings_translations">"Dịch ứng dụng "</string>
-    <string name="settings_translations_summary">Tín dụng cho các dịch giả ứng dụng, dịch các ứng dụng sang ngôn ngữ của bạn</string>
-    <string name="settings_update_interval_title">Khoảng thời gian cập nhật</string>
-    <string name="settings_visibility_unit">"Tầm nhìn "</string>
-    <string name="settings_visibility_unit_kilometers">km</string>
-    <string name="settings_visibility_unit_meters">m</string>
-    <string name="settings_visibility_unit_miles">Dặm</string>
-    <string name="settings_weather_details_summary">Chọn chi tiết thời tiết hiển thị trên màn hình chính</string>
-    <string name="settings_weather_details_title">"Thời tiết chi tiết "</string>
-    <string name="settings_weather_spider_title">"Nguồn cập nhật "</string>
-    <string name="settings_weather_transfer_summary">Hiển thị ngày mô tả thời tiết để chuyển đêm</string>
-    <string name="settings_weather_transfer_title">Mô tả chuyển giao thời tiết</string>
-    <string name="settings_wind_unit">Tốc độ gió</string>
-    <string name="settings_wind_unit_kmh">km/h</string>
-    <string name="settings_wind_unit_mph">mph</string>
-    <string name="settings_wind_unit_ms">m/s</string>
-    <string name="share_btn_cancel">"Hủy "</string>
-    <string name="share_btn_confirm">"Chia sẻ "</string>
-    <string name="share_button">"Chia sẻ "</string>
-    <string name="share_menu_title">"Chia sẻ "</string>
-    <string name="share_subject">"Chia sẻ "</string>
-    <string name="share_weather_desc">\#Weather M8# Today %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s, %2$s</string>
-    <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">Không thể lưu ảnh</string>
-    <string name="sunrise">"Bình minh "</string>
-    <string name="sunset">Hoàng hôn</string>
+    <string name="moon_full">"Trăng tròn "</string>
+    <string name="moon_waninggibbous">Trăng khuyết khuyết dần</string>
+    <string name="moon_lastquarter">"Hạ tuần "</string>
+    <string name="moon_waningcrescent">Trăng lưỡi liềm khuyết dần</string>
+
+    <!-- Zodiac signs -->
+    <string name="zodiac_aries">Bạch Dương</string>
+    <string name="zodiac_taurus">Kim Ngưu</string>
+    <string name="zodiac_gemini">Song Tử</string>
+    <string name="zodiac_cancer">"Cự Giải "</string>
+    <string name="zodiac_leo">"Sư Tử "</string>
+    <string name="zodiac_virgo">Xử Nữ</string>
+    <string name="zodiac_libra">Thiên Bình</string>
+    <string name="zodiac_scorpio">Bò Cạp</string>
+    <string name="zodiac_sagittarius">Nhân Mã</string>
+    <string name="zodiac_capricorn">Ma Kết</string>
+    <string name="zodiac_aquarius">Bảo Bình</string>
+    <string name="zodiac_pisces">Song Ngư</string>
+
+    <!-- Units -->
+    <string name="wind_direction_n">N</string>
+    <string name="wind_direction_ne">NE</string>
+    <string name="wind_direction_e">E</string>
+    <string name="wind_direction_se">SE</string>
+    <string name="wind_direction_s">S</string>
+    <string name="wind_direction_sw">SW</string>
+    <string name="wind_direction_w">W</string>
+    <string name="wind_direction_nw">NW</string>
+
+    <string name="wind_unit_ms">m/s</string>
+    <string name="wind_unit_kmh">km/h</string>
+    <string name="wind_unit_mph">mph</string>
+    <string name="wind_unit_knot">Knot</string>
+    <string name="wind_unit_bft">bft</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_mb">mb</string>
+    <string name="pressure_unit_mmhg">mmHg</string>
+    <string name="pressure_unit_inhg">inHg</string>
+
+
+    <string name="precipitation_unit_mm">mm</string>
+    <string name="precipitation_unit_cm">cm</string>
+    <string name="precipitation_unit_in">in</string>
+
+    <string name="visibility_unit_m">m</string>
+    <string name="visibility_unit_km">km</string>
+    <string name="visibility_unit_mi">Dặm</string>
+
+    <string name="weather_aqi_detail_units">Đơn vị: µg/m³ (CO: mg/m³)</string>
+
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
     <string name="time_units_second">s</string>
-    <string name="view_forecast_item_yesterday">"Hôm qua "</string>
-    <string name="view_indexes_item_today">"Hôm nay "</string>
-    <string name="view_indexes_item_tommorrow">Ngày mai</string>
-    <string name="weather_details_daylight_hours_title">"Giờ chiếu sáng "</string>
-    <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_humidity_title">Độ ẩm</string>
-    <string name="weather_details_precipitation_prob_title">"Phần trăm mưa "</string>
-    <string name="weather_details_pressure">%1$s hPa</string>
-    <string name="weather_details_pressure_in">%1$s inHg</string>
-    <string name="weather_details_pressure_mb">%1$s mb</string>
-    <string name="weather_details_pressure_mm">%1$s mmHg</string>
-    <string name="weather_details_pressure_title">"Áp suất "</string>
-    <string name="weather_details_real_feel_title">"Cảm nhận "</string>
-    <string name="weather_details_title">"Chi tiết thời tiết "</string>
-    <string name="weather_details_uv_index_title">"Chỉ số UV "</string>
-    <string name="weather_details_visibility">%1$s km</string>
-    <string name="weather_details_visibility_meters">%1$s m</string>
-    <string name="weather_details_visibility_miles">%1$s dặm</string>
-    <string name="weather_details_visibility_title">"Tầm nhìn "</string>
-    <string name="weather_details_wind_connect">%1$s %2$s</string>
-    <string name="weather_details_wind_title">Gió</string>
-    <string name="widget_update_date_string">Cập nhật: %s</string>
-    <string name="widget_update_updating_string">Đang cập nhật…</string>
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_mph">%1$smph</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="zodiac_aquarius">Bảo Bình</string>
-    <string name="zodiac_aries">Bạch Dương</string>
-    <string name="zodiac_cancer">"Cự Giải "</string>
-    <string name="zodiac_capricorn">Ma Kết</string>
-    <string name="zodiac_gemini">Song Tử</string>
-    <string name="zodiac_leo">"Sư Tử "</string>
-    <string name="zodiac_libra">Thiên Bình</string>
-    <string name="zodiac_pisces">Song Ngư</string>
-    <string name="zodiac_sagittarius">Nhân Mã</string>
-    <string name="zodiac_scorpio">Bò Cạp</string>
-    <string name="zodiac_taurus">Kim Ngưu</string>
-    <string name="zodiac_virgo">Xử Nữ</string>
-    <string name="dialog_color_picker">"Chọn màu "</string>
-    <string name="press_color_to_apply">Nhấn vào màu để áp dụng</string>
-    <string name="settings_ads_explanation">"Tại sao bạn nhìn thấy một quảng cáo?
-Viết ứng dụng cho Android là một sở thích của tôi, mà tôi làm gì trong thời gian rảnh rỗi của cá nhân tôi. Vì vậy, hãy đối xử với sự hiểu biết đến sự xuất hiện của một số lượng nhất định của các biểu ngữ. Hiển thị quảng cáo trong ứng dụng kích thích sự phát triển hơn nữa."</string>
-    <string name="settings_ads_remove_summary">Loại bỏ quảng cáo cho một tuần (mỗi tháng một lần)</string>
-    <string name="settings_ads_remove_title">"Loại bỏ quảng cáo "</string>
-    <string name="settings_ads_title">Quảng cáo và Tài trợ</string>
-    <string name="settings_ads_yandex">Yandex Money</string>
-    <string name="settings_app_theme_dark">"Tối "</string>
-    <string name="settings_app_theme_light">"Sáng "</string>
-    <string name="settings_app_theme_title">"Chủ đề "</string>
-    <string name="settings_help">"Trợ giúp "</string>
-    <string name="settings_realtime_feelslike_as_main_summary">Hiện nhiệt độ cảm nhận là nhiệt độ thời tiết chính</string>
-    <string name="settings_realtime_feelslike_as_main_title">Cảm nhận là nhiệt độ chính</string>
-    <string name="settings_thirdparty">Thư viện của bên thứ ba và các nguồn lực</string>
-    <string name="settings_weather_forecast_spider_title">Dữ liệu dự báo</string>
-    <string name="settings_weather_realtime_spider_title">Dữ liệu thời gian thực</string>
-    <string name="weather_details_update_date_string">Cập nhật thời gian cung cấp dịch vụ: %s</string>
+
+    <!-- Settings -->
+    <string name="settings_menu_title">"Cài đặt "</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">User interface</string>
+    <string name="prefs_ui_theme">Theme</string>
+    <string name="prefs_ui_theme_follow_system">Follow System</string>
+    <string name="prefs_ui_theme_dark">Dark Mode</string>
+    <string name="prefs_ui_theme_light">Light Mode</string>
+    <string name="prefs_ui_theme_battery">Auto Battery</string>
+
+    <!-- Settings - weather icons -->
+    <string name="prefs_icons_skin_title">Weather icons skin</string>
+    <string name="prefs_icons_skin_builtin">Built-in</string>
+    <string name="prefs_icons_skin_available">Available</string>
+
+    <!-- Data sources preferences -->
+    <string name="prefs_data_source_title">Data source</string>
+    <string name="prefs_data_source_citydb">"Dữ liệu thành phố "</string>
+    <string name="prefs_data_source_weather">Weather forecast</string>
+    <string name="prefs_data_source_aqi">Air quality</string>
+    <string name="prefs_data_source_radar">Precipitation map</string>
+    <string name="prefs_data_order">Weather data order</string>
+
+    <!-- Units preferences -->
+    <string name="prefs_units_title">"Đơn vị "</string>
+    <string name="prefs_units_temperature">"Nhiệt độ "</string>
+    <string name="prefs_units_pressure">"Áp suất "</string>
+    <string name="prefs_units_wind">Gió</string>
+    <string name="prefs_units_precip">Precipitation</string>
+    <string name="prefs_units_visibility">"Tầm nhìn "</string>
+
+    <!-- Notifications -->
+    <string name="prefs_notifications_title">"Thông báo "</string>
+    <string name="prefs_notification_title">"Hiện thông báo "</string>
+    <string name="prefs_notification_summary">Hiển thị điều kiện thời tiết hiện nay trên thanh thông báo</string>
+    <string name="prefs_notification_icon_type_title">"Biểu tượng thông báo "</string>
+    <string name="prefs_notification_icon_icon">Weather Icon</string>
+    <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">Tiện ích</string>
+    <string name="prefs_widgets_not_found">Không cài các widget</string>
+
+    <!-- Settings - About -->
+    <string name="prefs_about">"Thông tin "</string>
+    <string name="prefs_app_version">Phiên bản: %s</string>
+    <string name="prefs_app_url">Website</string>
+    <string name="prefs_permissions_privacy">Privacy Policy</string>
+    <string name="prefs_translations">"Dịch ứng dụng "</string>
+    <string name="prefs_translations_summary">Tín dụng cho các dịch giả ứng dụng, dịch các ứng dụng sang ngôn ngữ của bạn</string>
+    <string name="prefs_thirdparty">Thư viện của bên thứ ba và các nguồn lực</string>
+    <string name="prefs_help">"Trợ giúp "</string>
+    <string name="prefs_feedback">Phát triển email</string>
+    <string name="prefs_donate">Donation</string>
+
+    <!-- Dialogs -->
+    <string name="weather_alert_dialog_start_time">Start</string>
+    <string name="weather_alert_dialog_end_time">End</string>
+    <string name="weather_alert_dialog_source">Source: %s</string>
+
+    <string name="dialog_changelog_title">Changelog</string>
+    <string name="dialog_information_title">Information</string>
+
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Send email</string>
+    <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Report a bug</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
+    <string name="dialog_contact_dev_send_email_other">Other</string>
+
+    <!-- Widgets -->
+
+    <!-- Widget config -->
+    <string name="widget_config_title">"Tùy chỉnh tiện ích "</string>
+    <string name="widget_config_background_title">Background</string>
+    <string name="widget_config_use_background_title">"Hiển thị nền tiện ích "</string>
     <string name="widget_config_background_color_title">Màu nền</string>
-    <string name="widget_config_background_type_border">Đường viền</string>
-    <string name="widget_config_background_type_solid">Solid</string>
-    <string name="widget_config_background_type_title">Loại nền</string>
+
+    <string name="widget_config_font_title">Fonts</string>
+    <string name="widget_config_font_color_title">Font color</string>
+    <string name="widget_config_font_size_title">Font size</string>
+    <string name="widget_config_clock_title">Clock</string>
+    <string name="widget_config_date_title">Date</string>
+    <string name="widget_config_city_name_title">City name</string>
+    <string name="widget_config_current_temp_title">Current temperature</string>
+    <string name="widget_config_current_condition_title">Current condition</string>
+    <string name="widget_config_forecast_temp_title">Forecast temperature</string>
+    <string name="widget_config_forecast_time_title">Forecast time</string>
+    <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_data_display_title">Data display</string>
+    <string name="widget_config_show_alarm_title">Hiện báo thức tiếp theo</string>
+    <string name="widget_config_show_date_title">Show date</string>
+    <string name="widget_config_dateformat_title">Định dạng ngày</string>
+    <string name="widget_config_forecast_type_title">Forecast type</string>
+
+    <string name="widget_config_click_settings">"Nhấp vào khu vực cài đặt tiện ích "</string>
     <string name="widget_config_click_apps">"Chọn lựa ứng dụng "</string>
     <string name="widget_config_click_clock">"Đồng hồ "</string>
     <string name="widget_config_click_date">"Ngày "</string>
-    <string name="widget_config_click_settings">"Nhấp vào khu vực cài đặt tiện ích "</string>
-    <string name="widget_config_click_temperature">Nhiệt độ</string>
     <string name="widget_config_click_weather_icon">"Biểu tượng thời tiết "</string>
-    <string name="widget_config_clock_font_size_title">Kích thước phông chữ đồng hồ</string>
-    <string name="widget_config_clock_font_title">Phông chữ đồng hồ</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">Tắt nó đi nếu đồng hồ tiện ích không cập nhật</string>
-    <string name="widget_config_custom_clock_font_onoff_title">Phông chữ tùy chỉnh đồng hồ</string>
-    <string name="widget_config_date_font_size_title">Kích thước phông chữ ngày</string>
-    <string name="widget_config_dateformat_title">Định dạng ngày</string>
-    <string name="widget_config_font_size_title">"Kích thước phông chữ "</string>
-    <string name="widget_config_font_title">"Phông chữ "</string>
-    <string name="widget_config_realtime_font_size_title">Kích thước phông chữ dữ liệu thời gian thực</string>
-    <string name="widget_config_realtime_font_title">Phông chữ dữ liệu thời gian thực</string>
-    <string name="widget_config_show_alarm_title">Hiện báo thức tiếp theo</string>
-    <string name="widget_config_show_cityname_title">Hiện tên thành phố</string>
-    <string name="widget_config_show_local_time_title">"Hiện giờ địa phương "</string>
-    <string name="widget_config_text_color_title">Màu chữ</string>
-    <string name="widget_config_title">"Tùy chỉnh tiện ích "</string>
-    <string name="widget_config_use_background_title">"Hiển thị nền tiện ích "</string>
-    <string name="feedback_action_send">Gửi</string>
-    <string name="feedback_add_images">Thêm hình ảnh</string>
-    <string name="feedback_description">Miêu tả</string>
-    <string name="feedback_description_hint">Viết về vấn đề này hoặc cung cấp thêm</string>
-    <string name="feedback_error">Có lỗi xảy ra trong khi gửi báo cáo</string>
-    <string name="feedback_fill_required">Các trường bắt buộc không thể để trống</string>
-    <string name="feedback_select_upload_settings">Gửi cài đặt</string>
-    <string name="feedback_sending">Gửi báo cáo ...</string>
-    <string name="feedback_sent">Cảm ơn bạn đã phản hồi của bạn!</string>
-    <string name="feedback_title">Tiêu đề</string>
-    <string name="feedback_title_hint">Mô tả ngắn gọn các vấn đề</string>
-    <string name="network_error">Không có kết nối đến máy chủ, hãy kiểm tra các thiết lập mạng.</string>
-    <string name="network_in_quiet_hours">Chế độ hoạt động của giờ yên tĩnh. Cập nhật từ chối.</string>
-    <string name="network_in_roaming">Bao gồm một bản cập nhật lệnh cấm ở roaming.</string>
-    <string name="network_wifi_only">Cập nhật chỉ thiết lập thông qua Wi-fi.</string>
-    <string name="settings_dialog_enter_timezone">Nhập múi giờ cho thành phố được lựa chọn (%s), ví dụ, GMT +03:00:</string>
-    <string name="settings_feedback">Phát triển email</string>
-    <string name="settings_icons_theme_details_title">Chủ đề Mô tả</string>
-    <string name="settings_update_wifi_only_summary">Để cập nhật thời tiết dự báo chỉ khi kết nối thông qua mạng Wi-Fi</string>
-    <string name="settings_update_wifi_only_title">Chỉ cập nhật trên Wi-Fi</string>
-    <string name="settings_widgets_not_found">Không cài các widget</string>
-    <string name="settings_widgets_title">Tiện ích</string>
-    <string name="weather_details_elevation_title">Độ cao</string>
-    <string name="weather_details_timezone_title">Múi giờ</string>
-    <string name="date_time_am">"Sáng "</string>
-    <string name="date_time_pm">"Chiều tối "</string>
-    <string name="aqi_data_source">%s</string>
-    <string name="aqi_detail_24_hours">Dự báo hàng giờ</string>
-    <string name="aqi_detail_5_days">Dự báo hàng ngày</string>
-    <string name="aqi_detail_unit">Đơn vị: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_main_publish_time">Cập nhật %1$s</string>
-    <string name="aqi_main_title">Chất lượng không khí</string>
-    <string name="aqi_ring_desc">Chỉ số chất lượng không khí</string>
-    <string name="aqi_ring_top_pollution">Các chất ô nhiễm chính</string>
-    <string name="get_accounts_msg">Ứng dụng yêu cầu truy cập vào danh sách các tài khoản đăng ký cho các thiết bị, kiểm tra mua hàng của bạn và opt-out.</string>
-    <string name="get_accounts_title">Cảnh báo</string>
-    <string name="moon_rise">Mọc: %s</string>
-    <string name="moon_set">Lặn: %s</string>
-    <string name="settings_aqi_max_distance_summary">Nhận dữ liệu về chất lượng không khí từ các trạm thời tiết, từ xa ở khoảng cách không quá %1$s</string>
-    <string name="settings_aqi_max_distance_title">Kiểm tra phạm vi</string>
-    <string name="settings_aqi_onoff_summary">Hiển thị thông tin về chất lượng không khí cho các thành phố được lựa chọn (nếu thông tin đó là có sẵn)</string>
-    <string name="settings_aqi_onoff_title">Thông tin về chất lượng không khí</string>
-    <string name="settings_permissions">Sự cho phép</string>
-    <string name="settings_pressure_unit_atm">atm</string>
-    <string name="settings_update_quiet_hours_end_time_title">Kết thúc</string>
-    <string name="settings_update_quiet_hours_start_time_title">Bắt đầu</string>
-    <string name="settings_update_quiet_hours_title">Giờ yên tĩnh</string>
-    <string name="settings_wind_unit_knot">Knot</string>
-    <string name="weather_details_pressure_atm">%1$s атм</string>
-    <string name="widget_config_show_leading_zero_title">Hiển thị số không giờ đầu tiên</string>
-    <string name="wind_unit_knot">%1$s knot</string>
-    <string name="settings_sound_volume">Cài đặt âm lượng</string>
-    <string name="settings_show_plus_sign_temp_summary">Hiển thị + ký hiệu cho nhiệt độ dương</string>
-    <string name="settings_show_plus_sign_temp_title">Hiển thị dấu +</string>
-    <string name="settings_pressure_level_title">Áp suất hiển thị</string>
+    <string name="widget_config_click_temperature">Nhiệt độ</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Nhấn vào màu để áp dụng</string>
+    <string name="dialog_color_picker">"Chọn màu "</string>
+    <string name="color_picker_use_default_color">Use default color</string>
+
 </resources>

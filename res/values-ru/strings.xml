@@ -1,341 +1,119 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Погода M8</string>
-    <string name="app_version">Версия: %s</string>
-    <string name="location_management">Города</string>
-    <string name="gps_hint">GPS</string>
-    <string name="network_unavailable">Сеть недоступна</string>
-    <string name="act_find_city_hot_title">Популярные города</string>
-    <string name="act_find_city_hint">Поиск</string>
-    <string name="act_set_city_find_side">Поиск города…</string>
-    <string name="act_set_city_find_side_error">Ошибка определения местоположения</string>
-    <string name="button_add_city">Добавить город</string>
-    <string name="locate_fail_detail_err">"Ошибка определения местоположения
-Нажмите кнопку ниже, чтобы повторить поиск или добавить город вручную"</string>
-    <string name="act_set_city_swipe_hint">Свайп влево для удаления города</string>
-    <string name="button_allow">ОК</string>
-    <string name="button_not_allow">Отмена</string>
-    <string name="act_weather_find_city_net_no_good">Не удалось подключиться к сети</string>
-    <string name="act_weather_find_city_click_retry">Повторить</string>
-    <string name="act_weather_find_city_searching">Поиск…</string>
-    <string name="location_tag">Поиск</string>
-    <string name="act_weather_find_city_no_result">Не найдено</string>
-    <string name="act_weather_find_city_added">Добавлен</string>
-    <string name="city_exceeded_warning">Вы можете добавить не более 10 городов</string>
-    <string name="view_forecast_item_yesterday">Вчера</string>
-    <string name="view_indexes_item_today">Сегодня</string>
-    <string name="view_indexes_item_tommorrow">Завтра</string>
-    <string name="activity_main_update_time">Обновлено %1$s</string>
-    <string name="activity_main_update_time_right_now">только что</string>
-    <string name="activity_main_refresh_fail">Не удается подключиться к сети</string>
-    <string name="activity_find_city_dialog_cancel">Отмена</string>
-    <string name="activity_find_city_dialog_set">Настроить</string>
-    <string name="activity_find_city_dialog_title">Местоположение</string>
-    <string name="activity_find_city_dialog_message">Разрешить погоде использовать сервис местоположения?</string>
-    <string name="activity_main_time_format">E, d MMMM</string>
-    <string name="activity_detail_time_format">EEEE</string>
-    <string name="hour_minute_time_format">HH:mm</string>
-    <string name="first_start_network_msg">"Для нормальной работы приложению требуется подключение к сети интернет.
-        Кроме этого требуются следующие разрешения:
-        \u2022 Доступ к местоположению для определения текущих координат устройства.
-        \u2022 Доступ к медиафайлам для возможности сохранять скриншоты в памяти устройства (при использовании функции \"Поделиться\")."</string>
-    <string name="first_start_network_title">Предупреждение</string>
 
-    <string name="get_accounts_msg">Приложению необходим доступ к списку аккаунтов, зарегистрированных на устройстве, для проверки Ваших покупок и отключения рекламы.</string>
-    <string name="get_accounts_title">Предупреждение</string>
+    <string name="app_translation_locale">ru</string>
+    <string name="app_translation_author">Andrei Zhukouski</string>
 
-    <string name="international_detail_menu_title">Подробный прогноз</string>
-    <string name="share_menu_title">Поделиться</string>
+    <!-- Common strings -->
+    <string name="wait">Подождите…</string>
+    <string name="downloading">Скачивание…</string>
+    <string name="download_failed">Возникла ошибка. Попробуйте позже</string>
+    <string name="download_succeeded">Скачивание завершено</string>
 
-    <string name="common_auto">Авто</string>
-    <string name="common_default">По умолчанию</string>
-    <string name="common_recommended">Рекомендуется</string>
+    <!-- City manager -->
+    <string name="city_manager_drag_swipe_tip">Подсказка: долгое нажатие для перемещения, свайп влево для удаления</string>
+    <string name="city_manager_locating">Определение местоположения…</string>
+    <string name="city_manager_locating_no_permission">Ошибка определения местоположения</string>
 
-    <string name="network_error">"Нет соединения с сервером.\nПроверьте настройки сети."</string>
-    <string name="network_in_quiet_hours">Активен режим Тихих часов. Обновление отклонено.</string>
-    <string name="network_in_roaming">Включен запрет обновления в роуминге.</string>
-    <string name="network_wifi_only">Обновление настроено только через Wi-fi.</string>
-
-    <!-- Preferences -->
-    <string name="settings_menu_title">Настройки</string>
-    <string name="settings_geolocation_title">Местоположение</string>
-    <string name="settings_autolocate_title">Автоматическое определение</string>
-    <string name="settings_autolocate_summary">Автоматическое определение местоположения вашего устройства</string>
-    <string name="settings_geolocation_names_source_title">Источник имен населенных пунктов</string>
-    <string name="geolocation_names_source_default">По умолчанию</string>
-    <string name="settings_autolocate_detailed_title">Подробная информация</string>
-    <string name="settings_autolocate_detailed_summary">Отображать подробную информацию о вашем местоположении, такую как улица, населенный пункт, регион, страна</string>
-    <string name="settings_autoupdate_weather_title">Автообновление</string>
-    <string name="settings_autoupdate_weather_summary">Автоматическое обновление прогноза погоды</string>
-    <string name="settings_update_on_app_start_title">Обновлять при запуске</string>
-    <string name="settings_update_on_app_start_summary">Обновлять прогноз погоды каждый раз при запуске программы</string>
-    <string name="settings_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
-    <string name="settings_update_wifi_only_title">Обновлять только по Wi-Fi</string>
-    <string name="settings_update_interval_title">Интервал обновления</string>
-    <string name="settings_update_interval_hint">* Использование значений  меньше 1 часа может работать некорректно</string>
-    <string name="settings_update_quiet_hours_end_time_title">Конец</string>
-    <string name="settings_update_quiet_hours_start_time_title">Начало</string>
-    <string name="settings_update_quiet_hours_title">Тихие часы</string>
-    <string name="settings_weather_transfer_title">Переход прогноза день-ночь</string>
-    <string name="settings_weather_transfer_summary">Отображать в описании прогноза погоды переход от дневного описания к ночному</string>
-    <string name="settings_weather_spider_title">Источник обновления</string>
-    <string name="settings_weather_realtime_spider_title">Текущие данные</string>
-    <string name="settings_weather_forecast_spider_title">Прогноз</string>
-    <string name="settings_weather_station_title">Метеостанция</string>
-    <string name="settings_weather_data_order_title">Порядок отображаемых данных</string>
-    <string name="settings_aqi_title">@string/aqi_main_title</string>
-    <string name="settings_aqi_onoff_title">Информация о качестве воздуха</string>
-    <string name="settings_aqi_onoff_summary">Отображать информацию о качестве воздуха для выбранных городов (если такая информация доступна)</string>
-    <string name="settings_aqi_max_distance_closest">Ближайшая станция</string>
-    <string name="settings_aqi_max_distance_title">Радиус проверки</string>
-    <string name="settings_aqi_max_distance_summary">Получать данные о качестве воздуха от метеостанций, удаленных на расстояние не более %1$s</string>
-    <string name="settings_app_locale_title">Язык</string>
-    <string name="settings_app_theme_title">Тема</string>
-    <string name="settings_app_theme_light">Светлая</string>
-    <string name="settings_app_theme_dark">Темная</string>
-    <string name="settings_sound_volume">Громкость звука</string>
-    <string name="settings_category_units">Единицы измерения</string>
-    <string name="settings_pressure_unit">Давление</string>
-    <string name="settings_pressure_unit_atm">атм</string>
-    <string name="settings_pressure_unit_hpa">гПа</string>
-    <string name="settings_pressure_unit_mb">мбар</string>
-    <string name="settings_pressure_unit_mm">мм.рт.ст.</string>
-    <string name="settings_pressure_unit_in">дюйм рт.ст.</string>
-    <string name="settings_wind_unit">Скорость ветра</string>
-    <string name="settings_wind_unit_kmh">км/ч</string>
-    <string name="settings_wind_unit_knot">узел</string>
-    <string name="settings_wind_unit_ms">м/с</string>
-    <string name="settings_wind_unit_mph">миль/ч</string>
-    <string name="settings_temp_unit">Температура</string>
-    <string name="settings_precipitation_unit">Осадки</string>
-    <string name="settings_precipitation_unit_mm">мм</string>
-    <string name="settings_precipitation_unit_in">дюймы</string>
-    <string name="settings_visibility_unit">Видимость</string>
-    <string name="settings_visibility_unit_kilometers">км</string>
-    <string name="settings_visibility_unit_meters">м</string>
-    <string name="settings_visibility_unit_miles">миль</string>
-
-    <string name="settings_realtime_feelslike_as_main_title">Ощущаемая как основная температура</string>
-    <string name="settings_realtime_feelslike_as_main_summary">В качестве основной будет отображаться ощущаемая температура</string>
-
-    <string name="settings_show_plus_sign_temp_title">Показывать "+" для температур</string>
-    <string name="settings_show_plus_sign_temp_summary">Отображение знака "+" перед положительными значениями температур</string>
-
-    <string name="settings_pressure_level_title">Показывать давление для</string>
-
-    <string name="settings_city_base">База городов</string>
-
-    <string name="settings_notifications_title">Уведомления</string>
-    <string name="settings_notifications_summary">Управление настройками уведомлениями о состоянии погоды</string>
-    <string name="settings_notification_title">Уведомление о погоде</string>
-    <string name="settings_notification_summary">Отображать прогноз погоды в области уведомлений</string>
-
-    <string name="settings_notification_priority_title">Минимальный приоритет</string>
-    <string name="settings_notification_priority_summary">Уведомления с минимальным приоритетом отображаются только в шторке уведомлений</string>
-
-    <string name="settings_notify_type_title">Иконка уведомления</string>
-    <string name="settings_notification_background_color_title">Цвет фона уведомления</string>
-    <string name="settings_notification_statusbar_color_title">Цвет иконки уведомления</string>
-    <string name="settings_notification_text_color_title">Цвет текста уведомления</string>
-
-    <string name="weather_alert_notification_channel_name">Предупреждения</string>
-    <string name="weather_main_notification_channel_name">Прогноз</string>
-    <string name="weather_foreground_notification_channel_name">Служебные уведомления</string>
-
-    <string name="settings_alerts_title">Погодные предупреждения</string>
-
-    <string name="settings_icons_title">Иконки погоды</string>
-    <string name="settings_icons_temperature_title">Иконки температуры</string>
-    <string name="settings_icons_theme_details_title">Описание темы</string>
-
-    <string name="settings_widgets_title">Виджеты</string>
-    <string name="settings_widgets_not_found">Нет установленных виджетов</string>
-
-    <string name="settings_ads_title">Реклама и пожертвования</string>
-    <string name="settings_ads_donations_title">Купить мне кофе</string>
-    <string name="settings_ads_explanation">"Почему в приложении реклама?
-Написание приложений для Android для меня является хобби, которым я занимаюсь в свое личное свободное время. Поэтому прошу отнестись с пониманием к появлению в программе некоторого количества рекламных баннеров. Отображение рекламы в приложении стимулирует меня к дальнейшей разработке."</string>
-    <string name="settings_ads_menu_hide_title">Скрыть этот пункт меню</string>
-    <string name="settings_ads_remove_title">Отключить рекламу</string>
-    <string name="settings_ads_remove_summary">Отключить рекламу на неделю (один раз в месяц)</string>
-    <string name="settings_ads_yandex">Яндекс Деньги</string>
-    <string name="settings_ads_donation_expl">Пожертвование с помощью Google Play путем нажатия на одну из кнопок, расположенных ниже, НЕ отключит рекламу в приложении. Для ее отключения вы должны воспользоваться кнопкой \"Отключить рекламу\".</string>
-    <string name="settings_about">О приложении</string>
-    <string name="settings_translations">Перевод приложения</string>
-    <string name="settings_translations_summary">Список переводчиков приложения</string>
-    <string name="settings_thirdparty">Сторонние ресурсы и библиотеки</string>
-    <string name="settings_permissions">Разрешения</string>
-    <string name="settings_permissions_privacy">Политика конфиденциальности</string>
-    <string name="settings_help">Помощь</string>
-    <string name="settings_feedback">Написать разработчику</string>
-    <string name="settings_dialog_enter_timezone">Введите часовой пояс для выбранного города (%s), например, GMT+03:00:</string>
-
-    <string name="feedback_title">Заголовок</string>
-    <string name="feedback_title_hint">Кратко опишите проблему</string>
-    <string name="feedback_description">Описание</string>
-    <string name="feedback_description_hint">Напишите о проблеме или предложении подробнее</string>
-    <string name="feedback_add_images">Добавить картинки</string>
-    <string name="feedback_select_upload_settings">Отправить настройки программы</string>
-    <string name="feedback_action_send">Отправить</string>
-    <string name="feedback_fill_required">Обязательные для заполнения поля не могут быть оставлены пустыми</string>
-    <string name="feedback_sending">Отправка отчета…</string>
-    <string name="feedback_sent">Спасибо за ваш отзыв!</string>
-    <string name="feedback_error">При отправке отчета возникла ошибка</string>
-
-    <string name="share_btn_cancel">Отмена</string>
-    <string name="share_btn_confirm">Поделиться</string>
-    <string name="share_subject">Поделиться</string>
-    <string name="share_button">Поделиться</string>
-    <string name="share_weather_save_pic_fail">Ошибка сохранения скриншота</string>
-    <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_desc">\#Погода M8# Сегодня: %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
-    <string name="hourly_forcast_now">Сейчас</string>
-    <string name="astronomy_title">Астрономия</string>
-    <string name="sunrise">Восход</string>
-    <string name="sunset">Закат</string>
-    <string name="daily_forcast_weather_transfer">%1$s \u21E8 %2$s</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_drawer_on_top">Ежедневный прогноз</string>
-    <string name="daily_forcast_wind_connect">Ветер %1$s %2$s</string>
+    <!-- Location manager -->
+    <string name="location_manager_title">Местоположения</string>
+    <string name="location_manager_search_hint">Введите имя города</string>
 
     <!-- Weather details -->
-    <string name="more_details">Подробные сведения</string>
     <string name="weather_details_title">Подробности</string>
-    <string name="weather_details_wind_title">Ветер</string>
-    <string name="weather_details_real_feel_title">Ощущается</string>
-    <string name="weather_details_temperature_title">Температура</string>
-    <string name="weather_details_uv_index_title">Индекс УФ</string>
-    <string name="weather_details_pressure_title">Давление</string>
-    <string name="weather_details_humidity_title">Влажность</string>
-    <string name="weather_details_visibility_title">Видимость</string>
-    <string name="weather_details_precipitation_prob_title">Осадки</string>
-    <string name="weather_details_daylight_hours_title">Долгота дня</string>
-    <string name="weather_details_timezone_title">Часовой пояс</string>
-    <string name="weather_details_elevation_title">Высота над морем</string>
+    <string name="weather_details_feelslike">Ощущается</string>
+    <string name="weather_details_humidity">Влажность</string>
+    <string name="weather_details_wind">Ветер</string>
+    <string name="weather_details_dewpoint">Точка росы</string>
+    <string name="weather_details_pressure">Давление</string>
+    <string name="weather_details_precip">Осадки</string>
+    <string name="weather_details_visibility">Видимость</string>
+    <string name="weather_details_uvindex">Индекс УФ</string>
+    <string name="weather_details_timezone">Часовой пояс</string>
+    <string name="weather_details_daylight_hours">Световой день</string>
 
-    <string name="weather_details_wind_connect">%2$s %1$s</string>
-    <string name="weather_details_pressure">%1$s гПа</string>
-    <string name="weather_details_pressure_atm">%1$s атм</string>
-    <string name="weather_details_pressure_mb">%1$s мбар</string>
-    <string name="weather_details_pressure_mm">%1$s мм.рт.ст.</string>
-    <string name="weather_details_pressure_in">%1$s дюйм рт.ст.</string>
-    <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_visibility">%1$s км</string>
-    <string name="weather_details_visibility_meters">%1$s м</string>
-    <string name="weather_details_visibility_miles">%1$s миль</string>
+    <!-- Hourly -->
+    <string name="forecast_hourly_title">Почасовой прогноз</string>
 
-    <string name="weather_details_update_date_string">По состоянию на: %s</string>
+    <!-- Daily -->
+    <string name="forecast_daily_title">Ежедневный прогноз</string>
 
-    <string name="weather_details_daylight_diff_longer">На %1$s длиннее</string>
-    <string name="weather_details_daylight_diff_shorter">На %1$s короче</string>
+    <!-- Radar view -->
+    <string name="radar_view_title">Карта осадков</string>
+    <string name="radar_view_legend_overcast">Пасмурно</string>
+    <string name="radar_view_legend_drizzle">Морось</string>
+    <string name="radar_view_legend_light_rain">Слабый дождь</string>
+    <string name="radar_view_legend_moderate_rain">Дождь</string>
+    <string name="radar_view_legend_heavy_rain">Ливень</string>
+    <string name="radar_view_legend_hail">Град</string>
+    <string name="radar_view_legend_light_snow">Слабый снег</string>
+    <string name="radar_view_legend_medium_snow">Снег</string>
+    <string name="radar_view_legend_heavy_snow">Снегопад</string>
 
-    <string name="weather_details_precipitation_amount_mm">%1$s мм</string>
-    <string name="weather_details_precipitation_amount_in">%1$s дюйм</string>
+    <!-- AQI -->
+    <string name="aqi_title">Качество воздуха</string>
+    <string name="aqi_summary_1">Хорошее</string>
+    <string name="aqi_summary_2">Среднее</string>
+    <string name="aqi_summary_3">Неподходящее для особо восприимчивых</string>
+    <string name="aqi_summary_4">Нездоровое</string>
+    <string name="aqi_summary_5">Очень нездоровое</string>
+    <string name="aqi_summary_6">Опасное</string>
 
-    <string name="time_units_hour">" ч"</string>
-    <string name="time_units_minute">" мин"</string>
-    <string name="time_units_second">" сек"</string>
+    <!-- Kp-Index -->
+    <string name="forecast_kpindex_title">Kp-Индекс</string>
+    <string name="forecast_kpindex_gm1">Слабая магнитная буря</string>
+    <string name="forecast_kpindex_gm2">Умеренная магнитная буря</string>
+    <string name="forecast_kpindex_gm3">Сильная магнитная буря</string>
+    <string name="forecast_kpindex_gm4">Очень сильная магнитная буря</string>
+    <string name="forecast_kpindex_gm5">Экстремальная магнитная буря</string>
 
-    <!-- Weather alerts -->
-    <string name="activity_main_alert">Предупреждений: %1$d</string>
-    <string name="activity_main_alert_precip">Ожидается %1$s. Количество осадков за сутки составит %2$s.</string>
-    <string name="activity_main_alert_wind">Ожидается ветер, максимальная скорость составит %1$s.</string>
-    <string name="activity_main_alert_wind_gusts">Ожидаются порывы ветра с максимальной скоростью до %1$s.</string>
-    <string name="activity_main_alert_tstorm">Ожидаются грозы с вероятностью %1$s.</string>
-    <string name="activity_main_alert_day_night">Днем ожидается %1$s, ночью %2$s.</string>
-    <string name="activity_main_alert_type_rain">Дождь</string>
-    <string name="activity_main_alert_type_snow">Снег</string>
-    <string name="activity_main_alert_type_ice">Лед</string>
-    <string name="activity_main_alert_type_wind">Ветер</string>
-    <string name="activity_main_alert_type_wind_gusts">Порывы ветра</string>
-    <string name="activity_main_alert_type_tstorm">Грозы</string>
-    <string name="activity_main_alert_unit_mm">" мм"</string>
-    <string name="activity_main_alert_unit_cm">" см"</string>
-    <string name="activity_main_alert_unit_inch">" дюйм"</string>
-    <string name="activity_main_alert_unit_kmh">" км/ч"</string>
-    <string name="activity_main_alert_unit_mph">" миль/ч"</string>
-    <string name="activity_main_alert_unit_mps">" м/с"</string>
-
-    <string name="daily_forcast_no_wind">Слабый</string>
-    <string name="daily_forcast_whirl_wind">Вихрь</string>
-    <string name="delete">Удалить</string>
-
-    <string name="hourly_forecast_title">Почасовой прогноз</string>
-
-    <string name="wind_unit">%1$s км/ч</string>
-    <string name="wind_unit_knot">%1$s узел</string>
-    <string name="wind_unit_ms">%1$s м/с</string>
-    <string name="wind_unit_mph">%1$s миль/ч</string>
-
-    <!-- Widgets -->
-    <string name="widget_update_date_string">Обн. %s</string>
-    <string name="widget_update_updating_string">Обновление…</string>
-    <!-- Widget config -->
-    <string name="widget_config_title">Настройки виджета</string>
-    <string name="widget_config_font_hint">* Для использования собственных шрифтов, скопируйте их в папку /sdcard/Downloads</string>
-    <string name="widget_config_custom_clock_font_onoff_title">Поменять шрифт часов</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">Выключите данный пункт, если часы не будут обновляться</string>
-    <string name="widget_config_clock_font_title">Шрифт часов</string>
-    <string name="widget_config_clock_color_title">Цвет часов</string>
-    <string name="widget_config_clock_font_size_title">Размер шрифта часов</string>
-    <string name="widget_config_date_font_size_title">Размер шрифта даты</string>
-    <string name="widget_config_dateformat_title">Формат даты</string>
-    <string name="widget_config_realtime_font_title">Шрифт текущих данных</string>
-    <string name="widget_config_realtime_font_size_title">Размер текста текущих данных</string>
-    <string name="widget_config_realtime_icon_size_title">Размер иконки текущей погоды</string>
-    <string name="widget_config_forecast_icon_size_title">Размер иконок погоды прогноза</string>
-    <string name="widget_config_text_color_title">Цвет текста</string>
-    <string name="widget_config_font_title">Шрифт текста</string>
-    <string name="widget_config_font_size_title">Размер текста</string>
-    <string name="widget_config_show_alarm_title">Показывать следующий будильник</string>
-    <string name="widget_config_show_date_title">Показывать дату</string>
-    <string name="widget_config_show_update_date_title">Показывать дату обновления прогноза</string>
-    <string name="widget_config_use_background_title">Показывать фон виджета</string>
-    <string name="widget_config_background_color_title">Цвет фона</string>
-    <string name="widget_config_background_type_title">Тип фона</string>
-    <string name="widget_config_background_type_solid">Сплошной цвет</string>
-    <string name="widget_config_background_type_border">Рамка</string>
-
-    <string name="widget_config_show_text_shadow_title">Показывать тень текста</string>
-    <string name="widget_config_show_realtime_icon_title">Показывать иконку текущей погоды</string>
-    <string name="widget_config_show_cityname_title">Показывать название города</string>
-    <string name="widget_config_show_local_time_title">Показывать местное время</string>
-    <string name="widget_config_show_leading_zero_title">Показывать первый ноль в часах</string>
-    <string name="widget_config_show_ampm_title">Показывать AM/PM (12ч формат)</string>
-
-    <string name="widget_config_click_settings">Настройка нажатий на области виджета</string>
-    <string name="widget_config_click_apps">Выберите приложение</string>
-    <string name="widget_config_click_clock">Часы</string>
-    <string name="widget_config_click_date">Дата</string>
-    <string name="widget_config_click_weather_icon">Иконка погоды</string>
-    <string name="widget_config_click_temperature">Температура</string>
-
-    <string name="widget_config_backup_done">Настройки виджета сохранены!</string>
-    <string name="widget_config_restore_done">Настройки виджета восстановлены из резервной копии!</string>
-    <string name="widget_config_no_backups_found">Резервных копий не найдено</string>
-
-    <string name="widgets_notification_info">Обновление виджетов…</string>
-
-    <!-- Moon Phases -->
-    <string name="menu_moon_phases">Фазы луны</string>
-    <string name="moon_age">Возраст: %1$s дн. %2$s ч %3$s мин</string>
+    <!-- Sun and moon -->
+    <string name="sun_moon_title">Солнце и Луна</string>
+    <!-- Sun Info -->
+    <string name="sun_info_title">Солнце</string>
+    <string name="sun_info_sunrise">Восход</string>
+    <string name="sun_info_sunset">Закат</string>
+    <string name="sun_info_dawn">Рассвет</string>
+    <string name="sun_info_dusk">Сумерки</string>
+    <string name="sun_info_noon">Полдень</string>
+    <string name="sun_info_nadir">Надир</string>
+    <string name="sun_info_azimuth">Азимут</string>
+    <string name="sun_info_height">Высота</string>
+    <string name="sun_info_eclipse">Затмение</string>
+    <string name="sun_info_eclipse_type_total">Полное</string>
+    <string name="sun_info_eclipse_type_partial">Частичное</string>
+    <string name="sun_info_eclipse_type_annular">Кольцевое</string>
+    <!-- Moon Info -->
+    <string name="moon_info_title">Луна</string>
+    <string name="moon_info_moonrise">Восход</string>
+    <string name="moon_info_moonset">Закат</string>
+    <string name="moon_info_date">Дата</string>
+    <string name="moon_info_age">Возраст</string>
+    <string name="moon_info_illuminated">Освещено</string>
+    <string name="moon_info_zodiac">Зодиак</string>
+    <string name="moon_info_distance">Расстояние</string>
+    <string name="moon_info_azimuth">Азимут</string>
+    <string name="moon_info_altitude">Высота</string>
+    <string name="moon_info_phase">Фаза</string>
+    <string name="moon_info_eclipse">Затмение</string>
+    <string name="moon_info_eclipse_type_total">Полное</string>
+    <string name="moon_info_eclipse_type_partial">Частичное</string>
+    <string name="moon_info_eclipse_type_annular">Кольцевое</string>
+    <string name="moon_info_eclipse_type_penumbral">Полутень</string>
+    <string name="moon_info_age_unit_days">дней</string>
+    <string name="moon_info_distance_unit_km">км</string>
+    <!-- Moon phases -->
     <string name="moon_newmoon">Новолуние</string>
-    <string name="moon_waxingcrescent">Молодая Луна</string>
+    <string name="moon_waxingcrescent">Старая Луна</string>
     <string name="moon_firstquarter">Первая четверть</string>
     <string name="moon_waxinggibbous">Прибывающая Луна</string>
     <string name="moon_full">Полнолуние</string>
     <string name="moon_waninggibbous">Убывающая Луна</string>
     <string name="moon_lastquarter">Последняя четверть</string>
     <string name="moon_waningcrescent">Старая Луна</string>
-    <string name="moon_illuminated">Освещено: %s%%</string>
-    <string name="moon_since">Дата: %1$s %2$s</string>
-    <string name="moon_distanse">Расстояние: %s км</string>
-    <string name="moon_angle">Угол: %s</string>
-    <string name="moon_rise">Восход: %s</string>
-    <string name="moon_set">Закат: %s</string>
-    <string name="moon_zodiac">Зодиак: %s</string>
 
+    <!-- Zodiac signs -->
     <string name="zodiac_aries">Овен</string>
     <string name="zodiac_taurus">Телец</string>
     <string name="zodiac_gemini">Близнецы</string>
@@ -348,31 +126,147 @@
     <string name="zodiac_capricorn">Козерог</string>
     <string name="zodiac_aquarius">Водолей</string>
     <string name="zodiac_pisces">Рыбы</string>
-    <string name="activity_main_expire_time">Истекает %1$s</string>
+
+    <!-- Units -->
+    <string name="wind_direction_n">С</string>
+    <string name="wind_direction_ne">СВ</string>
+    <string name="wind_direction_e">В</string>
+    <string name="wind_direction_se">ЮВ</string>
+    <string name="wind_direction_s">Ю</string>
+    <string name="wind_direction_sw">ЮЗ</string>
+    <string name="wind_direction_w">З</string>
+    <string name="wind_direction_nw">СЗ</string>
+
+    <string name="wind_unit_ms">м/с</string>
+    <string name="wind_unit_kmh">км/ч</string>
+    <string name="wind_unit_mph">миль/ч</string>
+    <string name="wind_unit_knot">узел</string>
+    <string name="wind_unit_bft">bft</string>
+
+    <string name="pressure_unit_hpa">гПа</string>
+    <string name="pressure_unit_mb">мбар</string>
+    <string name="pressure_unit_mmhg">мм.рт.ст.</string>
+    <string name="pressure_unit_inhg">inHg</string>
+
+    <string name="precipitation_unit_mm">мм</string>
+    <string name="precipitation_unit_cm">см</string>
+    <string name="precipitation_unit_in">дюйм</string>
+
+    <string name="visibility_unit_m">м</string>
+    <string name="visibility_unit_km">км</string>
+    <string name="visibility_unit_mi">миль</string>
+
+    <string name="weather_aqi_detail_units">Единицы: µg/m³ (CO: mg/m³)</string>
+
+    <string name="time_units_hour">ч</string>
+    <string name="time_units_minute">мин"</string>
+    <string name="time_units_second">сек</string>
+
+    <!-- Settings -->
+    <string name="settings_menu_title">Настройки</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">Интерфейс</string>
+    <string name="prefs_ui_theme">Тема</string>
+    <string name="prefs_ui_theme_follow_system">Системная</string>
+    <string name="prefs_ui_theme_dark">Темная</string>
+    <string name="prefs_ui_theme_light">Светлая</string>
+    <string name="prefs_ui_theme_battery">Уровень заряда</string>
+
+    <!-- Settings - weather icons -->
+    <string name="prefs_icons_skin_title">Темы иконок</string>
+    <string name="prefs_icons_skin_builtin">Встроенные</string>
+    <string name="prefs_icons_skin_available">Доступные</string>
+
+    <!-- Data sources preferences -->
+    <string name="prefs_data_source_title">Источник данных</string>
+    <string name="prefs_data_source_citydb">База городов</string>
+    <string name="prefs_data_source_weather">Прогноз погоды</string>
+    <string name="prefs_data_source_aqi">Качество воздуха</string>
+    <string name="prefs_data_source_radar">Карта осадков</string>
+    <string name="prefs_data_order">Порядок отображаемых данных</string>
+
+    <!-- Units preferences -->
+    <string name="prefs_units_title">Единицы измерения</string>
+    <string name="prefs_units_temperature">Температура</string>
+    <string name="prefs_units_pressure">Давление</string>
+    <string name="prefs_units_wind">Ветер</string>
+    <string name="prefs_units_precip">Осадки</string>
+    <string name="prefs_units_visibility">Видимость</string>
+
+    <!-- Notifications -->
+    <string name="prefs_notifications_title">Уведомления</string>
+    <string name="prefs_notification_title">Уведомление о погоде</string>
+    <string name="prefs_notification_summary">Отображать прогноз погоды в области уведомлений</string>
+    <string name="prefs_notification_icon_type_title">Иконка уведомления</string>
+    <string name="prefs_notification_icon_icon">Иконка погоды</string>
+    <string name="prefs_notification_icon_temp">Температура</string>
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">Виджеты</string>
+    <string name="prefs_widgets_not_found">Нет установленных виджетов</string>
+
+    <!-- Settings - About -->
+    <string name="prefs_about">О приложении</string>
+    <string name="prefs_app_version">Текущая версия</string>
+    <string name="prefs_app_url">Сайт</string>
+    <string name="prefs_permissions_privacy">Политика конфиденциальности</string>
+    <string name="prefs_translations">Перевод приложения</string>
+    <string name="prefs_translations_summary">Список переводчиков приложения</string>
+    <string name="prefs_thirdparty">Сторонние ресурсы и библиотеки</string>
+    <string name="prefs_help">Помощь</string>
+    <string name="prefs_feedback">Написать разработчику</string>
+    <string name="prefs_donate">Пожертвование</string>
+
+    <!-- Dialogs -->
+    <string name="weather_alert_dialog_start_time">Начало</string>
+    <string name="weather_alert_dialog_end_time">Конец</string>
+    <string name="weather_alert_dialog_source">Источник: %s</string>
+
+    <string name="dialog_changelog_title">Список изменений</string>
+    <string name="dialog_information_title">Информация</string>
+
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Отправить email</string>
+    <string name="dialog_contact_dev_send_email_message">Опишите вашу проблему:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Сообщить о проблеме</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Запросить новый функционал</string>
+    <string name="dialog_contact_dev_send_email_other">Другое</string>
+
+    <!-- Widget config -->
+    <string name="widget_config_title">Настройки виджета</string>
+    <string name="widget_config_background_title">Фон</string>
+    <string name="widget_config_use_background_title">Показывать фон виджета</string>
+    <string name="widget_config_background_color_title">Цвет фона</string>
+
+    <string name="widget_config_font_title">Шрифты</string>
+    <string name="widget_config_font_color_title">Цвет шрифта</string>
+    <string name="widget_config_font_size_title">Размер шрифта</string>
+    <string name="widget_config_clock_title">Часы</string>
+    <string name="widget_config_date_title">Дата</string>
+    <string name="widget_config_city_name_title">Имя города</string>
+    <string name="widget_config_current_temp_title">Текущая температура</string>
+    <string name="widget_config_current_condition_title">Описание погоды</string>
+    <string name="widget_config_forecast_temp_title">Температура прогноза</string>
+    <string name="widget_config_forecast_time_title">Время прогноза</string>
+    <string name="widget_config_other_title">Остальные данные</string>
+
+    <string name="widget_config_data_display_title">Отображение данных</string>
+    <string name="widget_config_show_alarm_title">Отображать следующий будильник</string>
+    <string name="widget_config_show_date_title">Отображать дату</string>
+    <string name="widget_config_dateformat_title">Формат даты</string>
+    <string name="widget_config_forecast_type_title">Тип прогноза</string>
+
+    <string name="widget_config_click_settings">Настройка нажатий</string>
+    <string name="widget_config_click_apps">Выберите приложение</string>
+    <string name="widget_config_click_clock">Часы</string>
+    <string name="widget_config_click_date">Дата</string>
+    <string name="widget_config_click_weather_icon">Иконка погоды</string>
+    <string name="widget_config_click_temperature">Температура</string>
 
     <!-- Color picker -->
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
     <string name="dialog_color_picker">Выбор цвета</string>
     <string name="color_picker_use_default_color">Использовать цвет по умолчанию</string>
 
-    <!-- AQI -->
-    <string name="aqi_main_title">Качество воздуха</string>
-    <string name="aqi_main_publish_time">Обновлено в %1$s</string>
-
-    <string name="aqi_ring_top_pollution">Основные загрязнители</string>
-    <string name="aqi_ring_desc">Индекс качества воздуха</string>
-
-    <string name="aqi_detail_5_days">Ежедневный прогноз</string>
-    <string name="aqi_detail_24_hours">Почасовой прогноз</string>
-
-    <string name="aqi_detail_unit">Единицы: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_data_source">%s</string>
-
-    <!-- Radar -->
-    <string name="radar_title">Карта</string>
-    <string name="radar_tab_cloud">Облачность</string>
-    <string name="radar_tab_rain">Осадки</string>
-    <string name="radar_date_format">dd.MM HH:mm</string>
-
-    <string name="loading_data">Загрузка данных…</string>
 </resources>

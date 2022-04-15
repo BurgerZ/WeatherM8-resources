@@ -1,300 +1,280 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">स्थान दर्ज करें</string>
-    <string name="act_find_city_hot_title">जोड़े</string>
-    <string name="act_set_city_find_side">स्थान का पता लग रहा…</string>
-    <string name="act_set_city_find_side_error">"डिवाइस का पता नहीं कर सकते ।"</string>
-    <string name="act_set_city_swipe_hint">शहर को मिटाने के लिए बाईं ओर स्वाइप करें ।</string>
-    <string name="act_weather_find_city_added">जोड़ा गया</string>
-    <string name="act_weather_find_city_click_retry">ुन: प्रयास करें</string>
-    <string name="act_weather_find_city_net_no_good">"नेटवर्क से कनेक्ट नहीं कर सकते ।"</string>
-    <string name="act_weather_find_city_no_result">कोई परिणाम नहीं</string>
-    <string name="act_weather_find_city_searching">ढूंढ़ रहा…</string>
-    <string name="activity_detail_time_format">E</string>
-    <string name="activity_find_city_dialog_cancel">रद्द करें</string>
-    <string name="activity_find_city_dialog_message">अपने स्थान का मौसम देखने दे</string>
-    <string name="activity_find_city_dialog_set">विन्यास</string>
-    <string name="activity_find_city_dialog_title">स्थान की पहुंच</string>
-    <string name="activity_main_alert">चेतावनी: %1$d</string>
-    <string name="activity_main_expire_time">गतावधिक %1$s</string>
-    <string name="activity_main_refresh_fail">"नेटवर्क कनेक्ट नहीं किया जा सका"</string>
-    <string name="activity_main_time_format">E</string>
-    <string name="activity_main_update_time">उत्परिवर्तित हुआ %1$s</string>
-    <string name="activity_main_update_time_right_now">अभी तुरन्त</string>
     <string name="app_name">व्हेदर एम8</string>
-    <string name="app_version">संस्करण: %s</string>
-    <string name="button_add_city">शहर जोड़ें</string>
-    <string name="button_allow">ठीक हैं</string>
-    <string name="button_not_allow">रद्द करें</string>
-    <string name="daily_forcast_drawer_on_top">दैनिक पूर्वानुमान</string>
-    <string name="daily_forcast_no_wind">स्थिर</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
-    <string name="daily_forcast_whirl_wind">चक्रवाती हवा</string>
-    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
-    <string name="delete">मिटायें</string>
-    <string name="first_start_network_msg">"इस एप्लिकेशन को मौसम डेटा प्राप्त करने के लिए सक्रिय इंटरनेट सम्पर्क की आवश्यकता होती हैं ।
-        एप्लिकेशन अनुमतियों का उपयोग करता हैं :
-        • आपका वर्तमान निर्देशांक पाने के लिए डिवाइस स्थान की पहुंच ।
-        • \"शेयर \" सुविधा के लिए फोटो, मीडिया और फ़ाइलों की पहुँच, ताकि स्क्रीनशॉट को बचाए रखे ।"</string>
-    <string name="first_start_network_title">इंटरनेट सम्पर्क और स्थान की पहुंच</string>
-    <string name="gps_hint">GPS</string>
-    <string name="hour_minute_time_format">HH:mm</string>
-    <string name="hourly_forcast_now">अभी</string>
-    <string name="hourly_forecast_title">हर घंटे का पूर्वानुमान</string>
-    <string name="international_detail_menu_title">विवरण</string>
-    <string name="locate_fail_detail_err">"डिवाइस का पता नहीं कर सकते
-शहर मैन्युअल रूप से जोड़े या फिर पता लगाने की कोशिश करने के लिए नीचे दिए गए बटन को टैप करें ।"</string>
-    <string name="location_management">स्थिति</string>
-    <string name="location_tag">पता लगाएँ</string>
-    <string name="menu_moon_phases">चन्द्र कलाएं</string>
-    <string name="moon_age">आयु: %1$s दिन %2$s घंटा %3$s मिनट</string>
-    <string name="moon_angle">चंद्रमा कोण: %s</string>
-    <string name="moon_distanse">चंद्रमा दूरी: %s किमी</string>
-    <string name="moon_firstquarter">पहली तिमाही</string>
-    <string name="moon_full">पूर्णिमा</string>
-    <string name="moon_illuminated">उजाला किया: %s%%</string>
-    <string name="moon_lastquarter">अंतिम चौथाई</string>
+
+    <string name="app_translation_locale">hi</string>
+    <string name="app_translation_author">Abhishek</string>
+
+    <!-- Common strings -->
+    <string name="wait">Please wait…</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_failed">Download failed. Try again later</string>
+    <string name="download_succeeded">Download completed</string>
+
+    <!-- City manager -->
+    <string name="city_manager_drag_swipe_tip">Tip: Long press to drag, swipe left to delete</string>
+    <string name="city_manager_locating">स्थान का पता लग रहा…</string>
+    <string name="city_manager_locating_no_permission">"डिवाइस का पता नहीं कर सकते ।"</string>
+
+    <!-- Main menu (Not used) -->
+
+    <!-- Location manager -->
+    <string name="location_manager_title">स्थिति</string>
+    <string name="location_manager_search_hint">Type city name here</string>
+
+    <!-- Weather details -->
+    <string name="weather_details_title">मौसम विवरण</string>
+    <string name="weather_details_feelslike">की तरह महसूस</string>
+    <string name="weather_details_humidity">आर्द्रता</string>
+    <string name="weather_details_wind">हवा</string>
+    <string name="weather_details_dewpoint">Dew point</string>
+    <string name="weather_details_pressure">दबाव</string>
+    <string name="weather_details_precip">वर्षण</string>
+    <string name="weather_details_visibility">दृश्यता</string>
+    <string name="weather_details_uvindex">यूवी सूचकांक</string>
+    <string name="weather_details_timezone">समय क्षेत्र</string>
+    <string name="weather_details_daylight_hours">दिन के उजाले घंटे</string>
+
+    <!-- Hourly -->
+    <string name="forecast_hourly_title">हर घंटे का पूर्वानुमान</string>
+
+    <!-- Daily -->
+    <string name="forecast_daily_title">दैनिक पूर्वानुमान</string>
+
+    <!-- Radar view -->
+    <string name="radar_view_title">राडार</string>
+    <string name="radar_view_legend_overcast">Overcast</string>
+    <string name="radar_view_legend_drizzle">Drizzle</string>
+    <string name="radar_view_legend_light_rain">Light rain</string>
+    <string name="radar_view_legend_moderate_rain">Moderate rain</string>
+    <string name="radar_view_legend_heavy_rain">Heavy rain</string>
+    <string name="radar_view_legend_hail">Hail</string>
+    <string name="radar_view_legend_light_snow">Light snow</string>
+    <string name="radar_view_legend_medium_snow">Medium snow</string>
+    <string name="radar_view_legend_heavy_snow">Heavy snow</string>
+
+    <!-- AQI -->
+    <string name="aqi_title">हवा की गुणवत्ता</string>
+    <string name="aqi_summary_1">Good</string>
+    <string name="aqi_summary_2">Moderate</string>
+    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
+    <string name="aqi_summary_4">Unhealthy</string>
+    <string name="aqi_summary_5">Very unhealthy</string>
+    <string name="aqi_summary_6">Hazardous</string>
+
+    <!-- Kp-Index -->
+    <string name="forecast_kpindex_title">Kp-Index</string>
+    <string name="forecast_kpindex_gm1">Minor Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm2">Moderate Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm3">Severe Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm4">Strong Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm5">Extreme Geomagnetic Storm</string>
+
+    <!-- Sun and moon -->
+    <string name="sun_moon_title">Sun and Moon</string>
+    <!-- Sun Info -->
+    <string name="sun_info_title">Sun</string>
+    <string name="sun_info_sunrise">सूर्योदय</string>
+    <string name="sun_info_sunset">सूर्यास्त</string>
+    <string name="sun_info_dawn">Dawn</string>
+    <string name="sun_info_dusk">Dusk</string>
+    <string name="sun_info_noon">Noon</string>
+    <string name="sun_info_nadir">Nadir</string>
+    <string name="sun_info_azimuth">Azimuth</string>
+    <string name="sun_info_height">Altitude</string>
+    <string name="sun_info_eclipse">Eclipse</string>
+    <string name="sun_info_eclipse_type_total">Total</string>
+    <string name="sun_info_eclipse_type_partial">Partial</string>
+    <string name="sun_info_eclipse_type_annular">Annular</string>
+
+
+    <!-- Moon Info -->
+    <string name="moon_info_title">Moon</string>
+    <string name="moon_info_moonrise">Rise</string>
+    <string name="moon_info_moonset">Set</string>
+    <string name="moon_info_date">Date</string>
+    <string name="moon_info_age">Age</string>
+    <string name="moon_info_illuminated">Illuminated</string>
+    <string name="moon_info_zodiac">Zodiac</string>
+    <string name="moon_info_distance">Distance</string>
+    <string name="moon_info_azimuth">Azimuth</string>
+    <string name="moon_info_altitude">Altitude</string>
+    <string name="moon_info_phase">Phase</string>
+    <string name="moon_info_eclipse">Eclipse</string>
+    <string name="moon_info_eclipse_type_total">Total</string>
+    <string name="moon_info_eclipse_type_partial">Partial</string>
+    <string name="moon_info_eclipse_type_annular">Annular</string>
+    <string name="moon_info_eclipse_type_penumbral">Penumbral</string>
+    <string name="moon_info_age_unit_days">days</string>
+    <string name="moon_info_distance_unit_km">km</string>
+
+    <!-- Moon phases -->
     <string name="moon_newmoon">अमावस्या</string>
-    <string name="moon_since">तिथि: %1$s %2$s</string>
-    <string name="moon_waningcrescent">ढलता अर्द्धचंद्र</string>
-    <string name="moon_waninggibbous">ढलता कुबड़ा</string>
-    <string name="moon_waxingcrescent">बढ़ता अर्द्धचंद्र</string>
+    <string name="moon_waxingcrescent">ढलता अर्द्धचंद्र</string>
+    <string name="moon_firstquarter">पहली तिमाही</string>
     <string name="moon_waxinggibbous">बढ़ता कुबड़ा</string>
-    <string name="moon_zodiac">राशि: %s</string>
-    <string name="more_details">अधिक जानकारी</string>
-    <string name="network_unavailable">"नेटवर्क से सम्पर्क नहीं कर सकते ।"</string>
-    <string name="settings_about">के विषय में</string>
-    <string name="settings_alerts_title">चेतावनी संचालन</string>
-    <string name="settings_app_locale_title">भाषा</string>
-    <string name="settings_autoupdate_weather_summary">स्वचालित रूप से मौसम का पूर्वानुमान</string>
-    <string name="settings_autoupdate_weather_title">स्वत: उत्परिवर्तित</string>
-    <string name="settings_category_units">इकाई</string>
-    <string name="settings_city_base">शहर का आंकड़ा</string>
-    <string name="settings_icons_title">मौसम प्रतीक</string>
-    <string name="settings_menu_title">विन्यास</string>
-    <string name="settings_notification_priority_summary">न्यूनतम प्राथमिकता सूचनाएं केवल सूचना शेड में दिखाएँ</string>
-    <string name="settings_notification_priority_title">न्यूनतम प्राथमिकता</string>
-    <string name="settings_notification_summary">सूचना क्षेत्र में वर्तमान मौसम की स्थिति दिखाएँ</string>
-    <string name="settings_notification_title">सूचना दिखाएँ</string>
-    <string name="settings_notifications_summary">मौसम सूचना विन्यास</string>
-    <string name="settings_notifications_title">सूचनाएं</string>
-    <string name="settings_notify_type_title">सूचना प्रतीक</string>
-    <string name="settings_pressure_unit">दबाव</string>
-    <string name="settings_pressure_unit_in">inHg</string>
-    <string name="settings_pressure_unit_mb">mb</string>
-    <string name="settings_pressure_unit_mm">mmHg</string>
-    <string name="settings_temp_unit">तापमान</string>
-    <string name="settings_translations">एप्लिकेशन अनुवाद</string>
-    <string name="settings_translations_summary">एप्लिकेशन अनुवादकों को श्रेय दे, अपनी भाषा में एप्लिकेशन का अनुवाद करें</string>
-    <string name="settings_update_interval_title">उत्परिवर्तित अंतराल</string>
-    <string name="settings_visibility_unit">दृश्यता</string>
-    <string name="settings_visibility_unit_kilometers">किमी</string>
-    <string name="settings_visibility_unit_meters">मी</string>
-    <string name="settings_visibility_unit_miles">मील</string>
-    <string name="settings_weather_details_summary">मौसम विवरण को मुख्य स्क्रीन पर दिखाने के लिए चुनें</string>
-    <string name="settings_weather_details_title">मौसम विवरण</string>
-    <string name="settings_weather_spider_title">उत्परिवर्तित स्रोत</string>
-    <string name="settings_weather_transfer_summary">दिन से रात हस्तांतरण के लिए मौसम विवरण दिखाएँ</string>
-    <string name="settings_weather_transfer_title">मौसम विवरण हस्तांतरण</string>
-    <string name="settings_wind_unit">हवा की गति</string>
-    <string name="settings_wind_unit_kmh">किमी/घंटा</string>
-    <string name="settings_wind_unit_mph">मील/घंटा</string>
-    <string name="settings_wind_unit_ms">मी/सेकंड</string>
-    <string name="share_btn_cancel">रद्द करें</string>
-    <string name="share_btn_confirm">शेयर करें</string>
-    <string name="share_button">शेयर</string>
-    <string name="share_menu_title">शेयर करें</string>
-    <string name="share_subject">शेयर</string>
-    <string name="share_weather_desc">\#व्हेदर एम8# आज %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s, %2$s</string>
-    <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">"स्क्रीनशॉट नहीं ले सकते"</string>
-    <string name="sunrise">सूर्योदय</string>
-    <string name="sunset">सूर्यास्त</string>
+    <string name="moon_full">पूर्णिमा</string>
+    <string name="moon_waninggibbous">ढलता कुबड़ा</string>
+    <string name="moon_lastquarter">अंतिम चौथाई</string>
+    <string name="moon_waningcrescent">ढलता अर्द्धचंद्र</string>
+
+    <!-- Zodiac signs -->
+    <string name="zodiac_aries">मेष राशि</string>
+    <string name="zodiac_taurus">वृषभ राशि</string>
+    <string name="zodiac_gemini">मिथुन राशि</string>
+    <string name="zodiac_cancer">कर्क राशि</string>
+    <string name="zodiac_leo">सिंह राशि</string>
+    <string name="zodiac_virgo">कन्या राशि</string>
+    <string name="zodiac_libra">तुला राशि</string>
+    <string name="zodiac_scorpio">वृश्चिक राशि</string>
+    <string name="zodiac_sagittarius">धनु राशि</string>
+    <string name="zodiac_capricorn">मकर राशि</string>
+    <string name="zodiac_aquarius">कुंभ राशि</string>
+    <string name="zodiac_pisces">मीन राशि</string>
+
+    <!-- Units -->
+    <string name="wind_direction_n">N</string>
+    <string name="wind_direction_ne">NE</string>
+    <string name="wind_direction_e">E</string>
+    <string name="wind_direction_se">SE</string>
+    <string name="wind_direction_s">S</string>
+    <string name="wind_direction_sw">SW</string>
+    <string name="wind_direction_w">W</string>
+    <string name="wind_direction_nw">NW</string>
+
+    <string name="wind_unit_ms">मी/सेकंड</string>
+    <string name="wind_unit_kmh">किमी/घंटा</string>
+    <string name="wind_unit_mph">मील/घंटा</string>
+    <string name="wind_unit_knot">knot</string>
+    <string name="wind_unit_bft">bft</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_mb">mb</string>
+    <string name="pressure_unit_mmhg">mmHg</string>
+    <string name="pressure_unit_inhg">inHg</string>
+
+
+    <string name="precipitation_unit_mm">mm</string>
+    <string name="precipitation_unit_cm">cm</string>
+    <string name="precipitation_unit_in">in</string>
+
+    <string name="visibility_unit_m">मी</string>
+    <string name="visibility_unit_km">किमी</string>
+    <string name="visibility_unit_mi">मील</string>
+
+    <string name="weather_aqi_detail_units">इकाई: µg/m³ (CO: mg/m³)</string>
+
     <string name="time_units_hour">घं</string>
     <string name="time_units_minute">मि</string>
     <string name="time_units_second">से</string>
-    <string name="view_forecast_item_yesterday">गत दिन</string>
-    <string name="view_indexes_item_today">आज</string>
-    <string name="view_indexes_item_tommorrow">कल</string>
-    <string name="weather_details_daylight_hours_title">दिन के उजाले घंटे</string>
-    <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_humidity_title">आर्द्रता</string>
-    <string name="weather_details_precipitation_prob_title">वर्षण</string>
-    <string name="weather_details_pressure">%1$s hPa</string>
-    <string name="weather_details_pressure_in">%1$s inHg</string>
-    <string name="weather_details_pressure_mb">%1$s mb</string>
-    <string name="weather_details_pressure_mm">%1$s mmHg</string>
-    <string name="weather_details_pressure_title">दबाव</string>
-    <string name="weather_details_real_feel_title">की तरह महसूस</string>
-    <string name="weather_details_title">मौसम विवरण</string>
-    <string name="weather_details_uv_index_title">यूवी सूचकांक</string>
-    <string name="weather_details_visibility">%1$s किमी</string>
-    <string name="weather_details_visibility_meters">%1$s मी</string>
-    <string name="weather_details_visibility_miles">%1$s मील</string>
-    <string name="weather_details_visibility_title">दृश्यता</string>
-    <string name="weather_details_wind_connect">%1$s %2$s</string>
-    <string name="weather_details_wind_title">हवा</string>
-    <string name="widget_update_date_string">उत्परिवर्तित हुआ %s</string>
-    <string name="widget_update_updating_string">उत्परिवर्तित हो रहा…</string>
-    <string name="wind_unit">%1$sकिमी/घंटा</string>
-    <string name="wind_unit_mph">%1$sमील/घंटा</string>
-    <string name="wind_unit_ms">%1$sमी/सेकंड</string>
-    <string name="zodiac_aquarius">कुंभ राशि</string>
-    <string name="zodiac_aries">मेष राशि</string>
-    <string name="zodiac_cancer">कर्क राशि</string>
-    <string name="zodiac_capricorn">मकर राशि</string>
-    <string name="zodiac_gemini">मिथुन राशि</string>
-    <string name="zodiac_leo">सिंह राशि</string>
-    <string name="zodiac_libra">तुला राशि</string>
-    <string name="zodiac_pisces">मीन राशि</string>
-    <string name="zodiac_sagittarius">धनु राशि</string>
-    <string name="zodiac_scorpio">वृश्चिक राशि</string>
-    <string name="zodiac_taurus">वृषभ राशि</string>
-    <string name="zodiac_virgo">कन्या राशि</string>
-    <string name="aqi_data_source">%s</string>
-    <string name="aqi_detail_24_hours">हर घंटे का पूर्वानुमान</string>
-    <string name="aqi_detail_5_days">दैनिक पूर्वानुमान</string>
-    <string name="aqi_detail_unit">इकाई: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_main_publish_time">उत्परिवर्तित किया गया %1$s</string>
-    <string name="aqi_main_title">हवा की गुणवत्ता</string>
-    <string name="aqi_ring_desc">हवा गुणवत्ता सूचकांक</string>
-    <string name="aqi_ring_top_pollution">प्रमुख प्रदूषक</string>
-    <string name="common_auto">स्वत:</string>
-    <string name="common_recommended">ससंस्तुति की गयी</string>
-    <string name="dialog_color_picker">रंग चयनकर्ता</string>
-    <string name="feedback_action_send">भेजें</string>
-    <string name="feedback_add_images">छवियां जोड़ें</string>
-    <string name="feedback_description">विवरण</string>
-    <string name="feedback_description_hint">इस विवाद या सुझाव का पूरी तरह से वर्णन करें</string>
-    <string name="feedback_error">प्रतिक्रिया भेजने में त्रुटि</string>
-    <string name="feedback_fill_required">आवश्यक फ़ील्ड को रिक्त नहीं छोड़ा जा सकता</string>
-    <string name="feedback_select_upload_settings">ऐप्लिकेशन सेटिंग अपलोड करें</string>
-    <string name="feedback_sending">प्रतिक्रिया भेज रहा है...</string>
-    <string name="feedback_sent">आपकी प्रतिक्रिया के लिए धन्यवाद!</string>
-    <string name="feedback_title">शीर्षक</string>
-    <string name="feedback_title_hint">इस मुद्दे का संक्षेप में वर्णन करें</string>
-    <string name="get_accounts_msg">इस ऐप को आपकी खरीदारी की जांच करने और विज्ञापन बंद करने के लिए डिवाइस खातों की सूची तक पहुंच की आवश्यकता है।</string>
-    <string name="get_accounts_title">खाता पहुंच</string>
-    <string name="moon_rise">उदय: %s</string>
-    <string name="moon_set">अस्त: %s</string>
-    <string name="network_error">"सर्वर को कनेक्ट नहीं किया जा सका।
-अपने नेटवर्क सेटिंग्स की जाँच करें।"</string>
-    <string name="network_in_quiet_hours">अब आप शांत समय में हैं। उत्परिवर्तित रद्द किया गया।</string>
-    <string name="network_in_roaming">रोमिंग में उत्परिवर्तित को निष्क्रिय करने के लिए आपके पास सेटिंग्स हैं।</string>
-    <string name="network_wifi_only">उत्परिवर्तित केवल वाई-फाई पर स्थापित  करें।</string>
-    <string name="press_color_to_apply">लागू करने के लिए रंग पर दबाएं</string>
-    <string name="radar_title">राडार</string>
-    <string name="settings_ads_explanation">"आप विज्ञापन क्यों देखते हैं?
-एंड्रॉइड के लिए एप्लीकेशन लिखना मेरे लिए एक शौक है, जो मैं अपने व्यक्तिगत खाली समय में करते हैं। इसलिए कृपया कुछ निश्चित बैनर की उपस्थिति को समझ के साथ व्यवहार करें। एप्लीकेशन में विज्ञापन प्रदर्शित करना और विकास को उत्तेजित करता है।"</string>
-    <string name="settings_ads_menu_hide_title">यह मेनू विषय छुपाएं</string>
-    <string name="settings_ads_remove_summary">एक सप्ताह के लिए विज्ञापन हटाए (महीने में एक बार)</string>
-    <string name="settings_ads_remove_title">विज्ञापन हटाए</string>
-    <string name="settings_ads_title">विज्ञापन और दान</string>
-    <string name="settings_ads_yandex">यांडेक्स मनी</string>
-    <string name="settings_app_theme_dark">धुंध</string>
-    <string name="settings_app_theme_light">चमक</string>
-    <string name="settings_app_theme_title">थीम</string>
-    <string name="settings_aqi_max_distance_closest">निकटतम स्टेशन</string>
-    <string name="settings_aqi_max_distance_summary">मौसम स्टेशनों से हवा की गुणवत्ता के आंकड़े प्राप्त करें, भीतर की दूरी पर स्थित %1$s</string>
-    <string name="settings_aqi_max_distance_title">AQI रेडियस की जांच करें</string>
-    <string name="settings_aqi_onoff_summary">अपने स्थानों के लिए वायु गुणवत्ता सूचकांक जानकारी दिखाएं (यदि उपलब्ध हो)</string>
-    <string name="settings_aqi_onoff_title">वायु गुणवत्ता सूचना</string>
-    <string name="settings_dialog_enter_timezone">चयनित शहर के लिए समय क्षेत्र दर्ज करें (%s), उदाहरणार्थ GMT+03:00:</string>
-    <string name="settings_feedback">प्रतिक्रिया भेजें</string>
-    <string name="settings_help">मदद</string>
-    <string name="settings_icons_theme_details_title">थीम विवरण</string>
-    <string name="settings_notification_statusbar_color_title">अधिसूचना प्रतीक रंग</string>
-    <string name="settings_permissions">अनुमतियां</string>
-    <string name="settings_pressure_level_title">दबाव प्रदर्शन के लिए</string>
-    <string name="settings_pressure_unit_atm">atm</string>
-    <string name="settings_pressure_unit_hpa">hPa</string>
-    <string name="settings_realtime_feelslike_as_main_summary">मुख्य मौसम के तापमान के रूप में वास्तविक अनुभव तापमान दिखाएं</string>
-    <string name="settings_realtime_feelslike_as_main_title">मुख्य तापमान के रूप में अनुभव जैसा</string>
-    <string name="settings_show_plus_sign_temp_summary">सकारात्मक तापमान के लिए + चिह्न दिखाएँ</string>
-    <string name="settings_show_plus_sign_temp_title">+ चिह्न दिखाएँ</string>
-    <string name="settings_sound_volume">ध्वनि आवाज़</string>
-    <string name="settings_thirdparty">तीसरे पक्ष की लाइब्रेरीज़ और संसाधन</string>
-    <string name="settings_update_quiet_hours_end_time_title">समाप्त</string>
-    <string name="settings_update_quiet_hours_start_time_title">प्रारंभ</string>
-    <string name="settings_update_quiet_hours_title">शांत घंटे</string>
-    <string name="settings_update_wifi_only_summary">स्वचालित रूप से मौसम के पूर्वानुमान को उत्परिवर्तित करें, जब वाई-फाई कनेक्शन स्थापित हो</string>
-    <string name="settings_update_wifi_only_title">केवल वाई-फाई पर उत्परिवर्तित करें</string>
-    <string name="settings_weather_forecast_spider_title">पूर्वानुमान जानकारी</string>
-    <string name="settings_weather_realtime_spider_title">वास्तविक अनुभव जानकारी</string>
-    <string name="settings_weather_station_title">मेटो स्टेशन</string>
-    <string name="settings_widgets_not_found">कोई भी स्थापित विजेट नहीं मिला</string>
-    <string name="settings_widgets_title">विजेट</string>
-    <string name="settings_wind_unit_knot">knot</string>
-    <string name="weather_details_elevation_title">Elevation</string>
-    <string name="weather_details_pressure_atm">%1$s atm</string>
-    <string name="weather_details_temperature_title">तापमान</string>
-    <string name="weather_details_timezone_title">समय क्षेत्र</string>
-    <string name="weather_details_update_date_string">निरीक्षण समय: %s</string>
+
+    <!-- Settings -->
+    <string name="settings_menu_title">विन्यास</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">User interface</string>
+    <string name="prefs_ui_theme">Theme</string>
+    <string name="prefs_ui_theme_follow_system">Follow System</string>
+    <string name="prefs_ui_theme_dark">Dark Mode</string>
+    <string name="prefs_ui_theme_light">Light Mode</string>
+    <string name="prefs_ui_theme_battery">Auto Battery</string>
+
+    <!-- Settings - weather icons -->
+    <string name="prefs_icons_skin_title">Weather icons skin</string>
+    <string name="prefs_icons_skin_builtin">Built-in</string>
+    <string name="prefs_icons_skin_available">Available</string>
+
+    <!-- Data sources preferences -->
+    <string name="prefs_data_source_title">Data source</string>
+    <string name="prefs_data_source_citydb">शहर का आंकड़ा</string>
+    <string name="prefs_data_source_weather">Weather forecast</string>
+    <string name="prefs_data_source_aqi">Air quality</string>
+    <string name="prefs_data_source_radar">Precipitation map</string>
+    <string name="prefs_data_order">Weather data order</string>
+
+    <!-- Units preferences -->
+    <string name="prefs_units_title">इकाई</string>
+    <string name="prefs_units_temperature">तापमान</string>
+    <string name="prefs_units_pressure">दबाव</string>
+    <string name="prefs_units_wind">हवा</string>
+    <string name="prefs_units_precip">Precipitation</string>
+    <string name="prefs_units_visibility">दृश्यता</string>
+
+    <!-- Notifications -->
+    <string name="prefs_notifications_title">सूचनाएं</string>
+    <string name="prefs_notification_title">सूचना दिखाएँ</string>
+    <string name="prefs_notification_summary">सूचना क्षेत्र में वर्तमान मौसम की स्थिति दिखाएँ</string>
+    <string name="prefs_notification_icon_type_title">सूचना प्रतीक</string>
+    <string name="prefs_notification_icon_icon">Weather Icon</string>
+    <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">विजेट</string>
+    <string name="prefs_widgets_not_found">कोई भी स्थापित विजेट नहीं मिला</string>
+
+    <!-- Settings - About -->
+    <string name="prefs_about">के विषय में</string>
+    <string name="prefs_app_version">संस्करण: %s</string>
+    <string name="prefs_app_url">Website</string>
+    <string name="prefs_permissions_privacy">Privacy Policy</string>
+    <string name="prefs_translations">एप्लिकेशन अनुवाद</string>
+    <string name="prefs_translations_summary">एप्लिकेशन अनुवादकों को श्रेय दे, अपनी भाषा में एप्लिकेशन का अनुवाद करें</string>
+    <string name="prefs_thirdparty">तीसरे पक्ष की लाइब्रेरीज़ और संसाधन</string>
+    <string name="prefs_help">मदद</string>
+    <string name="prefs_feedback">प्रतिक्रिया भेजें</string>
+    <string name="prefs_donate">Donation</string>
+
+    <!-- Dialogs -->
+    <string name="weather_alert_dialog_start_time">Start</string>
+    <string name="weather_alert_dialog_end_time">End</string>
+    <string name="weather_alert_dialog_source">Source: %s</string>
+
+    <string name="dialog_changelog_title">Changelog</string>
+    <string name="dialog_information_title">Information</string>
+
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Send email</string>
+    <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Report a bug</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
+    <string name="dialog_contact_dev_send_email_other">Other</string>
+
+    <!-- Widgets -->
+
+    <!-- Widget config -->
+    <string name="widget_config_title">विजेट कॉन्फ़िगरेशन</string>
+    <string name="widget_config_background_title">Background</string>
+    <string name="widget_config_use_background_title">विजेट पृष्ठभूमि दिखाएं</string>
     <string name="widget_config_background_color_title">ृष्ठभूमि का रंग</string>
-    <string name="widget_config_background_type_border">किनारा</string>
-    <string name="widget_config_background_type_solid">दृढ़</string>
-    <string name="widget_config_background_type_title">पृष्ठभूमि प्रकार</string>
+
+    <string name="widget_config_font_title">Fonts</string>
+    <string name="widget_config_font_color_title">Font color</string>
+    <string name="widget_config_font_size_title">Font size</string>
+    <string name="widget_config_clock_title">Clock</string>
+    <string name="widget_config_date_title">Date</string>
+    <string name="widget_config_city_name_title">City name</string>
+    <string name="widget_config_current_temp_title">Current temperature</string>
+    <string name="widget_config_current_condition_title">Current condition</string>
+    <string name="widget_config_forecast_temp_title">Forecast temperature</string>
+    <string name="widget_config_forecast_time_title">Forecast time</string>
+    <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_data_display_title">Data display</string>
+    <string name="widget_config_show_alarm_title">अगले अलार्म दिखाएं</string>
+    <string name="widget_config_show_date_title">तिथि दिखाएं</string>
+    <string name="widget_config_dateformat_title">तिथि का प्रारूप</string>
+    <string name="widget_config_forecast_type_title">Forecast type</string>
+
+    <string name="widget_config_click_settings">विजेट क्षेत्रों की सेटिंग्स पर क्लिक करें</string>
     <string name="widget_config_click_apps">एप्लीकेशन का चयन करें</string>
     <string name="widget_config_click_clock">घड़ी</string>
     <string name="widget_config_click_date">तिथि</string>
-    <string name="widget_config_click_settings">विजेट क्षेत्रों की सेटिंग्स पर क्लिक करें</string>
-    <string name="widget_config_click_temperature">तापमान</string>
     <string name="widget_config_click_weather_icon">मौसम प्रतीक</string>
-    <string name="widget_config_clock_color_title">घड़ी का रंग</string>
-    <string name="widget_config_clock_font_size_title">घड़ी लिपि का आकार</string>
-    <string name="widget_config_clock_font_title">घड़ी लिपि</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">इसे बंद करें यदि विजेट घड़ी उत्परिवर्तित नहीं हो रही है</string>
-    <string name="widget_config_custom_clock_font_onoff_title">कस्टम घड़ी लिपि</string>
-    <string name="widget_config_date_font_size_title">दिनांक लिपि आकार</string>
-    <string name="widget_config_dateformat_title">तिथि का प्रारूप</string>
-    <string name="widget_config_font_size_title">शब्दों का आकर</string>
-    <string name="widget_config_font_title">लिखावट लिपि</string>
-    <string name="widget_config_realtime_font_size_title">वास्तविक काल विवरण का लिखावट आकार</string>
-    <string name="widget_config_realtime_font_title">वास्तविक काल विवरण लिपि</string>
-    <string name="widget_config_show_alarm_title">अगले अलार्म दिखाएं</string>
-    <string name="widget_config_show_cityname_title">शहर का नाम दिखाएं</string>
-    <string name="widget_config_show_leading_zero_title">अग्रणी शून्य दिखाएं</string>
-    <string name="widget_config_show_local_time_title">स्थानीय समय दिखाएं</string>
-    <string name="widget_config_text_color_title">लिखावट का रंग</string>
-    <string name="widget_config_title">विजेट कॉन्फ़िगरेशन</string>
-    <string name="widget_config_use_background_title">विजेट पृष्ठभूमि दिखाएं</string>
-    <string name="wind_unit_knot">%1$sknot</string>
-    <string name="activity_main_update_time_expire">विवरण समाप्त हो गया</string>
-    <string name="aqi_detail_co">CO</string>
-    <string name="aqi_detail_no2">NO₂</string>
-    <string name="aqi_detail_o3">O₃</string>
-    <string name="aqi_detail_pm10">PM10</string>
-    <string name="aqi_detail_pm25">PM2.5</string>
-    <string name="aqi_detail_so2">SO₂</string>
-    <string name="aqi_detail_subtitle">AQI %1$s</string>
-    <string name="aqi_sub_desc">AQI</string>
-    <string name="daily_forecast_detail_date">d MMM</string>
-    <string name="date_time_am">पूर्वाह्न</string>
-    <string name="date_time_pm">अपराह्न</string>
-    <string name="hourly_forecast_detail_date">d MMM, E</string>
-    <string name="settings_ads_donation_expl">नीचे दिए गए बटनों को दबाकर गूगल प्ले के माध्यम से किया गया दान विज्ञापन को नहीं हटाएगा। उन्हें हटाने के लिए आपको उपयोग करना चाहिए \"विज्ञापन हटाए\" बटन।</string>
-    <string name="settings_ads_donations_title">मुझे कॉफी खरीदें</string>
-    <string name="settings_ads_webmoney">वेबमनी</string>
-    <string name="settings_aqi_title">@string/aqi_main_title</string>
-    <string name="settings_icons_builtin_title">अंतर्निर्मित मौसम प्रतीक</string>
-    <string name="settings_wind_unit_bft">bft</string>
-    <string name="top_pollution_co">CO</string>
-    <string name="top_pollution_no2">NO2</string>
-    <string name="top_pollution_o3">O3</string>
-    <string name="top_pollution_pm10">PM10</string>
-    <string name="top_pollution_pm25">PM2.5</string>
-    <string name="top_pollution_so2">SO2</string>
-    <string name="weather_details_daylight_diff_longer">%1$s लंबे समय तक</string>
-    <string name="weather_details_daylight_diff_shorter">%1$s कम</string>
-    <string name="weather_short_month_update_date">d MMM</string>
-    <string name="weather_update_date">d MMMM</string>
-    <string name="widget_config_forecast_icon_size_title">पूर्वानुमान मौसम प्रतीक आकार</string>
-    <string name="widget_config_realtime_icon_size_title">वर्तमान मौसम प्रतीक आकार</string>
-    <string name="widget_config_show_date_title">तिथि दिखाएं</string>
-    <string name="widget_dateformat_default_value">d MMMM yyyy</string>
-    <string name="wind_unit_bft">%1$sbft</string>
-    <string name="widget_config_show_realtime_icon_title">वर्तमान मौसम प्रतीक दिखाएं</string>
-    <string name="widget_config_show_text_shadow_title">लिखावट छाया दिखाएँ</string>
+    <string name="widget_config_click_temperature">तापमान</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">लागू करने के लिए रंग पर दबाएं</string>
+    <string name="dialog_color_picker">रंग चयनकर्ता</string>
+    <string name="color_picker_use_default_color">Use default color</string>
+
 </resources>

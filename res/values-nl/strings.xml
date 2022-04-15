@@ -1,170 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Weather M8</string>
-    <string name="app_version">Version: %s</string>
-    <string name="location_management">Locaties</string>
-    <string name="gps_hint">GPS</string>
-    <string name="network_unavailable">"Kan geen verbinding maken met netwerk."</string>
-    <string name="act_find_city_hot_title">Toevoegen</string>
-    <string name="act_find_city_hint">Plaats invoeren</string>
-    <string name="act_set_city_find_side">Localiseren…</string>
-    <string name="act_set_city_find_side_error">"Kan locatie van het apparaat niet bepalen"</string>
-    <string name="button_add_city">Plaats toevoegen</string>
-    <string name="locate_fail_detail_err">"Kan locatie niet bepalen
-Gebruik onderstaand knop om handmatig een plaats toe te voegen of probeer opnieuw locatie te bepalen"</string>
-    <string name="act_set_city_swipe_hint">Veeg naar links om plaats te verwijderen</string>
-    <string name="button_allow">OK</string>
-    <string name="button_not_allow">Annuleren</string>
-    <string name="act_weather_find_city_net_no_good">"Kan geen verbinding maken met netwerk."</string>
-    <string name="act_weather_find_city_click_retry">Opnieuw proberen</string>
-    <string name="act_weather_find_city_searching">Zoeken…</string>
-    <string name="location_tag">Bepaal locatie</string>
-    <string name="act_weather_find_city_no_result">Geen resultaten</string>
-    <string name="act_weather_find_city_added">Toegevoegd</string>
-    <string name="view_forecast_item_yesterday">Gisteren</string>
-    <string name="view_indexes_item_today">Vandaag</string>
-    <string name="view_indexes_item_tommorrow">Morgen</string>
-    <string name="activity_main_update_time">Bijgewerkt %1$s</string>
-    <string name="activity_main_update_time_right_now">zojuist</string>
-    <string name="activity_main_refresh_fail">"Kan geen verbinding maken met netwerk"</string>
-    <string name="activity_find_city_dialog_cancel">Annuleren</string>
-    <string name="activity_find_city_dialog_set">Instellingen</string>
-    <string name="activity_find_city_dialog_title">Toegang tot locatie</string>
-    <string name="activity_find_city_dialog_message">Laat Weather M8 uw locatie bepalen</string>
-    <string name="activity_main_time_format">E</string>
-    <string name="activity_detail_time_format">E</string>
-    <string name="hour_minute_time_format">HH:mm</string>
-    <string name="first_start_network_msg">"Deze app heeft een actieve internetverbinding nodig om weerinformatie op te halen.
-        App gebruikt de volgende rechten:
-        \u2022 Toegang tot uw huidige locatie.
-        \u2022 Toegang tot foto's, media en bestanden om schermopnames vast te leggen voor de \"Delen\" functie."</string>
-    <string name="first_start_network_title">Internetverbinding en toegang tot locatie</string>
-    <string name="international_detail_menu_title">Details</string>
-    <string name="share_menu_title">Delen</string>
 
-    <!-- Preferences -->
-    <string name="settings_menu_title">Instellingen</string>
-    <string name="settings_autoupdate_weather_title">Automatisch bijwerken</string>
-    <string name="settings_autoupdate_weather_summary">Weersvoorspelling automatisch bijwerken</string>
-    <string name="settings_update_interval_title">Update interval</string>
-    <string name="settings_weather_transfer_title">Weer beschrijving overdracht</string>
-    <string name="settings_weather_transfer_summary">Laat weer omschrijving dag naar nacht overdracht</string>
-    <string name="settings_weather_spider_title">Update bron</string>
-    <string name="settings_weather_details_title">Weer details</string>
-    <string name="settings_weather_details_summary">Selecteer details om weer te geven op het hoofdscherm</string>
-    <string name="settings_category_units">Eenheden</string>
-    <string name="settings_pressure_unit">Luchtdruk</string>
-    <string name="settings_pressure_unit_mb">mb</string>
-    <string name="settings_pressure_unit_mm">mmHg</string>
-    <string name="settings_pressure_unit_in">inHg</string>
-    <string name="settings_wind_unit">Windsnelheid</string>
-    <string name="settings_wind_unit_kmh">km/u</string>
-    <string name="settings_wind_unit_ms">m/s</string>
-    <string name="settings_wind_unit_mph">mpu</string>
-    <string name="settings_temp_unit">Temperatuur</string>
-    <string name="settings_visibility_unit">Zicht</string>
-    <string name="settings_visibility_unit_kilometers">km</string>
-    <string name="settings_visibility_unit_meters">m</string>
-    <string name="settings_visibility_unit_miles">mijl</string>
+    <string name="app_translation_locale">nl</string>
+    <string name="app_translation_author">Jelger Postma</string>
 
-    <string name="settings_city_base">Plaatsen Database</string>
+    <!-- Common strings -->
+    <string name="wait">Please wait…</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_failed">Download failed. Try again later</string>
+    <string name="download_succeeded">Download completed</string>
 
-    <string name="settings_notifications_title">Notificaties</string>
-    <string name="settings_notifications_summary">Weer notificatie instellingen</string>
-    <string name="settings_notification_title">Toon notificatie</string>
-    <string name="settings_notification_summary">Toon huidig weer in de notificatiebalk</string>
+    <!-- City manager -->
+    <string name="city_manager_drag_swipe_tip">Tip: Long press to drag, swipe left to delete</string>
+    <string name="city_manager_locating">Localiseren…</string>
+    <string name="city_manager_locating_no_permission">"Kan locatie van het apparaat niet bepalen"</string>
 
-    <string name="settings_notification_priority_title">Minimale prioriteit</string>
-    <string name="settings_notification_priority_summary">Meldingen met minimale prioriteit zijn alleen te zien in het meldingenpaneel</string>
+    <!-- Main menu (Not used) -->
 
-    <string name="settings_notify_type_title">Notificatie icoon</string>
-
-    <string name="settings_alerts_title">Beheer notificaties</string>
-
-    <string name="settings_about">Over</string>
-    <string name="settings_translations">App vertalingen</string>
-    <string name="settings_translations_summary">Dank aan alle vertalers van de app voor het vertalen van de app in je eigen taal</string>
-
-    <string name="share_btn_cancel">Annuleren</string>
-    <string name="share_btn_confirm">Delen</string>
-    <string name="share_subject">Delen</string>
-    <string name="share_button">Delen</string>
-    <string name="share_weather_save_pic_fail">"Kan geen schermopname vastleggen"</string>
-    <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_desc">\#Weather M8# Vandaag %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s, %2$s</string>
-    <string name="hourly_forcast_now">Nu</string>
-    <string name="sunrise">Zon op</string>
-    <string name="sunset">Zon onder</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s later.</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_drawer_on_top">Uitgebreide verwachting</string>
-    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+    <!-- Location manager -->
+    <string name="location_manager_title">Locaties</string>
+    <string name="location_manager_search_hint">Type city name here</string>
 
     <!-- Weather details -->
-    <string name="more_details">Meer details</string>
     <string name="weather_details_title">Weer details</string>
-    <string name="weather_details_wind_title">Wind</string>
-    <string name="weather_details_real_feel_title">Gevoelstemperatuur</string>
-    <string name="weather_details_uv_index_title">UV Index</string>
-    <string name="weather_details_pressure_title">Luchtdruk</string>
-    <string name="weather_details_humidity_title">Luchtvochtigheid</string>
-    <string name="weather_details_visibility_title">Zicht</string>
-    <string name="weather_details_precipitation_prob_title">Neerslag</string>
-    <string name="weather_details_daylight_hours_title">Uren daglicht</string>
+    <string name="weather_details_feelslike">Gevoelstemperatuur</string>
+    <string name="weather_details_humidity">Luchtvochtigheid</string>
+    <string name="weather_details_wind">Wind</string>
+    <string name="weather_details_dewpoint">Dew point</string>
+    <string name="weather_details_pressure">Luchtdruk</string>
+    <string name="weather_details_precip">Neerslag</string>
+    <string name="weather_details_visibility">Zicht</string>
+    <string name="weather_details_uvindex">UV Index</string>
+    <string name="weather_details_timezone">Time Zone</string>
+    <string name="weather_details_daylight_hours">Uren daglicht</string>
 
-    <string name="weather_details_wind_connect">%1$s %2$s</string>
-    <string name="weather_details_pressure">%1$s hPa</string>
-    <string name="weather_details_pressure_mm">%1$s mmHg</string>
-    <string name="weather_details_pressure_in">%1$s inHg</string>
-    <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_visibility">%1$s km</string>
-    <string name="weather_details_visibility_meters">%1$s m</string>
-    <string name="weather_details_visibility_miles">%1$s mijl</string>
+    <!-- Hourly -->
+    <string name="forecast_hourly_title">Voorspelling per uur</string>
 
-    <string name="time_units_hour">u</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+    <!-- Daily -->
+    <string name="forecast_daily_title">Uitgebreide verwachting</string>
 
-    <!-- Weather alerts -->
-    <string name="activity_main_alert">Meldingen: %1$d</string>
+    <!-- Radar view -->
+    <string name="radar_view_title">Precipitation map</string>
+    <string name="radar_view_legend_overcast">Overcast</string>
+    <string name="radar_view_legend_drizzle">Drizzle</string>
+    <string name="radar_view_legend_light_rain">Light rain</string>
+    <string name="radar_view_legend_moderate_rain">Moderate rain</string>
+    <string name="radar_view_legend_heavy_rain">Heavy rain</string>
+    <string name="radar_view_legend_hail">Hail</string>
+    <string name="radar_view_legend_light_snow">Light snow</string>
+    <string name="radar_view_legend_medium_snow">Medium snow</string>
+    <string name="radar_view_legend_heavy_snow">Heavy snow</string>
+
+    <!-- AQI -->
+    <string name="aqi_title">Air Quality</string>
+    <string name="aqi_summary_1">Good</string>
+    <string name="aqi_summary_2">Moderate</string>
+    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
+    <string name="aqi_summary_4">Unhealthy</string>
+    <string name="aqi_summary_5">Very unhealthy</string>
+    <string name="aqi_summary_6">Hazardous</string>
+
+    <!-- Kp-Index -->
+    <string name="forecast_kpindex_title">Kp-Index</string>
+    <string name="forecast_kpindex_gm1">Minor Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm2">Moderate Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm3">Severe Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm4">Strong Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm5">Extreme Geomagnetic Storm</string>
+
+    <!-- Sun and moon -->
+    <string name="sun_moon_title">Sun and Moon</string>
+    <!-- Sun Info -->
+    <string name="sun_info_title">Sun</string>
+    <string name="sun_info_sunrise">Zon op</string>
+    <string name="sun_info_sunset">Zon onder</string>
+    <string name="sun_info_dawn">Dawn</string>
+    <string name="sun_info_dusk">Dusk</string>
+    <string name="sun_info_noon">Noon</string>
+    <string name="sun_info_nadir">Nadir</string>
+    <string name="sun_info_azimuth">Azimuth</string>
+    <string name="sun_info_height">Altitude</string>
+    <string name="sun_info_eclipse">Eclipse</string>
+    <string name="sun_info_eclipse_type_total">Total</string>
+    <string name="sun_info_eclipse_type_partial">Partial</string>
+    <string name="sun_info_eclipse_type_annular">Annular</string>
 
 
-    <string name="daily_forcast_no_wind">Windstil</string>
-    <string name="daily_forcast_whirl_wind">Windhoos</string>
-    <string name="delete">Verwijderen</string>
+    <!-- Moon Info -->
+    <string name="moon_info_title">Moon</string>
+    <string name="moon_info_moonrise">Rise</string>
+    <string name="moon_info_moonset">Set</string>
+    <string name="moon_info_date">Date</string>
+    <string name="moon_info_age">Age</string>
+    <string name="moon_info_illuminated">Illuminated</string>
+    <string name="moon_info_zodiac">Zodiac</string>
+    <string name="moon_info_distance">Distance</string>
+    <string name="moon_info_azimuth">Azimuth</string>
+    <string name="moon_info_altitude">Altitude</string>
+    <string name="moon_info_phase">Phase</string>
+    <string name="moon_info_eclipse">Eclipse</string>
+    <string name="moon_info_eclipse_type_total">Total</string>
+    <string name="moon_info_eclipse_type_partial">Partial</string>
+    <string name="moon_info_eclipse_type_annular">Annular</string>
+    <string name="moon_info_eclipse_type_penumbral">Penumbral</string>
+    <string name="moon_info_age_unit_days">days</string>
+    <string name="moon_info_distance_unit_km">km</string>
 
-    <string name="wind_unit">%1$skm/u</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="wind_unit_mph">%1$smpu</string>
-
-    <string name="hourly_forecast_title">Voorspelling per uur</string>
-
-    <!-- Widgets -->
-    <string name="widget_update_date_string">Bijgewerkt %s</string>
-    <string name="widget_update_updating_string">Bijwerken…</string>
-    <!-- Widget config -->
-    <string name="widget_config_title">Widget configuratie</string>
-    <string name="widget_config_text_color_title">Tekstkleur</string>
-    <string name="widget_config_show_alarm_title">Laat volgende alarm zien</string>
-
-    <!-- Moon Phases -->
-    <string name="menu_moon_phases">Maanfasen</string>
-    <string name="moon_age">Age: %1$s days %2$s hours %3$s minutes</string>
+    <!-- Moon phases -->
     <string name="moon_newmoon">Nieuwe maan</string>
-    <string name="moon_waxingcrescent">Wassende maan</string>
+    <string name="moon_waxingcrescent">Balsemieke Maan</string>
     <string name="moon_firstquarter">Eerste kwartier</string>
     <string name="moon_waxinggibbous">Gibbous maan</string>
     <string name="moon_full">Volle Maan</string>
     <string name="moon_waninggibbous">Afnemende maan</string>
     <string name="moon_lastquarter">Laatste kwartier</string>
     <string name="moon_waningcrescent">Balsemieke Maan</string>
-    <string name="moon_illuminated">Belicht: %s%%</string>
-    <string name="moon_since">Datum: %1$s %2$s</string>
-    <string name="moon_distanse">Afstand: %s км</string>
-    <string name="moon_angle">Hoek: %s</string>
-    <string name="moon_zodiac">Dierenriem: %s</string>
 
+    <!-- Zodiac signs -->
     <string name="zodiac_aries">Ram</string>
     <string name="zodiac_taurus">Stier</string>
     <string name="zodiac_gemini">Tweelingen</string>
@@ -177,12 +131,150 @@ Gebruik onderstaand knop om handmatig een plaats toe te voegen of probeer opnieu
     <string name="zodiac_capricorn">Steenbok</string>
     <string name="zodiac_aquarius">Waterman</string>
     <string name="zodiac_pisces">Vissen</string>
+
+    <!-- Units -->
+    <string name="wind_direction_n">N</string>
+    <string name="wind_direction_ne">NE</string>
+    <string name="wind_direction_e">E</string>
+    <string name="wind_direction_se">SE</string>
+    <string name="wind_direction_s">S</string>
+    <string name="wind_direction_sw">SW</string>
+    <string name="wind_direction_w">W</string>
+    <string name="wind_direction_nw">NW</string>
+
+    <string name="wind_unit_ms">m/s</string>
+    <string name="wind_unit_kmh">km/u</string>
+    <string name="wind_unit_mph">mpu</string>
+    <string name="wind_unit_knot">kn</string>
+    <string name="wind_unit_bft">bft</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_mb">mb</string>
+    <string name="pressure_unit_mmhg">mmHg</string>
+    <string name="pressure_unit_inhg">inHg</string>
+
+
+    <string name="precipitation_unit_mm">mm</string>
+    <string name="precipitation_unit_cm">cm</string>
+    <string name="precipitation_unit_in">in</string>
+
+    <string name="visibility_unit_m">m</string>
+    <string name="visibility_unit_km">km</string>
+    <string name="visibility_unit_mi">mijl</string>
+
+    <string name="weather_aqi_detail_units">Units: µg/m³ (CO: mg/m³)</string>
+
+    <string name="time_units_hour">u</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
+
+    <!-- Settings -->
+    <string name="settings_menu_title">Instellingen</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">User interface</string>
+    <string name="prefs_ui_theme">Theme</string>
+    <string name="prefs_ui_theme_follow_system">Follow System</string>
+    <string name="prefs_ui_theme_dark">Dark Mode</string>
+    <string name="prefs_ui_theme_light">Light Mode</string>
+    <string name="prefs_ui_theme_battery">Auto Battery</string>
+
+    <!-- Settings - weather icons -->
+    <string name="prefs_icons_skin_title">Weather icons skin</string>
+    <string name="prefs_icons_skin_builtin">Built-in</string>
+    <string name="prefs_icons_skin_available">Available</string>
+
+    <!-- Data sources preferences -->
+    <string name="prefs_data_source_title">Data source</string>
+    <string name="prefs_data_source_citydb">Plaatsen Database</string>
+    <string name="prefs_data_source_weather">Weather forecast</string>
+    <string name="prefs_data_source_aqi">Air quality</string>
+    <string name="prefs_data_source_radar">Precipitation map</string>
+    <string name="prefs_data_order">Weather data order</string>
+
+    <!-- Units preferences -->
+    <string name="prefs_units_title">Eenheden</string>
+    <string name="prefs_units_temperature">Temperatuur</string>
+    <string name="prefs_units_pressure">Luchtdruk</string>
+    <string name="prefs_units_wind">Wind</string>
+    <string name="prefs_units_precip">Precipitation</string>
+    <string name="prefs_units_visibility">Zicht</string>
+
+    <!-- Notifications -->
+    <string name="prefs_notifications_title">Notificaties</string>
+    <string name="prefs_notification_title">Toon notificatie</string>
+    <string name="prefs_notification_summary">Toon huidig weer in de notificatiebalk</string>
+    <string name="prefs_notification_icon_type_title">Notificatie icoon</string>
+    <string name="prefs_notification_icon_icon">Weather Icon</string>
+    <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">Widgets</string>
+    <string name="prefs_widgets_not_found">No installed widgets found</string>
+
+    <!-- Settings - About -->
+    <string name="prefs_about">Over</string>
+    <string name="prefs_app_version">Version: %s</string>
+    <string name="prefs_app_url">Website</string>
+    <string name="prefs_permissions_privacy">Privacy Policy</string>
+    <string name="prefs_translations">App vertalingen</string>
+    <string name="prefs_translations_summary">Dank aan alle vertalers van de app voor het vertalen van de app in je eigen taal</string>
+    <string name="prefs_thirdparty">Third-party libraries and resources</string>
+    <string name="prefs_help">Help</string>
+    <string name="prefs_feedback">Feedback</string>
+    <string name="prefs_donate">Donation</string>
+
+    <!-- Dialogs -->
+    <string name="weather_alert_dialog_start_time">Start</string>
+    <string name="weather_alert_dialog_end_time">End</string>
+    <string name="weather_alert_dialog_source">Source: %s</string>
+
+    <string name="dialog_changelog_title">Changelog</string>
+    <string name="dialog_information_title">Information</string>
+
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Send email</string>
+    <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Report a bug</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
+    <string name="dialog_contact_dev_send_email_other">Other</string>
+
+    <!-- Widgets -->
+
+    <!-- Widget config -->
+    <string name="widget_config_title">Widget configuratie</string>
+    <string name="widget_config_background_title">Background</string>
+    <string name="widget_config_use_background_title">Show widget background</string>
+    <string name="widget_config_background_color_title">Background color</string>
+
+    <string name="widget_config_font_title">Fonts</string>
+    <string name="widget_config_font_color_title">Font color</string>
+    <string name="widget_config_font_size_title">Font size</string>
+    <string name="widget_config_clock_title">Clock</string>
+    <string name="widget_config_date_title">Date</string>
+    <string name="widget_config_city_name_title">City name</string>
+    <string name="widget_config_current_temp_title">Current temperature</string>
+    <string name="widget_config_current_condition_title">Current condition</string>
+    <string name="widget_config_forecast_temp_title">Forecast temperature</string>
+    <string name="widget_config_forecast_time_title">Forecast time</string>
+    <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_data_display_title">Data display</string>
+    <string name="widget_config_show_alarm_title">Laat volgende alarm zien</string>
+    <string name="widget_config_show_date_title">Show date</string>
+    <string name="widget_config_dateformat_title">Date format</string>
+    <string name="widget_config_forecast_type_title">Forecast type</string>
+
+    <string name="widget_config_click_settings">Click settings</string>
+    <string name="widget_config_click_apps">Select application</string>
+    <string name="widget_config_click_clock">Clock</string>
+    <string name="widget_config_click_date">Date</string>
+    <string name="widget_config_click_weather_icon">Weather icon</string>
+    <string name="widget_config_click_temperature">Temperature</string>
+
+    <!-- Color picker -->
     <string name="press_color_to_apply">Selecteer een kleur om toe te passen</string>
     <string name="dialog_color_picker">Kleurenkiezer</string>
-    <string name="settings_icons_title">Weer-iconen</string>
-    <string name="settings_app_locale_title">Taal</string>
-    <string name="activity_main_expire_time">Verloopt %1$s</string>
-    <string name="weather_details_pressure_mb">%1$s mb</string>
+    <string name="color_picker_use_default_color">Use default color</string>
 
 </resources>
-
