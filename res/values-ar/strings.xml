@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">حول التطبيق</string>
-    <string name="prefs_app_version">Version: %s</string>
+    <string name="prefs_app_version">Version</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">Privacy Policy</string>
     <string name="prefs_translations">ترجمة التطبيق</string>

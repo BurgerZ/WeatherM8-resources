@@ -55,12 +55,12 @@
 
     <!-- AQI -->
     <string name="aqi_title">Luftqualität</string>
-    <string name="aqi_summary_1">Good</string>
-    <string name="aqi_summary_2">Moderate</string>
-    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
-    <string name="aqi_summary_4">Unhealthy</string>
-    <string name="aqi_summary_5">Very unhealthy</string>
-    <string name="aqi_summary_6">Hazardous</string>
+    <string name="aqi_summary_1">Gut</string>
+    <string name="aqi_summary_2">Mäßig</string>
+    <string name="aqi_summary_3">Ungesund für empfindliche Personen</string>
+    <string name="aqi_summary_4">Ungesund</string>
+    <string name="aqi_summary_5">Sehr ungesund</string>
+    <string name="aqi_summary_6">Gefährlich</string>
 
     <!-- Kp-Index -->
     <string name="forecast_kpindex_title">Kp-Index</string>
@@ -134,9 +134,9 @@
 
     <!-- Units -->
     <string name="wind_direction_n">N</string>
-    <string name="wind_direction_ne">NE</string>
-    <string name="wind_direction_e">E</string>
-    <string name="wind_direction_se">SE</string>
+    <string name="wind_direction_ne">NO</string>
+    <string name="wind_direction_e">O</string>
+    <string name="wind_direction_se">SO</string>
     <string name="wind_direction_s">S</string>
     <string name="wind_direction_sw">SW</string>
     <string name="wind_direction_w">W</string>
@@ -164,9 +164,9 @@
 
     <string name="weather_aqi_detail_units">Einheit: µg/m³ (CO: mg/m³)</string>
 
-    <string name="time_units_hour">" Std"</string>
-    <string name="time_units_minute">" Min"</string>
-    <string name="time_units_second">" Sek"</string>
+    <string name="time_units_hour">Std</string>
+    <string name="time_units_minute">Min</string>
+    <string name="time_units_second">Sek</string>
 
     <!-- Settings -->
     <string name="settings_menu_title">Einstellungen</string>
@@ -188,7 +188,7 @@
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">Ortsdatenbank</string>
     <string name="prefs_data_source_weather">Weather forecast</string>
-    <string name="prefs_data_source_aqi">Air quality</string>
+    <string name="prefs_data_source_aqi">Luftqualität</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Reihenfolge Wetterdaten</string>
 
@@ -205,8 +205,8 @@
     <string name="prefs_notification_title">Benachrichtigung anzeigen</string>
     <string name="prefs_notification_summary">Aktuelle Wetterbedingungen im Infobereich anzeigen</string>
     <string name="prefs_notification_icon_type_title">Benachrichtigungssymbol</string>
-    <string name="prefs_notification_icon_icon">Weather Icon</string>
-    <string name="prefs_notification_icon_temp">Temperature</string>
+    <string name="prefs_notification_icon_icon">Wettersymbol</string>
+    <string name="prefs_notification_icon_temp">Temperatur</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>

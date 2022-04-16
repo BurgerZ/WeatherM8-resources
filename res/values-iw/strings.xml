@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">הודות</string>
-    <string name="prefs_app_version">%s :גרסה</string>
+    <string name="prefs_app_version">גרסה</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">Privacy Policy</string>
     <string name="prefs_translations">תרגומים</string>

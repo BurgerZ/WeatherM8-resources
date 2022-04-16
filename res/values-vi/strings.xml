@@ -55,12 +55,12 @@
 
     <!-- AQI -->
     <string name="aqi_title">Chất lượng không khí</string>
-    <string name="aqi_summary_1">Good</string>
-    <string name="aqi_summary_2">Moderate</string>
-    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
-    <string name="aqi_summary_4">Unhealthy</string>
-    <string name="aqi_summary_5">Very unhealthy</string>
-    <string name="aqi_summary_6">Hazardous</string>
+    <string name="aqi_summary_1">Tốt</string>
+    <string name="aqi_summary_2">Bình thường</string>
+    <string name="aqi_summary_3">Không lành mạnh cho nhóm nhạy cảm</string>
+    <string name="aqi_summary_4">Không lành mạnh</string>
+    <string name="aqi_summary_5">Rất không lành mạnh</string>
+    <string name="aqi_summary_6">Nguy hiểm</string>
 
     <!-- Kp-Index -->
     <string name="forecast_kpindex_title">Kp-Index</string>
@@ -133,14 +133,14 @@
     <string name="zodiac_pisces">Song Ngư</string>
 
     <!-- Units -->
-    <string name="wind_direction_n">N</string>
-    <string name="wind_direction_ne">NE</string>
-    <string name="wind_direction_e">E</string>
-    <string name="wind_direction_se">SE</string>
-    <string name="wind_direction_s">S</string>
-    <string name="wind_direction_sw">SW</string>
-    <string name="wind_direction_w">W</string>
-    <string name="wind_direction_nw">NW</string>
+    <string name="wind_direction_n">B</string>
+    <string name="wind_direction_ne">ĐB</string>
+    <string name="wind_direction_e">Đ</string>
+    <string name="wind_direction_se">ĐN</string>
+    <string name="wind_direction_s">N</string>
+    <string name="wind_direction_sw">TN</string>
+    <string name="wind_direction_w">T</string>
+    <string name="wind_direction_nw">TB</string>
 
     <string name="wind_unit_ms">m/s</string>
     <string name="wind_unit_kmh">km/h</string>
@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">"Thông tin "</string>
-    <string name="prefs_app_version">Phiên bản: %s</string>
+    <string name="prefs_app_version">Phiên bản</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">Privacy Policy</string>
     <string name="prefs_translations">"Dịch ứng dụng "</string>

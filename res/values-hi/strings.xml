@@ -55,12 +55,12 @@
 
     <!-- AQI -->
     <string name="aqi_title">हवा की गुणवत्ता</string>
-    <string name="aqi_summary_1">Good</string>
-    <string name="aqi_summary_2">Moderate</string>
-    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
-    <string name="aqi_summary_4">Unhealthy</string>
-    <string name="aqi_summary_5">Very unhealthy</string>
-    <string name="aqi_summary_6">Hazardous</string>
+    <string name="aqi_summary_1">अच्छा</string>
+    <string name="aqi_summary_2">मंद</string>
+    <string name="aqi_summary_3">संवेदनशील समूहों के लिए अस्वास्थ्यकर</string>
+    <string name="aqi_summary_4">अस्वास्थ्यकर</string>
+    <string name="aqi_summary_5">बहुत ही अस्वास्थ्यकर</string>
+    <string name="aqi_summary_6">जोखिमभरा</string>
 
     <!-- Kp-Index -->
     <string name="forecast_kpindex_title">Kp-Index</string>
@@ -133,14 +133,14 @@
     <string name="zodiac_pisces">मीन राशि</string>
 
     <!-- Units -->
-    <string name="wind_direction_n">N</string>
-    <string name="wind_direction_ne">NE</string>
-    <string name="wind_direction_e">E</string>
-    <string name="wind_direction_se">SE</string>
-    <string name="wind_direction_s">S</string>
-    <string name="wind_direction_sw">SW</string>
-    <string name="wind_direction_w">W</string>
-    <string name="wind_direction_nw">NW</string>
+    <string name="wind_direction_n">उ</string>
+    <string name="wind_direction_ne">उ-पू</string>
+    <string name="wind_direction_e">पू</string>
+    <string name="wind_direction_se">द-पू</string>
+    <string name="wind_direction_s">द</string>
+    <string name="wind_direction_sw">प-द</string>
+    <string name="wind_direction_w">प</string>
+    <string name="wind_direction_nw">उ-प</string>
 
     <string name="wind_unit_ms">मी/सेकंड</string>
     <string name="wind_unit_kmh">किमी/घंटा</string>
@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">के विषय में</string>
-    <string name="prefs_app_version">संस्करण: %s</string>
+    <string name="prefs_app_version">संस्करण</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">Privacy Policy</string>
     <string name="prefs_translations">एप्लिकेशन अनुवाद</string>

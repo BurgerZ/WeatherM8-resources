@@ -55,12 +55,12 @@
 
     <!-- AQI -->
     <string name="aqi_title">Calitatea aerului</string>
-    <string name="aqi_summary_1">Good</string>
-    <string name="aqi_summary_2">Moderate</string>
-    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
-    <string name="aqi_summary_4">Unhealthy</string>
-    <string name="aqi_summary_5">Very unhealthy</string>
-    <string name="aqi_summary_6">Hazardous</string>
+    <string name="aqi_summary_1">Bună</string>
+    <string name="aqi_summary_2">Moderată</string>
+    <string name="aqi_summary_3">Cu risc pentru persoanele sensibile</string>
+    <string name="aqi_summary_4">Nocivă</string>
+    <string name="aqi_summary_5">Foarte nocivă</string>
+    <string name="aqi_summary_6">Periculoasă</string>
 
     <!-- Kp-Index -->
     <string name="forecast_kpindex_title">Kp-Index</string>
@@ -164,9 +164,9 @@
 
     <string name="weather_aqi_detail_units">Unități: µg/m³ (CO: mg/m³)</string>
 
-    <string name="time_units_hour">" o"</string>
-    <string name="time_units_minute">" m"</string>
-    <string name="time_units_second">" s"</string>
+    <string name="time_units_hour">o</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
 
     <!-- Settings -->
     <string name="settings_menu_title">Setări</string>
@@ -205,8 +205,8 @@
     <string name="prefs_notification_title">Afişare notificare</string>
     <string name="prefs_notification_summary">Se afişează condițiile meteorologice curente din zona de notificare</string>
     <string name="prefs_notification_icon_type_title">Pictogramă notificare</string>
-    <string name="prefs_notification_icon_icon">Weather Icon</string>
-    <string name="prefs_notification_icon_temp">Temperature</string>
+    <string name="prefs_notification_icon_icon">Pictogramă vreme</string>
+    <string name="prefs_notification_icon_temp">Temperatură</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widget-uri</string>
@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">Despre</string>
-    <string name="prefs_app_version">Versiune: %s</string>
+    <string name="prefs_app_version">Versiune</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">Politica de confidențialitate</string>
     <string name="prefs_translations">Traducere aplicaţie</string>

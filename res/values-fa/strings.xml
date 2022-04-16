@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">درباره</string>
-    <string name="prefs_app_version">نسخه: %s</string>
+    <string name="prefs_app_version">نسخه</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">سیاست حفظ حریم خصوصی</string>
     <string name="prefs_translations">ترجمه نرم افزار</string>

@@ -55,12 +55,12 @@
 
     <!-- AQI -->
     <string name="aqi_title">Kakovost zraka</string>
-    <string name="aqi_summary_1">Good</string>
-    <string name="aqi_summary_2">Moderate</string>
-    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
-    <string name="aqi_summary_4">Unhealthy</string>
-    <string name="aqi_summary_5">Very unhealthy</string>
-    <string name="aqi_summary_6">Hazardous</string>
+    <string name="aqi_summary_1">Dobro</string>
+    <string name="aqi_summary_2">Zmerno</string>
+    <string name="aqi_summary_3">Nezdravo za občutljive</string>
+    <string name="aqi_summary_4">Nezdravo</string>
+    <string name="aqi_summary_5">Zelo nezdravo</string>
+    <string name="aqi_summary_6">Tvegano</string>
 
     <!-- Kp-Index -->
     <string name="forecast_kpindex_title">Kp-Index</string>
@@ -133,14 +133,14 @@
     <string name="zodiac_pisces">Riba</string>
 
     <!-- Units -->
-    <string name="wind_direction_n">N</string>
-    <string name="wind_direction_ne">NE</string>
-    <string name="wind_direction_e">E</string>
-    <string name="wind_direction_se">SE</string>
-    <string name="wind_direction_s">S</string>
-    <string name="wind_direction_sw">SW</string>
-    <string name="wind_direction_w">W</string>
-    <string name="wind_direction_nw">NW</string>
+    <string name="wind_direction_n">S</string>
+    <string name="wind_direction_ne">SV</string>
+    <string name="wind_direction_e">V</string>
+    <string name="wind_direction_se">JV</string>
+    <string name="wind_direction_s">J</string>
+    <string name="wind_direction_sw">JZ</string>
+    <string name="wind_direction_w">Z</string>
+    <string name="wind_direction_nw">SZ</string>
 
     <string name="wind_unit_ms">m/s</string>
     <string name="wind_unit_kmh">km/h</string>
@@ -164,9 +164,9 @@
 
     <string name="weather_aqi_detail_units">Enota: µg/m³ (CO: mg/m³)</string>
 
-    <string name="time_units_hour">" h"</string>
-    <string name="time_units_minute">" m"</string>
-    <string name="time_units_second">" s"</string>
+    <string name="time_units_hour">h</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
 
     <!-- Settings -->
     <string name="settings_menu_title">Nastavitve</string>
@@ -205,8 +205,8 @@
     <string name="prefs_notification_title">Prikaži obvestila</string>
     <string name="prefs_notification_summary">Prikaži trenutne vremenske pogoje v področju obvestil</string>
     <string name="prefs_notification_icon_type_title">Ikona obvestil</string>
-    <string name="prefs_notification_icon_icon">Weather Icon</string>
-    <string name="prefs_notification_icon_temp">Temperature</string>
+    <string name="prefs_notification_icon_icon">Ikona vremena</string>
+    <string name="prefs_notification_icon_temp">Temperatura</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Pripomočki</string>
@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">O aplikaciji</string>
-    <string name="prefs_app_version">Verzija: %s</string>
+    <string name="prefs_app_version">Verzija</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">Privacy Policy</string>
     <string name="prefs_translations">Prevod aplikacije</string>

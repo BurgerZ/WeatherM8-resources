@@ -55,12 +55,12 @@
 
     <!-- AQI -->
     <string name="aqi_title">Kualitas Udara</string>
-    <string name="aqi_summary_1">Good</string>
-    <string name="aqi_summary_2">Moderate</string>
-    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
-    <string name="aqi_summary_4">Unhealthy</string>
-    <string name="aqi_summary_5">Very unhealthy</string>
-    <string name="aqi_summary_6">Hazardous</string>
+    <string name="aqi_summary_1">Bagus</string>
+    <string name="aqi_summary_2">Sedang</string>
+    <string name="aqi_summary_3">Tidak sehat untuk kelompok yang sensitif</string>
+    <string name="aqi_summary_4">Tidak sehat</string>
+    <string name="aqi_summary_5">Sangat tidak sehat</string>
+    <string name="aqi_summary_6">Berbahaya</string>
 
     <!-- Kp-Index -->
     <string name="forecast_kpindex_title">Kp-Index</string>
@@ -205,8 +205,8 @@
     <string name="prefs_notification_title">Tampilkan pemberitahuan</string>
     <string name="prefs_notification_summary">Tampilkan kondisi cuaca saat ini di area pemberitahuan</string>
     <string name="prefs_notification_icon_type_title">Ikon pemberitahuan</string>
-    <string name="prefs_notification_icon_icon">Weather Icon</string>
-    <string name="prefs_notification_icon_temp">Temperature</string>
+    <string name="prefs_notification_icon_icon">Ikon cuaca</string>
+    <string name="prefs_notification_icon_temp">Suhu</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widget</string>
@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">Tentang</string>
-    <string name="prefs_app_version">Versi: %s</string>
+    <string name="prefs_app_version">Versi</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">Privacy Policy</string>
     <string name="prefs_translations">Terjemahan</string>

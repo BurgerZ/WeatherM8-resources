@@ -164,9 +164,9 @@
 
     <string name="weather_aqi_detail_units">Адзінкі: µg/m³ (CO: mg/m³)</string>
 
-    <string name="time_units_hour">" г"</string>
-    <string name="time_units_minute">" хв."</string>
-    <string name="time_units_second">" сек."</string>
+    <string name="time_units_hour">г</string>
+    <string name="time_units_minute">хв</string>
+    <string name="time_units_second">сек</string>
 
     <!-- Settings -->
     <string name="settings_menu_title">Налады</string>
@@ -187,9 +187,9 @@
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">База гарадоў</string>
-    <string name="prefs_data_source_weather">Weather forecast</string>
-    <string name="prefs_data_source_aqi">Air quality</string>
-    <string name="prefs_data_source_radar">Precipitation map</string>
+    <string name="prefs_data_source_weather">Надвор\'е</string>
+    <string name="prefs_data_source_aqi">Якасць паветра</string>
+    <string name="prefs_data_source_radar">Мапа ападкаў</string>
     <string name="prefs_data_order">Парадак дадзеных надвор\'я</string>
 
     <!-- Units preferences -->
@@ -197,7 +197,7 @@
     <string name="prefs_units_temperature">Тэмпература</string>
     <string name="prefs_units_pressure">Ціск</string>
     <string name="prefs_units_wind">Вецер</string>
-    <string name="prefs_units_precip">Precipitation</string>
+    <string name="prefs_units_precip">Ападкi</string>
     <string name="prefs_units_visibility">Бачнасць</string>
 
     <!-- Notifications -->
@@ -205,8 +205,8 @@
     <string name="prefs_notification_title">Уведамленне аб надвор\'і</string>
     <string name="prefs_notification_summary">Адлюстроўваць прагноз надвор\'я ў вобласці ўведамленняў</string>
     <string name="prefs_notification_icon_type_title">Іконка ўведамлення</string>
-    <string name="prefs_notification_icon_icon">Weather Icon</string>
-    <string name="prefs_notification_icon_temp">Temperature</string>
+    <string name="prefs_notification_icon_icon">Іконка надвор\'я</string>
+    <string name="prefs_notification_icon_temp">Тэмпература</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Вiджэты</string>
@@ -214,7 +214,7 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">Аб дадатку</string>
-    <string name="prefs_app_version">Версія: %s</string>
+    <string name="prefs_app_version">Версія</string>
     <string name="prefs_app_url">Website</string>
     <string name="prefs_permissions_privacy">Privacy Policy</string>
     <string name="prefs_translations">Пераклад дадатку</string>
