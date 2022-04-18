@@ -10,6 +10,7 @@
     <string name="downloading">Downloading…</string>
     <string name="download_failed">Download failed. Try again later</string>
     <string name="download_succeeded">Download completed</string>
+    <string name="restart_to_apply">You have to restart application to apply changes</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">Tip: Long press to drag, swipe left to delete</string>
