@@ -234,7 +234,7 @@
 
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Pošljite e-pošto</string>
-    <string name="dialog_contact_dev_send_email_message">Opišite problem problem:\n\n</string>
+    <string name="dialog_contact_dev_send_email_message">Opišite problem:\n\n</string>
     <string name="dialog_contact_dev_send_email_report_bug">Prijavite napako</string>
     <string name="dialog_contact_dev_send_email_request_new_feature">Zahtevajte kaj novega</string>
     <string name="dialog_contact_dev_send_email_other">Ostalo</string>
