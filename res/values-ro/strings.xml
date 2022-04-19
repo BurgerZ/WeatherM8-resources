@@ -3,17 +3,17 @@
     <string name="app_name">Meteo M8</string>
 
     <string name="app_translation_locale">ro</string>
-    <string name="app_translation_author">Igor Sorocean</string>
+    <string name="app_translation_author">Alex Vornicu</string>
 
     <!-- Common strings -->
-    <string name="wait">Please wait…</string>
-    <string name="downloading">Downloading…</string>
-    <string name="download_failed">Download failed. Try again later</string>
-    <string name="download_succeeded">Download completed</string>
+    <string name="wait">Vă rugăm așteptați…</string>
+    <string name="downloading">Se descarcă…</string>
+    <string name="download_failed">Descarcarea a eșuat. Încercați din nou mai târziu</string>
+    <string name="download_succeeded">Descarcare completă</string>
     <string name="restart_to_apply">Trebuie să reporniți aplicația pentru a aplica modificările</string>
 
     <!-- City manager -->
-    <string name="city_manager_drag_swipe_tip">Tip: Long press to drag, swipe left to delete</string>
+    <string name="city_manager_drag_swipe_tip">Sfat: apăsați lung pentru a trage, glisați spre stânga pentru a șterge</string>
     <string name="city_manager_locating">Localizare…</string>
     <string name="city_manager_locating_no_permission">Localizare eşuată</string>
 
@@ -21,14 +21,14 @@
 
     <!-- Location manager -->
     <string name="location_manager_title">Locaţii</string>
-    <string name="location_manager_search_hint">Type city name here</string>
+    <string name="location_manager_search_hint">Introdu numele orașului aici</string>
 
     <!-- Weather details -->
     <string name="weather_details_title">Detalii meteo</string>
     <string name="weather_details_feelslike">Temperatură resimțită</string>
     <string name="weather_details_humidity">Umiditate</string>
     <string name="weather_details_wind">Vânt</string>
-    <string name="weather_details_dewpoint">Dew point</string>
+    <string name="weather_details_dewpoint">Punct de rouă</string>
     <string name="weather_details_pressure">Presiune</string>
     <string name="weather_details_precip">Precipitaţii</string>
     <string name="weather_details_visibility">Vizibilitate</string>
@@ -43,16 +43,16 @@
     <string name="forecast_daily_title">Prognoză extinsă</string>
 
     <!-- Radar view -->
-    <string name="radar_view_title">Precipitation map</string>
-    <string name="radar_view_legend_overcast">Overcast</string>
-    <string name="radar_view_legend_drizzle">Drizzle</string>
-    <string name="radar_view_legend_light_rain">Light rain</string>
-    <string name="radar_view_legend_moderate_rain">Moderate rain</string>
-    <string name="radar_view_legend_heavy_rain">Heavy rain</string>
-    <string name="radar_view_legend_hail">Hail</string>
-    <string name="radar_view_legend_light_snow">Light snow</string>
-    <string name="radar_view_legend_medium_snow">Medium snow</string>
-    <string name="radar_view_legend_heavy_snow">Heavy snow</string>
+    <string name="radar_view_title">Harta precipitațiilor</string>
+    <string name="radar_view_legend_overcast">Acoperit de nori</string>
+    <string name="radar_view_legend_drizzle">Burniță</string>
+    <string name="radar_view_legend_light_rain">Ploaie ușoară</string>
+    <string name="radar_view_legend_moderate_rain">Ploaie moderată</string>
+    <string name="radar_view_legend_heavy_rain">Ploaie torenţială</string>
+    <string name="radar_view_legend_hail">Grindină</string>
+    <string name="radar_view_legend_light_snow">Ninsoare ușoară</string>
+    <string name="radar_view_legend_medium_snow">Ninsoare moderată</string>
+    <string name="radar_view_legend_heavy_snow">Ninsoare ambundentă</string>
 
     <!-- AQI -->
     <string name="aqi_title">Calitatea aerului</string>
@@ -65,48 +65,48 @@
 
     <!-- Kp-Index -->
     <string name="forecast_kpindex_title">Kp-Index</string>
-    <string name="forecast_kpindex_gm1">Minor Geomagnetic Storm</string>
-    <string name="forecast_kpindex_gm2">Moderate Geomagnetic Storm</string>
-    <string name="forecast_kpindex_gm3">Severe Geomagnetic Storm</string>
-    <string name="forecast_kpindex_gm4">Strong Geomagnetic Storm</string>
-    <string name="forecast_kpindex_gm5">Extreme Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm1">Furtună geomagnetică minoră</string>
+    <string name="forecast_kpindex_gm2">Furtună Geomagnetică moderată</string>
+    <string name="forecast_kpindex_gm3">Furtună geomagnetică severă</string>
+    <string name="forecast_kpindex_gm4">Furtună geomagnetică puternică</string>
+    <string name="forecast_kpindex_gm5">Furtună geomagnetică extremă</string>
 
     <!-- Sun and moon -->
-    <string name="sun_moon_title">Sun and Moon</string>
+    <string name="sun_moon_title">Soare și Lună</string>
     <!-- Sun Info -->
-    <string name="sun_info_title">Sun</string>
+    <string name="sun_info_title">Soare</string>
     <string name="sun_info_sunrise">Răsărit</string>
     <string name="sun_info_sunset">Apus</string>
-    <string name="sun_info_dawn">Dawn</string>
-    <string name="sun_info_dusk">Dusk</string>
-    <string name="sun_info_noon">Noon</string>
-    <string name="sun_info_nadir">Nadir</string>
+    <string name="sun_info_dawn">Zori de zi</string>
+    <string name="sun_info_dusk">Amurg</string>
+    <string name="sun_info_noon">Amiază</string>
+    <string name="sun_info_nadir">Asfințit</string>
     <string name="sun_info_azimuth">Azimuth</string>
-    <string name="sun_info_height">Altitude</string>
-    <string name="sun_info_eclipse">Eclipse</string>
-    <string name="sun_info_eclipse_type_total">Total</string>
-    <string name="sun_info_eclipse_type_partial">Partial</string>
-    <string name="sun_info_eclipse_type_annular">Annular</string>
+    <string name="sun_info_height">Altitudine</string>
+    <string name="sun_info_eclipse">Eclipsă</string>
+    <string name="sun_info_eclipse_type_total">Totală</string>
+    <string name="sun_info_eclipse_type_partial">Parțială</string>
+    <string name="sun_info_eclipse_type_annular">Inelară</string>
 
 
     <!-- Moon Info -->
-    <string name="moon_info_title">Moon</string>
-    <string name="moon_info_moonrise">Rise</string>
-    <string name="moon_info_moonset">Set</string>
-    <string name="moon_info_date">Date</string>
-    <string name="moon_info_age">Age</string>
-    <string name="moon_info_illuminated">Illuminated</string>
+    <string name="moon_info_title">Lună</string>
+    <string name="moon_info_moonrise">Răsărit</string>
+    <string name="moon_info_moonset">Apus</string>
+    <string name="moon_info_date">Dată</string>
+    <string name="moon_info_age">Durată</string>
+    <string name="moon_info_illuminated">Iluminare</string>
     <string name="moon_info_zodiac">Zodiac</string>
-    <string name="moon_info_distance">Distance</string>
+    <string name="moon_info_distance">Distanță</string>
     <string name="moon_info_azimuth">Azimuth</string>
-    <string name="moon_info_altitude">Altitude</string>
-    <string name="moon_info_phase">Phase</string>
-    <string name="moon_info_eclipse">Eclipse</string>
-    <string name="moon_info_eclipse_type_total">Total</string>
-    <string name="moon_info_eclipse_type_partial">Partial</string>
-    <string name="moon_info_eclipse_type_annular">Annular</string>
-    <string name="moon_info_eclipse_type_penumbral">Penumbral</string>
-    <string name="moon_info_age_unit_days">days</string>
+    <string name="moon_info_altitude">Altitudine</string>
+    <string name="moon_info_phase">Fază</string>
+    <string name="moon_info_eclipse">Eclipsă</string>
+    <string name="moon_info_eclipse_type_total">Totală</string>
+    <string name="moon_info_eclipse_type_partial">Parțială</string>
+    <string name="moon_info_eclipse_type_annular">Inelară</string>
+    <string name="moon_info_eclipse_type_penumbral">Penumbră</string>
+    <string name="moon_info_age_unit_days">zile</string>
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
@@ -173,24 +173,24 @@
     <string name="settings_menu_title">Setări</string>
 
     <!-- UI preferences -->
-    <string name="prefs_ui_title">User interface</string>
-    <string name="prefs_ui_theme">Theme</string>
-    <string name="prefs_ui_theme_follow_system">Follow System</string>
-    <string name="prefs_ui_theme_dark">Dark Mode</string>
-    <string name="prefs_ui_theme_light">Light Mode</string>
-    <string name="prefs_ui_theme_battery">Auto Battery</string>
+    <string name="prefs_ui_title">Interfață</string>
+    <string name="prefs_ui_theme">Themă</string>
+    <string name="prefs_ui_theme_follow_system">Urmarește tema sistemului</string>
+    <string name="prefs_ui_theme_dark">Mod întunecat</string>
+    <string name="prefs_ui_theme_light">Mod luminos</string>
+    <string name="prefs_ui_theme_battery">Automat</string>
 
     <!-- Settings - weather icons -->
-    <string name="prefs_icons_skin_title">Weather icons skin</string>
-    <string name="prefs_icons_skin_builtin">Built-in</string>
-    <string name="prefs_icons_skin_available">Available</string>
+    <string name="prefs_icons_skin_title">Pictograme vreme</string>
+    <string name="prefs_icons_skin_builtin">Nativă</string>
+    <string name="prefs_icons_skin_available">Disponibilă</string>
 
     <!-- Data sources preferences -->
-    <string name="prefs_data_source_title">Data source</string>
+    <string name="prefs_data_source_title">Sursă de date</string>
     <string name="prefs_data_source_citydb">Baza de date a orașelor</string>
-    <string name="prefs_data_source_weather">Weather forecast</string>
-    <string name="prefs_data_source_aqi">Air quality</string>
-    <string name="prefs_data_source_radar">Precipitation map</string>
+    <string name="prefs_data_source_weather">Prognoza meteo</string>
+    <string name="prefs_data_source_aqi">Calitatea aerului</string>
+    <string name="prefs_data_source_radar">Harta precipitațiilor</string>
     <string name="prefs_data_order">Ordinea datelor meteo</string>
 
     <!-- Units preferences -->
@@ -198,7 +198,7 @@
     <string name="prefs_units_temperature">Temperatură</string>
     <string name="prefs_units_pressure">Presiune</string>
     <string name="prefs_units_wind">Vânt</string>
-    <string name="prefs_units_precip">Precipitation</string>
+    <string name="prefs_units_precip">Cantitate de precipitaţii</string>
     <string name="prefs_units_visibility">Vizibilitate</string>
 
     <!-- Notifications -->
@@ -223,22 +223,22 @@
     <string name="prefs_thirdparty">Biblioteci și resurse</string>
     <string name="prefs_help">Ajutor</string>
     <string name="prefs_feedback">Trimiteţi feedback</string>
-    <string name="prefs_donate">Donation</string>
+    <string name="prefs_donate">Donații</string>
 
     <!-- Dialogs -->
     <string name="weather_alert_dialog_start_time">Start</string>
-    <string name="weather_alert_dialog_end_time">End</string>
-    <string name="weather_alert_dialog_source">Source: %s</string>
+    <string name="weather_alert_dialog_end_time">Sfarșit</string>
+    <string name="weather_alert_dialog_source">Sursă: %s</string>
 
-    <string name="dialog_changelog_title">Changelog</string>
-    <string name="dialog_information_title">Information</string>
+    <string name="dialog_changelog_title">Jurnalul modificărilor</string>
+    <string name="dialog_information_title">Informații</string>
 
     <!-- Contact developer dialog -->
-    <string name="dialog_contact_dev_send_email">Send email</string>
-    <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
-    <string name="dialog_contact_dev_send_email_report_bug">Report a bug</string>
-    <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
-    <string name="dialog_contact_dev_send_email_other">Other</string>
+    <string name="dialog_contact_dev_send_email">Trimite e-mail</string>
+    <string name="dialog_contact_dev_send_email_message">Descrieți problema dvs:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Raporteaza o eroare</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Solicitați o nouă funcție</string>
+    <string name="dialog_contact_dev_send_email_other">Altele</string>
 
     <!-- Widgets -->
 
@@ -248,23 +248,23 @@
     <string name="widget_config_use_background_title">Afişare fundal widget</string>
     <string name="widget_config_background_color_title">Culoare fundal</string>
 
-    <string name="widget_config_font_title">Fonts</string>
-    <string name="widget_config_font_color_title">Font color</string>
-    <string name="widget_config_font_size_title">Font size</string>
-    <string name="widget_config_clock_title">Clock</string>
-    <string name="widget_config_date_title">Date</string>
-    <string name="widget_config_city_name_title">City name</string>
-    <string name="widget_config_current_temp_title">Current temperature</string>
-    <string name="widget_config_current_condition_title">Current condition</string>
-    <string name="widget_config_forecast_temp_title">Forecast temperature</string>
-    <string name="widget_config_forecast_time_title">Forecast time</string>
-    <string name="widget_config_other_title">Other data</string>
+    <string name="widget_config_font_title">Fonturi</string>
+    <string name="widget_config_font_color_title">Culoarea fontului</string>
+    <string name="widget_config_font_size_title">Marimea fontului</string>
+    <string name="widget_config_clock_title">Ceas</string>
+    <string name="widget_config_date_title">Dată</string>
+    <string name="widget_config_city_name_title">Numele orașului</string>
+    <string name="widget_config_current_temp_title">Temperatura actuală</string>
+    <string name="widget_config_current_condition_title">Starea actuală</string>
+    <string name="widget_config_forecast_temp_title">Temperatura prognozată</string>
+    <string name="widget_config_forecast_time_title">Prognoza ora</string>
+    <string name="widget_config_other_title">Alte date</string>
 
-    <string name="widget_config_data_display_title">Data display</string>
+    <string name="widget_config_data_display_title">Afișare dată</string>
     <string name="widget_config_show_alarm_title">Afişarea următoarei alarme</string>
     <string name="widget_config_show_date_title">Afişare dată</string>
     <string name="widget_config_dateformat_title">Format dată</string>
-    <string name="widget_config_forecast_type_title">Forecast type</string>
+    <string name="widget_config_forecast_type_title">Tipul prognozei</string>
 
     <string name="widget_config_click_settings">Setări clic pe suprafaţa widget-ului</string>
     <string name="widget_config_click_apps">Selectaţi aplicaţia</string>
@@ -279,3 +279,4 @@
     <string name="color_picker_use_default_color">Utilizare culoare implicită</string>
 
 </resources>
+
