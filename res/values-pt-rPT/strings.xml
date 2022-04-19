@@ -10,7 +10,7 @@
     <string name="downloading">A transferir…</string>
     <string name="download_failed">Transferência falhou. Tente novamente mais tarde</string>
     <string name="download_succeeded">Transferência completa</string>
-    <string name="restart_to_apply">Tem de reiniciar a aplicação para aplicar as alterações</string>
+    <string name="restart_to_apply">Tem de reiniciar a aplicação para efetuar as alterações</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">Dica: pressione e segure para arrastar e deslize para a esquerda para excluir</string>
