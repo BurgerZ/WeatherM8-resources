@@ -215,8 +215,8 @@
 
     <!-- Settings - About -->
     <string name="prefs_about">Acerca</string>
-    <string name="prefs_app_version">Versão: %s</string>
-    <string name="prefs_app_url">Website</string>
+    <string name="prefs_app_version">Versão:</string>
+    <string name="prefs_app_url">Website:</string>
     <string name="prefs_permissions_privacy">Política de Privacidade</string>
     <string name="prefs_translations">Traduções</string>
     <string name="prefs_translations_summary">Créditos aos tradutores da aplicação</string>
