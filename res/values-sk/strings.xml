@@ -163,7 +163,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">míle</string>
 
-    <string name="weather_aqi_detail_units">Jednotky: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Jednotky: µg/m³</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
