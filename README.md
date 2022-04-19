@@ -23,7 +23,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-hr|Croatian|**MASVA, MIUI Adria**|
 |values-hu|Hungarian|**Gergő Bancsi**|
 |values-in|Indonesian|**Anggit Pramudita**, **Diki Ananta**|
-|values-it|Italian|**Ignis_su**, **Lippe35**|
+|values-it|Italian|**Ignis_su**, **Filipe Costa (Lippe35)**|
 |values-iw|Hebrew|**Alex Travitsky**|
 |values-ko|Korean|**wolfwork**|
 |values-lt|Lithuanian|**Vladimir Zemlianskij**|
@@ -31,8 +31,8 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-ro|Romanian|**Igor Sorocean**|
 |values-ru|Russian|**Andrei Zhukouski**|
 |values-pl|Polish|**trybit**, **Jan Folta Gutek**|
-|values-pt-BR|Portuguese (Brazil)|**Lineu Junior**, **Lippe35**|
-|values-pt-PT|Portuguese (Portugal)|**Lippe35**|
+|values-pt-BR|Portuguese (Brazil)|**Lineu Junior**, **Filipe Costa (Lippe35)**|
+|values-pt-PT|Portuguese (Portugal)|**Filipe Costa (Lippe35)**|
 |values-sk|Slovak|**Luboš Belobruch**, **Ivan Urda**, **ingbrzy**|
 |values-sl|Slovenian|**Boštjan Rebolj**|
 |values-sr|Serbian|**Milan Andrejić**, **Darko Perić**|
