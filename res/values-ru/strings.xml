@@ -10,6 +10,7 @@
     <string name="downloading">Скачивание…</string>
     <string name="download_failed">Возникла ошибка. Попробуйте позже</string>
     <string name="download_succeeded">Скачивание завершено</string>
+    <string name="restart_to_apply">Изменения вступят в силу после перезапуска приложения</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">Подсказка: долгое нажатие для перемещения, свайп влево для удаления</string>

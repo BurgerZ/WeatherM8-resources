@@ -10,6 +10,7 @@
     <string name="downloading">Descargando…</string>
     <string name="download_failed">Descarga fracasó. Vuelva a intentarlo más tarde</string>
     <string name="download_succeeded">Descarga completa</string>
+    <string name="restart_to_apply">Los cambios serán efectivos una vez reiniciada la aplicación</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">Consejo: mantén presionado para arrastrar, desliza hacia la izquierda para eliminar</string>
@@ -22,7 +23,7 @@
 
     <!-- Weather details -->
     <string name="weather_details_title">Detalles</string>
-    <string name="weather_details_feelslike">Sensacion</string>
+    <string name="weather_details_feelslike">Sensación</string>
     <string name="weather_details_humidity">Humedad</string>
     <string name="weather_details_wind">Viento</string>
     <string name="weather_details_dewpoint">Punto de rocío</string>

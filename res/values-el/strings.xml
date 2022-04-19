@@ -10,6 +10,7 @@
     <string name="downloading">Λήψη…</string>
     <string name="download_failed">Σφάλμα λήψης. Δοκιμάστε αργότερα</string>
     <string name="download_succeeded">Η λήψη ολοκληρώθηκε</string>
+    <string name="restart_to_apply">Οι αλλαγές θα ενεργοποιηθούν μετά την επανεκκίνηση της εφαρμογής</string>
 
     <!-- City manager -->
 <!--string name="city_manager_drag_swipe_tip">Συμβουλή: Παρατ/μένα για μεταφορά,  διαγρ. αριστ. </string  | sort for one line -->

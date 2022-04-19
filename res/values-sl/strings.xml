@@ -10,6 +10,7 @@
     <string name="downloading">Prenašam…</string>
     <string name="download_failed">Prenos ni uspel. Poskusite kasneje</string>
     <string name="download_succeeded">Prenos končan</string>
+    <string name="restart_to_apply">Za uveljavitev sprememb morate znova zagnati aplikacijo</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">Nasvet: dolgo pritisnite da premaknete, povlecite levo da izbrišete</string>

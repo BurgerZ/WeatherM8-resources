@@ -10,6 +10,7 @@
     <string name="downloading">내려받는 중…</string>
     <string name="download_failed">다운로드 실패. 나중에 다시 시도해주세요</string>
     <string name="download_succeeded">다운로드 완료</string>
+    <string name="restart_to_apply">변경된 내용을 적용하려면 프로그램을 다시 시작하세요</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">팁: 길게 눌러 위치를 바꾸고, 왼쪽으로 밀면 삭제됩니다</string>

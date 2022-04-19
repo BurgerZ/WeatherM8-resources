@@ -10,6 +10,7 @@
     <string name="downloading">"S'està baixant…"</string>
     <string name="download_failed">La baixada ha fallat. Torneu-ho a provar més tard</string>
     <string name="download_succeeded">"S'ha completat la baixada"</string>
+    <string name="restart_to_apply">"Heu de reiniciar l'aplicació per aplicar els canvis"</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">"Consell: mantingueu premeu per arrossegar, llisqueu cap a l'esquerra per suprimir"</string>

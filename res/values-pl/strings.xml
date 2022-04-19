@@ -10,6 +10,7 @@
     <string name="downloading">Ściąganie…</string>
     <string name="download_failed">Pobieranie nie udane. Spróbuj ponownie później</string>
     <string name="download_succeeded">Pobieranie zakończone</string>
+    <string name="restart_to_apply">Musisz zrestartować program aby zastosować zmiany</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">Wskazówka: długie naciśnięcie, aby przenieść, przesuń palcem w lewo, aby usunąć</string>

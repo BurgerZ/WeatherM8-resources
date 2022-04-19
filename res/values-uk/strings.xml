@@ -10,6 +10,7 @@
     <string name="downloading">Завантаження…</string>
     <string name="download_failed">Не вдалося завантажити. Спробуйте ще раз пізніше</string>
     <string name="download_succeeded">Завантаження завершено</string>
+    <string name="restart_to_apply">Щоб застосувати зміни, потрібно перезапустити програму</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">Подсказка: долгое нажатие для перемещения, свайп влево для удаления</string>
