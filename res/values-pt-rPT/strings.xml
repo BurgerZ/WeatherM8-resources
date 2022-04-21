@@ -43,7 +43,7 @@
     <string name="forecast_daily_title">Previsão diária</string>
 
     <!-- Radar view -->
-    <string name="radar_view_title">Imagens de radar</string>
+    <string name="radar_view_title">Mapa</string>
     <string name="radar_view_legend_overcast">Nublado</string>
     <string name="radar_view_legend_drizzle">Aguaceiros</string>
     <string name="radar_view_legend_light_rain">Chuviscos</string>
