@@ -251,7 +251,7 @@
     <string name="widget_config_current_temp_title">Τρέχουσα θερμοκρασία</string>
     <string name="widget_config_current_condition_title">Τρέχουσα κατάσταση</string>
     <string name="widget_config_forecast_temp_title">Πρόβλεψη θερμοκρασίας</string>
-    <string name="widget_config_forecast_time_title">Πρόβλεψη ώρας</string>
+    <string name="widget_config_forecast_time_title">Πρόβλεψη καιρού</string>
     <string name="widget_config_other_title">Άλλα δεδομένα</string>
 
     <string name="widget_config_data_display_title">Εμφάνιση στοιχείων</string>
