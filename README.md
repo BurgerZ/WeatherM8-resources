@@ -13,7 +13,7 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-bn|Bengali|**Abhishek**|
 |values-ca-ES|Catalan|**Jaime Muñoz Martín**|
 |values-cs|Czech|**Miloslav Kubín**,  **Ladislav Loun**|
-|values-de|Deutch|**MIUI Germany**, **Hen Ry**|
+|values-de|Deutch|**MIUI Germany**, **Hen_Ry**|
 |values-el|Greek|**Dimitrios Skodras**, **Spiros Kaparos**|
 |values-es|Spanish|**Nicolás Berrutti**, **Jaime Muñoz Martín**|
 |values-fa|Persian|**رحمان رحمانی پرست**|
