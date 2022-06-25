@@ -75,8 +75,8 @@
     <string name="sun_moon_title">Sonne und Mond</string>
     <!-- Sun Info -->
     <string name="sun_info_title">Sonne</string>
-    <string name="sun_info_sunrise">SA</string>
-    <string name="sun_info_sunset">SU</string>
+    <string name="sun_info_sunrise">Aufgang</string>
+    <string name="sun_info_sunset">Untergang</string>
     <string name="sun_info_dawn">Morgendämmerung</string>
     <string name="sun_info_dusk">Abenddämmerung</string>
     <string name="sun_info_noon">Mittagzeit</string>
@@ -101,7 +101,7 @@
     <!-- Moon Info -->
     <string name="moon_info_title">Mond</string>
     <string name="moon_info_moonrise">Aufgang</string>
-    <string name="moon_info_moonset">Einstellen</string>
+    <string name="moon_info_moonset">Untergang</string>
     <string name="moon_info_date">Datum</string>
     <string name="moon_info_age">Alter</string>
     <string name="moon_info_illuminated">Beleuchtet</string>
