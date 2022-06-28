@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Редослед података о времену</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Ажурирање података</string>
+    <string name="prefs_data_update_autoupdate_summary">Аутоматски ажурирај временску прогнозу</string>
+    <string name="prefs_data_update_autoupdate_title">Ауто ажурирање</string>
+    <string name="prefs_data_update_wifi_only_summary">Ажурирај временску прогнозу само када је успостављена Wi-Fi веза</string>
+    <string name="prefs_data_update_wifi_only_title">Ажурирај само преко Wi-Fi-ја</string>
+    <string name="prefs_data_update_interval_title">Интервал ажурирања</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Крај</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Почетак</string>
+    <string name="prefs_data_update_quiet_hours_title">Време мировања</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Јединице</string>
     <string name="prefs_units_temperature">Температура</string>

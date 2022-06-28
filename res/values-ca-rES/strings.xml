@@ -191,6 +191,17 @@
     <string name="prefs_data_source_radar">Mapa de precipitacions</string>
     <string name="prefs_data_order">Ordre de les dades meteorològiques</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Actualització de dades</string>
+    <string name="prefs_data_update_autoupdate_title">Actualització automàtica</string>
+    <string name="prefs_data_update_autoupdate_summary">Actualitza la previsió meteorològica automàticament</string>
+    <string name="prefs_data_update_wifi_only_summary">Actualitza la previsió meteorològica només amb Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Actualitza només amb Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">"Interval d'actualització"</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Fi</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Inici</string>
+    <string name="prefs_data_update_quiet_hours_title">Període sense notificacions</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Unitats</string>
     <string name="prefs_units_temperature">Temperatura</string>

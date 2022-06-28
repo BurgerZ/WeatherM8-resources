@@ -186,12 +186,23 @@
     <string name="prefs_icons_skin_available">Available</string>
 
     <!-- Data sources preferences -->
-    <string name="prefs_data_source_title">Data source</string>
+    <string name="prefs_data_source_title">Крыніца дадзеных</string>
     <string name="prefs_data_source_citydb">База гарадоў</string>
     <string name="prefs_data_source_weather">Надвор\'е</string>
     <string name="prefs_data_source_aqi">Якасць паветра</string>
     <string name="prefs_data_source_radar">Мапа ападкаў</string>
     <string name="prefs_data_order">Парадак дадзеных надвор\'я</string>
+
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Абнаўленне дадзеных</string>
+    <string name="prefs_data_update_autoupdate_title">Аўтаматычнае абнаўленне</string>
+    <string name="prefs_data_update_autoupdate_summary">Аўтаматычнае абнаўленне прагноза надвор\'я</string>
+    <string name="prefs_data_update_interval_title">Інтэрвал абнаўлення</string>
+    <string name="prefs_data_update_wifi_only_summary">Абнаўляць прагноз надвор\'я толькі пры наяўнасці падлучэння па сетцы Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Абнаўляць толькі па Wi-Fi</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Канец</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Пачатак</string>
+    <string name="prefs_data_update_quiet_hours_title">Ціхія гадзіны</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Адзінкі вымярэння</string>

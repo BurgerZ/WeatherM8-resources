@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Cập nhật dữ liệu</string>
+    <string name="prefs_data_update_autoupdate_summary">"Cập nhật thời tiết tự động "</string>
+    <string name="prefs_data_update_autoupdate_title">"Cập nhật tự động "</string>
+    <string name="prefs_data_update_wifi_only_summary">Để cập nhật thời tiết dự báo chỉ khi kết nối thông qua mạng Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Chỉ cập nhật trên Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Khoảng thời gian cập nhật</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Kết thúc</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Bắt đầu</string>
+    <string name="prefs_data_update_quiet_hours_title">Giờ yên tĩnh</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">"Đơn vị "</string>
     <string name="prefs_units_temperature">"Nhiệt độ "</string>

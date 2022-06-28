@@ -47,7 +47,7 @@
     <string name="radar_view_legend_overcast">Bedeckt</string>
     <string name="radar_view_legend_drizzle">Nieselregen</string>
     <string name="radar_view_legend_light_rain">Leichter Regen</string>
-    <string name="radar_view_legend_moderate_rain">Mässiger Regen</string>
+    <string name="radar_view_legend_moderate_rain">Mäßiger Regen</string>
     <string name="radar_view_legend_heavy_rain">Starkregen</string>
     <string name="radar_view_legend_hail">Hagel</string>
     <string name="radar_view_legend_light_snow">Leichter Schneefall</string>
@@ -201,6 +201,17 @@
     <string name="prefs_data_source_aqi">Luftqualität</string>
     <string name="prefs_data_source_radar">Niederschlagskarte</string>
     <string name="prefs_data_order">Reihenfolge Wetterdaten</string>
+
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Datenaktualisierung</string>
+    <string name="prefs_data_update_autoupdate_title">Autom. aktualisieren</string>
+    <string name="prefs_data_update_autoupdate_summary">Wettervorhersage autom. aktualisieren</string>
+    <string name="prefs_data_update_wifi_only_summary">Wettervorhersage nur bei bestehender WLAN-Verbindung aktualisieren</string>
+    <string name="prefs_data_update_wifi_only_title">Nur über WLAN aktualisieren</string>
+    <string name="prefs_data_update_interval_title">Aktualisierungsintervall</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Ende</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
+    <string name="prefs_data_update_quiet_hours_title">Ruhestunden</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Einheiten</string>

@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Pembaruan data</string>
+    <string name="prefs_data_update_autoupdate_title">Perbarui otomatis</string>
+    <string name="prefs_data_update_autoupdate_summary">Perbarui cuaca secara otomatis</string>
+    <string name="prefs_data_update_wifi_only_summary">Secara otomatis memperbarui ramalan cuaca hanya saat terkoneksi ke Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Perbarui hanya di Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Jangka waktu pembaruan</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Selesai</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Mulai</string>
+    <string name="prefs_data_update_quiet_hours_title">Jam tenang</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Satuan</string>
     <string name="prefs_units_temperature">Suhu</string>

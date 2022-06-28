@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">डेटा अपडेट</string>
+    <string name="prefs_data_update_autoupdate_summary">स्वचालित रूप से मौसम का पूर्वानुमान</string>
+    <string name="prefs_data_update_autoupdate_title">स्वत: उत्परिवर्तित</string>
+    <string name="prefs_data_update_wifi_only_summary">स्वचालित रूप से मौसम के पूर्वानुमान को उत्परिवर्तित करें, जब वाई-फाई कनेक्शन स्थापित हो</string>
+    <string name="prefs_data_update_wifi_only_title">केवल वाई-फाई पर उत्परिवर्तित करें</string>
+    <string name="prefs_data_update_interval_title">उत्परिवर्तित अंतराल</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">समाप्त</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">प्रारंभ</string>
+    <string name="prefs_data_update_quiet_hours_title">शांत घंटे</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">इकाई</string>
     <string name="prefs_units_temperature">तापमान</string>

@@ -189,6 +189,17 @@
     <string name="prefs_data_source_radar">Mapa opadów</string>
     <string name="prefs_data_order">Kolejność danych pogodowych</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Aktualizacja danych</string>
+    <string name="prefs_data_update_autoupdate_summary">Aktualizuj prognozę pogody automatycznie</string>
+    <string name="prefs_data_update_autoupdate_title">Automatyczna aktualizacja</string>
+    <string name="prefs_data_update_wifi_only_summary">Aktualizuj prognozę pogody automatycznie tylko przy połączeniu Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Aktualizuj tylko przy Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Aktualizacja co</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Koniec</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Początek</string>
+    <string name="prefs_data_update_quiet_hours_title">Cisza nocna</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Jednostki</string>
     <string name="prefs_units_temperature">Temperatura</string>

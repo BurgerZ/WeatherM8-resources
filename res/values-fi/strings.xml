@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Tietojen päivitys</string>
+    <string name="prefs_data_update_autoupdate_title">Automaattinen päivitys</string>
+    <string name="prefs_data_update_autoupdate_summary">Päivittää säätiedot automaattisesti</string>
+    <string name="prefs_data_update_wifi_only_summary">Päivittää säätiedot vain kun Wi-Fi yhteys on muodostettu</string>
+    <string name="prefs_data_update_wifi_only_title">Päivitä vain Wi-Fi yhteydellä</string>
+    <string name="prefs_data_update_interval_title">Päivitysväli</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">End</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
+    <string name="prefs_data_update_quiet_hours_title">Quiet hours</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Yksiköt</string>
     <string name="prefs_units_temperature">Lämpötila</string>

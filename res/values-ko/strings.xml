@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">강수 지도</string>
     <string name="prefs_data_order">날씨 데이터 순서</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">데이터 업데이트</string>
+    <string name="prefs_data_update_autoupdate_title">자동 업데이트</string>
+    <string name="prefs_data_update_autoupdate_summary">일기예보를 자동으로 업데이트</string>
+    <string name="prefs_data_update_wifi_only_summary">Wi-Fi가 연결되어 있을 때만 일기예보를 업데이트</string>
+    <string name="prefs_data_update_wifi_only_title">Wi-Fi에서만 업데이트</string>
+    <string name="prefs_data_update_interval_title">업데이트 주기</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">종료</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">시작</string>
+    <string name="prefs_data_update_quiet_hours_title">방해 금지 시간</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">단위</string>
     <string name="prefs_units_temperature">온도</string>

@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Duomenų atnaujinimas</string>
+    <string name="prefs_data_update_autoupdate_summary">Automatinis orų prognozės atnaujinimas</string>
+    <string name="prefs_data_update_autoupdate_title">Automatinis atnaujinimas</string>
+    <string name="prefs_data_update_wifi_only_summary">Orų prognozę atnaujinti tik prisijungus prie Wi-Fi tinklo</string>
+    <string name="prefs_data_update_wifi_only_title">Atnaujinti tik esant Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Atnaujinimo intervalas</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Pabaiga</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Pradžia</string>
+    <string name="prefs_data_update_quiet_hours_title">Ramybės valandos</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Mato vienetai</string>
     <string name="prefs_units_temperature">Temperatūra</string>

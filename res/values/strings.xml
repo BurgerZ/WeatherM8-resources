@@ -219,6 +219,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Data update</string>
+    <string name="prefs_data_update_autoupdate_title">Auto update</string>
+    <string name="prefs_data_update_autoupdate_summary">Update weather forecasts automatically</string>
+    <string name="prefs_data_update_wifi_only_summary">Update weather forecast only when Wi-Fi connection established</string>
+    <string name="prefs_data_update_wifi_only_title">Update only on Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Update interval</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">End</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
+    <string name="prefs_data_update_quiet_hours_title">Quiet hours</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Units</string>
     <string name="prefs_units_temperature">Temperature</string>
@@ -327,5 +338,11 @@
     <string name="press_color_to_apply">Press on Color to apply</string>
     <string name="dialog_color_picker">Color Picker</string>
     <string name="color_picker_use_default_color">Use default color</string>
+
+    <!-- Notification channel -->
+    <string name="notification_widget_update_service_title" translatable="false">Literary Clock</string>
+    <string name="notification_widget_update_service_text">Long click the notification, open app info and turn off the notifications to hide this notification.</string>
+    <string name="notification_widget_update_service_channel">Update widget service notification</string>
+
 
 </resources>

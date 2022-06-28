@@ -193,6 +193,18 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Ordine di informazioni visualizzato</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Data update</string>
+    <string name="prefs_data_update_autoupdate_summary">Aggiorna previsioni meteorologiche automaticamente</string>
+    <string name="prefs_data_update_autoupdate_title">Aggiornamento automatico</string>
+    <string name="prefs_data_update_wifi_only_summary">Aggiorna automaticamente le informazioni meteo solo il Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Aggiorna solo con il Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Intervallo aggiornamento</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Fine</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Inizio</string>
+    <string name="prefs_data_update_quiet_hours_title">Ore Tranquille</string>
+
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Unità</string>
     <string name="prefs_units_temperature">Temperatura</string>

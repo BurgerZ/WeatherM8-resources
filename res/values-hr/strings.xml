@@ -189,6 +189,17 @@
     <string name="prefs_data_source_radar">Karta padalina</string>
     <string name="prefs_data_order">Redoslijed podataka o vremenu</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Ažuriranje podataka</string>
+    <string name="prefs_data_update_autoupdate_summary">Ažuriraj vremensku prognozu automatski</string>
+    <string name="prefs_data_update_autoupdate_title">Autom. ažuriraj</string>
+    <string name="prefs_data_update_wifi_only_summary">Automatski ažuriraj vremensku prognozu samo kada je uspostavljena Wi-Fi veza</string>
+    <string name="prefs_data_update_wifi_only_title">Ažuriraj samo preko Wi-Fi-ja</string>
+    <string name="prefs_data_update_interval_title">Interval ažuriranja</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Kraj</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Početak</string>
+    <string name="prefs_data_update_quiet_hours_title">Tihi sati</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Jedinice</string>
     <string name="prefs_units_temperature">Temperatura</string>

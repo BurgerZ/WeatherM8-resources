@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Karta padavin</string>
     <string name="prefs_data_order">Razvrščanje podatkov vremena</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Posodobitev podatkov</string>
+    <string name="prefs_data_update_autoupdate_summary">Samodejno posodobi vremensko napoved</string>
+    <string name="prefs_data_update_autoupdate_title">Samod. posodobi</string>
+    <string name="prefs_data_update_wifi_only_summary">Samodejno posodobi vremensko napoved samo kadar je vzpostavljena WiFi povezava</string>
+    <string name="prefs_data_update_wifi_only_title">Posodobi samo preko WiFi-ja</string>
+    <string name="prefs_data_update_interval_title">Interval posodabljanja</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Konec</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Začetek</string>
+    <string name="prefs_data_update_quiet_hours_title">Tihe ure</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Enote</string>
     <string name="prefs_units_temperature">Temperatura</string>

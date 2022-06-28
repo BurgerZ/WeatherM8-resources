@@ -187,6 +187,17 @@
     <string name="prefs_data_source_radar">Карта осадков</string>
     <string name="prefs_data_order">Порядок отображаемых данных</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Обновление данных</string>
+    <string name="prefs_data_update_autoupdate_title">Автообновление</string>
+    <string name="prefs_data_update_autoupdate_summary">Автоматическое обновление прогноза погоды</string>
+    <string name="prefs_data_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Обновлять только по Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Интервал обновления</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Конец</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Начало</string>
+    <string name="prefs_data_update_quiet_hours_title">Тихие часы</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Единицы измерения</string>
     <string name="prefs_units_temperature">Температура</string>

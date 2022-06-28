@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">سفارشی سازی داده های آب و هوا</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">به روز رسانی داده ها</string>
+    <string name="prefs_data_update_autoupdate_title">به روز رسانی خودکار</string>
+    <string name="prefs_data_update_autoupdate_summary">به روز رسانی خودکار پیش بینی آب و هوا</string>
+    <string name="prefs_data_update_wifi_only_summary">به روز رسانی خودکار پیش بینی وضعیت هوا, تنها زمانی که اتصال وای فای ایجاد شد</string>
+    <string name="prefs_data_update_wifi_only_title">به روز رسانی فقط با وای فای</string>
+    <string name="prefs_data_update_interval_title">فاصله به روز رسانی</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">پایان</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">شروع</string>
+    <string name="prefs_data_update_quiet_hours_title">حالت استراحت</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">واحد</string>
     <string name="prefs_units_temperature">دما</string>

@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Harta precipitațiilor</string>
     <string name="prefs_data_order">Ordinea datelor meteo</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Actualizarea datelor</string>
+    <string name="prefs_data_update_autoupdate_summary">Actualizare automată a prognozei meteo</string>
+    <string name="prefs_data_update_autoupdate_title">Actualizare automată</string>
+    <string name="prefs_data_update_wifi_only_summary">Se actualizează prognoza meteo numai atunci când a fost stabilită o conexiune Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Actualizare doar în Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Interval de actualizare</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Oprire</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Pornire</string>
+    <string name="prefs_data_update_quiet_hours_title">Ore de linişte</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Unități</string>
     <string name="prefs_units_temperature">Temperatură</string>

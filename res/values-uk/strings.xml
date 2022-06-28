@@ -187,6 +187,17 @@
     <string name="prefs_data_source_radar">Карта опадів</string>
     <string name="prefs_data_order">Порядок відображення даних</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Оновлення даних</string>
+    <string name="prefs_data_update_autoupdate_title">Автооновлення</string>
+    <string name="prefs_data_update_autoupdate_summary">Автоматичне оновлення прогнозу погоди</string>
+    <string name="prefs_data_update_wifi_only_summary">Оновлювати прогноз погоди лише за наявності з\'єднання з мережею Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Оновлювати лише по Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Інтервал оновлення</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Кінець</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Початок</string>
+    <string name="prefs_data_update_quiet_hours_title">Тихі години</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Одиниці вимірювання</string>
     <string name="prefs_units_temperature">Температура</string>

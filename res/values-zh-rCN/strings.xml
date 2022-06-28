@@ -33,7 +33,6 @@
     <string name="weather_details_precip">降水概率</string>
     <string name="weather_details_visibility">能见度</string>
     <string name="weather_details_uvindex">紫外线指数</string>
-    <string name="weather_details_kpindex" translatable="false">@string/forecast_kpindex_title</string>
     <string name="weather_details_timezone">时区</string>
     <string name="weather_details_daylight_hours">光照时间</string>
 
@@ -57,13 +56,6 @@
 
     <!-- AQI -->
     <string name="aqi_title">空气质量</string>
-    <string name="aqi_pm2_5" translatable="false">PM2.5</string>
-    <string name="aqi_so2" translatable="false">SO₂</string>
-    <string name="aqi_pm10" translatable="false">PM10</string>
-    <string name="aqi_no2" translatable="false">NO₂</string>
-    <string name="aqi_co" translatable="false">CO</string>
-    <string name="aqi_o3" translatable="false">O³</string>
-    <string name="aqi_small_text" translatable="false">AQI %s %s</string>
     <string name="aqi_summary_1">良好</string>
     <string name="aqi_summary_2">中等</string>
     <string name="aqi_summary_3">不适于敏感人群</string>
@@ -171,10 +163,6 @@
     <string name="pressure_unit_mmhg">mmHg</string>
     <string name="pressure_unit_inhg">inHg</string>
 
-    <string name="temperature_unit_c" translatable="false">\u2103</string>
-    <string name="temperature_unit_f" translatable="false">\u2109</string>
-    <string name="temperature_unit_degree" translatable="false">°</string>
-
     <string name="precipitation_unit_mm">mm</string>
     <string name="precipitation_unit_cm">cm</string>
     <string name="precipitation_unit_in">in</string>
@@ -199,8 +187,6 @@
     <string name="prefs_ui_theme_dark">深色模式</string>
     <string name="prefs_ui_theme_light">浅色模式</string>
     <string name="prefs_ui_theme_battery">自动切换</string>
-    <string name="prefs_ui_theme_def_value" translatable="false">MODE_NIGHT_FOLLOW_SYSTEM</string>
-    <string name="prefs_ui_icons_skin" translatable="false">@string/prefs_icons_skin_title</string>
 
     <!-- Settings - weather icons -->
     <string name="prefs_icons_skin_title">天气图标</string>
@@ -215,30 +201,24 @@
     <string name="prefs_data_source_radar">降水量图</string>
     <string name="prefs_data_order">天气数据排序</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">数据更新</string>
+    <string name="prefs_data_update_autoupdate_title">自动更新</string>
+    <string name="prefs_data_update_autoupdate_summary">自动更新天气预报</string>
+    <string name="prefs_data_update_wifi_only_summary">只有在连接Wi-Fi才更新天气预报。</string>
+    <string name="prefs_data_update_wifi_only_title">只在Wi-Fi下更新</string>
+    <string name="prefs_data_update_interval_title">自动更新频率</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">结束时间</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">开始时间</string>
+    <string name="prefs_data_update_quiet_hours_title">暂停自动更新</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">单位</string>
     <string name="prefs_units_temperature">温度</string>
-    <string name="prefs_units_temperature_c" translatable="false">°C</string>
-    <string name="prefs_units_temperature_f" translatable="false">°F</string>
     <string name="prefs_units_pressure">气压</string>
-    <string name="prefs_units_pressure_hpa" translatable="false">@string/pressure_unit_hpa</string>
-    <string name="prefs_units_pressure_mb" translatable="false">@string/pressure_unit_mb</string>
-    <string name="prefs_units_pressure_mmhg" translatable="false">@string/pressure_unit_mmhg</string>
-    <string name="prefs_units_pressure_inhg" translatable="false">@string/pressure_unit_inhg</string>
     <string name="prefs_units_wind">风速</string>
-    <string name="prefs_units_wind_ms" translatable="false">@string/wind_unit_ms</string>
-    <string name="prefs_units_wind_kmh" translatable="false">@string/wind_unit_kmh</string>
-    <string name="prefs_units_wind_mph" translatable="false">@string/wind_unit_mph</string>
-    <string name="prefs_units_wind_knot" translatable="false">@string/wind_unit_knot</string>
-    <string name="prefs_units_wind_bft" translatable="false">@string/wind_unit_bft</string>
     <string name="prefs_units_precip">降水量</string>
-    <string name="prefs_units_precip_mm" translatable="false">@string/precipitation_unit_mm</string>
-    <string name="prefs_units_precip_cm" translatable="false">@string/precipitation_unit_cm</string>
-    <string name="prefs_units_precip_in" translatable="false">@string/precipitation_unit_in</string>
     <string name="prefs_units_visibility">能见度</string>
-    <string name="prefs_units_visibility_m" translatable="false">@string/visibility_unit_m</string>
-    <string name="prefs_units_visibility_km" translatable="false">@string/visibility_unit_km</string>
-    <string name="prefs_units_visibility_mi" translatable="false">@string/visibility_unit_mi</string>
 
     <!-- Notifications -->
     <string name="prefs_notifications_title">通知</string>
@@ -274,13 +254,10 @@
 
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">发送邮件</string>
-    <string name="dialog_contact_dev_send_email_subject_message" translatable="false">Weather Mate [%1$s]</string>
     <string name="dialog_contact_dev_send_email_message">描述您的问题:\n\n</string>
     <string name="dialog_contact_dev_send_email_report_bug">报告错误</string>
     <string name="dialog_contact_dev_send_email_request_new_feature">请求新功能</string>
     <string name="dialog_contact_dev_send_email_other">其他</string>
-    <string name="dialog_contact_dev_send_email_help_localize" translatable="false">Help us with localization</string>
-    <string name="dialog_contact_dev_send_email_help_localize_message" translatable="false">Hello, I can help you with localization to %1$s</string>
 
     <!-- Widgets -->
 

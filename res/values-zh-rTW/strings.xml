@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">天氣數據卡片排序</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">數據更新</string>
+    <string name="prefs_data_update_autoupdate_title">自動更新</string>
+    <string name="prefs_data_update_autoupdate_summary">自動更新天氣資訊</string>
+    <string name="prefs_data_update_wifi_only_summary">僅在有Wi-Fi連線時自動更新天氣預報</string>
+    <string name="prefs_data_update_wifi_only_title">Wi-Fi連線時自動更新</string>
+    <string name="prefs_data_update_interval_title">自動更新頻率</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">結束</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">開始</string>
+    <string name="prefs_data_update_quiet_hours_title">暫停自動更新</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">單位</string>
     <string name="prefs_units_temperature">溫度</string>

@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Hava durumu verileri</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Veri güncellemesi</string>
+    <string name="prefs_data_update_autoupdate_summary">Hava Durumunu Otomatik Olarak Güncelleştir</string>
+    <string name="prefs_data_update_autoupdate_title">Otomatik Güncelleştirme</string>
+    <string name="prefs_data_update_wifi_only_summary">Sadece Wi-Fi bağlantısı kurulduğunda hava durumunu güncelleyin</string>
+    <string name="prefs_data_update_wifi_only_title">"Sadece Wi-Fi'de güncelle"</string>
+    <string name="prefs_data_update_interval_title">Güncelleme aralığı</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Son</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Başlat</string>
+    <string name="prefs_data_update_quiet_hours_title">Sessiz saatler</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Birimler</string>
     <string name="prefs_units_temperature">Sıcaklık</string>

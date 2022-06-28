@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Заявка за получаване на данни за времето</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Data update</string>
+    <string name="prefs_data_update_autoupdate_title">Автоматично обновяване</string>
+    <string name="prefs_data_update_autoupdate_summary">Обновявай прогнозата автоматично</string>
+    <string name="prefs_data_update_wifi_only_summary">Обновявай прогнозата за времето само при наличие на връзка с Wi-Fi мрежа</string>
+    <string name="prefs_data_update_wifi_only_title">Обновявай само чрез Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Актуализация интервал</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Край</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Начало</string>
+    <string name="prefs_data_update_quiet_hours_title">Тихи часове</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Еденици</string>
     <string name="prefs_units_temperature">Температура</string>

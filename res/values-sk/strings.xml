@@ -193,6 +193,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Poradie údajov o počasí</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Aktualizácia údajov</string>
+    <string name="prefs_data_update_autoupdate_summary">Aktualizovať predpoveď automaticky</string>
+    <string name="prefs_data_update_autoupdate_title">Automatická aktualizácia</string>
+    <string name="prefs_data_update_wifi_only_summary">Aktualizovať predpoveď automaticky iba pomocou Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Aktualizovať iba pomocou Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Interval aktualizácie</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Koniec</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Začiatok</string>
+    <string name="prefs_data_update_quiet_hours_title">Režim Nerušiť</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Jednotky</string>
     <string name="prefs_units_temperature">Teplota</string>
