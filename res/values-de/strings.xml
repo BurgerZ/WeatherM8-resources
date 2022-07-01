@@ -229,6 +229,8 @@
     <string name="prefs_notification_icon_icon">Wettersymbol</string>
     <string name="prefs_notification_icon_temp">Temperatur</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
     <string name="prefs_widgets_not_found">Keine installierten Widgets gefunden</string>
@@ -286,6 +288,9 @@
     <string name="widget_config_forecast_temp_title">Temperaturvorhersage</string>
     <string name="widget_config_forecast_time_title">Vorhersagezeit</string>
     <string name="widget_config_other_title">Andere Daten</string>
+
+    <string name="widget_config_realtime_icon_size_title">Symbolgröße aktuelles Wetter</string>
+    <string name="widget_config_forecast_icon_size_title">Symbolgröße Wettervorhersage</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">Nächsten Alarm anzeigen</string>

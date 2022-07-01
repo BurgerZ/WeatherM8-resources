@@ -220,6 +220,8 @@
     <string name="prefs_notification_icon_icon">Ikona vremena</string>
     <string name="prefs_notification_icon_temp">Temperatura</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">Pripomočki</string>
     <string name="prefs_widgets_not_found">Ni najdenih nameščenih pripomočkov</string>
@@ -270,6 +272,9 @@
     <string name="widget_config_forecast_temp_title">Napovedana temperatura</string>
     <string name="widget_config_forecast_time_title">Napovedni čas</string>
     <string name="widget_config_other_title">Drugi podatki</string>
+
+    <string name="widget_config_forecast_icon_size_title">Trenutna velikost ikon napovedi</string>
+    <string name="widget_config_realtime_icon_size_title">Trenutna velikost ikon vremena</string>
 
     <string name="widget_config_data_display_title">Prikaz podatkov</string>
     <string name="widget_config_show_alarm_title">Pokaži naslednji alarm</string>

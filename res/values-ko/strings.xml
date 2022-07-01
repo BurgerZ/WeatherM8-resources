@@ -220,6 +220,8 @@
     <string name="prefs_notification_icon_icon">날씨 아이콘</string>
     <string name="prefs_notification_icon_temp">온도</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">위젯</string>
     <string name="prefs_widgets_not_found">설치된 위젯을 찾을 수 없습니다</string>
@@ -270,6 +272,9 @@
     <string name="widget_config_forecast_temp_title">예보 온도</string>
     <string name="widget_config_forecast_time_title">예보 시간</string>
     <string name="widget_config_other_title">기타 데이터</string>
+
+    <string name="widget_config_realtime_icon_size_title">현재 날씨 아이콘 크기</string>
+    <string name="widget_config_forecast_icon_size_title">일기예보 아이콘 크기</string>
 
     <string name="widget_config_data_display_title">데이터 표시</string>
     <string name="widget_config_show_alarm_title">다음 알림 보기</string>

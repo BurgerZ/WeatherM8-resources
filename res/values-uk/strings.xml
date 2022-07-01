@@ -214,6 +214,8 @@
     <string name="prefs_notification_icon_icon">Іконка погоди</string>
     <string name="prefs_notification_icon_temp">Температура</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">Віджети</string>
     <string name="prefs_widgets_not_found">Немає встановленних віджетів</string>
@@ -262,6 +264,9 @@
     <string name="widget_config_forecast_temp_title">Температура прогнозу</string>
     <string name="widget_config_forecast_time_title">Час прогнозу</string>
     <string name="widget_config_other_title">Інші дані</string>
+
+    <string name="widget_config_realtime_icon_size_title">Розмір іконки поточної погоди</string>
+    <string name="widget_config_forecast_icon_size_title">Розмір іконок погоди прогнозу</string>
 
     <string name="widget_config_data_display_title">Відображення даних</string>
     <string name="widget_config_show_alarm_title">Показати наступний будильник</string>

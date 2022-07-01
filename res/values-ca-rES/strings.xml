@@ -218,6 +218,8 @@
     <string name="prefs_notification_icon_icon">Icona del temps</string>
     <string name="prefs_notification_icon_temp">Temperatura</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">Ginys</string>
     <string name="prefs_widgets_not_found">No hi ha cap giny instal·lat</string>
@@ -266,6 +268,9 @@
     <string name="widget_config_forecast_temp_title">Temperatura de previsió</string>
     <string name="widget_config_forecast_time_title">Temps previst</string>
     <string name="widget_config_other_title">Altres dades</string>
+
+    <string name="widget_config_realtime_icon_size_title">Mida de la icona meteorològica actual</string>
+    <string name="widget_config_forecast_icon_size_title">Mida de la icona de la previsió</string>
 
     <string name="widget_config_data_display_title">Visualització de dades</string>
     <string name="widget_config_show_alarm_title">Mostra la següent alarma</string>

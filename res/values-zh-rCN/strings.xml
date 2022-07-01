@@ -228,6 +228,8 @@
     <string name="prefs_notification_icon_icon">天气图标</string>
     <string name="prefs_notification_icon_temp">温度</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">小部件</string>
     <string name="prefs_widgets_not_found">未放置小部件</string>
@@ -278,6 +280,9 @@
     <string name="widget_config_forecast_temp_title">预报温度</string>
     <string name="widget_config_forecast_time_title">预报时间</string>
     <string name="widget_config_other_title">其他数据</string>
+
+    <string name="widget_config_realtime_icon_size_title">目前天气图标大小</string>
+    <string name="widget_config_forecast_icon_size_title">预测天气图标大小</string>
 
     <string name="widget_config_data_display_title">数据显示</string>
     <string name="widget_config_show_alarm_title">显示闹钟</string>

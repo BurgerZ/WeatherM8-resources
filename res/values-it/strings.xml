@@ -221,6 +221,8 @@
     <string name="prefs_notification_icon_icon">Icona Meteo</string>
     <string name="prefs_notification_icon_temp">Temperatura</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
     <string name="prefs_widgets_not_found">Nessun set di widget</string>
@@ -271,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_forecast_icon_size_title">Dimensione delle icone dei dati di previsione</string>
+    <string name="widget_config_realtime_icon_size_title">"Dimensione dell'icona dei dati attuali"</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">Mostra la prossima sveglia</string>

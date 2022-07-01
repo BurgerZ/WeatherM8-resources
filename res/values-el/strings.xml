@@ -216,6 +216,8 @@
     <string name="prefs_notification_icon_icon">Εικονίδιο Καιρού</string>
     <string name="prefs_notification_icon_temp">Θερμοκρασία</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">Γραφικά</string>
     <string name="prefs_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα γραφικά</string>
@@ -264,6 +266,9 @@
     <string name="widget_config_forecast_temp_title">Πρόβλεψη θερμοκρασίας</string>
     <string name="widget_config_forecast_time_title">Πρόβλεψη καιρού</string>
     <string name="widget_config_other_title">Άλλα δεδομένα</string>
+
+    <string name="widget_config_realtime_icon_size_title">Μέγεθος τρέχοντος εικονιδίου καιρού</string>
+    <string name="widget_config_forecast_icon_size_title">Μέγεθος εικονιδίου πρόγνωσης καιρού</string>
 
     <string name="widget_config_data_display_title">Εμφάνιση στοιχείων</string>
     <string name="widget_config_show_alarm_title">Εμφάνιση επόμενης Αφύπνισης</string>
