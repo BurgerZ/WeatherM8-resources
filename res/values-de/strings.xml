@@ -10,10 +10,10 @@
     <string name="downloading">Herunterladen…</string>
     <string name="download_failed">Herunterladen fehlgeschlagen. Später erneut versuchen</string>
     <string name="download_succeeded">Herunterladen abgeschlossen</string>
-    <string name="restart_to_apply">Änderungen werden erst nach Neustart der Anwendung wirksam</string>
+    <string name="restart_to_apply">Änderungen werden erst nach App-Neustart wirksam</string>
 
     <!-- City manager -->
-    <string name="city_manager_drag_swipe_tip">Tip: Long press to drag, swipe left to delete</string>
+    <string name="city_manager_drag_swipe_tip">Tipp: Lange drücken zum Ziehen, nach links wischen zum Löschen</string>
     <string name="city_manager_locating">Lokalisieren…</string>
     <string name="city_manager_locating_no_permission">Lokalisieren nicht möglich</string>
 
@@ -21,11 +21,11 @@
 
     <!-- Location manager -->
     <string name="location_manager_title">Orte</string>
-    <string name="location_manager_search_hint">Hier den Stadtnamen eingeben</string>
+    <string name="location_manager_search_hint">Hier den Ortsnamen eingeben</string>
 
     <!-- Weather details -->
     <string name="weather_details_title">Wetterdetails</string>
-    <string name="weather_details_feelslike">Gefühlte</string>
+    <string name="weather_details_feelslike">Gefühlt</string>
     <string name="weather_details_humidity">Luftfeuchte</string>
     <string name="weather_details_wind">Wind</string>
     <string name="weather_details_dewpoint">Taupunkt</string>
@@ -79,12 +79,12 @@
     <string name="sun_info_sunset">Untergang</string>
     <string name="sun_info_dawn">Morgendämmerung</string>
     <string name="sun_info_dusk">Abenddämmerung</string>
-    <string name="sun_info_noon">Mittagzeit</string>
-    <string name="sun_info_nadir">Tiefpunkt</string>
+    <string name="sun_info_noon">Mittag</string>
+    <string name="sun_info_nadir">Nadir</string>
     <string name="sun_info_azimuth">Azimut</string>
     <string name="sun_info_height">Höhenlage</string>
     <string name="sun_info_eclipse">Sonnenfinsternis</string>
-    <string name="sun_info_eclipse_type_total">Totale</string>
+    <string name="sun_info_eclipse_type_total">Total</string>
     <string name="sun_info_eclipse_type_partial">Teilweise</string>
     <string name="sun_info_eclipse_type_annular">Ringförmig</string>
 
@@ -104,13 +104,13 @@
     <string name="moon_info_moonset">Untergang</string>
     <string name="moon_info_date">Datum</string>
     <string name="moon_info_age">Alter</string>
-    <string name="moon_info_illuminated">Beleuchtet</string>
+    <string name="moon_info_illuminated">Leuchtend</string>
     <string name="moon_info_zodiac">Tierkreiszeichen</string>
     <string name="moon_info_distance">Entfernung</string>
     <string name="moon_info_azimuth">Azimut</string>
     <string name="moon_info_altitude">Höhenlage</string>
     <string name="moon_info_phase">Phase</string>
-    <string name="moon_info_eclipse">Sonnenfinsternis</string>
+    <string name="moon_info_eclipse">Mondfinsternis</string>
     <string name="moon_info_eclipse_type_total">Total</string>
     <string name="moon_info_eclipse_type_partial">Teilweise</string>
     <string name="moon_info_eclipse_type_annular">Ringförmig</string>
@@ -120,13 +120,13 @@
 
     <!-- Moon phases -->
     <string name="moon_newmoon">Neumond</string>
-    <string name="moon_waxingcrescent">Abnehmender Halbmond</string>
+    <string name="moon_waxingcrescent">Zun. Halbmond</string>
     <string name="moon_firstquarter">Erstes Viertel</string>
-    <string name="moon_waxinggibbous">Zunehmender Dreiviertelmond</string>
+    <string name="moon_waxinggibbous">Zun. Dreiviertelmond</string>
     <string name="moon_full">Vollmond</string>
-    <string name="moon_waninggibbous">Abnehmender Dreiviertelmond</string>
+    <string name="moon_waninggibbous">Abn. Dreiviertelmond</string>
     <string name="moon_lastquarter">Letztes Viertel</string>
-    <string name="moon_waningcrescent">Abnehmender Halbmond</string>
+    <string name="moon_waningcrescent">Abn. Halbmond</string>
 
     <!-- Zodiac signs -->
     <string name="zodiac_aries">Widder</string>
@@ -155,7 +155,7 @@
     <string name="wind_unit_ms">m/s</string>
     <string name="wind_unit_kmh">km/h</string>
     <string name="wind_unit_mph">mph</string>
-    <string name="wind_unit_knot">Knoten</string>
+    <string name="wind_unit_knot">kn</string>
     <string name="wind_unit_bft">bft</string>
 
     <string name="pressure_unit_hpa">hPa</string>
@@ -163,14 +163,13 @@
     <string name="pressure_unit_mmhg">mmHg</string>
     <string name="pressure_unit_inhg">inHg</string>
 
-
     <string name="precipitation_unit_mm">mm</string>
     <string name="precipitation_unit_cm">cm</string>
     <string name="precipitation_unit_in">in</string>
 
     <string name="visibility_unit_m">m</string>
     <string name="visibility_unit_km">km</string>
-    <string name="visibility_unit_mi">Meilen</string>
+    <string name="visibility_unit_mi">mi</string>
 
     <string name="weather_aqi_detail_units">Einheit: µg/m³</string>
 
@@ -190,7 +189,7 @@
     <string name="prefs_ui_theme_battery">Auto-Akku</string>
 
     <!-- Settings - weather icons -->
-    <string name="prefs_icons_skin_title">Wetter-Symbole Skin</string>
+    <string name="prefs_icons_skin_title">Design Wettersymbole</string>
     <string name="prefs_icons_skin_builtin">Eingebaut</string>
     <string name="prefs_icons_skin_available">Verfügbar</string>
 
@@ -229,7 +228,7 @@
     <string name="prefs_notification_icon_icon">Wettersymbol</string>
     <string name="prefs_notification_icon_temp">Temperatur</string>
 
-    <string name="prefs_widgets_location_title">Location for widgets</string>
+    <string name="prefs_widgets_location_title">Ort für Widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
@@ -244,7 +243,7 @@
     <string name="prefs_translations_summary">Anerkennung für die App-Übersetzer</string>
     <string name="prefs_thirdparty">Bibliotheken und Ressourcen von Drittanbietern</string>
     <string name="prefs_help">Hilfe</string>
-    <string name="prefs_feedback">Feedback senden</string>
+    <string name="prefs_feedback">Feedback</string>
     <string name="prefs_donate">Spende</string>
 
     <!-- Dialogs -->
@@ -252,28 +251,22 @@
     <string name="weather_alert_dialog_end_time">Ende</string>
     <string name="weather_alert_dialog_source">Quelle: %s</string>
 
-    <string name="dialog_changelog_title">Changelog</string>
+    <string name="dialog_changelog_title">Änderungsliste</string>
     <string name="dialog_information_title">Information</string>
 
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">E-Mail senden</string>
-    <string name="dialog_contact_dev_send_email_subject_message" translatable="false">Weather Mate [%1$s]</string>
-    <string name="dialog_contact_dev_send_email_message">Ihr Problem beschreiben:\n\n</string>
-    <string name="dialog_contact_dev_send_email_report_bug">Einen Fehler melden</string>
+    <string name="dialog_contact_dev_send_email_message">Problem beschreiben:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Fehler melden</string>
     <string name="dialog_contact_dev_send_email_request_new_feature">Neue Funktion anfordern</string>
     <string name="dialog_contact_dev_send_email_other">Andere</string>
-    <string name="dialog_contact_dev_send_email_help_localize" translatable="false">Uns bei der Lokalisierung helfen</string>
-    <string name="dialog_contact_dev_send_email_help_localize_message" translatable="false">Hallo, ich kann Ihnen bei der Lokalisierung nach %1$s helfen.</string>
 
     <!-- Widgets -->
-    <string name="widget_name_4x1_pixel" translatable="false">Google Pixel</string>
-    <string name="widget_name_4x1_f" translatable="false">Uhr und Vorhersage</string>
-    <string name="widget_name_4x2_clock" translatable="false">Uhr und Vorhersage</string>
-    <string name="widget_name_4x2_stock" translatable="false">Vorhersage</string>
+    <!-- Untranslatables -->
 
     <!-- Widget config -->
     <string name="widget_config_title">Widget-Konfiguration</string>
-    <string name="widget_config_background_title">Background</string>
+    <string name="widget_config_background_title">Hintergrund</string>
     <string name="widget_config_use_background_title">Widget-Hintergrund anzeigen</string>
     <string name="widget_config_background_color_title">Hintergrundfarbe</string>
 
@@ -282,9 +275,9 @@
     <string name="widget_config_font_size_title">Schriftgröße</string>
     <string name="widget_config_clock_title">Uhr</string>
     <string name="widget_config_date_title">Datum</string>
-    <string name="widget_config_city_name_title">Stadtname</string>
+    <string name="widget_config_city_name_title">Ortsname</string>
     <string name="widget_config_current_temp_title">Aktuelle Temperatur</string>
-    <string name="widget_config_current_condition_title">Aktueller Zustand</string>
+    <string name="widget_config_current_condition_title">Aktuelle Bedingungen</string>
     <string name="widget_config_forecast_temp_title">Temperaturvorhersage</string>
     <string name="widget_config_forecast_time_title">Vorhersagezeit</string>
     <string name="widget_config_other_title">Andere Daten</string>
@@ -292,13 +285,13 @@
     <string name="widget_config_realtime_icon_size_title">Symbolgröße aktuelles Wetter</string>
     <string name="widget_config_forecast_icon_size_title">Symbolgröße Wettervorhersage</string>
 
-    <string name="widget_config_data_display_title">Data display</string>
+    <string name="widget_config_data_display_title">Datenanzeige</string>
     <string name="widget_config_show_alarm_title">Nächsten Alarm anzeigen</string>
     <string name="widget_config_show_date_title">Datum anzeigen</string>
     <string name="widget_config_dateformat_title">Datumsformat</string>
-    <string name="widget_config_forecast_type_title">Vorhersage-Typ</string>
+    <string name="widget_config_forecast_type_title">Vorhersagetyp</string>
 
-    <string name="widget_config_click_settings">Einstellungen Widget-Bereiche anklicken</string>
+    <string name="widget_config_click_settings">Einstellungen antippen</string>
     <string name="widget_config_click_apps">App wählen</string>
     <string name="widget_config_click_clock">Uhr</string>
     <string name="widget_config_click_date">Datum</string>
@@ -309,5 +302,9 @@
     <string name="press_color_to_apply">Zum Anwenden auf Farbe drücken</string>
     <string name="dialog_color_picker">Farbwähler</string>
     <string name="color_picker_use_default_color">Standardfarbe verwenden</string>
+
+    <!-- Notification channel -->
+    <string name="notification_widget_update_service_text">Lange auf die Benachrichtigung tippen, App-Info öffnen und Benachrichtigungen ausschalten, um diese Benachrichtigung auszublenden.</string>
+    <string name="notification_widget_update_service_channel">Benachrichtigung über Aktualisierung Widget-Dienst</string>
 
 </resources>
