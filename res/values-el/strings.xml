@@ -13,10 +13,9 @@
     <string name="restart_to_apply">Οι αλλαγές θα ενεργοποιηθούν μετά την επανεκκίνηση της εφαρμογής</string>
 
     <!-- City manager -->
-<!--string name="city_manager_drag_swipe_tip">Συμβουλή: Παρατ/μένα για μεταφορά,  διαγρ. αριστ. </string  | sort for one line -->
-    <string name="city_manager_drag_swipe_tip">Συμβουλή: Παρατεταμένο άγγιγμα για μεταφορά, σύρετε αριστερά για διαγραφή</string>
+    <string name="city_manager_drag_swipe_tip">Συμβουλή: Παρατεταμένο άγγιγμα για μεταφορά, σάρωση αριστερά για διαγραφή</string>
     <string name="city_manager_locating">Εντοπισμός…</string>
-    <string name="city_manager_locating_no_permission">"Δεν μπορεί να εντοπιστεί η συσκευή"</string>
+    <string name="city_manager_locating_no_permission">"Αδυναμία εντοπισμού συσκευής"</string>
 
     <!-- Location manager -->
     <string name="location_manager_title">Τοποθεσίες</string>
@@ -63,7 +62,7 @@
     <string name="aqi_summary_6">Επικίνδυνος</string>
 
     <!-- Kp-Index -->
-    <string name="forecast_kpindex_title">Kp-Δείκτης</string>
+    <string name="forecast_kpindex_title">Δείκτης-Kp</string>
     <string name="forecast_kpindex_gm1">Μικρή Γεωμαγνητική Καταιγίδα</string>
     <string name="forecast_kpindex_gm2">Μέτρια Γεωμαγνητική Καταιγίδα</string>
     <string name="forecast_kpindex_gm3">Έντονη Γεωμαγνητική Καταιγίδα</string>
@@ -216,7 +215,7 @@
     <string name="prefs_notification_icon_icon">Εικονίδιο Καιρού</string>
     <string name="prefs_notification_icon_temp">Θερμοκρασία</string>
 
-    <string name="prefs_widgets_location_title">Location for widgets</string>
+    <string name="prefs_widgets_location_title">Θέση Γραφικών</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Γραφικά</string>
