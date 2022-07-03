@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Fasi lunari</string>
     <string name="moon_newmoon">Luna nuova</string>
     <string name="moon_waxingcrescent">Luna calante</string>
     <string name="moon_firstquarter">Primo quarto</string>

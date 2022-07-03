@@ -119,6 +119,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Mondphasen</string>
     <string name="moon_newmoon">Neumond</string>
     <string name="moon_waxingcrescent">Zun. Halbmond</string>
     <string name="moon_firstquarter">Erstes Viertel</string>

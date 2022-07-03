@@ -119,6 +119,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">月相</string>
     <string name="moon_newmoon">新月</string>
     <string name="moon_waxingcrescent">蛾眉月</string>
     <string name="moon_firstquarter">上弦月</string>

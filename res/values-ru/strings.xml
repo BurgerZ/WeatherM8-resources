@@ -71,6 +71,7 @@
 
     <!-- Sun and moon -->
     <string name="sun_moon_title">Солнце и Луна</string>
+
     <!-- Sun Info -->
     <string name="sun_info_title">Солнце</string>
     <string name="sun_info_sunrise">Восход</string>
@@ -85,6 +86,7 @@
     <string name="sun_info_eclipse_type_total">Полное</string>
     <string name="sun_info_eclipse_type_partial">Частичное</string>
     <string name="sun_info_eclipse_type_annular">Кольцевое</string>
+
     <!-- Moon Info -->
     <string name="moon_info_title">Луна</string>
     <string name="moon_info_moonrise">Восход</string>
@@ -104,7 +106,9 @@
     <string name="moon_info_eclipse_type_penumbral">Полутень</string>
     <string name="moon_info_age_unit_days">дней</string>
     <string name="moon_info_distance_unit_km">км</string>
+
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Фазы луны</string>
     <string name="moon_newmoon">Новолуние</string>
     <string name="moon_waxingcrescent">Старая Луна</string>
     <string name="moon_firstquarter">Первая четверть</string>

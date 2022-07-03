@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Fazele lunii</string>
     <string name="moon_newmoon">Lună nouă</string>
     <string name="moon_waxingcrescent">Semilună în descreștere</string>
     <string name="moon_firstquarter">Primul pătrar</string>

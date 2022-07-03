@@ -71,6 +71,7 @@
 
     <!-- Sun and moon -->
     <string name="sun_moon_title">Сонце та Місяць</string>
+
     <!-- Sun Info -->
     <string name="sun_info_title">Сонце</string>
     <string name="sun_info_sunrise">Схід</string>
@@ -85,6 +86,7 @@
     <string name="sun_info_eclipse_type_total">Повне</string>
     <string name="sun_info_eclipse_type_partial">Часткове</string>
     <string name="sun_info_eclipse_type_annular">Кільцеве</string>
+
     <!-- Moon Info -->
     <string name="moon_info_title">Місяць</string>
     <string name="moon_info_moonrise">Схід</string>
@@ -104,7 +106,9 @@
     <string name="moon_info_eclipse_type_penumbral">Півтінь</string>
     <string name="moon_info_age_unit_days">днів</string>
     <string name="moon_info_distance_unit_km">км</string>
+
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Фази місяця</string>
     <string name="moon_newmoon">Новий місяць</string>
     <string name="moon_waxingcrescent">Молодик</string>
     <string name="moon_firstquarter">Перша чверть</string>

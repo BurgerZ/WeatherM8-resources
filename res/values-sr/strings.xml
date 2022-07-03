@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Месечеве мене</string>
     <string name="moon_newmoon">Младина</string>
     <string name="moon_waxingcrescent">Стари Месец</string>
     <string name="moon_firstquarter">Прва четврт</string>

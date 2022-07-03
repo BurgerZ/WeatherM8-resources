@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Mesečeve mene</string>
     <string name="moon_newmoon">Nova luna</string>
     <string name="moon_waxingcrescent">Mlada luna</string>
     <string name="moon_firstquarter">Prva četrtina</string>

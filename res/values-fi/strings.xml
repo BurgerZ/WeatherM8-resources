@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Kuun vaiheet</string>
     <string name="moon_newmoon">Uusi kuu</string>
     <string name="moon_waxingcrescent">Ensimmäinen neljännes</string>
     <string name="moon_firstquarter">Ensimmäinen neljännes</string>

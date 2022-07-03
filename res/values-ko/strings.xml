@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">달의 위상</string>
     <string name="moon_newmoon">월삭</string>
     <string name="moon_waxingcrescent">그믐달</string>
     <string name="moon_firstquarter">상현달</string>

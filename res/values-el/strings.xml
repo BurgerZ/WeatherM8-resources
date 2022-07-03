@@ -107,6 +107,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Φάσεις Σελήνης</string>
     <string name="moon_newmoon">Νέα σελήνη</string>
     <string name="moon_waxingcrescent">Φθίνων Μηνίσκος</string>
     <string name="moon_firstquarter">Πρώτο τέταρτο</string>

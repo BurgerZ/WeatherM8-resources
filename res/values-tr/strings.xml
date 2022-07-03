@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Ay Evreleri</string>
     <string name="moon_newmoon">Yeni Ay</string>
     <string name="moon_waxingcrescent">Azalan Hilal</string>
     <string name="moon_firstquarter">İlk Çeyrek</string>

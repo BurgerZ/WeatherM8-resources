@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Fáza mesiaca</string>
     <string name="moon_newmoon">Nov</string>
     <string name="moon_waxingcrescent">Ubúdajúci kosák</string>
     <string name="moon_firstquarter">Prvá štvrtina</string>

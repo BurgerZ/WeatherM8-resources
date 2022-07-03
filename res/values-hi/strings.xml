@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">चन्द्र कलाएं</string>
     <string name="moon_newmoon">अमावस्या</string>
     <string name="moon_waxingcrescent">ढलता अर्द्धचंद्र</string>
     <string name="moon_firstquarter">पहली तिमाही</string>

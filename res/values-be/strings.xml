@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Фазы Месяца</string>
     <string name="moon_newmoon">Маладзік</string>
     <string name="moon_waxingcrescent">Стары Месяц</string>
     <string name="moon_firstquarter">Першая квадра</string>

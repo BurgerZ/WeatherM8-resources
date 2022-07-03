@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">চন্দ্র দশা</string>
     <string name="moon_newmoon">অমাবস্যা</string>
     <string name="moon_waxingcrescent">হ্রাস অর্ধচন্দ্র</string>
     <string name="moon_firstquarter">প্রথম চতুর্থাংশ</string>

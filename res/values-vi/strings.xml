@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">"Giai đoạn mặt trăng"</string>
     <string name="moon_newmoon">Trăng non</string>
     <string name="moon_waxingcrescent">Trăng lưỡi liềm khuyết dần</string>
     <string name="moon_firstquarter">"Thượng tuần "</string>

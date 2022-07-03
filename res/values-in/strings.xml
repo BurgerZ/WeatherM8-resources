@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Letak bulan</string>
     <string name="moon_newmoon">Bulan Baru</string>
     <string name="moon_waxingcrescent">Sabit tua</string>
     <string name="moon_firstquarter">Kuartal I</string>

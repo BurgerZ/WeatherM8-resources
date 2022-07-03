@@ -107,6 +107,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Fazy księżyca</string>
     <string name="moon_newmoon">Nów</string>
     <string name="moon_waxingcrescent">Ubywający sierp</string>
     <string name="moon_firstquarter">Pierwsza kwadra</string>

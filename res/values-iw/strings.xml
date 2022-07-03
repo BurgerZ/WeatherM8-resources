@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">שלבי הירח</string>
     <string name="moon_newmoon">ירח חדש</string>
     <string name="moon_waxingcrescent">סהר יחסר</string>
     <string name="moon_firstquarter">רבע ראשון</string>
