@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<resources>
     <string name="app_name">Wetter M8</string>
 
     <string name="app_translation_locale">de</string>
@@ -305,4 +306,5 @@
     <!-- Notification channel -->
     <string name="notification_widget_update_service_text">Lange auf die Benachrichtigung tippen, App-Info öffnen und Benachrichtigungen ausschalten, um diese Benachrichtigung auszublenden.</string>
     <string name="notification_widget_update_service_channel">Benachrichtigung über Aktualisierung Widget-Dienst</string>
+
 </resources>

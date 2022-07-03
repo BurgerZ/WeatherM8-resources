@@ -1,292 +1,297 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">Pesquisar localização</string>
-    <string name="act_find_city_hot_title">Selecionar</string>
-    <string name="act_set_city_find_side">A localizar…</string>
-    <string name="act_set_city_find_side_error">Não foi possível localizar</string>
-    <string name="act_set_city_swipe_hint">Deslizar para a esquerda para eliminar localização</string>
-    <string name="act_weather_find_city_added">Adicionado</string>
-    <string name="act_weather_find_city_click_retry">Repetir</string>
-    <string name="act_weather_find_city_net_no_good">Não foi possível ligar à rede</string>
-    <string name="act_weather_find_city_no_result">Sem resultados</string>
-    <string name="act_weather_find_city_searching">A pesquisar…</string>
-    <string name="activity_detail_time_format">EEE</string>
-    <string name="activity_find_city_dialog_cancel">Cancelar</string>
-    <string name="activity_find_city_dialog_message">Permitir que o Weather M8 verifique a sua localização</string>
-    <string name="activity_find_city_dialog_set">Definições</string>
-    <string name="activity_find_city_dialog_title">Acesso à localização</string>
-    <string name="activity_main_alert">Alertas: %1$d</string>
-    <string name="activity_main_alert_day_night">No dia %1$s está previsto à noite %2$s</string>
-    <string name="activity_main_alert_precip">Previsão de %1$s. A quantidade de precipitação diária é %2$s</string>
-    <string name="activity_main_alert_tstorm">Previsão de trovoada com uma probabilidade de %1$s</string>
-    <string name="activity_main_alert_type_ice">Gelo</string>
-    <string name="activity_main_alert_type_rain">Chuva</string>
-    <string name="activity_main_alert_type_snow">Neve</string>
-    <string name="activity_main_alert_type_tstorm">Trovoada</string>
-    <string name="activity_main_alert_type_wind">Vento</string>
-    <string name="activity_main_alert_type_wind_gusts">Rajadas de vento</string>
-    <string name="activity_main_alert_wind">O vento deverá atingir uma velocidade máxima de %1$s</string>
-    <string name="activity_main_alert_wind_gusts">Previsão de rajadas de vento com uma velocidade máxima até %1$s</string>
-    <string name="activity_main_expire_time">Expira %1$s</string>
-    <string name="activity_main_refresh_fail">Não foi possível ligar à rede</string>
-    <string name="activity_main_time_format">E, d MMM</string>
-    <string name="activity_main_update_time">Atualizado %1$s</string>
-    <string name="activity_main_update_time_expire">Dados expiraram</string>
-    <string name="activity_main_update_time_right_now">agora mesmo</string>
-    <string name="app_version">Versão: %s</string>
-    <string name="aqi_detail_24_hours">Previsão horária</string>
-    <string name="aqi_detail_5_days">Previsão diária</string>
-    <string name="aqi_detail_subtitle">IQA %1$s</string>
-    <string name="aqi_detail_unit">Unidade: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_main_publish_time">Atualizado às %1$s</string>
-    <string name="aqi_main_title">Qualidade do ar</string>
-    <string name="aqi_ring_desc">Qualidade do ar</string>
-    <string name="aqi_ring_top_pollution">Principais poluentes</string>
-    <string name="aqi_sub_desc">IQA</string>
-    <string name="astronomy_title">Astronomia</string>
-    <string name="button_add_city">Adicionar localização</string>
-    <string name="button_not_allow">Cancelar</string>
-    <string name="city_exceeded_warning">Só pode adicionar apenas 10 localizações</string>
-    <string name="color_picker_use_default_color">Utilizar cor padrão</string>
-    <string name="common_auto">Procurar automaticamente</string>
-    <string name="common_default">Padrão</string>
-    <string name="common_recommended">(Recomendado)</string>
-    <string name="daily_forcast_drawer_on_top">Previsão diária</string>
-    <string name="daily_forcast_no_wind">Fraco</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s mais tarde</string>
-    <string name="daily_forcast_whirl_wind">Vento forte</string>
-    <string name="daily_forecast_detail_date">d MMMM</string>
-    <string name="delete">Eliminar</string>
-    <string name="dialog_color_picker">Selecionar cor</string>
-    <string name="feedback_action_send">Enviar</string>
-    <string name="feedback_add_images">Adicionar imagens</string>
-    <string name="feedback_description">Descrição</string>
-    <string name="feedback_description_hint">Escreva o seu comentário</string>
-    <string name="feedback_error">Erro ao enviar comentário</string>
-    <string name="feedback_fill_required">Os campos obrigatórios não podem ficar vazios</string>
-    <string name="feedback_select_upload_settings">Incluir definições da aplicação</string>
-    <string name="feedback_sending">A enviar comentário…</string>
-    <string name="feedback_sent">Obrigado por enviar o seu comentário!</string>
-    <string name="feedback_title">Título</string>
-    <string name="feedback_title_hint">Escrever título</string>
-    <string name="first_start_network_msg">"Esta aplicação necessita de ligar à Internet para funcionar normalmente
-São necessárias as seguintes permissões:
-\u2022 Acesso à localização para obter as coordenadas atuais
-\u2022 Acesso a fotos, multimédia e ficheiros para guardar as capturas de ecrã para Partilhar"</string>
-    <string name="first_start_network_title">Ligação à Internet e acesso à localização</string>
-    <string name="geolocation_names_source_default">Padrão</string>
-    <string name="get_accounts_msg">Esta aplicação necessita de ter acesso às contas do dispositivo para verificar as suas compras e remover os anúncios</string>
-    <string name="get_accounts_title">Acesso a contas</string>
-    <string name="gps_hint">Localização atual</string>
-    <string name="hourly_forcast_now">Agora</string>
-    <string name="hourly_forecast_detail_date">d MMM, EEE</string>
-    <string name="hourly_forecast_title">Previsão horária</string>
-    <string name="international_detail_menu_title">Detalhes</string>
-    <string name="loading_data">A carregar dados…</string>
-    <string name="locate_fail_detail_err">"Não foi possível localizar dispositivo
-Selecione a opção abaixo para adicionar manualmente a localização ou tente localizar novamente"</string>
-    <string name="location_management">Localização</string>
-    <string name="location_tag">Localizar</string>
-    <string name="menu_moon_phases">Fases da lua</string>
-    <string name="moon_age">Idade: %1$s dias %2$s horas %3$s minutos</string>
-    <string name="moon_angle">Ângulo da lua: %s</string>
-    <string name="moon_distanse">Distância da lua: %s Km</string>
-    <string name="moon_firstquarter">Quarto crescente</string>
-    <string name="moon_full">Lua cheia</string>
-    <string name="moon_illuminated">Iluminação: %s%%</string>
-    <string name="moon_lastquarter">Quarto minguante</string>
-    <string name="moon_newmoon">Lua nova</string>
-    <string name="moon_rise">Nascer da lua: %s</string>
-    <string name="moon_set">Pôr da lua: %s</string>
-    <string name="moon_since">Data: %1$s %2$s</string>
-    <string name="moon_waningcrescent">Lua minguante</string>
-    <string name="moon_waninggibbous">Lua minguante</string>
-    <string name="moon_waxingcrescent">Lua crescente</string>
-    <string name="moon_waxinggibbous">Lua crescente</string>
-    <string name="moon_zodiac">Zodíaco: %s</string>
-    <string name="more_details">Mais detalhes</string>
-    <string name="network_error">"Não foi possível ligar ao servidor
-Verifique as suas definições de rede"</string>
-    <string name="network_in_quiet_hours">O modo sem alertas está ligado</string>
-    <string name="network_in_roaming">Tem definições para desativar as atualizações em roaming</string>
-    <string name="network_unavailable">Não foi possível ligar à rede</string>
-    <string name="network_wifi_only">Atualizações disponíveis apenas por Wi-fi</string>
-    <string name="press_color_to_apply">Toque na cor para aplicar</string>
-    <string name="radar_tab_cloud">Nebulosidade</string>
-    <string name="radar_tab_rain">Precipitação</string>
-    <string name="radar_title">Imagens de radar</string>
-    <string name="settings_about">Acerca</string>
-    <string name="settings_ads_donation_expl">Faça doações via Google Play selecionando uma das opções abaixo. As doações não vão remover os anúncios da aplicação. Para remover os anúncios selecione a opção \"Remover anúncios\"</string>
-    <string name="settings_ads_donations_title">Ofereça-me um café</string>
-    <string name="settings_ads_explanation">"Porque é que a aplicação tem anúncios?
-Programar aplicações Android é um passatempo que faço apenas nos meus tempos livres. A necessidade de anúncios na aplicação estimula o desenvolvimento de futuras versões"</string>
-    <string name="settings_ads_menu_hide_title">Ocultar este item do menu</string>
-    <string name="settings_ads_remove_summary">Remover anúncios por uma semana (uma vez por mês)</string>
-    <string name="settings_ads_remove_title">Remover anúncios</string>
-    <string name="settings_ads_title">Anúncios e doações</string>
-    <string name="settings_alerts_title">Gerir alertas</string>
-    <string name="settings_app_locale_title">Idioma</string>
-    <string name="settings_app_theme_dark">Escuro</string>
-    <string name="settings_app_theme_light">Claro</string>
-    <string name="settings_app_theme_title">Tema</string>
-    <string name="settings_aqi_max_distance_closest">Estação mais próxima</string>
-    <string name="settings_aqi_max_distance_summary">Obter informação do índice de qualidade do ar das estações meteorológicas localizadas a uma distância de %1$s</string>
-    <string name="settings_aqi_max_distance_title">Atualização do IQA</string>
-    <string name="settings_aqi_onoff_summary">Mostrar informação do índice de qualidade do ar para a localização atual (se disponível)</string>
-    <string name="settings_aqi_onoff_title">Informação do IQA</string>
-    <string name="settings_autolocate_detailed_summary">Obter e mostrar informações detalhadas da localização atual (rua, freguesia, distrito e país)</string>
-    <string name="settings_autolocate_detailed_title">Detalhes da localização</string>
-    <string name="settings_autolocate_summary">Obter automaticamente a localização do dispositivo</string>
-    <string name="settings_autolocate_title">Localização automática</string>
-    <string name="settings_autoupdate_weather_summary">Atualizar automaticamente a informação do tempo</string>
-    <string name="settings_autoupdate_weather_title">Atualização automática</string>
-    <string name="settings_category_units">Unidades</string>
-    <string name="settings_city_base">Base de dados</string>
-    <string name="settings_dialog_enter_timezone">Inserir fuso horário para a localização selecionada (%s), por exemplo GMT+03:00:</string>
-    <string name="settings_feedback">Enviar comentários</string>
-    <string name="settings_geolocation_names_source_title">Modo de localização</string>
-    <string name="settings_geolocation_title">Localização</string>
-    <string name="settings_help">Ajuda</string>
-    <string name="settings_icons_builtin_title">Ícones do tempo integrados</string>
-    <string name="settings_icons_temperature_title">Ícones de temperatura</string>
-    <string name="settings_icons_theme_details_title">Detalhes do tema</string>
-    <string name="settings_icons_title">Ícones do tempo</string>
-    <string name="settings_menu_title">Definições</string>
-    <string name="settings_notification_background_color_title">Cor de fundo da notificação</string>
-    <string name="settings_notification_priority_summary">Ocultar ícone da área de notificações e mostrar informação do tempo na barra de estado</string>
-    <string name="settings_notification_priority_title">Notificação mínima</string>
-    <string name="settings_notification_statusbar_color_title">Cor do ícone da notificação</string>
-    <string name="settings_notification_summary">Mostrar ícone na área de notificações e informação do tempo na barra de estado</string>
-    <string name="settings_notification_text_color_title">Cor do texto da notificação</string>
-    <string name="settings_notification_title">Mostrar notificações</string>
-    <string name="settings_notifications_summary">Definições das notificações</string>
-    <string name="settings_notifications_title">Notificações</string>
-    <string name="settings_notify_type_title">Ícone de notificação</string>
-    <string name="settings_permissions">Permissões</string>
-    <string name="settings_permissions_privacy">Política de Privacidade</string>
-    <string name="settings_precipitation_unit">Precipitação</string>
-    <string name="settings_precipitation_unit_mm">mm</string>
-    <string name="settings_precipitation_unit_in">Polegadas</string>
-    <string name="settings_pressure_level_title">Dados da pressão</string>
-    <string name="settings_pressure_unit">Pressão</string>
-    <string name="settings_realtime_feelslike_as_main_summary">Mostrar informação da sensação térmica como a temperatura principal</string>
-    <string name="settings_realtime_feelslike_as_main_title">Sensação térmica</string>
-    <string name="settings_show_plus_sign_temp_summary">Mostrar sinal "+" para temperaturas positivas</string>
-    <string name="settings_show_plus_sign_temp_title">Mostrar sinal "+"</string>
-    <string name="settings_sound_volume">Volume dos alertas</string>
-    <string name="settings_temp_unit">Temperatura</string>
-    <string name="settings_thirdparty">Bibliotecas e recursos de terceiros</string>
-    <string name="settings_translations">Traduções</string>
-    <string name="settings_translations_summary">Créditos aos tradutores da aplicação</string>
-    <string name="settings_update_interval_title">Intervalo de atualização</string>
-    <string name="settings_update_interval_hint">* Utilizar um intervalo de atualização inferior a 1 hora pode não funcionar corretamente</string>
-    <string name="settings_update_on_app_start_summary">Atualizar a informação do tempo ao entrar na aplicação</string>
-    <string name="settings_update_on_app_start_title">Atualizar ao entrar na aplicação</string>
-    <string name="settings_update_quiet_hours_end_time_title">Hora de fim</string>
-    <string name="settings_update_quiet_hours_start_time_title">Hora de início</string>
-    <string name="settings_update_quiet_hours_title">Modo sem alertas</string>
-    <string name="settings_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
-    <string name="settings_update_wifi_only_title">Atualizar apenas por Wi-Fi</string>
-    <string name="settings_visibility_unit">Visibilidade</string>
-    <string name="settings_visibility_unit_miles">milhas</string>
-    <string name="settings_weather_data_order_title">Ordem da informação exibida</string>
-    <string name="settings_weather_details_summary">Selecionar os detalhes do tempo que vão aparecer no ecrã inicial</string>
-    <string name="settings_weather_details_title">Detalhes do tempo</string>
-    <string name="settings_weather_forecast_spider_title">Dados de previsão</string>
-    <string name="settings_weather_realtime_spider_title">Dados atuais</string>
-    <string name="settings_weather_spider_title">Base de dados de atualização</string>
-    <string name="settings_weather_station_title">Estação meteorológica</string>
-    <string name="settings_weather_transfer_summary">Mostrar descrição da informação do tempo do dia para a noite</string>
-    <string name="settings_weather_transfer_title">Transferência de informação do tempo</string>
-    <string name="settings_widgets_not_found">Sem widgets definidos</string>
-    <string name="settings_wind_unit">Velocidade do vento</string>
-    <string name="settings_wind_unit_knot">nós</string>
-    <string name="share_btn_cancel">Cancelar</string>
-    <string name="share_btn_confirm">Partilhar</string>
-    <string name="share_button">Partilhar</string>
-    <string name="share_menu_title">Partilhar</string>
-    <string name="share_subject">Partilhar</string>
-    <string name="share_weather_desc">\#Weather M8# Hoje: %1$s %2$s</string>
-    <string name="share_weather_save_pic_fail">Não foi possível tirar captura de ecrã</string>
-    <string name="sunrise">Nascer do sol</string>
-    <string name="sunset">Pôr do sol</string>
-    <string name="view_forecast_item_yesterday">Ontem</string>
-    <string name="view_indexes_item_today">Hoje</string>
-    <string name="view_indexes_item_tommorrow">Amanhã</string>
-    <string name="weather_alert_notification_channel_name">Alertas</string>
-    <string name="weather_details_daylight_diff_longer">%1$s mais</string>
-    <string name="weather_details_daylight_diff_shorter">%1$s menos</string>
-    <string name="weather_details_daylight_hours_title">Horas diurnas</string>
-    <string name="weather_details_elevation_title">Altitude</string>
-    <string name="weather_details_humidity_title">Humidade</string>
-    <string name="weather_details_precipitation_amount_mm">%1$s mm</string>
-    <string name="weather_details_precipitation_amount_in">%1$s polegadas</string>
-    <string name="weather_details_precipitation_prob_title">Precipitação</string>
-    <string name="weather_details_pressure_title">Pressão</string>
-    <string name="weather_details_real_feel_title">Sensação térmica</string>
-    <string name="weather_details_temperature_title">Temperatura</string>
-    <string name="weather_details_timezone_title">Fuso horário</string>
+    <string name="app_name">Weather M8</string>
+
+    <string name="app_translation_locale">pt-rPT</string>
+    <string name="app_translation_author">Filipe Costa (Lippe35)</string>
+
+    <!-- Common strings -->
+    <string name="wait">Por favor, aguarde…</string>
+    <string name="downloading">A transferir…</string>
+    <string name="download_failed">Transferência falhou. Tente novamente mais tarde</string>
+    <string name="download_succeeded">Transferência completa</string>
+    <string name="restart_to_apply">Tem de reiniciar a aplicação para efetuar as alterações</string>
+
+    <!-- City manager -->
+    <string name="city_manager_drag_swipe_tip">Dica: pressione e segure para arrastar e deslize para a esquerda para excluir</string>
+    <string name="city_manager_locating">A localizar…</string>
+    <string name="city_manager_locating_no_permission">Não foi possível localizar</string>
+
+    <!-- Main menu (Not used) -->
+
+    <!-- Location manager -->
+    <string name="location_manager_title">Localização</string>
+    <string name="location_manager_search_hint">Nome da cidade</string>
+
+    <!-- Weather details -->
     <string name="weather_details_title">Detalhes do tempo</string>
-    <string name="weather_details_update_date_string">Última atualização: %s</string>
-    <string name="weather_details_uv_index_title">Índice UV</string>
-    <string name="weather_details_visibility_miles">%1$s milhas</string>
-    <string name="weather_details_visibility_title">Visibilidade</string>
-    <string name="weather_details_wind_title">Vento</string>
-    <string name="weather_foreground_notification_channel_name">Serviço de Notificações</string>
-    <string name="weather_main_notification_channel_name">Tempo</string>
+    <string name="weather_details_feelslike">Sensação térmica</string>
+    <string name="weather_details_humidity">Humidade</string>
+    <string name="weather_details_wind">Vento</string>
+    <string name="weather_details_dewpoint">Condensação</string>
+    <string name="weather_details_pressure">Pressão</string>
+    <string name="weather_details_precip">Precipitação</string>
+    <string name="weather_details_visibility">Visibilidade</string>
+    <string name="weather_details_uvindex">Índice UV</string>
+    <string name="weather_details_timezone">Fuso horário</string>
+    <string name="weather_details_daylight_hours">Horas diurnas</string>
+
+    <!-- Hourly -->
+    <string name="forecast_hourly_title">Previsão horária</string>
+
+    <!-- Daily -->
+    <string name="forecast_daily_title">Previsão diária</string>
+
+    <!-- Radar view -->
+    <string name="radar_view_title">Mapa</string>
+    <string name="radar_view_legend_overcast">Nublado</string>
+    <string name="radar_view_legend_drizzle">Aguaceiros</string>
+    <string name="radar_view_legend_light_rain">Chuviscos</string>
+    <string name="radar_view_legend_moderate_rain">Chuva moderada</string>
+    <string name="radar_view_legend_heavy_rain">Chuva forte</string>
+    <string name="radar_view_legend_hail">Granizo</string>
+    <string name="radar_view_legend_light_snow">Neve fraca</string>
+    <string name="radar_view_legend_medium_snow">Neve moderada</string>
+    <string name="radar_view_legend_heavy_snow">Neve forte</string>
+
+    <!-- AQI -->
+    <string name="aqi_title">Qualidade do ar</string>
+    <string name="aqi_summary_1">Bom</string>
+    <string name="aqi_summary_2">Médio</string>
+    <string name="aqi_summary_3">Não saudável para grupos sensíveis</string>
+    <string name="aqi_summary_4">Pouco saudável</string>
+    <string name="aqi_summary_5">Muito prejudicial à saúde</string>
+    <string name="aqi_summary_6">Perigoso</string>
+
+    <!-- Kp-Index -->
+    <string name="forecast_kpindex_title">Índice Kp</string>
+    <string name="forecast_kpindex_gm1">Tempestade Geomagnética Menor</string>
+    <string name="forecast_kpindex_gm2">Tempestade Geomagnética Moderada</string>
+    <string name="forecast_kpindex_gm3">Tempestade Geomagnética Grave</string>
+    <string name="forecast_kpindex_gm4">Tempestade Geomagnética Forte</string>
+    <string name="forecast_kpindex_gm5">Tempestade Geomagnética Extrema</string>
+
+    <!-- Sun and moon -->
+    <string name="sun_moon_title">Sol e Lua</string>
+    <!-- Sun Info -->
+    <string name="sun_info_title">Sol</string>
+    <string name="sun_info_sunrise">Nascer do sol</string>
+    <string name="sun_info_sunset">Pôr do sol</string>
+    <string name="sun_info_dawn">Amanhecer</string>
+    <string name="sun_info_dusk">Anoitecer</string>
+    <string name="sun_info_noon">Lua</string>
+    <string name="sun_info_nadir">Posição</string>
+    <string name="sun_info_azimuth">Azimute</string>
+    <string name="sun_info_height">Altitude</string>
+    <string name="sun_info_eclipse">Eclipse</string>
+    <string name="sun_info_eclipse_type_total">Total</string>
+    <string name="sun_info_eclipse_type_partial">Parcial</string>
+    <string name="sun_info_eclipse_type_annular">Anular</string>
+
+
+    <!-- Moon Info -->
+    <string name="moon_info_title">Lua</string>
+    <string name="moon_info_moonrise">Nascer da lua</string>
+    <string name="moon_info_moonset">Pôr da lua</string>
+    <string name="moon_info_date">Data</string>
+    <string name="moon_info_age">Idade</string>
+    <string name="moon_info_illuminated">Intensidade</string>
+    <string name="moon_info_zodiac">Zodíaco</string>
+    <string name="moon_info_distance">Distância</string>
+    <string name="moon_info_azimuth">Azimute</string>
+    <string name="moon_info_altitude">Altitude</string>
+    <string name="moon_info_phase">Fase</string>
+    <string name="moon_info_eclipse">Eclipse</string>
+    <string name="moon_info_eclipse_type_total">Total</string>
+    <string name="moon_info_eclipse_type_partial">Parcial</string>
+    <string name="moon_info_eclipse_type_annular">Anular</string>
+    <string name="moon_info_eclipse_type_penumbral">Penumbral</string>
+    <string name="moon_info_age_unit_days">dias</string>
+    <string name="moon_info_distance_unit_km">km</string>
+
+    <!-- Moon phases -->
+    <string name="moon_newmoon">Lua nova</string>
+    <string name="moon_waxingcrescent">Lua minguante</string>
+    <string name="moon_firstquarter">Quarto crescente</string>
+    <string name="moon_waxinggibbous">Lua crescente</string>
+    <string name="moon_full">Lua cheia</string>
+    <string name="moon_waninggibbous">Lua minguante</string>
+    <string name="moon_lastquarter">Quarto minguante</string>
+    <string name="moon_waningcrescent">Lua minguante</string>
+
+    <!-- Zodiac signs -->
+    <string name="zodiac_aries">Carneiro</string>
+    <string name="zodiac_taurus">Touro</string>
+    <string name="zodiac_gemini">Gêmeos</string>
+    <string name="zodiac_cancer">Caranguejo</string>
+    <string name="zodiac_leo">Leão</string>
+    <string name="zodiac_virgo">Virgem</string>
+    <string name="zodiac_libra">Balança</string>
+    <string name="zodiac_scorpio">Escorpião</string>
+    <string name="zodiac_sagittarius">Sagitário</string>
+    <string name="zodiac_capricorn">Capricórnio</string>
+    <string name="zodiac_aquarius">Aquário</string>
+    <string name="zodiac_pisces">Peixes</string>
+
+    <!-- Units -->
+    <string name="wind_direction_n">N</string>
+    <string name="wind_direction_ne">NE</string>
+    <string name="wind_direction_e">E</string>
+    <string name="wind_direction_se">SE</string>
+    <string name="wind_direction_s">S</string>
+    <string name="wind_direction_sw">SW</string>
+    <string name="wind_direction_w">W</string>
+    <string name="wind_direction_nw">NW</string>
+
+    <string name="wind_unit_ms">m/s</string>
+    <string name="wind_unit_kmh">kmh</string>
+    <string name="wind_unit_mph">mph</string>
+    <string name="wind_unit_knot">nós</string>
+    <string name="wind_unit_bft">bft</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_mb">mb</string>
+    <string name="pressure_unit_mmhg">mmHg</string>
+    <string name="pressure_unit_inhg">inHg</string>
+
+
+    <string name="precipitation_unit_mm">mm</string>
+    <string name="precipitation_unit_cm">cm</string>
+    <string name="precipitation_unit_in">in</string>
+
+    <string name="visibility_unit_m">m</string>
+    <string name="visibility_unit_km">km</string>
+    <string name="visibility_unit_mi">mi</string>
+
+    <string name="weather_aqi_detail_units">Unidade: µg/m³</string>
+
+    <string name="time_units_hour">h</string>
+    <string name="time_units_minute">min</string>
+    <string name="time_units_second">sec</string>
+
+    <!-- Settings -->
+    <string name="settings_menu_title">Definições</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">Interface de utilizador</string>
+    <string name="prefs_ui_theme">Tema</string>
+    <string name="prefs_ui_theme_follow_system">Tema do sistema</string>
+    <string name="prefs_ui_theme_dark">Tema escuro</string>
+    <string name="prefs_ui_theme_light">Tema claro</string>
+    <string name="prefs_ui_theme_battery">Definido pela Poupança de Bateria</string>
+
+    <!-- Settings - weather icons -->
+    <string name="prefs_icons_skin_title">Tipo de ícones</string>
+    <string name="prefs_icons_skin_builtin">Atual</string>
+    <string name="prefs_icons_skin_available">Disponível</string>
+
+    <!-- Data sources preferences -->
+    <string name="prefs_data_source_title">Fonte de dados</string>
+    <string name="prefs_data_source_citydb">Base de dados</string>
+    <string name="prefs_data_source_weather">Previsão do tempo</string>
+    <string name="prefs_data_source_aqi">Qualidade do ar</string>
+    <string name="prefs_data_source_radar">Mapa de precipitação</string>
+    <string name="prefs_data_order">Ordem da informação exibida</string>
+
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Atualização de dados</string>
+    <string name="prefs_data_update_autoupdate_summary">Atualizar automaticamente a informação do tempo</string>
+    <string name="prefs_data_update_autoupdate_title">Atualização automática</string>
+    <string name="prefs_data_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Atualizar apenas por Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Intervalo de atualização</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Hora de fim</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Hora de início</string>
+    <string name="prefs_data_update_quiet_hours_title">Modo sem alertas</string>
+
+    <!-- Units preferences -->
+    <string name="prefs_units_title">Unidades</string>
+    <string name="prefs_units_temperature">Temperatura</string>
+    <string name="prefs_units_pressure">Pressão</string>
+    <string name="prefs_units_wind">Vento</string>
+    <string name="prefs_units_precip">Precipitação</string>
+    <string name="prefs_units_visibility">Visibilidade</string>
+
+    <!-- Notifications -->
+    <string name="prefs_notifications_title">Notificações</string>
+    <string name="prefs_notification_title">Mostrar notificações</string>
+    <string name="prefs_notification_summary">Mostrar ícone na área de notificações e informação do tempo na barra de estado</string>
+    <string name="prefs_notification_icon_type_title">Ícone de notificação</string>
+    <string name="prefs_notification_icon_icon">Ícone do tempo</string>
+    <string name="prefs_notification_icon_temp">Temperatura</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">Widgets</string>
+    <string name="prefs_widgets_not_found">Sem widgets definidos</string>
+
+    <!-- Settings - About -->
+    <string name="prefs_about">Acerca</string>
+    <string name="prefs_app_version">Versão:</string>
+    <string name="prefs_app_url">Website:</string>
+    <string name="prefs_permissions_privacy">Política de Privacidade</string>
+    <string name="prefs_translations">Traduções</string>
+    <string name="prefs_translations_summary">Créditos aos tradutores da aplicação</string>
+    <string name="prefs_thirdparty">Bibliotecas e recursos de terceiros</string>
+    <string name="prefs_help">Ajuda</string>
+    <string name="prefs_feedback">Enviar comentários</string>
+    <string name="prefs_donate">Doação</string>
+
+    <!-- Dialogs -->
+    <string name="weather_alert_dialog_start_time">Começar</string>
+    <string name="weather_alert_dialog_end_time">Fim</string>
+    <string name="weather_alert_dialog_source">Fonte: %s</string>
+
+    <string name="dialog_changelog_title">Lista de alterações</string>
+    <string name="dialog_information_title">Informações</string>
+
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Enviar email</string>
+    <string name="dialog_contact_dev_send_email_message">Descreva o problema:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Reportar problema</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Solicitar novo recurso</string>
+    <string name="dialog_contact_dev_send_email_other">Outros</string>
+
+    <!-- Widgets -->
+
+    <!-- Widget config -->
+    <string name="widget_config_title">Definições do widget</string>
+    <string name="widget_config_background_title">Fundo</string>
+    <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
     <string name="widget_config_background_color_title">Cor de fundo</string>
-    <string name="widget_config_background_type_border">Com limite</string>
-    <string name="widget_config_background_type_solid">Preenchido</string>
-    <string name="widget_config_background_type_title">Tipo de fundo</string>
-    <string name="widget_config_backup_done">Cópia das definições do widget concluída!</string>
+
+    <string name="widget_config_font_title">Fontes</string>
+    <string name="widget_config_font_color_title">Cor da fonte</string>
+    <string name="widget_config_font_size_title">Tamanho da fonte</string>
+    <string name="widget_config_clock_title">Relógio</string>
+    <string name="widget_config_date_title">Data</string>
+    <string name="widget_config_city_name_title">Cidade</string>
+    <string name="widget_config_current_temp_title">Temperatura atual</string>
+    <string name="widget_config_current_condition_title">Condições atuais</string>
+    <string name="widget_config_forecast_temp_title">Temperatura de previsão</string>
+    <string name="widget_config_forecast_time_title">Hora de previsão</string>
+    <string name="widget_config_other_title">Outros dados</string>
+
+    <string name="widget_config_forecast_icon_size_title">Tamanho dos ícones dos dados de previsão</string>
+    <string name="widget_config_realtime_icon_size_title">Tamanho dos ícones dos dados atuais</string>
+
+    <string name="widget_config_data_display_title">Exibição de dados</string>
+    <string name="widget_config_show_alarm_title">Mostrar próximo alarme</string>
+    <string name="widget_config_show_date_title">Mostrar data</string>
+    <string name="widget_config_dateformat_title">Formato da data</string>
+    <string name="widget_config_forecast_type_title">Tipo de previsão</string>
+
+    <string name="widget_config_click_settings">Definições adicionais</string>
     <string name="widget_config_click_apps">Selecionar aplicação</string>
     <string name="widget_config_click_clock">Relógio</string>
     <string name="widget_config_click_date">Data</string>
-    <string name="widget_config_click_settings">Definições adicionais</string>
-    <string name="widget_config_click_temperature">Temperatura</string>
     <string name="widget_config_click_weather_icon">Ícones do tempo</string>
-    <string name="widget_config_clock_color_title">Cor do relógio</string>
-    <string name="widget_config_clock_font_size_title">Tamanho da fonte do relógio</string>
-    <string name="widget_config_clock_font_title">Fonte do relógio</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">Desligar se o relógio no widget não estiver a atualizar</string>
-    <string name="widget_config_custom_clock_font_onoff_title">Editar fonte do relógio</string>
-    <string name="widget_config_date_font_size_title">Tamanho da fonte da data</string>
-    <string name="widget_config_dateformat_title">Formato da data</string>
-    <string name="widget_config_font_size_title">Tamanho do texto</string>
-    <string name="widget_config_font_title">Fonte do texto</string>
-    <string name="widget_config_forecast_icon_size_title">Tamanho dos ícones dos dados de previsão</string>
-    <string name="widget_config_no_backups_found">Não foi encontrada nenhuma cópia das definições do widget</string>
-    <string name="widget_config_realtime_font_size_title">Tamanho dos dados da temperatura</string>
-    <string name="widget_config_realtime_font_title">Fonte dos dados da temperatura</string>
-    <string name="widget_config_realtime_icon_size_title">Tamanho dos ícones dos dados atuais</string>
-    <string name="widget_config_restore_done">Cópia das definições do widget restaurada!</string>
-    <string name="widget_config_show_alarm_title">Mostrar próximo alarme</string>
-    <string name="widget_config_show_ampm_title">Mostrar AM/PM (formato 12h)</string>
-    <string name="widget_config_show_cityname_title">Mostrar nome do local</string>
-    <string name="widget_config_show_date_title">Mostrar data</string>
-    <string name="widget_config_show_leading_zero_title">Mostrar zero nas horas</string>
-    <string name="widget_config_show_local_time_title">Mostrar hora local</string>
-    <string name="widget_config_show_realtime_icon_title">Mostrar ícone do tempo atual</string>
-    <string name="widget_config_show_text_shadow_title">Mostrar sombra de texto</string>
-    <string name="widget_config_show_update_date_title">Mostrar última atualização</string>
-    <string name="widget_config_text_color_title">Cor do texto</string>
-    <string name="widget_config_title">Definições do widget</string>
-    <string name="widget_config_font_hint">* Para utilizar as suas fontes, coloque-as no /sdcard/Downloads</string>
-    <string name="widget_config_use_background_title">Mostrar fundo do widget</string>
-    <string name="widget_update_date_string">Atualizado %s</string>
-    <string name="widget_update_updating_string">A atualizar…</string>
-    <string name="widgets_notification_info">A atualizar widgets…</string>
-    <string name="wind_unit_knot">%1$s nós</string>
-    <string name="zodiac_aquarius">Aquário</string>
-    <string name="zodiac_aries">Carneiro</string>
-    <string name="zodiac_cancer">Caranguejo</string>
-    <string name="zodiac_capricorn">Capricórnio</string>
-    <string name="zodiac_gemini">Gêmeos</string>
-    <string name="zodiac_leo">Leão</string>
-    <string name="zodiac_libra">Balança</string>
-    <string name="zodiac_pisces">Peixes</string>
-    <string name="zodiac_sagittarius">Sagitário</string>
-    <string name="zodiac_scorpio">Escorpião</string>
-    <string name="zodiac_taurus">Touro</string>
-    <string name="zodiac_virgo">Virgem</string>
+    <string name="widget_config_click_temperature">Temperatura</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Toque na cor para aplicar</string>
+    <string name="dialog_color_picker">Selecionar cor</string>
+    <string name="color_picker_use_default_color">Utilizar cor padrão</string>
+
 </resources>

@@ -1,160 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">M8 الطقس</string>
-    <string name="app_version">Version: %s</string>
-    <string name="location_management">المواقع</string>
-    <string name="gps_hint">GPS</string>
-    <string name="network_unavailable">"لا يمكن الاتصال بالشبكة"</string>
-    <string name="act_find_city_hot_title">اضف</string>
-    <string name="act_find_city_hint">ادخل موقعاً</string>
-    <string name="act_set_city_find_side">
-جاري التعقب...</string>
-    <string name="act_set_city_find_side_error">"لا يمكن تعقب مكانك"</string>
-    <string name="button_add_city">اضف مدينة</string>
-    <string name="locate_fail_detail_err">"لا يمكن تعقب جهازك
-انقر الزر ادناه لإضافة مدينة يدويا او حاول مجدداً"</string>
-    <string name="act_set_city_swipe_hint">اسحب يسارا لحذف المدينة</string>
-    <string name="button_allow">حسنا</string>
-    <string name="button_not_allow">إلغاء</string>
-    <string name="act_weather_find_city_net_no_good">"لا يمكن الاتصال بالشبكة"</string>
-    <string name="act_weather_find_city_click_retry">حاول مجددا</string>
-    <string name="act_weather_find_city_searching">جاري البحث...</string>
-    <string name="location_tag">تعقب موقعك</string>
-    <string name="act_weather_find_city_no_result">لا توجد نتائج</string>
-    <string name="act_weather_find_city_added">اُضِيف</string>
-    <string name="view_forecast_item_yesterday">الأمس</string>
-    <string name="view_indexes_item_today">اليوم</string>
-    <string name="view_indexes_item_tommorrow">الغد</string>
-    <string name="activity_main_update_time">حدث %1$s</string>
-    <string name="activity_main_update_time_right_now">الآن</string>
-    <string name="activity_main_refresh_fail">"لا يمكن لاتصال بالشبكة"</string>
-    <string name="activity_find_city_dialog_cancel">إلغاء</string>
-    <string name="activity_find_city_dialog_set">لإعدادات</string>
-    <string name="activity_find_city_dialog_title">الولوج الى نظام تحديد المواقع</string>
-    <string name="activity_find_city_dialog_message">دع التطبيق يبحث عن موقعك</string>
-    <string name="activity_main_time_format">E</string>
-    <string name="activity_detail_time_format">E</string>
-    <string name="hour_minute_time_format">HH:mm</string>
-    <string name="first_start_network_msg">"هذا التطبيق يحتاج الى اتصال بالأنترنيت للحصول على معلومات الطقس
-        التطبيق يحتاج الى الترخيصات التالية:
-        \u2022 الولوج الى نظام تحديد المواقع للحصول على معلومات الطقس
-        \u2022 الولوج الى الصور و الملفات لحفظ الصور بالنسبة لخدمة /"المشاركة"/"</string>
-    <string name="first_start_network_title">اتصال بالنترنيت و ولوج الى نظام تحيد المواقع</string>
-    <string name="international_detail_menu_title">التفاصيل</string>
-    <string name="share_menu_title">المشاركة</string>
 
-    <!-- الإعدادات -->
-    <string name="settings_menu_title">الإعدادات</string>
-    <string name="settings_autoupdate_weather_title">التحديث التلقائي</string>
-    <string name="settings_autoupdate_weather_summary">تحديث توقعات الطقس تلقائيا</string>
-    <string name="settings_weather_transfer_title">نقل وصف الطقس </string>
-    <string name="settings_weather_transfer_summary">اظهار وصف الطقس من الصباح الى الليل</string>
-    <string name="settings_weather_spider_title">مصدر التحديث</string>
-    <string name="settings_weather_details_title">تفاصيل الطقس</string>
-    <string name="settings_weather_details_summary">اختر معلومة الطقس لإظهارها على الشاشة الرئيية</string>
-    <string name="settings_category_units">الوحدة</string>
-    <string name="settings_pressure_unit">الضغط</string>
-    <string name="settings_pressure_unit_mb">mb</string>
-    <string name="settings_pressure_unit_mm">mmHg</string>
-    <string name="settings_pressure_unit_in">inHg</string>
-    <string name="settings_wind_unit">سرعة الرياح</string>
-    <string name="settings_wind_unit_kmh">km/h</string>
-    <string name="settings_wind_unit_ms">m/s</string>
-    <string name="settings_wind_unit_mph">mph</string>
-    <string name="settings_temp_unit">الحرارة</string>
-    <string name="settings_visibility_unit">الرؤية</string>
-    <string name="settings_visibility_unit_kilometers">km</string>
-    <string name="settings_visibility_unit_meters">m</string>
-    <string name="settings_visibility_unit_miles">اميال</string>
+    <string name="app_translation_locale">ar</string>
+    <string name="app_translation_author">Ismail Jarmouni</string>
 
-    <string name="settings_city_base">قاعدة بيانات المدن</string>
+    <!-- Common strings -->
+    <string name="wait">Please wait…</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_failed">Download failed. Try again later</string>
+    <string name="download_succeeded">Download completed</string>
+    <string name="restart_to_apply">يجب عليك إعادة تشغيل التطبيق لتطبيق التغييرات</string>
 
-    <string name="settings_notifications_title">الإعدادات</string>
-    <string name="settings_notifications_summary">اعدادات اشعارات الطقس</string>
-    <string name="settings_notification_title">اظهر الاشعارات</string>
-    <string name="settings_notification_summary">اظهر حالة الطقس الحالية ضمن فضاء الاشعارات</string>
+    <!-- City manager -->
+    <string name="city_manager_drag_swipe_tip">Tip: Long press to drag, swipe left to delete</string>
+    <string name="city_manager_locating">جاري التعقب…</string>
+    <string name="city_manager_locating_no_permission">"لا يمكن تعقب مكانك"</string>
 
-    <string name="settings_notification_priority_title">اهمية قليلة</string>
-    <string name="settings_notification_priority_summary">اشعارات ذات اهمية قليلة تظهر فقط في فضاء الاشعارات</string>
+    <!-- Main menu (Not used) -->
 
-    <string name="settings_notify_type_title">ايقونة الاشعار</string>
-
-    <string name="settings_about">حول التطبيق</string>
-    <string name="settings_translations">ترجمة التطبيق</string>
-    <string name="settings_translations_summary">مترجمو التطبيق، يمكنك ترجمة التطبيق ايضاً بلغتك الخاصة</string>
-
-    <string name="share_btn_cancel">إلغاء</string>
-    <string name="share_btn_confirm">مشاركة</string>
-    <string name="share_subject">مشاركة</string>
-    <string name="share_button">مشاركة</string>
-    <string name="share_weather_save_pic_fail">"لا يمكن اخد لقطة من الشاشة"</string>
-    <string name="share_weather_desc_split">،</string>
-    <string name="share_weather_desc">\#الطقس M8# اليوم %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
-    <string name="hourly_forcast_now">الآن</string>
-    <string name="sunrise">شروق الشمس</string>
-    <string name="sunset">غروب الشمس</string>
-    <string name="daily_forcast_weather_transfer">%1$s. %2$s لاحقا.</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_drawer_on_top">اظهر المزيد</string>
-    <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+    <!-- Location manager -->
+    <string name="location_manager_title">المواقع</string>
+    <string name="location_manager_search_hint">Type city name here</string>
 
     <!-- Weather details -->
-    <string name="more_details">تفاصيل اكثر</string>
     <string name="weather_details_title">تفاصيل الطقس</string>
-    <string name="weather_details_wind_title">الرياح</string>
-    <string name="weather_details_real_feel_title">حاليا®</string>
-    <string name="weather_details_uv_index_title">معدل الاعة فوق البنفسجية</string>
-    <string name="weather_details_pressure_title">الضغط</string>
-    <string name="weather_details_humidity_title">الرطوبة</string>
-    <string name="weather_details_visibility_title">الرؤية</string>
-    <string name="weather_details_precipitation_prob_title">التساقطات</string>
-    <string name="weather_details_daylight_hours_title">مدة النهار</string>
+    <string name="weather_details_feelslike">حاليا®</string>
+    <string name="weather_details_humidity">الرطوبة</string>
+    <string name="weather_details_wind">الرياح</string>
+    <string name="weather_details_dewpoint">Dew point</string>
+    <string name="weather_details_pressure">الضغط</string>
+    <string name="weather_details_precip">التساقطات</string>
+    <string name="weather_details_visibility">الرؤية</string>
+    <string name="weather_details_uvindex">معدل الاعة فوق البنفسجية</string>
+    <string name="weather_details_timezone">Time Zone</string>
+    <string name="weather_details_daylight_hours">مدة النهار</string>
 
-    <string name="weather_details_wind_connect">%1$s %2$s</string>
-    <string name="weather_details_pressure">%1$s hPa</string>
-    <string name="weather_details_pressure_mm">%1$s mmHg</string>
-    <string name="weather_details_pressure_in">%1$s inHg</string>
-    <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_visibility">%1$s km</string>
-    <string name="weather_details_visibility_meters">%1$s m</string>
-    <string name="weather_details_visibility_miles">%1$s اميال</string>
+    <!-- Hourly -->
+    <string name="forecast_hourly_title">توقعات على مدار الساعة</string>
 
-    <string name="time_units_hour">h</string>
-    <string name="time_units_minute">m</string>
-    <string name="time_units_second">s</string>
+    <!-- Daily -->
+    <string name="forecast_daily_title">اظهر المزيد</string>
 
-    <!-- Weather alerts -->
+    <!-- Radar view -->
+    <string name="radar_view_title">Precipitation map</string>
+    <string name="radar_view_legend_overcast">Overcast</string>
+    <string name="radar_view_legend_drizzle">Drizzle</string>
+    <string name="radar_view_legend_light_rain">Light rain</string>
+    <string name="radar_view_legend_moderate_rain">Moderate rain</string>
+    <string name="radar_view_legend_heavy_rain">Heavy rain</string>
+    <string name="radar_view_legend_hail">Hail</string>
+    <string name="radar_view_legend_light_snow">Light snow</string>
+    <string name="radar_view_legend_medium_snow">Medium snow</string>
+    <string name="radar_view_legend_heavy_snow">Heavy snow</string>
 
-    <string name="daily_forcast_no_wind">لا رياح</string>
-    <string name="daily_forcast_whirl_wind">عاصفة</string>
-    <string name="delete">حذف</string>
+    <!-- AQI -->
+    <string name="aqi_title">Air Quality</string>
+    <string name="aqi_summary_1">Good</string>
+    <string name="aqi_summary_2">Moderate</string>
+    <string name="aqi_summary_3">Unhealthy for sensitive groups</string>
+    <string name="aqi_summary_4">Unhealthy</string>
+    <string name="aqi_summary_5">Very unhealthy</string>
+    <string name="aqi_summary_6">Hazardous</string>
 
-    <string name="wind_unit">%1$skm/h</string>
-    <string name="wind_unit_ms">%1$sm/s</string>
-    <string name="wind_unit_mph">%1$smph</string>
+    <!-- Kp-Index -->
+    <string name="forecast_kpindex_title">Kp-Index</string>
+    <string name="forecast_kpindex_gm1">Minor Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm2">Moderate Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm3">Severe Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm4">Strong Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm5">Extreme Geomagnetic Storm</string>
 
-    <string name="hourly_forecast_title">توقعات على مدار الساعة</string>
+    <!-- Sun and moon -->
+    <string name="sun_moon_title">Sun and Moon</string>
+    <!-- Sun Info -->
+    <string name="sun_info_title">Sun</string>
+    <string name="sun_info_sunrise">شروق الشمس</string>
+    <string name="sun_info_sunset">غروب الشمس</string>
+    <string name="sun_info_dawn">Dawn</string>
+    <string name="sun_info_dusk">Dusk</string>
+    <string name="sun_info_noon">Noon</string>
+    <string name="sun_info_nadir">Nadir</string>
+    <string name="sun_info_azimuth">Azimuth</string>
+    <string name="sun_info_height">Altitude</string>
+    <string name="sun_info_eclipse">Eclipse</string>
+    <string name="sun_info_eclipse_type_total">Total</string>
+    <string name="sun_info_eclipse_type_partial">Partial</string>
+    <string name="sun_info_eclipse_type_annular">Annular</string>
 
-    <!-- Widgets -->
 
-    <!-- Moon Phases -->
-    <string name="menu_moon_phases">اطوار القمر</string>
-    <string name="moon_age">Age: %1$s days %2$s hours %3$s minutes</string>
+    <!-- Moon Info -->
+    <string name="moon_info_title">Moon</string>
+    <string name="moon_info_moonrise">Rise</string>
+    <string name="moon_info_moonset">Set</string>
+    <string name="moon_info_date">Date</string>
+    <string name="moon_info_age">Age</string>
+    <string name="moon_info_illuminated">Illuminated</string>
+    <string name="moon_info_zodiac">Zodiac</string>
+    <string name="moon_info_distance">Distance</string>
+    <string name="moon_info_azimuth">Azimuth</string>
+    <string name="moon_info_altitude">Altitude</string>
+    <string name="moon_info_phase">Phase</string>
+    <string name="moon_info_eclipse">Eclipse</string>
+    <string name="moon_info_eclipse_type_total">Total</string>
+    <string name="moon_info_eclipse_type_partial">Partial</string>
+    <string name="moon_info_eclipse_type_annular">Annular</string>
+    <string name="moon_info_eclipse_type_penumbral">Penumbral</string>
+    <string name="moon_info_age_unit_days">days</string>
+    <string name="moon_info_distance_unit_km">km</string>
+
+    <!-- Moon phases -->
     <string name="moon_newmoon">محاق</string>
-    <string name="moon_waxingcrescent">هلال اول الشهر</string>
+    <string name="moon_waxingcrescent">هلال اخر الشهر</string>
     <string name="moon_firstquarter">التربيع الاول</string>
     <string name="moon_waxinggibbous">احدب متعاظم</string>
     <string name="moon_full">بدر</string>
     <string name="moon_waninggibbous">احدب متضائل</string>
     <string name="moon_lastquarter">التربيع الثاني</string>
     <string name="moon_waningcrescent">هلال اخر الشهر</string>
-    <string name="moon_illuminated">الجزء المظلم: %s%%</string>
-    <string name="moon_since">التاريخ: %1$s %2$s </string>
-    <string name="moon_distanse">المسافة الفاصلة عن القمر: %s км</string>
-    <string name="moon_angle">زاوية القمر: %s</string>
-    <string name="moon_zodiac">الابراج: %s</string>
 
+    <!-- Zodiac signs -->
     <string name="zodiac_aries">الحمل</string>
     <string name="zodiac_taurus">الثور</string>
     <string name="zodiac_gemini">الجوزاء</string>
@@ -167,13 +132,166 @@
     <string name="zodiac_capricorn">الجدي</string>
     <string name="zodiac_aquarius">الدلو</string>
     <string name="zodiac_pisces">الحوت</string>
-    <string name="activity_main_alert">%1$d التنبيهات</string>
-    <string name="widget_update_date_string">تحديث %s</string>
-    <string name="widget_update_updating_string">تحديث…</string>
-    <string name="settings_alerts_title">إدارة التنبيهات</string>
-    <string name="settings_update_interval_title">الفاصل الزمني للتحديث</string>
-    <string name="settings_icons_title">أيقونات الطقس</string>
-    <string name="settings_app_locale_title">لغة</string>
-    <string name="activity_main_expire_time">%1$s تنتهي</string>
-    <string name="weather_details_pressure_mb">%1$s mb</string>
+
+    <!-- Units -->
+    <string name="wind_direction_n">N</string>
+    <string name="wind_direction_ne">NE</string>
+    <string name="wind_direction_e">E</string>
+    <string name="wind_direction_se">SE</string>
+    <string name="wind_direction_s">S</string>
+    <string name="wind_direction_sw">SW</string>
+    <string name="wind_direction_w">W</string>
+    <string name="wind_direction_nw">NW</string>
+
+    <string name="wind_unit_ms">m/s</string>
+    <string name="wind_unit_kmh">km/h</string>
+    <string name="wind_unit_mph">mph</string>
+    <string name="wind_unit_knot">kn</string>
+    <string name="wind_unit_bft">bft</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_mb">mb</string>
+    <string name="pressure_unit_mmhg">mmHg</string>
+    <string name="pressure_unit_inhg">inHg</string>
+
+
+    <string name="precipitation_unit_mm">mm</string>
+    <string name="precipitation_unit_cm">cm</string>
+    <string name="precipitation_unit_in">in</string>
+
+    <string name="visibility_unit_m">m</string>
+    <string name="visibility_unit_km">km</string>
+    <string name="visibility_unit_mi">اميال</string>
+
+    <string name="weather_aqi_detail_units">Units: µg/m³</string>
+
+    <string name="time_units_hour">h</string>
+    <string name="time_units_minute">m</string>
+    <string name="time_units_second">s</string>
+
+    <!-- Settings -->
+    <string name="settings_menu_title">الإعدادات</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">User interface</string>
+    <string name="prefs_ui_theme">Theme</string>
+    <string name="prefs_ui_theme_follow_system">Follow System</string>
+    <string name="prefs_ui_theme_dark">Dark Mode</string>
+    <string name="prefs_ui_theme_light">Light Mode</string>
+    <string name="prefs_ui_theme_battery">Auto Battery</string>
+
+    <!-- Settings - weather icons -->
+    <string name="prefs_icons_skin_title">Weather icons skin</string>
+    <string name="prefs_icons_skin_builtin">Built-in</string>
+    <string name="prefs_icons_skin_available">Available</string>
+
+    <!-- Data sources preferences -->
+    <string name="prefs_data_source_title">Data source</string>
+    <string name="prefs_data_source_citydb">قاعدة بيانات المدن</string>
+    <string name="prefs_data_source_weather">Weather forecast</string>
+    <string name="prefs_data_source_aqi">Air quality</string>
+    <string name="prefs_data_source_radar">Precipitation map</string>
+    <string name="prefs_data_order">Weather data order</string>
+
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Data update</string>
+    <string name="prefs_data_update_autoupdate_title">التحديث التلقائي</string>
+    <string name="prefs_data_update_autoupdate_summary">تحديث توقعات الطقس تلقائيا</string>
+    <string name="prefs_data_update_wifi_only_summary">Update weather forecast only when Wi-Fi connection established</string>
+    <string name="prefs_data_update_wifi_only_title">Update only on Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">الفاصل الزمني للتحديث</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">End</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
+    <string name="prefs_data_update_quiet_hours_title">Quiet hours</string>
+
+    <!-- Units preferences -->
+    <string name="prefs_units_title">الوحدة</string>
+    <string name="prefs_units_temperature">الحرارة</string>
+    <string name="prefs_units_pressure">الضغط</string>
+    <string name="prefs_units_wind">الرياح</string>
+    <string name="prefs_units_precip">Precipitation</string>
+    <string name="prefs_units_visibility">الرؤية</string>
+
+    <!-- Notifications -->
+    <string name="prefs_notifications_title">الإعدادات</string>
+    <string name="prefs_notification_title">اظهر الاشعارات</string>
+    <string name="prefs_notification_summary">اظهر حالة الطقس الحالية ضمن فضاء الاشعارات</string>
+    <string name="prefs_notification_icon_type_title">ايقونة الاشعار</string>
+    <string name="prefs_notification_icon_icon">Weather Icon</string>
+    <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">Widgets</string>
+    <string name="prefs_widgets_not_found">No installed widgets found</string>
+
+    <!-- Settings - About -->
+    <string name="prefs_about">حول التطبيق</string>
+    <string name="prefs_app_version">Version</string>
+    <string name="prefs_app_url">Website</string>
+    <string name="prefs_permissions_privacy">Privacy Policy</string>
+    <string name="prefs_translations">ترجمة التطبيق</string>
+    <string name="prefs_translations_summary">مترجمو التطبيق، يمكنك ترجمة التطبيق ايضاً بلغتك الخاصة</string>
+    <string name="prefs_thirdparty">Third-party libraries and resources</string>
+    <string name="prefs_help">Help</string>
+    <string name="prefs_feedback">Feedback</string>
+    <string name="prefs_donate">Donation</string>
+
+    <!-- Dialogs -->
+    <string name="weather_alert_dialog_start_time">Start</string>
+    <string name="weather_alert_dialog_end_time">End</string>
+    <string name="weather_alert_dialog_source">Source: %s</string>
+
+    <string name="dialog_changelog_title">Changelog</string>
+    <string name="dialog_information_title">Information</string>
+
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Send email</string>
+    <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Report a bug</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
+    <string name="dialog_contact_dev_send_email_other">Other</string>
+
+    <!-- Widgets -->
+
+    <!-- Widget config -->
+    <string name="widget_config_title">Widget config</string>
+    <string name="widget_config_background_title">Background</string>
+    <string name="widget_config_use_background_title">Show widget background</string>
+    <string name="widget_config_background_color_title">Background color</string>
+
+    <string name="widget_config_font_title">Fonts</string>
+    <string name="widget_config_font_color_title">Font color</string>
+    <string name="widget_config_font_size_title">Font size</string>
+    <string name="widget_config_clock_title">Clock</string>
+    <string name="widget_config_date_title">Date</string>
+    <string name="widget_config_city_name_title">City name</string>
+    <string name="widget_config_current_temp_title">Current temperature</string>
+    <string name="widget_config_current_condition_title">Current condition</string>
+    <string name="widget_config_forecast_temp_title">Forecast temperature</string>
+    <string name="widget_config_forecast_time_title">Forecast time</string>
+    <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_realtime_icon_size_title">Current weather icon size</string>
+    <string name="widget_config_forecast_icon_size_title">Forecast weather icons size</string>
+
+    <string name="widget_config_data_display_title">Data display</string>
+    <string name="widget_config_show_alarm_title">Show next alarm</string>
+    <string name="widget_config_show_date_title">Show date</string>
+    <string name="widget_config_dateformat_title">Date format</string>
+    <string name="widget_config_forecast_type_title">Forecast type</string>
+
+    <string name="widget_config_click_settings">Click settings</string>
+    <string name="widget_config_click_apps">Select application</string>
+    <string name="widget_config_click_clock">Clock</string>
+    <string name="widget_config_click_date">Date</string>
+    <string name="widget_config_click_weather_icon">Weather icon</string>
+    <string name="widget_config_click_temperature">Temperature</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Press on Color to apply</string>
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="color_picker_use_default_color">Use default color</string>
+
 </resources>

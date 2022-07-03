@@ -1,274 +1,297 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="act_find_city_hint">Paieška</string>
-    <string name="act_find_city_hot_title">Populiarūs miestai</string>
-    <string name="act_set_city_find_side">Miesto paieška…</string>
-    <string name="act_set_city_find_side_error">Vietos nustatymo klaida</string>
-    <string name="act_set_city_swipe_hint">Slinkti kairėn miesto pašalinimui</string>
-    <string name="act_weather_find_city_added">Pridėtas</string>
-    <string name="act_weather_find_city_click_retry">Pakartoti</string>
-    <string name="act_weather_find_city_net_no_good">Nepavyko prisijungti prie tinklo</string>
-    <string name="act_weather_find_city_no_result">Nerasta</string>
-    <string name="act_weather_find_city_searching">Ieškoma…</string>
-    <string name="activity_detail_time_format">EEEE</string>
-    <string name="activity_find_city_dialog_cancel">Atšaukti</string>
-    <string name="activity_find_city_dialog_message">Leisti orams nustatyti vietą?</string>
-    <string name="activity_find_city_dialog_set">Nustatyti</string>
-    <string name="activity_find_city_dialog_title">Esama vieta</string>
-    <string name="activity_main_alert">Perspėjimų: %1$d</string>
-    <string name="activity_main_expire_time">Baigiasi %1$s</string>
-    <string name="activity_main_refresh_fail">Nepavyksta prisijungti prie tinklo</string>
-    <string name="activity_main_time_format">EEEE, d MMMM</string>
-    <string name="activity_main_update_time">Atnaujinta %1$s</string>
-    <string name="activity_main_update_time_right_now">Ką tik</string>
     <string name="app_name">M8 Orai</string>
-    <string name="app_version">Versija: %s</string>
-    <string name="button_add_city">Pridėti miestą</string>
-    <string name="button_allow">Gerai</string>
-    <string name="button_not_allow">Atšaukti</string>
-    <string name="daily_forcast_drawer_on_top">Artimiausių dienų prognozė</string>
-    <string name="daily_forcast_no_wind">Silpnas</string>
-    <string name="daily_forcast_temperature_transfer">%1$s° / %2$s°</string>
-    <string name="daily_forcast_weather_transfer">%1$s ⇨ %2$s</string>
-    <string name="daily_forcast_whirl_wind">Sukūrys</string>
-    <string name="daily_forcast_wind_connect">Vėjas %1$s %2$s</string>
-    <string name="delete">Pašalinti</string>
-    <string name="first_start_network_msg">"Normaliam programos darbui reikalingas prisijungimas prie tinklo.
-        Taip pat reikalingi šie leidimai:
-        • Vietos nustatymo leidimas.
-        • Leidimas išsaugoti mediafailus norint išsaugoti ekrano nuotraukas (naudojant funkciją \"Pasidalinti\")."</string>
-    <string name="first_start_network_title">Perspėjimas</string>
-    <string name="gps_hint">GPS</string>
-    <string name="hour_minute_time_format">HH:mm</string>
-    <string name="hourly_forcast_now">Šiuo metu</string>
-    <string name="hourly_forecast_title">Artimiausių valandų prognozė</string>
-    <string name="international_detail_menu_title">Išsami prognozė</string>
-    <string name="locate_fail_detail_err">"Vietos nustatymo klaida
-Paspauskite žemiau esantį mygtuką, kad pakartoti paiešką arba pridėkite vietovę rankiniu būdu"</string>
-    <string name="location_management">Vietovės</string>
-    <string name="location_tag">Paieška</string>
-    <string name="menu_moon_phases">Mėnulio fazės</string>
-    <string name="moon_age">Amžius: %1$s d. %2$s v %3$s min</string>
-    <string name="moon_angle">Kampas: %s</string>
-    <string name="moon_distanse">Atstumas: %s km</string>
-    <string name="moon_firstquarter">Priešpilnis</string>
-    <string name="moon_full">Pilnatis</string>
-    <string name="moon_illuminated">Apšviesta: %s%%</string>
-    <string name="moon_lastquarter">Delčia</string>
-    <string name="moon_newmoon">Jaunatis</string>
-    <string name="moon_since">Data: %1$s %2$s</string>
-    <string name="moon_waningcrescent">Delčia</string>
-    <string name="moon_waninggibbous">Delčia</string>
-    <string name="moon_waxingcrescent">Jaunatis</string>
-    <string name="moon_waxinggibbous">Priešpilnis</string>
-    <string name="moon_zodiac">Zodiako ženklas: %s</string>
-    <string name="more_details">Išsamiau</string>
-    <string name="network_unavailable">Tinklas nepasiekiamas</string>
-    <string name="settings_about">Apie</string>
-    <string name="settings_alerts_title">Perspėjimų nustatymai</string>
-    <string name="settings_app_locale_title">Kalba</string>
-    <string name="settings_autoupdate_weather_summary">Automatinis orų prognozės atnaujinimas</string>
-    <string name="settings_autoupdate_weather_title">Automatinis atnaujinimas</string>
-    <string name="settings_category_units">Mato vienetai</string>
-    <string name="settings_city_base">Miestų duomenų bazė</string>
-    <string name="settings_icons_title">Orų ikonėlės</string>
-    <string name="settings_menu_title">Nustatymai</string>
-    <string name="settings_notification_priority_summary">Minimalaus prioriteto pranešimai rodomi tik pranešimų skiltyje</string>
-    <string name="settings_notification_priority_title">Minimalus prioritetas</string>
-    <string name="settings_notification_summary">Rodyti orų prognozę pranešimų skiltyje</string>
-    <string name="settings_notification_title">Orų pranešimai</string>
-    <string name="settings_notifications_summary">Orų būsenos pranešimų valdymas</string>
-    <string name="settings_notifications_title">Pranešimai</string>
-    <string name="settings_notify_type_title">Pranešimo ikonėlė</string>
-    <string name="settings_pressure_unit">Slėgis</string>
-    <string name="settings_pressure_unit_in">colHg</string>
-    <string name="settings_pressure_unit_mb">mbar</string>
-    <string name="settings_pressure_unit_mm">mmHg</string>
-    <string name="settings_temp_unit">Temperatūra</string>
-    <string name="settings_translations">Programos vertimas</string>
-    <string name="settings_translations_summary">Programos vertėjų sąrašas</string>
-    <string name="settings_update_interval_title">Atnaujinimo intervalas</string>
-    <string name="settings_visibility_unit">Matomumas</string>
-    <string name="settings_visibility_unit_kilometers">km</string>
-    <string name="settings_visibility_unit_meters">m</string>
-    <string name="settings_visibility_unit_miles">mylios</string>
-    <string name="settings_weather_spider_title">Atnaujinimų šaltinis</string>
-    <string name="settings_weather_transfer_summary">Orų prognozės aprašyme rodyti perėjimą iš dienos aprašymo į naktinį</string>
-    <string name="settings_weather_transfer_title">Prognozės perėjimas diena-naktis</string>
-    <string name="settings_wind_unit">Vėjo greitis</string>
-    <string name="settings_wind_unit_kmh">km/val</string>
-    <string name="settings_wind_unit_mph">mylios/val</string>
-    <string name="settings_wind_unit_ms">m/s</string>
-    <string name="share_btn_cancel">Atšaukti</string>
-    <string name="share_btn_confirm">Pasidalinti</string>
-    <string name="share_button">Pasidalinti</string>
-    <string name="share_menu_title">Pasidalinti</string>
-    <string name="share_subject">Pasidalinti</string>
-    <string name="share_weather_desc">\#M8 Orai# Šiandien: %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
-    <string name="share_weather_desc_split">,</string>
-    <string name="share_weather_save_pic_fail">Nuotraukos išsaugojimo klaida</string>
-    <string name="sunrise">Saulė teka</string>
-    <string name="sunset">Saulė leidžiasi</string>
-    <string name="time_units_hour">" val"</string>
-    <string name="time_units_minute">" min"</string>
-    <string name="time_units_second">" s"</string>
-    <string name="view_forecast_item_yesterday">Vakar</string>
-    <string name="view_indexes_item_today">Šiandien</string>
-    <string name="view_indexes_item_tommorrow">Rytoj</string>
-    <string name="weather_details_daylight_hours_title">Dienos ilgumas</string>
-    <string name="weather_details_daylight_diff_longer"> %1$s ilgesnė</string>
-    <string name="weather_details_daylight_diff_shorter"> %1$s trumpesnė</string>
-    <string name="weather_details_humidity">%1$s%%</string>
-    <string name="weather_details_humidity_title">Drėgnumas</string>
-    <string name="weather_details_precipitation_prob_title">Krituliai</string>
-    <string name="weather_details_pressure">%1$s gPa</string>
-    <string name="weather_details_pressure_in">%1$s colHg</string>
-    <string name="weather_details_pressure_mb">%1$s mbar</string>
-    <string name="weather_details_pressure_mm">%1$s mmHg</string>
-    <string name="weather_details_pressure_title">Slėgis</string>
-    <string name="weather_details_real_feel_title">Juntama</string>
+
+    <string name="app_translation_locale">lt</string>
+    <string name="app_translation_author">Vladimir Zemlianskij</string>
+
+    <!-- Common strings -->
+    <string name="wait">Please wait…</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_failed">Download failed. Try again later</string>
+    <string name="download_succeeded">Download completed</string>
+    <string name="restart_to_apply">Norėdami pritaikyti pakeitimus, turite iš naujo paleisti programą</string>
+
+    <!-- City manager -->
+    <string name="city_manager_drag_swipe_tip">Tip: Long press to drag, swipe left to delete</string>
+    <string name="city_manager_locating">Miesto paieška…</string>
+    <string name="city_manager_locating_no_permission">Vietos nustatymo klaida</string>
+
+    <!-- Main menu (Not used) -->
+
+    <!-- Location manager -->
+    <string name="location_manager_title">Vietovės</string>
+    <string name="location_manager_search_hint">Type city name here</string>
+
+    <!-- Weather details -->
     <string name="weather_details_title">Išsamiau</string>
-    <string name="weather_details_uv_index_title">UV indeksas</string>
-    <string name="weather_details_visibility">%1$s km</string>
-    <string name="weather_details_visibility_meters">%1$s m</string>
-    <string name="weather_details_visibility_miles">%1$s mylių</string>
-    <string name="weather_details_visibility_title">Matomumas</string>
-    <string name="weather_details_wind_connect">%2$s %1$s</string>
-    <string name="weather_details_wind_title">Vėjas</string>
-    <string name="widget_update_date_string">Atn. %s</string>
-    <string name="widget_update_updating_string">Atnaujinama…</string>
-    <string name="wind_unit">%1$s km/val</string>
-    <string name="wind_unit_mph">%1$s mylių/val</string>
-    <string name="wind_unit_ms">%1$s m/s</string>
-    <string name="zodiac_aquarius">Vandenis</string>
+    <string name="weather_details_feelslike">Juntama</string>
+    <string name="weather_details_humidity">Drėgnumas</string>
+    <string name="weather_details_wind">Vėjas</string>
+    <string name="weather_details_dewpoint">Dew point</string>
+    <string name="weather_details_pressure">Slėgis</string>
+    <string name="weather_details_precip">Krituliai</string>
+    <string name="weather_details_visibility">Matomumas</string>
+    <string name="weather_details_uvindex">UV indeksas</string>
+    <string name="weather_details_timezone">Laiko juosta</string>
+    <string name="weather_details_daylight_hours">Dienos ilgumas</string>
+
+    <!-- Hourly -->
+    <string name="forecast_hourly_title">Artimiausių valandų prognozė</string>
+
+    <!-- Daily -->
+    <string name="forecast_daily_title">Artimiausių dienų prognozė</string>
+
+    <!-- Radar view -->
+    <string name="radar_view_title">Žemėlapis</string>
+    <string name="radar_view_legend_overcast">Overcast</string>
+    <string name="radar_view_legend_drizzle">Drizzle</string>
+    <string name="radar_view_legend_light_rain">Light rain</string>
+    <string name="radar_view_legend_moderate_rain">Moderate rain</string>
+    <string name="radar_view_legend_heavy_rain">Heavy rain</string>
+    <string name="radar_view_legend_hail">Hail</string>
+    <string name="radar_view_legend_light_snow">Light snow</string>
+    <string name="radar_view_legend_medium_snow">Medium snow</string>
+    <string name="radar_view_legend_heavy_snow">Heavy snow</string>
+
+    <!-- AQI -->
+    <string name="aqi_title">Oro kokybė</string>
+    <string name="aqi_summary_1">Gera</string>
+    <string name="aqi_summary_2">Vidutinė</string>
+    <string name="aqi_summary_3">Netinkama itin jautriems žmonėms</string>
+    <string name="aqi_summary_4">Nesveika</string>
+    <string name="aqi_summary_5">Labai nesveika</string>
+    <string name="aqi_summary_6">Pavojinga</string>
+
+    <!-- Kp-Index -->
+    <string name="forecast_kpindex_title">Kp-Index</string>
+    <string name="forecast_kpindex_gm1">Minor Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm2">Moderate Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm3">Severe Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm4">Strong Geomagnetic Storm</string>
+    <string name="forecast_kpindex_gm5">Extreme Geomagnetic Storm</string>
+
+    <!-- Sun and moon -->
+    <string name="sun_moon_title">Sun and Moon</string>
+    <!-- Sun Info -->
+    <string name="sun_info_title">Sun</string>
+    <string name="sun_info_sunrise">Saulė teka</string>
+    <string name="sun_info_sunset">Saulė leidžiasi</string>
+    <string name="sun_info_dawn">Dawn</string>
+    <string name="sun_info_dusk">Dusk</string>
+    <string name="sun_info_noon">Noon</string>
+    <string name="sun_info_nadir">Nadir</string>
+    <string name="sun_info_azimuth">Azimuth</string>
+    <string name="sun_info_height">Altitude</string>
+    <string name="sun_info_eclipse">Eclipse</string>
+    <string name="sun_info_eclipse_type_total">Total</string>
+    <string name="sun_info_eclipse_type_partial">Partial</string>
+    <string name="sun_info_eclipse_type_annular">Annular</string>
+
+
+    <!-- Moon Info -->
+    <string name="moon_info_title">Moon</string>
+    <string name="moon_info_moonrise">Rise</string>
+    <string name="moon_info_moonset">Set</string>
+    <string name="moon_info_date">Date</string>
+    <string name="moon_info_age">Age</string>
+    <string name="moon_info_illuminated">Illuminated</string>
+    <string name="moon_info_zodiac">Zodiac</string>
+    <string name="moon_info_distance">Distance</string>
+    <string name="moon_info_azimuth">Azimuth</string>
+    <string name="moon_info_altitude">Altitude</string>
+    <string name="moon_info_phase">Phase</string>
+    <string name="moon_info_eclipse">Eclipse</string>
+    <string name="moon_info_eclipse_type_total">Total</string>
+    <string name="moon_info_eclipse_type_partial">Partial</string>
+    <string name="moon_info_eclipse_type_annular">Annular</string>
+    <string name="moon_info_eclipse_type_penumbral">Penumbral</string>
+    <string name="moon_info_age_unit_days">days</string>
+    <string name="moon_info_distance_unit_km">km</string>
+
+    <!-- Moon phases -->
+    <string name="moon_newmoon">Jaunatis</string>
+    <string name="moon_waxingcrescent">Delčia</string>
+    <string name="moon_firstquarter">Priešpilnis</string>
+    <string name="moon_waxinggibbous">Priešpilnis</string>
+    <string name="moon_full">Pilnatis</string>
+    <string name="moon_waninggibbous">Delčia</string>
+    <string name="moon_lastquarter">Delčia</string>
+    <string name="moon_waningcrescent">Delčia</string>
+
+    <!-- Zodiac signs -->
     <string name="zodiac_aries">Avinas</string>
-    <string name="zodiac_cancer">Vėžys</string>
-    <string name="zodiac_capricorn">Ožiaragis</string>
-    <string name="zodiac_gemini">Dvyniai</string>
-    <string name="zodiac_leo">Liūtas</string>
-    <string name="zodiac_libra">Svarstyklės</string>
-    <string name="zodiac_pisces">Žuvys</string>
-    <string name="zodiac_sagittarius">Šaulys</string>
-    <string name="zodiac_scorpio">Skorpionas</string>
     <string name="zodiac_taurus">Jautis</string>
+    <string name="zodiac_gemini">Dvyniai</string>
+    <string name="zodiac_cancer">Vėžys</string>
+    <string name="zodiac_leo">Liūtas</string>
     <string name="zodiac_virgo">Mergelė</string>
-    <string name="aqi_data_source">%s</string>
-    <string name="aqi_detail_24_hours">Prognozė kas valandą</string>
-    <string name="aqi_detail_5_days">5 dienų prognozė</string>
-    <string name="aqi_detail_unit">Vienetai: µg/m³ (CO: mg/m³)</string>
-    <string name="aqi_main_publish_time">Atnaujinta %1$s</string>
-    <string name="aqi_main_title">Oro kokybė</string>
-    <string name="aqi_ring_desc">Oro kokybės indeksas</string>
-    <string name="aqi_ring_top_pollution">Pagindinia teršėjai</string>
-    <string name="common_auto">Auto</string>
-    <string name="common_recommended">Rekomenduojama</string>
-    <string name="dialog_color_picker">Spalvos pasirinkimas</string>
-    <string name="feedback_action_send">Išsiųsti</string>
-    <string name="feedback_add_images">Pridėti paveikslėlius</string>
-    <string name="feedback_description">Aprašymas</string>
-    <string name="feedback_description_hint">Aprašykite problemą</string>
-    <string name="feedback_error">Siunčiant atsiliepimą atsirado klaida</string>
-    <string name="feedback_fill_required">Privalomi laukai negali būti tušti</string>
-    <string name="feedback_select_upload_settings">Išsiųsti programos nustatymus</string>
-    <string name="feedback_sending">Ataskaitos siuntimas…</string>
-    <string name="feedback_sent">Ačiū už Jūsų atsiliepimą!</string>
-    <string name="feedback_title">Pavadinimas</string>
-    <string name="feedback_title_hint">Trumpai aprašykite problemą</string>
-    <string name="get_accounts_msg">Programai reikalingas priėjimas prie paskyrų, užregistruotų įrenginyje sąrašo, tam kad galima būtų patikrinti Jūsų pirkimus bei išjungti reklaminius pranešimus.</string>
-    <string name="get_accounts_title">Perspėjimas</string>
-    <string name="moon_rise">Pateka: %s</string>
-    <string name="moon_set">Leidžiasi: %s</string>
-    <string name="network_error">"Nėra ryšio su serveriu.
-Patikrinkite tinklo nustatymus."</string>
-    <string name="network_in_quiet_hours">Ramybės valandų režimas aktyvus. Atnaujinimas negalimas.</string>
-    <string name="network_in_roaming">Įjungtas atnaujinimo draudimas naudojant tarptautinį ryšį.</string>
-    <string name="network_wifi_only">Atnaujinimas galimas tik naudojant Wi-Fi tinklą.</string>
-    <string name="press_color_to_apply">Pasirinkite spalvą kurią norite pritaikyti</string>
-    <string name="settings_ads_explanation">"Kodėl programoje matote reklamą?
-Programų kūrimas yra mano hobis, kuriam skiriu savo laisvalaikį. Todėl prašau suprasti, kodėl programoje pasirodo reklaminiai pranešimai. Reklaminių pranešymų rodymas stimulioja mane ir toliau kurti programas."</string>
-    <string name="settings_ads_menu_hide_title">Slėpti šį meniu punktą</string>
-    <string name="settings_ads_remove_summary">Išjungti reklamą savaitei(kartą per mėnesį)</string>
-    <string name="settings_ads_remove_title">Išjungti reklamą</string>
-    <string name="settings_ads_title">Reklama ir aukojimas</string>
-    <string name="settings_ads_yandex">Yandex pinigai</string>
-    <string name="settings_app_theme_dark">Tamsi</string>
-    <string name="settings_app_theme_light">Šviesi</string>
-    <string name="settings_app_theme_title">Tema</string>
-    <string name="settings_aqi_max_distance_closest">Artimiausia stotis</string>
-    <string name="settings_aqi_max_distance_summary">Gauti oro kokybės duomenis iš meteostočių, nutolusių nedaugiau nei %1$s</string>
-    <string name="settings_aqi_max_distance_title">Tikrinimo spindulys</string>
-    <string name="settings_aqi_onoff_summary">Rodyti oro kokybės informaciją pasirinktoms vietovėms (jeigu tokia informacija galima)</string>
-    <string name="settings_aqi_onoff_title">Oro kokybės informacija</string>
-    <string name="settings_dialog_enter_timezone">Įveskite pasirinktos vietovės laiko juostą (%s), pavyzdžiui, GMT+03:00:</string>
-    <string name="settings_feedback">Parašyti programos kūrėjui</string>
-    <string name="settings_help">Pagalba</string>
-    <string name="settings_icons_theme_details_title">Temos aprašymas</string>
-    <string name="settings_notification_statusbar_color_title">Pranešymų ikonėlės spalva</string>
-    <string name="settings_permissions">Leidimai</string>
-    <string name="settings_pressure_level_title">Rodyti slėgį</string>
-    <string name="settings_pressure_unit_atm">atm</string>
-    <string name="settings_pressure_unit_hpa">gPa</string>
-    <string name="settings_realtime_feelslike_as_main_summary">Juntama temperatūra bus rodoma kaip pagrindinė</string>
-    <string name="settings_realtime_feelslike_as_main_title">Juntama temperatūra kaip pagrindinė</string>
-    <string name="settings_show_plus_sign_temp_summary">Rodyti + ženklą prieš teigiamas temperatūros reišmes</string>
-    <string name="settings_show_plus_sign_temp_title">Rodyti + ženklą temperatūroms</string>
-    <string name="settings_sound_volume">Garsumas</string>
-    <string name="settings_thirdparty">Išoriniai ištekliai ir bibliotekos</string>
-    <string name="settings_update_quiet_hours_end_time_title">Pabaiga</string>
-    <string name="settings_update_quiet_hours_start_time_title">Pradžia</string>
-    <string name="settings_update_quiet_hours_title">Ramybės valandos</string>
-    <string name="settings_update_wifi_only_summary">Orų prognozę atnaujinti tik prisijungus prie Wi-Fi tinklo</string>
-    <string name="settings_update_wifi_only_title">Atnaujinti tik esant Wi-Fi</string>
-    <string name="settings_weather_forecast_spider_title">Prognozė</string>
-    <string name="settings_weather_realtime_spider_title">Dabartinių oru duomenys</string>
-    <string name="settings_weather_station_title">Meteostotis</string>
-    <string name="settings_widgets_not_found">Nėra valdiklių</string>
-    <string name="settings_widgets_title">Valdikliai</string>
-    <string name="settings_wind_unit_knot">mazgas</string>
-    <string name="weather_details_elevation_title">Aukštis virš jūros lygio</string>
-    <string name="weather_details_pressure_atm">%1$s atm</string>
-    <string name="weather_details_temperature_title">Temperatūra</string>
-    <string name="weather_details_timezone_title">Laiko juosta</string>
-    <string name="weather_details_update_date_string">Duomenys: %s</string>
+    <string name="zodiac_libra">Svarstyklės</string>
+    <string name="zodiac_scorpio">Skorpionas</string>
+    <string name="zodiac_sagittarius">Šaulys</string>
+    <string name="zodiac_capricorn">Ožiaragis</string>
+    <string name="zodiac_aquarius">Vandenis</string>
+    <string name="zodiac_pisces">Žuvys</string>
+
+    <!-- Units -->
+    <string name="wind_direction_n">Š</string>
+    <string name="wind_direction_ne">ŠR</string>
+    <string name="wind_direction_e">R</string>
+    <string name="wind_direction_se">PR</string>
+    <string name="wind_direction_s">P</string>
+    <string name="wind_direction_sw">PV</string>
+    <string name="wind_direction_w">V</string>
+    <string name="wind_direction_nw">ŠV</string>
+
+    <string name="wind_unit_ms">m/s</string>
+    <string name="wind_unit_kmh">km/val</string>
+    <string name="wind_unit_mph">mylios/val</string>
+    <string name="wind_unit_knot">mazgas</string>
+    <string name="wind_unit_bft">bft</string>
+
+    <string name="pressure_unit_hpa">gPa</string>
+    <string name="pressure_unit_mb">mbar</string>
+    <string name="pressure_unit_mmhg">mmHg</string>
+    <string name="pressure_unit_inhg">colHg</string>
+
+
+    <string name="precipitation_unit_mm">mm</string>
+    <string name="precipitation_unit_cm">cm</string>
+    <string name="precipitation_unit_in">in</string>
+
+    <string name="visibility_unit_m">m</string>
+    <string name="visibility_unit_km">km</string>
+    <string name="visibility_unit_mi">mylios</string>
+
+    <string name="weather_aqi_detail_units">Vienetai: µg/m³</string>
+
+    <string name="time_units_hour">val</string>
+    <string name="time_units_minute">min</string>
+    <string name="time_units_second">s</string>
+
+    <!-- Settings -->
+    <string name="settings_menu_title">Nustatymai</string>
+
+    <!-- UI preferences -->
+    <string name="prefs_ui_title">User interface</string>
+    <string name="prefs_ui_theme">Theme</string>
+    <string name="prefs_ui_theme_follow_system">Follow System</string>
+    <string name="prefs_ui_theme_dark">Dark Mode</string>
+    <string name="prefs_ui_theme_light">Light Mode</string>
+    <string name="prefs_ui_theme_battery">Auto Battery</string>
+
+    <!-- Settings - weather icons -->
+    <string name="prefs_icons_skin_title">Weather icons skin</string>
+    <string name="prefs_icons_skin_builtin">Built-in</string>
+    <string name="prefs_icons_skin_available">Available</string>
+
+    <!-- Data sources preferences -->
+    <string name="prefs_data_source_title">Data source</string>
+    <string name="prefs_data_source_citydb">Miestų duomenų bazė</string>
+    <string name="prefs_data_source_weather">Weather forecast</string>
+    <string name="prefs_data_source_aqi">Air quality</string>
+    <string name="prefs_data_source_radar">Precipitation map</string>
+    <string name="prefs_data_order">Weather data order</string>
+
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Duomenų atnaujinimas</string>
+    <string name="prefs_data_update_autoupdate_summary">Automatinis orų prognozės atnaujinimas</string>
+    <string name="prefs_data_update_autoupdate_title">Automatinis atnaujinimas</string>
+    <string name="prefs_data_update_wifi_only_summary">Orų prognozę atnaujinti tik prisijungus prie Wi-Fi tinklo</string>
+    <string name="prefs_data_update_wifi_only_title">Atnaujinti tik esant Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Atnaujinimo intervalas</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Pabaiga</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Pradžia</string>
+    <string name="prefs_data_update_quiet_hours_title">Ramybės valandos</string>
+
+    <!-- Units preferences -->
+    <string name="prefs_units_title">Mato vienetai</string>
+    <string name="prefs_units_temperature">Temperatūra</string>
+    <string name="prefs_units_pressure">Slėgis</string>
+    <string name="prefs_units_wind">Vėjas</string>
+    <string name="prefs_units_precip">Precipitation</string>
+    <string name="prefs_units_visibility">Matomumas</string>
+
+    <!-- Notifications -->
+    <string name="prefs_notifications_title">Pranešimai</string>
+    <string name="prefs_notification_title">Orų pranešimai</string>
+    <string name="prefs_notification_summary">Rodyti orų prognozę pranešimų skiltyje</string>
+    <string name="prefs_notification_icon_type_title">Pranešimo ikonėlė</string>
+    <string name="prefs_notification_icon_icon">Orų ikonėlė</string>
+    <string name="prefs_notification_icon_temp">Temperatūra</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
+    <!-- Widgets -->
+    <string name="prefs_widgets_title">Valdikliai</string>
+    <string name="prefs_widgets_not_found">Nėra valdiklių</string>
+
+    <!-- Settings - About -->
+    <string name="prefs_about">Apie</string>
+    <string name="prefs_app_version">Versija</string>
+    <string name="prefs_app_url">Website</string>
+    <string name="prefs_permissions_privacy">Privacy Policy</string>
+    <string name="prefs_translations">Programos vertimas</string>
+    <string name="prefs_translations_summary">Programos vertėjų sąrašas</string>
+    <string name="prefs_thirdparty">Išoriniai ištekliai ir bibliotekos</string>
+    <string name="prefs_help">Pagalba</string>
+    <string name="prefs_feedback">Parašyti programos kūrėjui</string>
+    <string name="prefs_donate">Donation</string>
+
+    <!-- Dialogs -->
+    <string name="weather_alert_dialog_start_time">Start</string>
+    <string name="weather_alert_dialog_end_time">End</string>
+    <string name="weather_alert_dialog_source">Source: %s</string>
+
+    <string name="dialog_changelog_title">Changelog</string>
+    <string name="dialog_information_title">Information</string>
+
+    <!-- Contact developer dialog -->
+    <string name="dialog_contact_dev_send_email">Send email</string>
+    <string name="dialog_contact_dev_send_email_message">Describe your problem:\n\n</string>
+    <string name="dialog_contact_dev_send_email_report_bug">Report a bug</string>
+    <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
+    <string name="dialog_contact_dev_send_email_other">Other</string>
+
+    <!-- Widgets -->
+
+    <!-- Widget config -->
+    <string name="widget_config_title">Valdiklio nustatymai</string>
+    <string name="widget_config_background_title">Background</string>
+    <string name="widget_config_use_background_title">Rodyti valdiklio foną</string>
     <string name="widget_config_background_color_title">Fono spalva</string>
-    <string name="widget_config_background_type_border">Rėmelis</string>
-    <string name="widget_config_background_type_solid">Vienspalvis</string>
-    <string name="widget_config_background_type_title">Fono tipas</string>
+
+    <string name="widget_config_font_title">Fonts</string>
+    <string name="widget_config_font_color_title">Font color</string>
+    <string name="widget_config_font_size_title">Font size</string>
+    <string name="widget_config_clock_title">Clock</string>
+    <string name="widget_config_date_title">Date</string>
+    <string name="widget_config_city_name_title">City name</string>
+    <string name="widget_config_current_temp_title">Current temperature</string>
+    <string name="widget_config_current_condition_title">Current condition</string>
+    <string name="widget_config_forecast_temp_title">Forecast temperature</string>
+    <string name="widget_config_forecast_time_title">Forecast time</string>
+    <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_forecast_icon_size_title">Orų prognozės ikonėlės dydis</string>
+    <string name="widget_config_realtime_icon_size_title">Esamų orų ikonėlės dydis</string>
+
+    <string name="widget_config_data_display_title">Data display</string>
+    <string name="widget_config_show_alarm_title">Rodyti sekantį žadintuvą</string>
+    <string name="widget_config_show_date_title">Show date</string>
+    <string name="widget_config_dateformat_title">Datos formatas</string>
+    <string name="widget_config_forecast_type_title">Forecast type</string>
+
+    <string name="widget_config_click_settings">Valdiklio paspaudimo sričių nustatymai</string>
     <string name="widget_config_click_apps">Pasirinkite programą</string>
     <string name="widget_config_click_clock">Laikrodis</string>
     <string name="widget_config_click_date">Data</string>
-    <string name="widget_config_click_settings">Valdiklio paspaudimo sričių nustatymai</string>
-    <string name="widget_config_click_temperature">Temperatūra</string>
     <string name="widget_config_click_weather_icon">Orų ikonėlė</string>
-    <string name="widget_config_clock_color_title">Laikrodžio spalva</string>
-    <string name="widget_config_clock_font_size_title">Laikrodžio šrifto dydis</string>
-    <string name="widget_config_clock_font_title">Laikrodžio šriftas</string>
-    <string name="widget_config_custom_clock_font_onoff_summary">Išjunkite šį punktą, jei laikrodis neatsinaujina</string>
-    <string name="widget_config_custom_clock_font_onoff_title">Pakeisti laikrodžio šriftą</string>
-    <string name="widget_config_date_font_size_title">Datos šrifto dydis</string>
-    <string name="widget_config_dateformat_title">Datos formatas</string>
-    <string name="widget_config_font_size_title">Teksto dydis</string>
-    <string name="widget_config_font_title">Teksto šriftas</string>
-    <string name="widget_config_realtime_font_size_title">Dabartinių orų duomenų šrifto dydis</string>
-    <string name="widget_config_realtime_font_title">Dabartinių orų šriftas</string>
-    <string name="widget_config_show_alarm_title">Rodyti sekantį žadintuvą</string>
-    <string name="widget_config_show_cityname_title">Rodyti miesto pavadinimą</string>
-    <string name="widget_config_show_leading_zero_title">Rodyti pirmąjį nulį laikrodyje</string>
-    <string name="widget_config_show_local_time_title">Rodyti vietos laiką</string>
-    <string name="widget_config_text_color_title">Teksto spalva</string>
-    <string name="widget_config_title">Valdiklio nustatymai</string>
-    <string name="widget_config_use_background_title">Rodyti valdiklio foną</string>
-    <string name="wind_unit_knot">%1$s mazgas</string>
-    <string name="settings_ads_donation_expl">Google Play paaukojimas paspaudus vieną iš žemiau esančių mygtukų neišjungs reklamų programoje. Reklamos atjungimui Jus turite pasinaudoti mygtuku \"Išjungti reklamą\".</string>
-    <string name="settings_ads_donations_title">Nupirkti man kavos</string>
-    <string name="settings_aqi_title">@string/aqi_main_title</string>
-    <string name="widget_config_forecast_icon_size_title">Orų prognozės ikonėlės dydis</string>
-    <string name="widget_config_realtime_icon_size_title">Esamų orų ikonėlės dydis</string>
-    <!-- Radar -->
-    <string name="radar_title">Žemėlapis</string>
-    <string name="radar_tab_cloud">Debesuotumas</string>
-    <string name="radar_tab_rain">Nusodinimas</string>
-    <string name="radar_date_format">dd.MM HH:mm</string>
-    <string name="loading_data">Duomenų užkrovimas…</string>
+    <string name="widget_config_click_temperature">Temperatūra</string>
+
+    <!-- Color picker -->
+    <string name="press_color_to_apply">Pasirinkite spalvą kurią norite pritaikyti</string>
+    <string name="dialog_color_picker">Spalvos pasirinkimas</string>
+    <string name="color_picker_use_default_color">Use default color</string>
+
 </resources>
