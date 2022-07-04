@@ -216,7 +216,7 @@
     <string name="prefs_notification_icon_icon">Εικονίδιο Καιρού</string>
     <string name="prefs_notification_icon_temp">Θερμοκρασία</string>
 
-    <string name="prefs_widgets_location_title">Θέση Γραφικών</string>
+    <string name="prefs_widgets_location_title">Τοποθεσίες Γραφικών</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Γραφικά</string>
