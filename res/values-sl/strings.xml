@@ -32,7 +32,7 @@
     <string name="weather_details_pressure">Pritisk</string>
     <string name="weather_details_precip">Padavine</string>
     <string name="weather_details_visibility">Vidljivost</string>
-    <string name="weather_details_uvindex">UV Index</string>
+    <string name="weather_details_uvindex">UV index</string>
     <string name="weather_details_timezone">Časovni pas</string>
     <string name="weather_details_daylight_hours">Ur dnevne svetlobe</string>
 
@@ -43,7 +43,7 @@
     <string name="forecast_daily_title">Dnevna napoved</string>
 
     <!-- Radar view -->
-    <string name="radar_view_title">Radar</string>
+    <string name="radar_view_title">Karta padavin</string>
     <string name="radar_view_legend_overcast">Oblačno</string>
     <string name="radar_view_legend_drizzle">Rosenje</string>
     <string name="radar_view_legend_light_rain">Rahel dež</string>
@@ -80,7 +80,7 @@
     <string name="sun_info_dawn">Zora</string>
     <string name="sun_info_dusk">Mrak</string>
     <string name="sun_info_noon">Poldne</string>
-    <string name="sun_info_nadir">Točka na nebesni sferi točno nasproti zenita</string>
+    <string name="sun_info_nadir">Nadir</string>
     <string name="sun_info_azimuth">Azimut</string>
     <string name="sun_info_height">Nadmorska višina</string>
     <string name="sun_info_eclipse">Mrk</string>
@@ -88,6 +88,15 @@
     <string name="sun_info_eclipse_type_partial">Delni</string>
     <string name="sun_info_eclipse_type_annular">Obročasti</string>
 
+    <string name="sun_info_sunrise_legend">Čas, ko se zgornji rob Sonca pojavi na obzorju</string>
+    <string name="sun_info_sunset_legend">Čas, ko Sonce zaide pod obzorje, nastopi večerni civilni mrak</string>
+    <string name="sun_info_dawn_legend">Čas, ko se konča jutranji navtični mrak, nastopi jutranji civilni mrak</string>
+    <string name="sun_info_dusk_legend">Čas, ko nastopi večerni navtični mrak</string>
+    <string name="sun_info_noon_legend">Sončno poldne. Sonce je v najvišjem položaju</string>
+    <string name="sun_info_nadir_legend">Najtemnejši trenutek noči, Sonce je v najnižjem položaju</string>
+    <string name="sun_info_azimuth_legend">Določa relativno smer Sonca vzdolž lokalnega obzorja</string>
+    <string name="sun_info_height_legend">Višina sonca nad obzorjem v stopinjah, merjeno od severa proti vzhodu</string>
+    <string name="sun_info_eclipse_legend">Del Zemlje je zajet v senco, ki jo meče Luna, ki v celoti ali delno blokira sončno svetlobo (ko so Sonce, Luna in Zemlja poravnani)</string>
 
     <!-- Moon Info -->
     <string name="moon_info_title">Luna</string>
@@ -196,8 +205,8 @@
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Posodobitev podatkov</string>
-    <string name="prefs_data_update_autoupdate_summary">Samodejno posodobi vremensko napoved</string>
     <string name="prefs_data_update_autoupdate_title">Samod. posodobi</string>
+    <string name="prefs_data_update_autoupdate_summary">Samodejno posodobi vremensko napoved</string>
     <string name="prefs_data_update_wifi_only_summary">Samodejno posodobi vremensko napoved samo kadar je vzpostavljena WiFi povezava</string>
     <string name="prefs_data_update_wifi_only_title">Posodobi samo preko WiFi-ja</string>
     <string name="prefs_data_update_interval_title">Interval posodabljanja</string>
@@ -221,7 +230,7 @@
     <string name="prefs_notification_icon_icon">Ikona vremena</string>
     <string name="prefs_notification_icon_temp">Temperatura</string>
 
-    <string name="prefs_widgets_location_title">Location for widgets</string>
+    <string name="prefs_widgets_location_title">Lokacija za pripomočke</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Pripomočki</string>
@@ -253,8 +262,14 @@
     <string name="dialog_contact_dev_send_email_report_bug">Prijavite napako</string>
     <string name="dialog_contact_dev_send_email_request_new_feature">Zahtevajte kaj novega</string>
     <string name="dialog_contact_dev_send_email_other">Ostalo</string>
+    <string name="dialog_contact_dev_send_email_help_localize" translatable="false">Pomagajte nam pri lokalizaciji</string>
+    <string name="dialog_contact_dev_send_email_help_localize_message" translatable="false">Pozdravljeni, lahko vam pomagam pri lokalizaciji na %1$s</string>
 
     <!-- Widgets -->
+    <string name="widget_name_4x1_pixel" translatable="false">Google Pixel</string>
+    <string name="widget_name_4x1_f" translatable="false">Ura in napoved</string>
+    <string name="widget_name_4x2_clock" translatable="false">Ura in napoved</string>
+    <string name="widget_name_4x2_stock" translatable="false">Napoved</string>
 
     <!-- Widget config -->
     <string name="widget_config_title">Konfig. pripomočkov</string>
@@ -295,4 +310,7 @@
     <string name="dialog_color_picker">Izbira barve</string>
     <string name="color_picker_use_default_color">Uporabi privzeto barvo</string>
 
+    <string name="notification_widget_update_service_title" translatable="false">Literarna ura</string>
+    <string name="notification_widget_update_service_text">Dolgo kliknite na obvestilo, odprite informacije o aplikaciji in izklopite obvestila, da skrijete to obvestilo.</string>
+    <string name="notification_widget_update_service_channel">Posodobi obvestilo storitve pripomočka</string>
 </resources>
