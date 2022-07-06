@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Ay Evreleri</string>
     <string name="moon_newmoon">Yeni Ay</string>
     <string name="moon_waxingcrescent">Azalan Hilal</string>
     <string name="moon_firstquarter">İlk Çeyrek</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">mil</string>
 
-    <string name="weather_aqi_detail_units">Birim: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Birim: µg/m³</string>
 
     <string name="time_units_hour">s</string>
     <string name="time_units_minute">d</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Hava durumu verileri</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Veri güncellemesi</string>
+    <string name="prefs_data_update_autoupdate_summary">Hava Durumunu Otomatik Olarak Güncelleştir</string>
+    <string name="prefs_data_update_autoupdate_title">Otomatik Güncelleştirme</string>
+    <string name="prefs_data_update_wifi_only_summary">Sadece Wi-Fi bağlantısı kurulduğunda hava durumunu güncelleyin</string>
+    <string name="prefs_data_update_wifi_only_title">"Sadece Wi-Fi'de güncelle"</string>
+    <string name="prefs_data_update_interval_title">Güncelleme aralığı</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Son</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Başlat</string>
+    <string name="prefs_data_update_quiet_hours_title">Sessiz saatler</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Birimler</string>
     <string name="prefs_units_temperature">Sıcaklık</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">Bildirim İkonu</string>
     <string name="prefs_notification_icon_icon">Bildirim İkonu</string>
     <string name="prefs_notification_icon_temp">Sıcaklık</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">"Widget'lar"</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_forecast_icon_size_title">Tahmin hava simgeleri boyutu</string>
+    <string name="widget_config_realtime_icon_size_title">Geçerli hava durumu simgesi boyutu</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">Sonraki alarmı göster</string>

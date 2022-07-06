@@ -71,6 +71,7 @@
 
     <!-- Sun and moon -->
     <string name="sun_moon_title">Солнце и Луна</string>
+
     <!-- Sun Info -->
     <string name="sun_info_title">Солнце</string>
     <string name="sun_info_sunrise">Восход</string>
@@ -85,6 +86,7 @@
     <string name="sun_info_eclipse_type_total">Полное</string>
     <string name="sun_info_eclipse_type_partial">Частичное</string>
     <string name="sun_info_eclipse_type_annular">Кольцевое</string>
+
     <!-- Moon Info -->
     <string name="moon_info_title">Луна</string>
     <string name="moon_info_moonrise">Восход</string>
@@ -104,7 +106,9 @@
     <string name="moon_info_eclipse_type_penumbral">Полутень</string>
     <string name="moon_info_age_unit_days">дней</string>
     <string name="moon_info_distance_unit_km">км</string>
+
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Фазы луны</string>
     <string name="moon_newmoon">Новолуние</string>
     <string name="moon_waxingcrescent">Старая Луна</string>
     <string name="moon_firstquarter">Первая четверть</string>
@@ -157,7 +161,7 @@
     <string name="visibility_unit_km">км</string>
     <string name="visibility_unit_mi">миль</string>
 
-    <string name="weather_aqi_detail_units">Единицы: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Единицы: µg/m³</string>
 
     <string name="time_units_hour">ч</string>
     <string name="time_units_minute">мин"</string>
@@ -187,6 +191,17 @@
     <string name="prefs_data_source_radar">Карта осадков</string>
     <string name="prefs_data_order">Порядок отображаемых данных</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Обновление данных</string>
+    <string name="prefs_data_update_autoupdate_title">Автообновление</string>
+    <string name="prefs_data_update_autoupdate_summary">Автоматическое обновление прогноза погоды</string>
+    <string name="prefs_data_update_wifi_only_summary">Обновлять прогноз погоды только при наличии подключения по сети Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Обновлять только по Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Интервал обновления</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Конец</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Начало</string>
+    <string name="prefs_data_update_quiet_hours_title">Тихие часы</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Единицы измерения</string>
     <string name="prefs_units_temperature">Температура</string>
@@ -202,6 +217,8 @@
     <string name="prefs_notification_icon_type_title">Иконка уведомления</string>
     <string name="prefs_notification_icon_icon">Иконка погоды</string>
     <string name="prefs_notification_icon_temp">Температура</string>
+
+    <string name="prefs_widgets_location_title">Местоположение для виджетов</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Виджеты</string>
@@ -251,6 +268,9 @@
     <string name="widget_config_forecast_temp_title">Температура прогноза</string>
     <string name="widget_config_forecast_time_title">Время прогноза</string>
     <string name="widget_config_other_title">Остальные данные</string>
+
+    <string name="widget_config_realtime_icon_size_title">Размер иконки текущей погоды</string>
+    <string name="widget_config_forecast_icon_size_title">Размер иконок погоды прогноза</string>
 
     <string name="widget_config_data_display_title">Отображение данных</string>
     <string name="widget_config_show_alarm_title">Отображать следующий будильник</string>

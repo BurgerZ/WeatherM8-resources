@@ -10,7 +10,7 @@
     <string name="downloading">A transferir…</string>
     <string name="download_failed">Transferência falhou. Tente novamente mais tarde</string>
     <string name="download_succeeded">Transferência completa</string>
-    <string name="restart_to_apply">Você deve reiniciar a aplicação para aplicar as mudanças</string>
+    <string name="restart_to_apply">Tem de reiniciar a aplicação para efetuar as alterações</string>
 
     <!-- City manager -->
     <string name="city_manager_drag_swipe_tip">Dica: pressione e segure para arrastar e deslize para a esquerda para excluir</string>
@@ -43,7 +43,7 @@
     <string name="forecast_daily_title">Previsão diária</string>
 
     <!-- Radar view -->
-    <string name="radar_view_title">Imagens de radar</string>
+    <string name="radar_view_title">Mapa</string>
     <string name="radar_view_legend_overcast">Nublado</string>
     <string name="radar_view_legend_drizzle">Aguaceiros</string>
     <string name="radar_view_legend_light_rain">Chuviscos</string>
@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Fases da lua</string>
     <string name="moon_newmoon">Lua nova</string>
     <string name="moon_waxingcrescent">Lua minguante</string>
     <string name="moon_firstquarter">Quarto crescente</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">mi</string>
 
-    <string name="weather_aqi_detail_units">Unidade: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Unidade: µg/m³</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">min</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">Mapa de precipitação</string>
     <string name="prefs_data_order">Ordem da informação exibida</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Atualização de dados</string>
+    <string name="prefs_data_update_autoupdate_summary">Atualizar automaticamente a informação do tempo</string>
+    <string name="prefs_data_update_autoupdate_title">Atualização automática</string>
+    <string name="prefs_data_update_wifi_only_summary">Atualizar automaticamente a informação do tempo apenas por Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Atualizar apenas por Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Intervalo de atualização</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Hora de fim</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Hora de início</string>
+    <string name="prefs_data_update_quiet_hours_title">Modo sem alertas</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Unidades</string>
     <string name="prefs_units_temperature">Temperatura</string>
@@ -209,14 +221,16 @@
     <string name="prefs_notification_icon_icon">Ícone do tempo</string>
     <string name="prefs_notification_icon_temp">Temperatura</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
     <string name="prefs_widgets_not_found">Sem widgets definidos</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">Acerca</string>
-    <string name="prefs_app_version">Versão: %s</string>
-    <string name="prefs_app_url">Website</string>
+    <string name="prefs_app_version">Versão:</string>
+    <string name="prefs_app_url">Website:</string>
     <string name="prefs_permissions_privacy">Política de Privacidade</string>
     <string name="prefs_translations">Traduções</string>
     <string name="prefs_translations_summary">Créditos aos tradutores da aplicação</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Temperatura de previsão</string>
     <string name="widget_config_forecast_time_title">Hora de previsão</string>
     <string name="widget_config_other_title">Outros dados</string>
+
+    <string name="widget_config_forecast_icon_size_title">Tamanho dos ícones dos dados de previsão</string>
+    <string name="widget_config_realtime_icon_size_title">Tamanho dos ícones dos dados atuais</string>
 
     <string name="widget_config_data_display_title">Exibição de dados</string>
     <string name="widget_config_show_alarm_title">Mostrar próximo alarme</string>

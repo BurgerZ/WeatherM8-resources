@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">وضعیت ماه</string>
     <string name="moon_newmoon">ماه نو</string>
     <string name="moon_waxingcrescent">هلال کاهنده</string>
     <string name="moon_firstquarter">تربیع اول</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">miles</string>
 
-    <string name="weather_aqi_detail_units">Unit: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Unit: µg/m³</string>
 
     <string name="time_units_hour">ساعت</string>
     <string name="time_units_minute">دقیقه</string>
@@ -192,6 +193,17 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">سفارشی سازی داده های آب و هوا</string>
+
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">به روز رسانی داده ها</string>
+    <string name="prefs_data_update_autoupdate_title">به روز رسانی خودکار</string>
+    <string name="prefs_data_update_autoupdate_summary">به روز رسانی خودکار پیش بینی آب و هوا</string>
+    <string name="prefs_data_update_wifi_only_summary">به روز رسانی خودکار پیش بینی وضعیت هوا, تنها زمانی که اتصال وای فای ایجاد شد</string>
+    <string name="prefs_data_update_wifi_only_title">به روز رسانی فقط با وای فای</string>
+    <string name="prefs_data_update_interval_title">فاصله به روز رسانی</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">پایان</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">شروع</string>
+    <string name="prefs_data_update_quiet_hours_title">حالت استراحت</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">واحد</string>
@@ -240,6 +252,8 @@
     <string name="dialog_contact_dev_send_email_request_new_feature">Request new feature</string>
     <string name="dialog_contact_dev_send_email_other">Other</string>
 
+    <string name="prefs_widgets_location_title">Location for widgets</string>
+
     <!-- Widgets -->
 
     <!-- Widget config -->
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_realtime_icon_size_title">اندازه آیکون های جاری هواشناسی</string>
+    <string name="widget_config_forecast_icon_size_title">اندازه آیکون های پیش بینی هواشناسی</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">نمایش هشدار بعدی</string>

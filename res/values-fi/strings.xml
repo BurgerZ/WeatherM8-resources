@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Kuun vaiheet</string>
     <string name="moon_newmoon">Uusi kuu</string>
     <string name="moon_waxingcrescent">Ensimmäinen neljännes</string>
     <string name="moon_firstquarter">Ensimmäinen neljännes</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">mailit</string>
 
-    <string name="weather_aqi_detail_units">Units: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Units: µg/m³</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Tietojen päivitys</string>
+    <string name="prefs_data_update_autoupdate_title">Automaattinen päivitys</string>
+    <string name="prefs_data_update_autoupdate_summary">Päivittää säätiedot automaattisesti</string>
+    <string name="prefs_data_update_wifi_only_summary">Päivittää säätiedot vain kun Wi-Fi yhteys on muodostettu</string>
+    <string name="prefs_data_update_wifi_only_title">Päivitä vain Wi-Fi yhteydellä</string>
+    <string name="prefs_data_update_interval_title">Päivitysväli</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">End</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
+    <string name="prefs_data_update_quiet_hours_title">Quiet hours</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Yksiköt</string>
     <string name="prefs_units_temperature">Lämpötila</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">Ilmoitus ikoni</string>
     <string name="prefs_notification_icon_icon">Weather Icon</string>
     <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_realtime_icon_size_title">Current weather icon size</string>
+    <string name="widget_config_forecast_icon_size_title">Forecast weather icons size</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">Näytä seuraava hälytys</string>

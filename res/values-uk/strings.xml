@@ -71,6 +71,7 @@
 
     <!-- Sun and moon -->
     <string name="sun_moon_title">Сонце та Місяць</string>
+
     <!-- Sun Info -->
     <string name="sun_info_title">Сонце</string>
     <string name="sun_info_sunrise">Схід</string>
@@ -85,6 +86,7 @@
     <string name="sun_info_eclipse_type_total">Повне</string>
     <string name="sun_info_eclipse_type_partial">Часткове</string>
     <string name="sun_info_eclipse_type_annular">Кільцеве</string>
+
     <!-- Moon Info -->
     <string name="moon_info_title">Місяць</string>
     <string name="moon_info_moonrise">Схід</string>
@@ -104,7 +106,9 @@
     <string name="moon_info_eclipse_type_penumbral">Півтінь</string>
     <string name="moon_info_age_unit_days">днів</string>
     <string name="moon_info_distance_unit_km">км</string>
+
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Фази місяця</string>
     <string name="moon_newmoon">Новий місяць</string>
     <string name="moon_waxingcrescent">Молодик</string>
     <string name="moon_firstquarter">Перша чверть</string>
@@ -157,7 +161,7 @@
     <string name="visibility_unit_km">км</string>
     <string name="visibility_unit_mi">миль</string>
 
-    <string name="weather_aqi_detail_units">Одиниці: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Одиниці: µg/m³</string>
 
     <string name="time_units_hour">год</string>
     <string name="time_units_minute">хв</string>
@@ -187,6 +191,17 @@
     <string name="prefs_data_source_radar">Карта опадів</string>
     <string name="prefs_data_order">Порядок відображення даних</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Оновлення даних</string>
+    <string name="prefs_data_update_autoupdate_title">Автооновлення</string>
+    <string name="prefs_data_update_autoupdate_summary">Автоматичне оновлення прогнозу погоди</string>
+    <string name="prefs_data_update_wifi_only_summary">Оновлювати прогноз погоди лише за наявності з\'єднання з мережею Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Оновлювати лише по Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Інтервал оновлення</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Кінець</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Початок</string>
+    <string name="prefs_data_update_quiet_hours_title">Тихі години</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Одиниці вимірювання</string>
     <string name="prefs_units_temperature">Температура</string>
@@ -202,6 +217,8 @@
     <string name="prefs_notification_icon_type_title">Іконка сповіщення</string>
     <string name="prefs_notification_icon_icon">Іконка погоди</string>
     <string name="prefs_notification_icon_temp">Температура</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Віджети</string>
@@ -251,6 +268,9 @@
     <string name="widget_config_forecast_temp_title">Температура прогнозу</string>
     <string name="widget_config_forecast_time_title">Час прогнозу</string>
     <string name="widget_config_other_title">Інші дані</string>
+
+    <string name="widget_config_realtime_icon_size_title">Розмір іконки поточної погоди</string>
+    <string name="widget_config_forecast_icon_size_title">Розмір іконок погоди прогнозу</string>
 
     <string name="widget_config_data_display_title">Відображення даних</string>
     <string name="widget_config_show_alarm_title">Показати наступний будильник</string>

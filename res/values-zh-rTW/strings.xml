@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">月相</string>
     <string name="moon_newmoon">新月</string>
     <string name="moon_waxingcrescent">殘月</string>
     <string name="moon_firstquarter">上弦月</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">公里</string>
     <string name="visibility_unit_mi">英里</string>
 
-    <string name="weather_aqi_detail_units">單位：µg/m³ (CO：mg/m³)</string>
+    <string name="weather_aqi_detail_units">單位：µg/m³</string>
 
     <string name="time_units_hour">小時</string>
     <string name="time_units_minute">分鐘</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">天氣數據卡片排序</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">數據更新</string>
+    <string name="prefs_data_update_autoupdate_title">自動更新</string>
+    <string name="prefs_data_update_autoupdate_summary">自動更新天氣資訊</string>
+    <string name="prefs_data_update_wifi_only_summary">僅在有Wi-Fi連線時自動更新天氣預報</string>
+    <string name="prefs_data_update_wifi_only_title">Wi-Fi連線時自動更新</string>
+    <string name="prefs_data_update_interval_title">自動更新頻率</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">結束</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">開始</string>
+    <string name="prefs_data_update_quiet_hours_title">暫停自動更新</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">單位</string>
     <string name="prefs_units_temperature">溫度</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">顯示圖標</string>
     <string name="prefs_notification_icon_icon">天氣圖標</string>
     <string name="prefs_notification_icon_temp">溫度</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">小工具</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_realtime_icon_size_title">目前天氣圖標大小</string>
+    <string name="widget_config_forecast_icon_size_title">預報天氣圖標大小</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">顯示鬧鐘</string>

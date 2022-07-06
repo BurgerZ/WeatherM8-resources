@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Měsíční fáze</string>
     <string name="moon_newmoon">Nov</string>
     <string name="moon_waxingcrescent">Ubývající srpek</string>
     <string name="moon_firstquarter">První čtvrt</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">míle</string>
 
-    <string name="weather_aqi_detail_units">Jednotky: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Jednotky: µg/m³</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Pořadí údajů o počasí</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Data update</string>
+    <string name="prefs_data_update_autoupdate_title">Aktualizovat automaticky</string>
+    <string name="prefs_data_update_autoupdate_summary">Aktualizovat předpověď automaticky</string>
+    <string name="prefs_data_update_wifi_only_summary">Aktualizovat předpověď automaticky pouze pomocí Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Aktualizovat pouze pomocí Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Interval aktualizace</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Konec</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Začátek</string>
+    <string name="prefs_data_update_quiet_hours_title">Období nočního klidu</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Jednotky</string>
     <string name="prefs_units_temperature">Teplota</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">Ikona upozornění</string>
     <string name="prefs_notification_icon_icon">Weather Icon</string>
     <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgety</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_realtime_icon_size_title">Velikost ikony aktuálního počasí</string>
+    <string name="widget_config_forecast_icon_size_title">Velikost ikony předpovědi počasí</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">Zobrazit následující budík</string>

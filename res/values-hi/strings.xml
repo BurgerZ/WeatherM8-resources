@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">चन्द्र कलाएं</string>
     <string name="moon_newmoon">अमावस्या</string>
     <string name="moon_waxingcrescent">ढलता अर्द्धचंद्र</string>
     <string name="moon_firstquarter">पहली तिमाही</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">किमी</string>
     <string name="visibility_unit_mi">मील</string>
 
-    <string name="weather_aqi_detail_units">इकाई: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">इकाई: µg/m³</string>
 
     <string name="time_units_hour">घं</string>
     <string name="time_units_minute">मि</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">डेटा अपडेट</string>
+    <string name="prefs_data_update_autoupdate_summary">स्वचालित रूप से मौसम का पूर्वानुमान</string>
+    <string name="prefs_data_update_autoupdate_title">स्वत: उत्परिवर्तित</string>
+    <string name="prefs_data_update_wifi_only_summary">स्वचालित रूप से मौसम के पूर्वानुमान को उत्परिवर्तित करें, जब वाई-फाई कनेक्शन स्थापित हो</string>
+    <string name="prefs_data_update_wifi_only_title">केवल वाई-फाई पर उत्परिवर्तित करें</string>
+    <string name="prefs_data_update_interval_title">उत्परिवर्तित अंतराल</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">समाप्त</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">प्रारंभ</string>
+    <string name="prefs_data_update_quiet_hours_title">शांत घंटे</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">इकाई</string>
     <string name="prefs_units_temperature">तापमान</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">सूचना प्रतीक</string>
     <string name="prefs_notification_icon_icon">Weather Icon</string>
     <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">विजेट</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_forecast_icon_size_title">पूर्वानुमान मौसम प्रतीक आकार</string>
+    <string name="widget_config_realtime_icon_size_title">वर्तमान मौसम प्रतीक आकार</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">अगले अलार्म दिखाएं</string>

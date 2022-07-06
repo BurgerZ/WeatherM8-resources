@@ -107,6 +107,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Fases lunares</string>
     <string name="moon_newmoon">Luna nueva</string>
     <string name="moon_waxingcrescent">Luna creciente</string>
     <string name="moon_firstquarter">Cuarto creciente</string>
@@ -159,7 +160,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">mi</string>
 
-    <string name="weather_aqi_detail_units">Unidad: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Unidad: µg/m³</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">min</string>
@@ -189,6 +190,17 @@
     <string name="prefs_data_source_radar">Mapa de precipitaciones</string>
     <string name="prefs_data_order">Orden de los datos meteorológicos</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Actualización de datos</string>
+    <string name="prefs_data_update_autoupdate_title">Actualización automática</string>
+    <string name="prefs_data_update_autoupdate_summary">Actualiza la previsión meteorológica automáticamente</string>
+    <string name="prefs_data_update_wifi_only_summary">Actualizar previsión meteorológica solo con Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Actualiza sólo con Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">"Intervalo de actualización"</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Final</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Inicio</string>
+    <string name="prefs_data_update_quiet_hours_title">Periodo sin notifications</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Unidades</string>
     <string name="prefs_units_temperature">Temperatura</string>
@@ -204,6 +216,8 @@
     <string name="prefs_notification_icon_type_title">Icono de notificación</string>
     <string name="prefs_notification_icon_icon">Ícono del tiempo</string>
     <string name="prefs_notification_icon_temp">Temperatura</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
@@ -253,6 +267,9 @@
     <string name="widget_config_forecast_temp_title">Temperatura de pronóstico</string>
     <string name="widget_config_forecast_time_title">Tiempo de pronóstico</string>
     <string name="widget_config_other_title">Otros datos</string>
+
+    <string name="widget_config_realtime_icon_size_title">Tamaño del icono meteorológico actual</string>
+    <string name="widget_config_forecast_icon_size_title">Tamaño del icono de la previsión</string>
 
     <string name="widget_config_data_display_title">Visualización de datos</string>
     <string name="widget_config_show_alarm_title">Mostrar próxima alarma</string>

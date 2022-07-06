@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">שלבי הירח</string>
     <string name="moon_newmoon">ירח חדש</string>
     <string name="moon_waxingcrescent">סהר יחסר</string>
     <string name="moon_firstquarter">רבע ראשון</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">ק"מ</string>
     <string name="visibility_unit_mi">מייל</string>
 
-    <string name="weather_aqi_detail_units">Units: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Units: µg/m³</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">m</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">עדכון נתונים</string>
+    <string name="prefs_data_update_autoupdate_title">עדכון אוטומטי</string>
+    <string name="prefs_data_update_autoupdate_summary">עדכון אוטומטי של תחזיות מזג אוויר</string>
+    <string name="prefs_data_update_wifi_only_summary">עדכון אוטומטי של תחזית מזג אוויר רק כאשר חיבור רשת וי-פי קיים</string>
+    <string name="prefs_data_update_wifi_only_title">עדכונים דרך וי-פי בלבד</string>
+    <string name="prefs_data_update_interval_title">מרווח זמן לעדכון</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">End</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
+    <string name="prefs_data_update_quiet_hours_title">Quiet hours</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">יחידות</string>
     <string name="prefs_units_temperature">טמפרטורה</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">אייקון התראות</string>
     <string name="prefs_notification_icon_icon">Weather Icon</string>
     <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_realtime_icon_size_title">Current weather icon size</string>
+    <string name="widget_config_forecast_icon_size_title">Forecast weather icons size</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">הצג את ההתראה הבאה</string>

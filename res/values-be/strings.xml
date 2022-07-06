@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Фазы Месяца</string>
     <string name="moon_newmoon">Маладзік</string>
     <string name="moon_waxingcrescent">Стары Месяц</string>
     <string name="moon_firstquarter">Першая квадра</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">км</string>
     <string name="visibility_unit_mi">міль</string>
 
-    <string name="weather_aqi_detail_units">Адзінкі: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Адзінкі: µg/m³</string>
 
     <string name="time_units_hour">г</string>
     <string name="time_units_minute">хв</string>
@@ -186,12 +187,23 @@
     <string name="prefs_icons_skin_available">Available</string>
 
     <!-- Data sources preferences -->
-    <string name="prefs_data_source_title">Data source</string>
+    <string name="prefs_data_source_title">Крыніца дадзеных</string>
     <string name="prefs_data_source_citydb">База гарадоў</string>
     <string name="prefs_data_source_weather">Надвор\'е</string>
     <string name="prefs_data_source_aqi">Якасць паветра</string>
     <string name="prefs_data_source_radar">Мапа ападкаў</string>
     <string name="prefs_data_order">Парадак дадзеных надвор\'я</string>
+
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Абнаўленне дадзеных</string>
+    <string name="prefs_data_update_autoupdate_title">Аўтаматычнае абнаўленне</string>
+    <string name="prefs_data_update_autoupdate_summary">Аўтаматычнае абнаўленне прагноза надвор\'я</string>
+    <string name="prefs_data_update_interval_title">Інтэрвал абнаўлення</string>
+    <string name="prefs_data_update_wifi_only_summary">Абнаўляць прагноз надвор\'я толькі пры наяўнасці падлучэння па сетцы Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Абнаўляць толькі па Wi-Fi</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Канец</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Пачатак</string>
+    <string name="prefs_data_update_quiet_hours_title">Ціхія гадзіны</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Адзінкі вымярэння</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">Іконка ўведамлення</string>
     <string name="prefs_notification_icon_icon">Іконка надвор\'я</string>
     <string name="prefs_notification_icon_temp">Тэмпература</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Вiджэты</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_forecast_icon_size_title">Памер значкоў прагнозу надвор\'я</string>
+    <string name="widget_config_realtime_icon_size_title">Памер значка надвор\'я</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">Паказваць наступны будзільнік</string>

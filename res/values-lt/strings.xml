@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Mėnulio fazės</string>
     <string name="moon_newmoon">Jaunatis</string>
     <string name="moon_waxingcrescent">Delčia</string>
     <string name="moon_firstquarter">Priešpilnis</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">mylios</string>
 
-    <string name="weather_aqi_detail_units">Vienetai: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Vienetai: µg/m³</string>
 
     <string name="time_units_hour">val</string>
     <string name="time_units_minute">min</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Duomenų atnaujinimas</string>
+    <string name="prefs_data_update_autoupdate_summary">Automatinis orų prognozės atnaujinimas</string>
+    <string name="prefs_data_update_autoupdate_title">Automatinis atnaujinimas</string>
+    <string name="prefs_data_update_wifi_only_summary">Orų prognozę atnaujinti tik prisijungus prie Wi-Fi tinklo</string>
+    <string name="prefs_data_update_wifi_only_title">Atnaujinti tik esant Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Atnaujinimo intervalas</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Pabaiga</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Pradžia</string>
+    <string name="prefs_data_update_quiet_hours_title">Ramybės valandos</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Mato vienetai</string>
     <string name="prefs_units_temperature">Temperatūra</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">Pranešimo ikonėlė</string>
     <string name="prefs_notification_icon_icon">Orų ikonėlė</string>
     <string name="prefs_notification_icon_temp">Temperatūra</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Valdikliai</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">Forecast temperature</string>
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
+
+    <string name="widget_config_forecast_icon_size_title">Orų prognozės ikonėlės dydis</string>
+    <string name="widget_config_realtime_icon_size_title">Esamų orų ikonėlės dydis</string>
 
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">Rodyti sekantį žadintuvą</string>

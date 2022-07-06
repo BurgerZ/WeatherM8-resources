@@ -131,6 +131,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Moon Phases</string>
     <string name="moon_newmoon">New Moon</string>
     <string name="moon_waxingcrescent">Waxing crescent</string>
     <string name="moon_firstquarter">First quarter</string>
@@ -187,7 +188,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">mi</string>
 
-    <string name="weather_aqi_detail_units">Units: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Units: µg/m³</string>
 
     <string name="time_units_hour">h</string>
     <string name="time_units_minute">min</string>
@@ -218,6 +219,17 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
+
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Data update</string>
+    <string name="prefs_data_update_autoupdate_title">Auto update</string>
+    <string name="prefs_data_update_autoupdate_summary">Update weather forecasts automatically</string>
+    <string name="prefs_data_update_wifi_only_summary">Update weather forecast only when Wi-Fi connection established</string>
+    <string name="prefs_data_update_wifi_only_title">Update only on Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Update interval</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">End</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
+    <string name="prefs_data_update_quiet_hours_title">Quiet hours</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Units</string>
@@ -251,6 +263,8 @@
     <string name="prefs_notification_icon_type_title">Notification icon</string>
     <string name="prefs_notification_icon_icon">Weather Icon</string>
     <string name="prefs_notification_icon_temp">Temperature</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
@@ -310,6 +324,9 @@
     <string name="widget_config_forecast_time_title">Forecast time</string>
     <string name="widget_config_other_title">Other data</string>
 
+    <string name="widget_config_realtime_icon_size_title">Current weather icon size</string>
+    <string name="widget_config_forecast_icon_size_title">Forecast weather icons size</string>
+
     <string name="widget_config_data_display_title">Data display</string>
     <string name="widget_config_show_alarm_title">Show next alarm</string>
     <string name="widget_config_show_date_title">Show date</string>
@@ -327,5 +344,11 @@
     <string name="press_color_to_apply">Press on Color to apply</string>
     <string name="dialog_color_picker">Color Picker</string>
     <string name="color_picker_use_default_color">Use default color</string>
+
+    <!-- Notification channel -->
+    <string name="notification_widget_update_service_title" translatable="false">Literary Clock</string>
+    <string name="notification_widget_update_service_text">Long click the notification, open app info and turn off the notifications to hide this notification.</string>
+    <string name="notification_widget_update_service_channel">Update widget service notification</string>
+
 
 </resources>

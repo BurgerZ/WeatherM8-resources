@@ -110,6 +110,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">달의 위상</string>
     <string name="moon_newmoon">월삭</string>
     <string name="moon_waxingcrescent">그믐달</string>
     <string name="moon_firstquarter">상현달</string>
@@ -163,7 +164,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">miles</string>
 
-    <string name="weather_aqi_detail_units">단위: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">단위: µg/m³</string>
 
     <string name="time_units_hour">시</string>
     <string name="time_units_minute">분</string>
@@ -193,6 +194,17 @@
     <string name="prefs_data_source_radar">강수 지도</string>
     <string name="prefs_data_order">날씨 데이터 순서</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">데이터 업데이트</string>
+    <string name="prefs_data_update_autoupdate_title">자동 업데이트</string>
+    <string name="prefs_data_update_autoupdate_summary">일기예보를 자동으로 업데이트</string>
+    <string name="prefs_data_update_wifi_only_summary">Wi-Fi가 연결되어 있을 때만 일기예보를 업데이트</string>
+    <string name="prefs_data_update_wifi_only_title">Wi-Fi에서만 업데이트</string>
+    <string name="prefs_data_update_interval_title">업데이트 주기</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">종료</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">시작</string>
+    <string name="prefs_data_update_quiet_hours_title">방해 금지 시간</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">단위</string>
     <string name="prefs_units_temperature">온도</string>
@@ -208,6 +220,8 @@
     <string name="prefs_notification_icon_type_title">알림 아이콘</string>
     <string name="prefs_notification_icon_icon">날씨 아이콘</string>
     <string name="prefs_notification_icon_temp">온도</string>
+
+    <string name="prefs_widgets_location_title">Location for widgets</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">위젯</string>
@@ -259,6 +273,9 @@
     <string name="widget_config_forecast_temp_title">예보 온도</string>
     <string name="widget_config_forecast_time_title">예보 시간</string>
     <string name="widget_config_other_title">기타 데이터</string>
+
+    <string name="widget_config_realtime_icon_size_title">현재 날씨 아이콘 크기</string>
+    <string name="widget_config_forecast_icon_size_title">일기예보 아이콘 크기</string>
 
     <string name="widget_config_data_display_title">데이터 표시</string>
     <string name="widget_config_show_alarm_title">다음 알림 보기</string>

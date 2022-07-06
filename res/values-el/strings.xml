@@ -13,10 +13,9 @@
     <string name="restart_to_apply">Οι αλλαγές θα ενεργοποιηθούν μετά την επανεκκίνηση της εφαρμογής</string>
 
     <!-- City manager -->
-<!--string name="city_manager_drag_swipe_tip">Συμβουλή: Παρατ/μένα για μεταφορά,  διαγρ. αριστ. </string  | sort for one line -->
-    <string name="city_manager_drag_swipe_tip">Συμβουλή: Παρατεταμένο άγγιγμα για μεταφορά, σύρετε αριστερά για διαγραφή</string>
+    <string name="city_manager_drag_swipe_tip">Συμβουλή: Παρατεταμένο άγγιγμα για μεταφορά, σάρωση αριστερά για διαγραφή</string>
     <string name="city_manager_locating">Εντοπισμός…</string>
-    <string name="city_manager_locating_no_permission">"Δεν μπορεί να εντοπιστεί η συσκευή"</string>
+    <string name="city_manager_locating_no_permission">"Αδυναμία εντοπισμού συσκευής"</string>
 
     <!-- Location manager -->
     <string name="location_manager_title">Τοποθεσίες</string>
@@ -63,7 +62,7 @@
     <string name="aqi_summary_6">Επικίνδυνος</string>
 
     <!-- Kp-Index -->
-    <string name="forecast_kpindex_title">Kp-Δείκτης</string>
+    <string name="forecast_kpindex_title">Δείκτης-Kp</string>
     <string name="forecast_kpindex_gm1">Μικρή Γεωμαγνητική Καταιγίδα</string>
     <string name="forecast_kpindex_gm2">Μέτρια Γεωμαγνητική Καταιγίδα</string>
     <string name="forecast_kpindex_gm3">Έντονη Γεωμαγνητική Καταιγίδα</string>
@@ -108,6 +107,7 @@
     <string name="moon_info_distance_unit_km">km</string>
 
     <!-- Moon phases -->
+    <string name="menu_moon_phases">Φάσεις Σελήνης</string>
     <string name="moon_newmoon">Νέα σελήνη</string>
     <string name="moon_waxingcrescent">Φθίνων Μηνίσκος</string>
     <string name="moon_firstquarter">Πρώτο τέταρτο</string>
@@ -160,7 +160,7 @@
     <string name="visibility_unit_km">km</string>
     <string name="visibility_unit_mi">mi</string>
 
-    <string name="weather_aqi_detail_units">Μονάδες: µg/m³ (CO: mg/m³)</string>
+    <string name="weather_aqi_detail_units">Μονάδες: µg/m³</string>
 
     <string name="time_units_hour">ω</string>
     <string name="time_units_minute">λ</string>
@@ -189,6 +189,17 @@
     <string name="prefs_data_source_radar">Χάρτης βροχόπτωσης</string>
     <string name="prefs_data_order">Συλλογή δεδομένων καιρού</string>
 
+    <!-- Data update preferences -->
+    <string name="prefs_data_update_title">Ενημέρωση δεδομένων</string>
+    <string name="prefs_data_update_autoupdate_title">Αυτόματη ενημέρωση</string>
+    <string name="prefs_data_update_autoupdate_summary">Αυτόματη ενημέρωση καιρού</string>
+    <string name="prefs_data_update_wifi_only_summary">Αυτόματη ενημέρωση της πρόβλεψης καιρού μόνο όταν υπάρχει σύνδεση Wi-Fi</string>
+    <string name="prefs_data_update_wifi_only_title">Ενημέρωση μόνο σε Wi-Fi</string>
+    <string name="prefs_data_update_interval_title">Διάστημα ενημέρωσης</string>
+    <string name="prefs_data_update_quiet_hours_end_time_title">Τέλος</string>
+    <string name="prefs_data_update_quiet_hours_start_time_title">Έναρξη</string>
+    <string name="prefs_data_update_quiet_hours_title">Ώρες ησυχίας</string>
+
     <!-- Units preferences -->
     <string name="prefs_units_title">Μονάδες</string>
     <string name="prefs_units_temperature">Θερμοκρασία</string>
@@ -204,6 +215,8 @@
     <string name="prefs_notification_icon_type_title">Εικονίδιο ειδοποιήσεων</string>
     <string name="prefs_notification_icon_icon">Εικονίδιο Καιρού</string>
     <string name="prefs_notification_icon_temp">Θερμοκρασία</string>
+
+    <string name="prefs_widgets_location_title">Θέση Γραφικών</string>
 
     <!-- Widgets -->
     <string name="prefs_widgets_title">Γραφικά</string>
@@ -251,8 +264,11 @@
     <string name="widget_config_current_temp_title">Τρέχουσα θερμοκρασία</string>
     <string name="widget_config_current_condition_title">Τρέχουσα κατάσταση</string>
     <string name="widget_config_forecast_temp_title">Πρόβλεψη θερμοκρασίας</string>
-    <string name="widget_config_forecast_time_title">Πρόβλεψη ώρας</string>
+    <string name="widget_config_forecast_time_title">Πρόβλεψη καιρού</string>
     <string name="widget_config_other_title">Άλλα δεδομένα</string>
+
+    <string name="widget_config_realtime_icon_size_title">Μέγεθος τρέχοντος εικονιδίου καιρού</string>
+    <string name="widget_config_forecast_icon_size_title">Μέγεθος εικονιδίου πρόγνωσης καιρού</string>
 
     <string name="widget_config_data_display_title">Εμφάνιση στοιχείων</string>
     <string name="widget_config_show_alarm_title">Εμφάνιση επόμενης Αφύπνισης</string>
