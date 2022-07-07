@@ -224,6 +224,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">ابزارک ها</string>
     <string name="prefs_widgets_not_found">فاقد ابزارک های استفاده شده</string>
+    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">درباره</string>

@@ -226,6 +226,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Притурки</string>
     <string name="prefs_widgets_not_found">Не са намерени закачени притурки</string>
+    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">За</string>

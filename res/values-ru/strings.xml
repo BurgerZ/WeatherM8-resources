@@ -223,6 +223,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Виджеты</string>
     <string name="prefs_widgets_not_found">Нет установленных виджетов</string>
+    <string name="prefs_widgets_miui">Виджеты MIUI (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">О приложении</string>

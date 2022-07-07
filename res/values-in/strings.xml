@@ -226,6 +226,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widget</string>
     <string name="prefs_widgets_not_found">Tidak ada widget yang terinstal</string>
+    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">Tentang</string>

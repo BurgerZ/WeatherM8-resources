@@ -234,6 +234,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">小部件</string>
     <string name="prefs_widgets_not_found">未放置小部件</string>
+    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">关于</string>

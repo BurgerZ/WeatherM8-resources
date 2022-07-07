@@ -226,6 +226,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">विजेट</string>
     <string name="prefs_widgets_not_found">कोई भी स्थापित विजेट नहीं मिला</string>
+    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">के विषय में</string>

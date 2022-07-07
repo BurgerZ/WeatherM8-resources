@@ -226,6 +226,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widget-uri</string>
     <string name="prefs_widgets_not_found">Nu există widget-uri instalate</string>
+    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">Despre</string>

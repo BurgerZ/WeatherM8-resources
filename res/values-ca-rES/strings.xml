@@ -224,6 +224,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Ginys</string>
     <string name="prefs_widgets_not_found">No hi ha cap giny instal·lat</string>
+    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">Quant a</string>

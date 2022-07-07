@@ -222,6 +222,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widżety</string>
     <string name="prefs_widgets_not_found">Nie znaleziono widżetów</string>
+    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">O aplikacji</string>
