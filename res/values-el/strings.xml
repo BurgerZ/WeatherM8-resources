@@ -221,7 +221,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Γραφικά</string>
     <string name="prefs_widgets_not_found">Δεν βρέθηκαν εγκατεστημένα γραφικά</string>
-    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
+    <string name="prefs_widgets_miui">Θέμα Γραφικών MIUI (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">Σχετικά</string>
