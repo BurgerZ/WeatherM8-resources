@@ -66,7 +66,7 @@
     <!-- Kp-Index -->
     <string name="forecast_kpindex_title">Kp-Index</string>
     <string name="forecast_kpindex_gm1">Kleiner geomagnetischer Sturm</string>
-    <string name="forecast_kpindex_gm2">Mässiger geomagnetischer Sturm</string>
+    <string name="forecast_kpindex_gm2">Mäßiger geomagnetischer Sturm</string>
     <string name="forecast_kpindex_gm3">Schwerer geomagnetischer Sturm</string>
     <string name="forecast_kpindex_gm4">Starker geomagnetischer Sturm</string>
     <string name="forecast_kpindex_gm5">Extremer geomagnetischer Sturm</string>
@@ -203,7 +203,7 @@
     <string name="prefs_data_order">Reihenfolge Wetterdaten</string>
 
     <!-- Data update preferences -->
-    <string name="prefs_data_update_title">Datenaktualisierung</string>
+    <string name="prefs_data_update_title">Daten aktualisieren</string>
     <string name="prefs_data_update_autoupdate_title">Autom. aktualisieren</string>
     <string name="prefs_data_update_autoupdate_summary">Wettervorhersage autom. aktualisieren</string>
     <string name="prefs_data_update_wifi_only_summary">Wettervorhersage nur bei bestehender WLAN-Verbindung aktualisieren</string>
@@ -234,7 +234,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Widgets</string>
     <string name="prefs_widgets_not_found">Keine installierten Widgets gefunden</string>
-    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
+    <string name="prefs_widgets_miui">MIUI-Themen-Widgets (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">Über</string>
@@ -243,7 +243,7 @@
     <string name="prefs_permissions_privacy">Datenschutzerklärung</string>
     <string name="prefs_translations">Übersetzungen</string>
     <string name="prefs_translations_summary">Anerkennung für die App-Übersetzer</string>
-    <string name="prefs_thirdparty">Bibliotheken und Ressourcen von Drittanbietern</string>
+    <string name="prefs_thirdparty">Drittanbieter Bibliotheken und Ressourcen</string>
     <string name="prefs_help">Hilfe</string>
     <string name="prefs_feedback">Feedback</string>
     <string name="prefs_donate">Spende</string>
