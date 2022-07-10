@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Conditions -->
+    <string name="weather_tornado">Торнадо</string>
+    <string name="weather_tropicalstorm">Тропический шторм</string>
+    <string name="weather_hurricane">Ураган</string>
+    <string name="weather_severetstorms">Сильные грозы</string>
+    <string name="weather_tstorms">Грозы</string>
+    <string name="weather_rainandsnow">Дождь и снег</string>
+    <string name="weather_rainandsleet">Дождь и мокрый снег</string>
+    <string name="weather_snowandsleet">Дождь и мокрый снег</string>
+    <string name="weather_freezingrain">Холодный дождь</string>
+    <string name="weather_snowflurries">Порывы снега</string>
+    <string name="weather_lightsnowshowers">Легкий снег</string>
+    <string name="weather_blowingsnow">Низовая метель</string>
+    <string name="weather_snow">Снег</string>
+    <string name="weather_hail">Град</string>
+    <string name="weather_sleet">Мокрый снег</string>
+    <string name="weather_dust">Пыль</string>
+    <string name="weather_foggy">Туман</string>
+    <string name="weather_haze">Туманно</string>
+    <string name="weather_smoky">Дымка</string>
+    <string name="weather_windy">Ветрено</string>
+    <string name="weather_cold">Холодно</string>
+    <string name="weather_cloudy">Облачно</string>
+    <string name="weather_mostlycloudy">В основном облачно</string>
+    <string name="weather_partlycloudy">Переменная облачность</string>
+    <string name="weather_clear">Ясно</string>
+    <string name="weather_sunny">Солнечно</string>
+    <string name="weather_fair">В основном ясно</string>
+    <string name="weather_rainandhail">Дождь с градом</string>
+    <string name="weather_hot">Жарко</string>
+    <string name="weather_isotstorms">Местами грозы</string>
+    <string name="weather_scatteredtstorms">Местами грозы</string>
+    <string name="weather_scatteredshowers">Местами ливни</string>
+    <string name="weather_heavysnow">Сильный снегопад</string>
+    <!-- Not Available -->
+    <string name="weather_notavailable" translatable="false">N/A</string>
+
+    <string name="weather_fog">Туман</string>
+    <string name="weather_lightrain">Легкий дождь</string>
+    <string name="weather_rain">Дождь</string>
+    <string name="weather_rainshowers">Ливни</string>
+    <string name="weather_blizzard">Метель</string>
+
+    <string name="weather_overcast">Пасмурно</string>
+    <string name="weather_sleet_tstorms">Снег и гром</string>
+    <string name="weather_snow_tstorms">Снег и гром</string>
+
+    <string name="weather_clearsky">Чистое небо</string>
+    <string name="weather_heavyrain">Ливень</string>
+
+    <string name="weather_mostlyclear">В основном ясно</string>
+    <string name="weather_lightfog">Легкий туман</string>
+    <string name="weather_drizzle">Морось</string>
+
+</resources>
