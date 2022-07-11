@@ -34,24 +34,17 @@
     <string name="weather_scatteredtstorms">Местами грозы</string>
     <string name="weather_scatteredshowers">Местами ливни</string>
     <string name="weather_heavysnow">Сильный снегопад</string>
-    <!-- Not Available -->
-    <string name="weather_notavailable" translatable="false">N/A</string>
-
     <string name="weather_fog">Туман</string>
     <string name="weather_lightrain">Легкий дождь</string>
     <string name="weather_rain">Дождь</string>
     <string name="weather_rainshowers">Ливни</string>
     <string name="weather_blizzard">Метель</string>
-
     <string name="weather_overcast">Пасмурно</string>
     <string name="weather_sleet_tstorms">Снег и гром</string>
     <string name="weather_snow_tstorms">Снег и гром</string>
-
-    <string name="weather_clearsky">Чистое небо</string>
+    <string name="weather_clearsky">Безоблачно</string>
     <string name="weather_heavyrain">Ливень</string>
-
-    <string name="weather_mostlyclear">В основном ясно</string>
+    <string name="weather_mostlyclear">Преимущественно ясно</string>
     <string name="weather_lightfog">Легкий туман</string>
     <string name="weather_drizzle">Морось</string>
-
 </resources>
