@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>MIUI Theme widgets</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+
+  <div class="container">
+    <p>The application supports MIUI theme widgets in a form of .mtz files.</p>
+    <h4>What is an .mtz file?</h4>
+    <p>.mtz files are mainly used to store graphics themes used by MIUI. The .mtz file contains a theme which can
+      include icons, tones, fonts, and other GUI customization utilities that define the appearance of the user
+      interface of an Android device that has MIUI ROM installed on it.</p>
+    <h4>Content Provider</h4>
+    <p>To create an .mtz weather widget which will display weather data from Weather M8 application you need to
+      implement its content provider in your widget.</p>
+    <h4>Uri</h4>
+    <p>content://weatherm8/weather</p>
+    <h4>Columns:</h4>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">Column name</th>
+          <th scope="col">Data type</th>
+          <th scope="col">Data example</th>
+          <th scope="col">Comment</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">city_id</th>
+          <td>string</td>
+          <td>gps</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row">city_name</th>
+          <td>string</td>
+          <td>Barcelona</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row">day</th>
+          <td>int</td>
+          <td>0</td>
+          <td>Day number (up to 10 days, starting from 0 for today)</td>
+        </tr>
+        <tr>
+          <th scope="row">timestamp</th>
+          <td>string</td>
+          <td>1657155181</td>
+          <td>Unit timestamp</td>
+        </tr>
+        <tr>
+          <th scope="row">weather_type</th>
+          <td>int</td>
+          <td>37</td>
+          <td>Weather icon code (Accuweather)</td>
+        </tr>
+        <tr>
+          <th scope="row">mi_weather_type</th>
+          <td>int</td>
+          <td>24</td>
+          <td>Weather icon code (MIUI)</td>
+        </tr>
+        <tr>
+          <th scope="row">description</th>
+          <td>string</td>
+          <td>Light rain</td>
+          <td></td>
+        </tr>
+        <tr>
+          <th scope="row">temperature</th>
+          <td>int</td>
+          <td>27</td>
+          <td>Current temperature</td>
+        </tr>
+        <tr>
+          <th scope="row">temperature_feel</th>
+          <td>int</td>
+          <td>29</td>
+          <td>Feels like temperature</td>
+        </tr>
+        <tr>
+          <th scope="row">temperature_min</th>
+          <td>int</td>
+          <td>17</td>
+          <td>Minimum temperature for day</td>
+        </tr>
+        <tr>
+          <th scope="row">temperature_max</th>
+          <td>int</td>
+          <td>31</td>
+          <td>Maximum temperature for day</td>
+        </tr>
+        <tr>
+          <th scope="row">wind_speed</th>
+          <td>string</td>
+          <td>7.3</td>
+          <td>Wind speed in m/s</td>
+        </tr>
+        <tr>
+          <th scope="row">wind_dir</th>
+          <td>string</td>
+          <td>SW</td>
+          <td>Wind direction string</td>
+        </tr>
+        <tr>
+          <th scope="row">wind</th>
+          <td>string</td>
+          <td>NE, 6 m/s</td>
+          <td>Formatted wind data</td>
+        </tr>
+        <tr>
+          <th scope="row">pressure</th>
+          <td>int</td>
+          <td>1032</td>
+          <td>Pressure in mb (hPa)</td>
+        </tr>
+        <tr>
+          <th scope="row">humidity</th>
+          <td>int</td>
+          <td>63</td>
+          <td>Humidity in %</td>
+        </tr>
+        <tr>
+          <th scope="row">uv_index</th>
+          <td>int</td>
+          <td>8</td>
+          <td>UV index</td>
+        </tr>
+        <tr>
+          <th scope="row">aqi_index</th>
+          <td>int</td>
+          <td>25</td>
+          <td>Air Quality index</td>
+        </tr>
+        <tr>
+          <th scope="row">kp_index</th>
+          <td>int</td>
+          <td>3</td>
+          <td>Kp-index value (geomagnetic)</td>
+        </tr>
+        <tr>
+          <th scope="row">precip_probability</th>
+          <td>int</td>
+          <td>11</td>
+          <td>Precipitation probability in %</td>
+        </tr>
+        <tr>
+          <th scope="row">precip_amount</th>
+          <td>string</td>
+          <td>1.3</td>
+          <td>Precipitation amount in mm</td>
+        </tr>
+        <tr>
+          <th scope="row">sunrise</th>
+          <td>string</td>
+          <td>07:14</td>
+          <td>Sunrize time</td>
+        </tr>
+        <tr>
+          <th scope="row">sunrise_hours</th>
+          <td>int</td>
+          <td>7</td>
+          <td>Sunrize time, hours part</td>
+        </tr>
+        <tr>
+          <th scope="row">sunrise_minutes</th>
+          <td>int</td>
+          <td>14</td>
+          <td>Sunrize time, minutes part</td>
+        </tr>
+        <tr>
+          <th scope="row">sunset</th>
+          <td>string</td>
+          <td>22:57</td>
+          <td>Sunset time</td>
+        </tr>
+        <tr>
+          <th scope="row">sunset_hours</th>
+          <td>int</td>
+          <td>22</td>
+          <td>Sunset time, hours part</td>
+        </tr>
+        <tr>
+          <th scope="row">sunset_minutes</th>
+          <td>int</td>
+          <td>57</td>
+          <td>Sunset time, minutes part</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h4>Example</h4>
+    <xmp>
+      <ContentProviderBinder name="weather_provider" uri="content://weatherm8/weather"
+        columns="city_name,description,mi_weather_type,temperature,temperature_min,temperature_max,wind,sunrise_hours,sunrise_minutes,sunset_hours,sunset_minutes"
+        countName="hasweatherm8">
+
+        <!-- Weather day 0 (today) -->
+        <Variable name="weather_location" type="string" column="city_name" row="0" />
+        <Variable name="weather_id" type="int" column="mi_weather_type" row="0" />
+        <Variable name="weather_temperature" type="int" column="temperature" row="0" />
+        <Variable name="weather_description" type="string" column="description" row="0" />
+        <Variable name="weather_temphigh" type="int" column="temperature_max" row="0" />
+        <Variable name="weather_templow" type="int" column="temperature_min" row="0" />
+        <Variable name="sunrise_hour" type="int" column="sunrise_hours" row="0" />
+        <Variable name="sunrise_minute" type="int" column="sunrise_minutes" row="0" />
+        <Variable name="sunset_hour" type="int" column="sunset_hours" row="0" />
+        <Variable name="sunset_minute" type="int" column="sunset_minutes" row="0" />
+
+        <!-- Weather day 1 (tomorrow) -->
+        <Variable name="forecast_id1" type="int" column="mi_weather_type" row="1" />
+        <Variable name="weather_temphigh1" type="int" column="temperature_max" row="1" />
+        <Variable name="weather_templow1" type="int" column="temperature_min" row="1" />
+
+        <!-- Weather day 2 -->
+        <Variable name="forecast_id2" type="int" column="mi_weather_type" row="2" />
+        <Variable name="weather_temphigh2" type="int" column="temperature_max" row="2" />
+        <Variable name="weather_templow2" type="int" column="temperature_min" row="2" />
+
+        <!-- Weather day 3 -->
+        <Variable name="forecast_id3" type="int" column="mi_weather_type" row="3" />
+        <Variable name="weather_temphigh3" type="int" column="temperature_max" row="3" />
+        <Variable name="weather_templow3" type="int" column="temperature_min" row="3" />
+
+        <!-- Weather day 4 -->
+        <Variable name="forecast_id4" type="int" column="mi_weather_type" row="4" />
+        <Variable name="weather_temphigh4" type="int" column="temperature_max" row="4" />
+        <Variable name="weather_templow4" type="int" column="temperature_min" row="4" />
+      </ContentProviderBinder>
+    </xmp>
+
+    <h4>Weather icons</h4>
+    <ul>
+      <li><a href="https://developer.accuweather.com/weather-icons">Built-in (Accuweather)</a>
+      <li>
+        <p>Xiaomi</p>
+        <table class="table">
+          <thead>
+            <tr>
+              <th scope="col">Icon</th>
+              <th scope="col">Condition</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">0</th>
+              <td>Clear</td>
+            </tr>
+            <tr>
+              <th scope="row">1</th>
+              <td>Cloudy</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Overcast</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td>Foggy</td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td>Heavy Rainstorm</td>
+            </tr>
+            <tr>
+              <th scope="row">5</th>
+              <td>Downpour</td>
+            </tr>
+            <tr>
+              <th scope="row">6</th>
+              <td>Rainstorm</td>
+            </tr>
+            <tr>
+              <th scope="row">7</th>
+              <td>Thunderstorm</td>
+            </tr>
+            <tr>
+              <th scope="row">8</th>
+              <td>Shower</td>
+            </tr>
+            <tr>
+              <th scope="row">9</th>
+              <td>Heavy Rainfall</td>
+            </tr>
+            <tr>
+              <th scope="row">10</th>
+              <td>Moderate Rain</td>
+            </tr>
+            <tr>
+              <th scope="row">11</th>
+              <td>Light Rain</td>
+            </tr>
+            <tr>
+              <th scope="row">12</th>
+              <td>Rain And Snow</td>
+            </tr>
+            <tr>
+              <th scope="row">13</th>
+              <td>Blizzard</td>
+            </tr>
+            <tr>
+              <th scope="row">14</th>
+              <td>Snow</td>
+            </tr>
+            <tr>
+              <th scope="row">15</th>
+              <td>Heavy Snow</td>
+            </tr>
+            <tr>
+              <th scope="row">16</th>
+              <td>Moderate Snow</td>
+            </tr>
+            <tr>
+              <th scope="row">17</th>
+              <td>Light Snow</td>
+            </tr>
+            <tr>
+              <th scope="row">18</th>
+              <td>Strong Sandstorm</td>
+            </tr>
+            <tr>
+              <th scope="row">19</th>
+              <td>Sand Storm</td>
+            </tr>
+            <tr>
+              <th scope="row">20</th>
+              <td>Sand</td>
+            </tr>
+            <tr>
+              <th scope="row">21</th>
+              <td>Windy</td>
+            </tr>
+            <tr>
+              <th scope="row">22</th>
+              <td>Hail</td>
+            </tr>
+            <tr>
+              <th scope="row">23</th>
+              <td>Dust</td>
+            </tr>
+            <tr>
+              <th scope="row">24</th>
+              <td>Haze</td>
+            </tr>
+            <tr>
+              <th scope="row">25</th>
+              <td>Freezing Rain</td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+    </ul>
+
+  </div>
+
+</body>
+
+</html>

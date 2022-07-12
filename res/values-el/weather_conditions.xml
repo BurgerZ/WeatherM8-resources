@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Conditions -->
+    <string name="weather_tornado">Ανεμοστρόβιλος</string>
+    <string name="weather_tropicalstorm">Τροπική καταιγίδα</string>
+    <string name="weather_hurricane">Τυφώνας</string>
+    <string name="weather_severetstorms">Ισχυρές καταιγίδες</string>
+    <string name="weather_tstorms">Καταιγίδες</string>
+    <string name="weather_rainandsnow">Μικτή Βροχή και Χιόνι</string>
+    <string name="weather_rainandsleet">Μικτή Βροχή και Χιονόνερο</string>
+    <string name="weather_snowandsleet">Μικτή Χιόνι και Χιονόνερο</string>
+    <string name="weather_freezingrain">Παγωμένη Βροχή</string>
+    <string name="weather_snowflurries">Νιφάδες Χιονιού</string>
+    <string name="weather_lightsnowshowers">Ελαφρύ Χιόνι</string>
+    <string name="weather_blowingsnow">Άνεμος Χιονιού</string>
+    <string name="weather_snow">Χιόνι</string>
+    <string name="weather_hail">Χαλάζι</string>
+    <string name="weather_sleet">Χιονόνερο</string>
+    <string name="weather_dust">Σκόνη</string>
+    <string name="weather_foggy">Ομιχλώσης</string>
+    <string name="weather_haze">Ομίχλη</string>
+    <string name="weather_smoky">Καπνώδης</string>
+    <string name="weather_windy">Ανεμώδης</string>
+    <string name="weather_cold">Κρύο</string>
+    <string name="weather_cloudy">Νεφελώδης</string>
+    <string name="weather_mostlycloudy">Κυρίως νεφελώδης</string>
+    <string name="weather_partlycloudy">Μερικώς νεφελώδης</string>
+    <string name="weather_clear">Καθαρός</string>
+    <string name="weather_sunny">Ηλιόλουστος</string>
+    <string name="weather_fair">Αίθριος</string>
+    <string name="weather_rainandhail">Μικτή Βροχή και Χαλάζι</string>
+    <string name="weather_hot">Ζεστός</string>
+    <string name="weather_isotstorms">Μεμονωμένες Καταιγίδες</string>
+    <string name="weather_scatteredtstorms">Σποραδικές Καταιγίδες</string>
+    <string name="weather_scatteredshowers">Σποραδικές Βροχές</string>
+    <string name="weather_heavysnow">Έντονη Χιονόπτωση</string>
+    <string name="weather_fog">Ομίχλη</string>
+    <string name="weather_lightrain">Ελαφριά Βροχή</string>
+    <string name="weather_rain">Βροχή</string>
+    <string name="weather_rainshowers">Ελαφρά Βροχή</string>
+    <string name="weather_blizzard">Χιονοθύελλα</string>
+    <string name="weather_overcast">Συννεφιά</string>
+    <string name="weather_sleet_tstorms">Χιονόνερο και Αστραπή</string>
+    <string name="weather_snow_tstorms">Χιόνι και Αστραπή</string>
+    <string name="weather_clearsky">Καθαρός Ουρανός</string>
+    <string name="weather_heavyrain">Έντονη Βροχή</string>
+    <string name="weather_mostlyclear">Σχεδόν Αίθριος</string>
+    <string name="weather_lightfog">Ελαφριά Ομίχλη</string>
+    <string name="weather_drizzle">Ψιχάλα</string>
+</resources>
