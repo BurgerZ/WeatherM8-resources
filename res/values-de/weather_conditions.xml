@@ -11,7 +11,7 @@
     <string name="weather_snowandsleet">"Schnee und Schneeregen"</string>
     <string name="weather_freezingrain">"Gefrierender Regen"</string>
     <string name="weather_snowflurries">"Schneegestöber"</string>
-    <string name="weather_lightsnowshowers">"Leichter Schnee"</string>
+    <string name="weather_lightsnowshowers">"Leichte Schneeschauer"</string>
     <string name="weather_blowingsnow">"Schneetreiben"</string>
     <string name="weather_snow">"Schnee"</string>
     <string name="weather_hail">"Hagel"</string>
@@ -24,7 +24,7 @@
     <string name="weather_cold">"Kalt"</string>
     <string name="weather_cloudy">"Wolkig"</string>
     <string name="weather_mostlycloudy">"Stark bewölkt"</string>
-    <string name="weather_partlycloudy">"Teilweise wolkig"</string>
+    <string name="weather_partlycloudy">"Teilweise bewölkt"</string>
     <string name="weather_clear">"Klar"</string>
     <string name="weather_sunny">"Sonnig"</string>
     <string name="weather_fair">"Schönwetter"</string>
@@ -33,7 +33,7 @@
     <string name="weather_isotstorms">"Isolierte Gewitter"</string>
     <string name="weather_scatteredtstorms">"Vereinzelte Gewitter"</string>
     <string name="weather_scatteredshowers">"Vereinzelte Regenschauer"</string>
-    <string name="weather_heavysnow">"Schwerer Schnee"</string>
+    <string name="weather_heavysnow">"Starke Schneeschauer"</string>
     <string name="weather_fog">"Nebel"</string>
     <string name="weather_lightrain">"Leichter Regen"</string>
     <string name="weather_rain">"Regen"</string>
