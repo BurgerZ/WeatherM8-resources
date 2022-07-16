@@ -17,7 +17,7 @@
     <string name="weather_hail">Χαλάζι</string>
     <string name="weather_sleet">Χιονόνερο</string>
     <string name="weather_dust">Σκόνη</string>
-    <string name="weather_foggy">Ομιχλώσης</string>
+    <string name="weather_foggy">Ομιχλώδης</string>
     <string name="weather_haze">Ομίχλη</string>
     <string name="weather_smoky">Καπνώδης</string>
     <string name="weather_windy">Ανεμώδης</string>
@@ -37,7 +37,7 @@
     <string name="weather_fog">Ομίχλη</string>
     <string name="weather_lightrain">Ελαφριά Βροχή</string>
     <string name="weather_rain">Βροχή</string>
-    <string name="weather_rainshowers">Ελαφρά Βροχή</string>
+    <string name="weather_rainshowers">Ασθενής Βροχή</string>
     <string name="weather_blizzard">Χιονοθύελλα</string>
     <string name="weather_overcast">Συννεφιά</string>
     <string name="weather_sleet_tstorms">Χιονόνερο και Αστραπή</string>
