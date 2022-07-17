@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">공기질</string>
     <string name="prefs_data_source_radar">강수 지도</string>
     <string name="prefs_data_order">날씨 데이터 순서</string>
+    <string name="prefs_data_feelslike_as_main_title">실시간 온도 표시</string>
+    <string name="prefs_data_feelslike_as_main_summary">온도를 실시간으로 표시합니다</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">데이터 업데이트</string>

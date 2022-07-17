@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">Calitatea aerului</string>
     <string name="prefs_data_source_radar">Harta precipitațiilor</string>
     <string name="prefs_data_order">Ordinea datelor meteo</string>
+    <string name="prefs_data_feelslike_as_main_title">\"Se simte a fi\" ca temperatură principală</string>
+    <string name="prefs_data_feelslike_as_main_summary">Se afişează temperatura resimţită ca temperatură meteo principală</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Actualizarea datelor</string>

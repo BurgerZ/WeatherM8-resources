@@ -189,6 +189,8 @@
     <string name="prefs_data_source_aqi">Kvaliteta zraka</string>
     <string name="prefs_data_source_radar">Karta padalina</string>
     <string name="prefs_data_order">Redoslijed podataka o vremenu</string>
+    <string name="prefs_data_feelslike_as_main_summary">Prikaži temperaturu stvar. osjećaja kao glavnu temperaturu</string>
+    <string name="prefs_data_feelslike_as_main_title">Stvar. osjećaj kao glavna temperatura</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Ažuriranje podataka</string>

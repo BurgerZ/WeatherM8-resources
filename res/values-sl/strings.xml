@@ -202,6 +202,8 @@
     <string name="prefs_data_source_aqi">Kakovost zraka</string>
     <string name="prefs_data_source_radar">Karta padavin</string>
     <string name="prefs_data_order">Razvrščanje podatkov vremena</string>
+    <string name="prefs_data_feelslike_as_main_summary">Prikaži temperaturo realnega občutka kot glavno temperaturo</string>
+    <string name="prefs_data_feelslike_as_main_title">Real. občutek kot glavna temperatura</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Posodobitev podatkov</string>

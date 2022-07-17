@@ -190,6 +190,8 @@
     <string name="prefs_data_source_aqi">Якість повітря</string>
     <string name="prefs_data_source_radar">Карта опадів</string>
     <string name="prefs_data_order">Порядок відображення даних</string>
+    <string name="prefs_data_feelslike_as_main_title">Відчувається як основна температура</string>
+    <string name="prefs_data_feelslike_as_main_summary">Як основна відображатиметься температура, що відчувається</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Оновлення даних</string>

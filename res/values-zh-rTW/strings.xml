@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">天氣數據卡片排序</string>
+    <string name="prefs_data_feelslike_as_main_title">以體感溫度作為主要溫度</string>
+    <string name="prefs_data_feelslike_as_main_summary">將主要溫度顯示更改為體感溫度</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">數據更新</string>

@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Poradie údajov o počasí</string>
+    <string name="prefs_data_feelslike_as_main_summary">Zobraziť pocitovú teplotu ako hlavnú teplotu počasia</string>
+    <string name="prefs_data_feelslike_as_main_title">Pocitová teplota ako hlavná teplota</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Aktualizácia údajov</string>

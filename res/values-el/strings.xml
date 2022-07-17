@@ -188,6 +188,8 @@
     <string name="prefs_data_source_aqi">Ποιότητα αέρα</string>
     <string name="prefs_data_source_radar">Χάρτης βροχόπτωσης</string>
     <string name="prefs_data_order">Συλλογή δεδομένων καιρού</string>
+    <string name="prefs_data_feelslike_as_main_title">Θερμοκρασία αίσθησης σαν κύρια </string>
+    <string name="prefs_data_feelslike_as_main_summary">Ένδειξη θερμοκρασίας αίσθησης ως κύρια θερμοκρασία του καιρού</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Ενημέρωση δεδομένων</string>
