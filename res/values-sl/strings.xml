@@ -313,7 +313,6 @@
     <string name="dialog_color_picker">Izbira barve</string>
     <string name="color_picker_use_default_color">Uporabi privzeto barvo</string>
 
-    <string name="notification_widget_update_service_title" translatable="false">Literarna ura</string>
     <string name="notification_widget_update_service_text">Dolgo kliknite na obvestilo, odprite informacije o aplikaciji in izklopite obvestila, da skrijete to obvestilo.</string>
-    <string name="notification_widget_update_service_channel">Posodobi obvestilo storitve pripomočka</string>
+    <string name="notification_widget_update_service_channel">Storitev posodabljanja pripomočkov</string>
 </resources>

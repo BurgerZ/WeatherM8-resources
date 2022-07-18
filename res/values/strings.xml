@@ -349,9 +349,8 @@
     <string name="color_picker_use_default_color">Use default color</string>
 
     <!-- Notification channel -->
-    <string name="notification_widget_update_service_title" translatable="false">Literary Clock</string>
     <string name="notification_widget_update_service_text">Long click the notification, open app info and turn off the notifications to hide this notification.</string>
-    <string name="notification_widget_update_service_channel">Update widget service notification</string>
+    <string name="notification_widget_update_service_channel">Widget update service</string>
 
 
 </resources>
