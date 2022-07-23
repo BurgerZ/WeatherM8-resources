@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Hava durumu verileri</string>
+    <string name="prefs_data_feelslike_as_main_summary">Gerçek sıcaklık derecesini ana hava sıcaklığı olarak göster</string>
+    <string name="prefs_data_feelslike_as_main_title">Ana sıcaklıkta olduğu gibi hissettiriyor</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Veri güncellemesi</string>

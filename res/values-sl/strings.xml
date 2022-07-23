@@ -202,6 +202,8 @@
     <string name="prefs_data_source_aqi">Kakovost zraka</string>
     <string name="prefs_data_source_radar">Karta padavin</string>
     <string name="prefs_data_order">Razvrščanje podatkov vremena</string>
+    <string name="prefs_data_feelslike_as_main_summary">Prikaži temperaturo realnega občutka kot glavno temperaturo</string>
+    <string name="prefs_data_feelslike_as_main_title">Real. občutek kot glavna temperatura</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Posodobitev podatkov</string>
@@ -311,7 +313,6 @@
     <string name="dialog_color_picker">Izbira barve</string>
     <string name="color_picker_use_default_color">Uporabi privzeto barvo</string>
 
-    <string name="notification_widget_update_service_title" translatable="false">Literarna ura</string>
     <string name="notification_widget_update_service_text">Dolgo kliknite na obvestilo, odprite informacije o aplikaciji in izklopite obvestila, da skrijete to obvestilo.</string>
-    <string name="notification_widget_update_service_channel">Posodobi obvestilo storitve pripomočka</string>
+    <string name="notification_widget_update_service_channel">Storitev posodabljanja pripomočkov</string>
 </resources>

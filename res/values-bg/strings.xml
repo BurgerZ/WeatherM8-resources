@@ -192,7 +192,9 @@
     <string name="prefs_data_source_weather">Weather forecast</string>
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
-    <string name="prefs_data_order">Заявка за получаване на данни за времето</string>
+    <string name="prefs_data_order">Ред на данни за времето</string>
+    <string name="prefs_data_feelslike_as_main_summary">Покажи усеща се темп. като основна температура</string>
+    <string name="prefs_data_feelslike_as_main_title">Усеща се като</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Data update</string>

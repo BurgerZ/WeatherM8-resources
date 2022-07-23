@@ -190,6 +190,8 @@
     <string name="prefs_data_source_aqi">Качество воздуха</string>
     <string name="prefs_data_source_radar">Карта осадков</string>
     <string name="prefs_data_order">Порядок отображаемых данных</string>
+    <string name="prefs_data_feelslike_as_main_title">Ощущаемая как основная температура</string>
+    <string name="prefs_data_feelslike_as_main_summary">В качестве основной будет отображаться ощущаемая температура</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Обновление данных</string>
@@ -290,5 +292,9 @@
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
     <string name="dialog_color_picker">Выбор цвета</string>
     <string name="color_picker_use_default_color">Использовать цвет по умолчанию</string>
+
+    <!-- Notification channel -->
+    <string name="notification_widget_update_service_text">Нажмите и удерживайте уведомление, откройте информацию о приложении и выключите уведомления для скрытия данного уведомления.</string>
+    <string name="notification_widget_update_service_channel">Служба обновления виджетов</string>
 
 </resources>

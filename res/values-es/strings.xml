@@ -189,6 +189,8 @@
     <string name="prefs_data_source_aqi">Calidad del aire</string>
     <string name="prefs_data_source_radar">Mapa de precipitaciones</string>
     <string name="prefs_data_order">Orden de los datos meteorológicos</string>
+    <string name="prefs_data_feelslike_as_main_title">Sensación térmica como temperatura principal</string>
+    <string name="prefs_data_feelslike_as_main_summary">Muestra la temperatura de sensación real como temperatura principal</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Actualización de datos</string>

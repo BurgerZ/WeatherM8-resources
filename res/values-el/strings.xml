@@ -188,6 +188,8 @@
     <string name="prefs_data_source_aqi">Ποιότητα αέρα</string>
     <string name="prefs_data_source_radar">Χάρτης βροχόπτωσης</string>
     <string name="prefs_data_order">Συλλογή δεδομένων καιρού</string>
+    <string name="prefs_data_feelslike_as_main_title">Θερμοκρασία αίσθησης σαν κύρια </string>
+    <string name="prefs_data_feelslike_as_main_summary">Ένδειξη θερμοκρασίας αίσθησης ως κύρια θερμοκρασία του καιρού</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Ενημέρωση δεδομένων</string>
@@ -250,6 +252,12 @@
     <string name="dialog_contact_dev_send_email_request_new_feature">Αίτημα νέας λειτουργίας</string>
     <string name="dialog_contact_dev_send_email_other">Άλλα</string>
 
+    <!-- Widgets -->
+    <string name="widget_name_4x1_pixel" translatable="false">Google Pixel</string>
+    <string name="widget_name_4x1_f" translatable="false">Ρολόι και Πρόγνωση</string>
+    <string name="widget_name_4x2_clock" translatable="false">Ρολόι και Πρόγνωση</string>
+    <string name="widget_name_4x2_stock" translatable="false">Πρόγνωση</string>
+
     <!-- Widget config -->
     <string name="widget_config_title">Ρύθμιση Γραφικού</string>
     <string name="widget_config_background_title">Φόντο</string>
@@ -288,5 +296,9 @@
     <string name="press_color_to_apply">Αγγίξτε στο χρώμα για εφαρμογή</string>
     <string name="dialog_color_picker">Επιλογέας χρώματος</string>
     <string name="color_picker_use_default_color">Προεπιλεγμένο χρώμα</string>
+
+    <!-- Notification channel -->
+    <string name="notification_widget_update_service_text">Παρατεταμένο κλικ στην ειδοποίηση, άνοιγμα πληροφοριών εφαρμογής και απενεργοποιήστε τις ειδοποιήσεις για απόκρυψη της ειδοποίησης.</string>
+    <string name="notification_widget_update_service_channel">Υπηρεσία ενημέρωσης Γραφικού</string>
 
 </resources>

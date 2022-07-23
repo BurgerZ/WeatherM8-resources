@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">Якасць паветра</string>
     <string name="prefs_data_source_radar">Мапа ападкаў</string>
     <string name="prefs_data_order">Парадак дадзеных надвор\'я</string>
+    <string name="prefs_data_feelslike_as_main_summary">У якасці асноўнай будзе адлюстроўвацца тэмпература, якая адчуваецца</string>
+    <string name="prefs_data_feelslike_as_main_title">"Тэмпература, што адчуваецца, як асноўная"</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Абнаўленне дадзеных</string>

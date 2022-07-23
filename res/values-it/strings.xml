@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">"Qualità dell'Aria"</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Ordine di informazioni visualizzato</string>
+    <string name="prefs_data_feelslike_as_main_summary">Mostra le informazioni sulla sensazione termica come temperatura principale</string>
+    <string name="prefs_data_feelslike_as_main_title">Sensazione termico</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Data update</string>

@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
+    <string name="prefs_data_feelslike_as_main_summary">Juntama temperatūra bus rodoma kaip pagrindinė</string>
+    <string name="prefs_data_feelslike_as_main_title">Juntama temperatūra kaip pagrindinė</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Duomenų atnaujinimas</string>

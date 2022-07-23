@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">سفارشی سازی داده های آب و هوا</string>
+    <string name="prefs_data_feelslike_as_main_title">احساس واقعی به جای دمای اصلی</string>
+    <string name="prefs_data_feelslike_as_main_summary">نمایش دمای احساس واقعی به جای دمای اصلی</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">به روز رسانی داده ها</string>

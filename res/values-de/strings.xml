@@ -201,6 +201,8 @@
     <string name="prefs_data_source_aqi">Luftqualität</string>
     <string name="prefs_data_source_radar">Niederschlagskarte</string>
     <string name="prefs_data_order">Reihenfolge Wetterdaten</string>
+    <string name="prefs_data_feelslike_as_main_title">Fühlt sich wie die Haupttemperatur an</string>
+    <string name="prefs_data_feelslike_as_main_summary">Real gefühlte Temperatur als Hauptwettertemperatur anzeigen</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Daten aktualisieren</string>
@@ -307,6 +309,6 @@
 
     <!-- Notification channel -->
     <string name="notification_widget_update_service_text">Lange auf die Benachrichtigung tippen, App-Info öffnen und Benachrichtigungen ausschalten, um diese Benachrichtigung auszublenden.</string>
-    <string name="notification_widget_update_service_channel">Benachrichtigung über Aktualisierung Widget-Dienst</string>
+    <string name="notification_widget_update_service_channel">Widget-Aktualisierungsdienst</string>
 
 </resources>

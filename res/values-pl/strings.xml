@@ -189,6 +189,8 @@
     <string name="prefs_data_source_aqi">Jakość powietrza</string>
     <string name="prefs_data_source_radar">Mapa opadów</string>
     <string name="prefs_data_order">Kolejność danych pogodowych</string>
+    <string name="prefs_data_feelslike_as_main_summary">Wyświetlaj temperaturę odczuwalną jako główną temperaturę pogody</string>
+    <string name="prefs_data_feelslike_as_main_title">Pokazuj temperaturę odczuwalną</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Aktualizacja danych</string>

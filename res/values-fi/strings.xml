@@ -193,6 +193,8 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
+    <string name="prefs_data_feelslike_as_main_title">Tuntuu kuin pää lämpötilana</string>
+    <string name="prefs_data_feelslike_as_main_summary">Näytä reaaliaikainen lämpötila päälämpötilana</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Tietojen päivitys</string>

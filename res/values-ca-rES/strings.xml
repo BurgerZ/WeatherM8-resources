@@ -191,6 +191,8 @@
     <string name="prefs_data_source_aqi">"Qualitat de l'aire"</string>
     <string name="prefs_data_source_radar">Mapa de precipitacions</string>
     <string name="prefs_data_order">Ordre de les dades meteorològiques</string>
+    <string name="prefs_data_feelslike_as_main_title">Sensació tèrmica com a temperatura principal</string>
+    <string name="prefs_data_feelslike_as_main_summary">Mostra la temperatura de sensació real com a temperatura principal</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Actualització de dades</string>

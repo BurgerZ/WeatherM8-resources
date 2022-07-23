@@ -219,6 +219,8 @@
     <string name="prefs_data_source_aqi">Air quality</string>
     <string name="prefs_data_source_radar">Precipitation map</string>
     <string name="prefs_data_order">Weather data order</string>
+    <string name="prefs_data_feelslike_as_main_title">Feelslike as main temperature</string>
+    <string name="prefs_data_feelslike_as_main_summary">Show realfeel temperature as a main weather temperature</string>
 
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Data update</string>
@@ -347,9 +349,8 @@
     <string name="color_picker_use_default_color">Use default color</string>
 
     <!-- Notification channel -->
-    <string name="notification_widget_update_service_title" translatable="false">Literary Clock</string>
     <string name="notification_widget_update_service_text">Long click the notification, open app info and turn off the notifications to hide this notification.</string>
-    <string name="notification_widget_update_service_channel">Update widget service notification</string>
+    <string name="notification_widget_update_service_channel">Widget update service</string>
 
 
 </resources>
