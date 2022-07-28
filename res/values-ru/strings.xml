@@ -203,6 +203,8 @@
     <string name="prefs_data_update_quiet_hours_end_time_title">Конец</string>
     <string name="prefs_data_update_quiet_hours_start_time_title">Начало</string>
     <string name="prefs_data_update_quiet_hours_title">Тихие часы</string>
+    <string name="prefs_data_update_dkma_title">Не обновляются данные?</string>
+    <string name="prefs_data_update_dkma_summary">Как исправить обновление данных для вашего устройства</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Единицы измерения</string>

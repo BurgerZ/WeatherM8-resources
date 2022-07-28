@@ -232,6 +232,8 @@
     <string name="prefs_data_update_quiet_hours_end_time_title">End</string>
     <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
     <string name="prefs_data_update_quiet_hours_title">Quiet hours</string>
+    <string name="prefs_data_update_dkma_title">Data is not updating?</string>
+    <string name="prefs_data_update_dkma_summary">How to make it work for your phone manufacturer</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Units</string>
