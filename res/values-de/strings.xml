@@ -214,6 +214,8 @@
     <string name="prefs_data_update_quiet_hours_end_time_title">Ende</string>
     <string name="prefs_data_update_quiet_hours_start_time_title">Start</string>
     <string name="prefs_data_update_quiet_hours_title">Ruhestunden</string>
+    <string name="prefs_data_update_dkma_title">Daten werden nicht aktualisiert?</string>
+    <string name="prefs_data_update_dkma_summary">Wie Sie es für Ihren Telefonhersteller einrichten</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Einheiten</string>
