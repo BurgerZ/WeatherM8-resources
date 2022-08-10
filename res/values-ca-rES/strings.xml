@@ -6,6 +6,7 @@
     <string name="app_translation_author">Jaime Muñoz</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Espereu…</string>
     <string name="downloading">"S'està baixant…"</string>
     <string name="download_failed">La baixada ha fallat. Torneu-ho a provar més tard</string>

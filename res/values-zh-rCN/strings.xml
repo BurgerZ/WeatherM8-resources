@@ -6,6 +6,7 @@
     <string name="app_translation_author">i Silence, 文科</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">请稍等……</string>
     <string name="downloading">下载中……</string>
     <string name="download_failed">下载失败。请稍后再试</string>

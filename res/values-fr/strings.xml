@@ -6,6 +6,7 @@
     <string name="app_translation_author">MIUI French, PR4100</string>
 
     <!-- Common strings -->
+    <string name="app_language">Langue</string>
     <string name="wait">Please wait…</string>
     <string name="downloading">Downloading…</string>
     <string name="download_failed">Download failed. Try again later</string>

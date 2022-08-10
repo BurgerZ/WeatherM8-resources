@@ -6,6 +6,7 @@
     <string name="app_translation_author">Євген Гіль</string>
 
     <!-- Common strings -->
+    <string name="app_language">Мова</string>
     <string name="wait">Будь ласка, зачекайте…</string>
     <string name="downloading">Завантаження…</string>
     <string name="download_failed">Не вдалося завантажити. Спробуйте ще раз пізніше</string>
@@ -228,7 +229,7 @@
     <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
 
     <!-- Settings - About -->
-    <string name="prefs_about">Про програму</string>
+    <string name="prefs_about">Про застосунок</string>
     <string name="prefs_app_version">Поточна версія</string>
     <string name="prefs_app_url">Сайт</string>
     <string name="prefs_permissions_privacy">Політика конфіденційності</string>

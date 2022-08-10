@@ -6,6 +6,7 @@
     <string name="app_translation_author">MASVA</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Molimo pričekajte…</string>
     <string name="downloading">Preuzimanje…</string>
     <string name="download_failed">Preuzimanje nije uspjelo. Pokušajte ponovo kasnije</string>

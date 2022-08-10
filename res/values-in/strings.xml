@@ -6,6 +6,7 @@
     <string name="app_translation_author">Anggit Pramudita, Diki Ananta</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Please wait…</string>
     <string name="downloading">Downloading…</string>
     <string name="download_failed">Download failed. Try again later</string>

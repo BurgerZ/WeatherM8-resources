@@ -6,6 +6,7 @@
     <string name="app_translation_author">Boštjan Rebolj</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Počakajte…</string>
     <string name="downloading">Prenašam…</string>
     <string name="download_failed">Prenos ni uspel. Poskusite kasneje</string>

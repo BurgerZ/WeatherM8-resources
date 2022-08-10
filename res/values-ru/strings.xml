@@ -6,6 +6,7 @@
     <string name="app_translation_author">Andrei Zhukouski</string>
 
     <!-- Common strings -->
+    <string name="app_language">Язык</string>
     <string name="wait">Подождите…</string>
     <string name="downloading">Скачивание…</string>
     <string name="download_failed">Возникла ошибка. Попробуйте позже</string>

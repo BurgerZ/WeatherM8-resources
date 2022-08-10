@@ -6,6 +6,7 @@
     <string name="app_translation_author">Spyros Kaparos</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Παρακαλώ περιμένετε…</string>
     <string name="downloading">Λήψη…</string>
     <string name="download_failed">Σφάλμα λήψης. Δοκιμάστε αργότερα</string>

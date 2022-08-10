@@ -6,6 +6,7 @@
     <string name="app_translation_author">wolfwork</string>
 
     <!-- Common strings -->
+    <string name="app_language">언어</string>
     <string name="wait">잠시만 기다려주세요…</string>
     <string name="downloading">내려받는 중…</string>
     <string name="download_failed">다운로드 실패. 나중에 다시 시도해주세요</string>

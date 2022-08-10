@@ -6,6 +6,7 @@
     <string name="app_translation_author">Filipe Costa (Lippe35)</string>
 
     <!-- Common strings -->
+    <string name="app_language">Language</string>
     <string name="wait">Por favor, aguarde…</string>
     <string name="downloading">A transferir…</string>
     <string name="download_failed">Transferência falhou. Tente novamente mais tarde</string>

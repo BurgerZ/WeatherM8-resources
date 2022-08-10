@@ -6,6 +6,7 @@
     <string name="app_translation_author">MIUI Germany, Hen_Ry</string>
 
     <!-- Common strings -->
+    <string name="app_language">Sprache</string>
     <string name="wait">Bitte warten…</string>
     <string name="downloading">Herunterladen…</string>
     <string name="download_failed">Herunterladen fehlgeschlagen. Später erneut versuchen</string>

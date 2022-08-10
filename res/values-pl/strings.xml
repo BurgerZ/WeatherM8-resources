@@ -6,6 +6,7 @@
     <string name="app_translation_author">trybit, Jan Folta (GUTEK)</string>
 
     <!-- Common strings -->
+    <string name="app_language">Język</string>
     <string name="wait">Proszę czekać…</string>
     <string name="downloading">Ściąganie…</string>
     <string name="download_failed">Pobieranie nie udane. Spróbuj ponownie później</string>
