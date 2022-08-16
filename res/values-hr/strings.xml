@@ -182,6 +182,11 @@
     <string name="prefs_icons_skin_title">Izgled ikona vremena</string>
     <string name="prefs_icons_skin_builtin">Ugrađeno</string>
     <string name="prefs_icons_skin_available">Dostupno</string>
+
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Lokacija</string>
+    <string name="settings_autolocate_title">Automatski pronađi</string>
+    <string name="settings_autolocate_summary">Automatski pronađi uređaj</string>
 	 
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Izvor podataka</string>

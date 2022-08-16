@@ -187,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Built-in</string>
     <string name="prefs_icons_skin_available">Available</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Konum</string>
+    <string name="settings_autolocate_title">Otomatik konum</string>
+    <string name="settings_autolocate_summary">Cihazınızı otomatik olarak bulun</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">Şehir Veritabanı</string>

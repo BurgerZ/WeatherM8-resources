@@ -185,6 +185,11 @@
     <string name="prefs_icons_skin_builtin">Incorporades</string>
     <string name="prefs_icons_skin_available">Disponibles</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Ubicació</string>
+    <string name="settings_autolocate_title">Ubicació automàtica</string>
+    <string name="settings_autolocate_summary">Ubica el dispositiu automàticament</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Font de les dades</string>
     <string name="prefs_data_source_citydb">Base de dades de ciutats</string>

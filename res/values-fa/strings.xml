@@ -187,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Built-in</string>
     <string name="prefs_icons_skin_available">Available</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">مکان</string>
+    <string name="settings_autolocate_title">یافتن خودکار</string>
+    <string name="settings_autolocate_summary">پیدا کردن خودکار دستگاه شما</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">پایگاه داده شهر</string>

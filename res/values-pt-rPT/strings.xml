@@ -187,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Atual</string>
     <string name="prefs_icons_skin_available">Disponível</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Localização</string>
+    <string name="settings_autolocate_title">Localização automática</string>
+    <string name="settings_autolocate_summary">Obter automaticamente a localização do dispositivo</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Fonte de dados</string>
     <string name="prefs_data_source_citydb">Base de dados</string>

@@ -187,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">기본</string>
     <string name="prefs_icons_skin_available">사용가능</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">위치</string>
+    <string name="settings_autolocate_title">자동 위치</string>
+    <string name="settings_autolocate_summary">자동으로 위치 찾기</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">데이터 출처</string>
     <string name="prefs_data_source_citydb">도시 데이터베이스</string>

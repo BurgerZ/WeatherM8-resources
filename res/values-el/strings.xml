@@ -182,6 +182,11 @@
     <string name="prefs_icons_skin_builtin">Ενσωματωμένα</string>
     <string name="prefs_icons_skin_available">Διαθέσιμα</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Τοποθεσία</string>
+    <string name="settings_autolocate_title">Αυτόματος εντοπισμός</string>
+    <string name="settings_autolocate_summary">Αυτόματος εντοπισμός της συσκευή σας</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Πηγή δεδομένων</string>
     <string name="prefs_data_source_citydb">Δεδομένα Πόλης</string>

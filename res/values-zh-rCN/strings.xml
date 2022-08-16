@@ -195,6 +195,11 @@
     <string name="prefs_icons_skin_builtin">内置</string>
     <string name="prefs_icons_skin_available">可选</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">地点</string>
+    <string name="settings_autolocate_title">自动定位</string>
+    <string name="settings_autolocate_summary">自动确定设备所在的位置</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">数据来源</string>
     <string name="prefs_data_source_citydb">城市数据库</string>

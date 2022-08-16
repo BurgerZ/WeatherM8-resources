@@ -184,6 +184,11 @@
     <string name="prefs_icons_skin_builtin">Встроенные</string>
     <string name="prefs_icons_skin_available">Доступные</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Местоположение</string>
+    <string name="settings_autolocate_title">Автоматическое определение</string>
+    <string name="settings_autolocate_summary">Автоматическое определение местоположения вашего устройства</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Источник данных</string>
     <string name="prefs_data_source_citydb">База городов</string>

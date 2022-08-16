@@ -183,6 +183,11 @@
     <string name="prefs_icons_skin_builtin">Wbudowany</string>
     <string name="prefs_icons_skin_available">Dostępny</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Lokalizacja</string>
+    <string name="settings_autolocate_title">Autolokalizacja</string>
+    <string name="settings_autolocate_summary">Automatycznie zlokalizuj swoje urządzenie</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Źródło danych</string>
     <string name="prefs_data_source_citydb">Baza miast</string>

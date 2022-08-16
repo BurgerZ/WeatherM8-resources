@@ -187,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Built-in</string>
     <string name="prefs_icons_skin_available">Available</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">位置</string>
+    <string name="settings_autolocate_title">自動定位</string>
+    <string name="settings_autolocate_summary">自動尋找設備之位置</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">城市數據庫</string>

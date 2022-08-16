@@ -195,6 +195,11 @@
     <string name="prefs_icons_skin_builtin">Eingebaut</string>
     <string name="prefs_icons_skin_available">Verfügbar</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Ort</string>
+    <string name="settings_autolocate_title">Autom. lokalisieren</string>
+    <string name="settings_autolocate_summary">Geräte autom. lokalisieren</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Datenquelle</string>
     <string name="prefs_data_source_citydb">Ortsdatenbank</string>

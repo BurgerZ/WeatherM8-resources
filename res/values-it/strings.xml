@@ -187,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Built-in</string>
     <string name="prefs_icons_skin_available">Available</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Posizione</string>
+    <string name="settings_autolocate_title">Posizione automatica</string>
+    <string name="settings_autolocate_summary">Ottieni automaticamente la posizione del dispositivo</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Data source</string>
     <string name="prefs_data_source_citydb">Database delle città</string>

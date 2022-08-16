@@ -187,6 +187,11 @@
     <string name="prefs_icons_skin_builtin">Nativă</string>
     <string name="prefs_icons_skin_available">Disponibilă</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Locaţie</string>
+    <string name="settings_autolocate_title">Localizare automată</string>
+    <string name="settings_autolocate_summary">Localizare automată a dispozitivului</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Sursă de date</string>
     <string name="prefs_data_source_citydb">Baza de date a orașelor</string>
