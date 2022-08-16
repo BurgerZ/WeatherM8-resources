@@ -6,7 +6,7 @@
     <string name="app_translation_author">Boštjan Rebolj</string>
 
     <!-- Common strings -->
-    <string name="app_language">Language</string>
+    <string name="app_language">Jezik</string>
     <string name="wait">Počakajte…</string>
     <string name="downloading">Prenašam…</string>
     <string name="download_failed">Prenos ni uspel. Poskusite kasneje</string>
@@ -57,6 +57,13 @@
 
     <!-- AQI -->
     <string name="aqi_title">Kakovost zraka</string>
+    <string name="aqi_pm2_5" translatable="false">PM2.5</string>
+    <string name="aqi_so2" translatable="false">SO₂</string>
+    <string name="aqi_pm10" translatable="false">PM10</string>
+    <string name="aqi_no2" translatable="false">NO₂</string>
+    <string name="aqi_co" translatable="false">CO</string>
+    <string name="aqi_o3" translatable="false">O³</string>
+    <string name="aqi_small_text" translatable="false">AQI %s %s</string>
     <string name="aqi_summary_1">Dobro</string>
     <string name="aqi_summary_2">Zmerno</string>
     <string name="aqi_summary_3">Nezdravo za občutljive</string>
@@ -196,6 +203,11 @@
     <string name="prefs_icons_skin_builtin">Vgrajeno</string>
     <string name="prefs_icons_skin_available">Na voljo</string>
 
+    <!-- Settings - Location -->
+    <string name="settings_geolocation_title">Lokacija</string>
+    <string name="settings_autolocate_title">Samod. lociraj</string>
+    <string name="settings_autolocate_summary">Samod. lociraj napravo</string>
+
     <!-- Data sources preferences -->
     <string name="prefs_data_source_title">Vir podatkov</string>
     <string name="prefs_data_source_citydb">Baza podatkov mest</string>
@@ -220,10 +232,14 @@
     <string name="prefs_data_update_quiet_hours_end_time_title">Konec</string>
     <string name="prefs_data_update_quiet_hours_start_time_title">Začetek</string>
     <string name="prefs_data_update_quiet_hours_title">Tihe ure</string>
+    <string name="prefs_data_update_dkma_title">Se podatki ne posodabljajo?</string>
+    <string name="prefs_data_update_dkma_summary">Kako narediti, da deluje za proizvajalca vašega telefona</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Enote</string>
     <string name="prefs_units_temperature">Temperatura</string>
+    <string name="prefs_units_temperature_c" translatable="false">°C</string>
+    <string name="prefs_units_temperature_f" translatable="false">°F</string>
     <string name="prefs_units_pressure">Pritisk</string>
     <string name="prefs_units_wind">Veter</string>
     <string name="prefs_units_precip">Padavine</string>
@@ -242,7 +258,7 @@
     <!-- Widgets -->
     <string name="prefs_widgets_title">Pripomočki</string>
     <string name="prefs_widgets_not_found">Ni najdenih nameščenih pripomočkov</string>
-    <string name="prefs_widgets_miui">MIUI theme widgets (.mtz)</string>
+    <string name="prefs_widgets_miui">MIUI teme pripomočki (.mtz)</string>
 
     <!-- Settings - About -->
     <string name="prefs_about">O aplikaciji</string>
@@ -266,6 +282,7 @@
 
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Pošljite e-pošto</string>
+    <string name="dialog_contact_dev_send_email_subject_message" translatable="false">Weather Mate [%1$s]</string>
     <string name="dialog_contact_dev_send_email_message">Opišite problem:\n\n</string>
     <string name="dialog_contact_dev_send_email_report_bug">Prijavite napako</string>
     <string name="dialog_contact_dev_send_email_request_new_feature">Zahtevajte kaj novega</string>
@@ -306,7 +323,7 @@
     <string name="widget_config_dateformat_title">Format datuma</string>
     <string name="widget_config_forecast_type_title">Vrsta napovedi</string>
 
-    <string name="widget_config_click_settings">Klik na področje nastavitev pripomočkov</string>
+    <string name="widget_config_click_settings">Kliknite nastavitve</string>
     <string name="widget_config_click_apps">Izberite aplikacijo</string>
     <string name="widget_config_click_clock">Ura</string>
     <string name="widget_config_click_date">Datum</string>
@@ -318,6 +335,7 @@
     <string name="dialog_color_picker">Izbira barve</string>
     <string name="color_picker_use_default_color">Uporabi privzeto barvo</string>
 
+    <!-- Notification channel -->
     <string name="notification_widget_update_service_text">Dolgo kliknite na obvestilo, odprite informacije o aplikaciji in izklopite obvestila, da skrijete to obvestilo.</string>
     <string name="notification_widget_update_service_channel">Storitev posodabljanja pripomočkov</string>
 </resources>
