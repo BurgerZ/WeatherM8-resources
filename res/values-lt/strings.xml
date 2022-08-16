@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Juntama temperatūra bus rodoma kaip pagrindinė</string>
     <string name="prefs_data_feelslike_as_main_title">Juntama temperatūra kaip pagrindinė</string>
 
+    <string name="prefs_pressure_level_title">Rodyti slėgį</string>
+    <string name="prefs_pressure_level_default">Numatytasis</string>
+    <string name="prefs_pressure_level_sensor">Telefono slėgio jutiklis</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Duomenų atnaujinimas</string>
     <string name="prefs_data_update_autoupdate_summary">Automatinis orų prognozės atnaujinimas</string>

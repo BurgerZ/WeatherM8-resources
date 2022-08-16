@@ -193,6 +193,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Prikaži temperaturu stvar. osjećaja kao glavnu temperaturu</string>
     <string name="prefs_data_feelslike_as_main_title">Stvar. osjećaj kao glavna temperatura</string>
 
+    <string name="prefs_pressure_level_title">Prikaži tlak za</string>
+    <string name="prefs_pressure_level_default">Zadano</string>
+    <string name="prefs_pressure_level_sensor">Osjetnik tlaka telefona</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Ažuriranje podataka</string>
     <string name="prefs_data_update_autoupdate_summary">Ažuriraj vremensku prognozu automatski</string>

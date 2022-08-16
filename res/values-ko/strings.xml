@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_title">실시간 온도 표시</string>
     <string name="prefs_data_feelslike_as_main_summary">온도를 실시간으로 표시합니다</string>
 
+    <string name="prefs_pressure_level_title">기압 표시</string>
+    <string name="prefs_pressure_level_default">기본값</string>
+    <string name="prefs_pressure_level_sensor">기기 압력 센서</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">데이터 업데이트</string>
     <string name="prefs_data_update_autoupdate_title">자동 업데이트</string>

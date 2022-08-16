@@ -192,6 +192,10 @@
     <string name="prefs_data_feelslike_as_main_title">Θερμοκρασία αίσθησης σαν κύρια </string>
     <string name="prefs_data_feelslike_as_main_summary">Ένδειξη θερμοκρασίας αίσθησης ως κύρια θερμοκρασία του καιρού</string>
 
+    <string name="prefs_pressure_level_title">Εμφάνιση πίεσης από</string>
+    <string name="prefs_pressure_level_default">Προκαθορισμένο</string>
+    <string name="prefs_pressure_level_sensor">Αισθητήρα πίεσης τηλεφώνου</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Ενημέρωση δεδομένων</string>
     <string name="prefs_data_update_autoupdate_title">Αυτόματη ενημέρωση</string>

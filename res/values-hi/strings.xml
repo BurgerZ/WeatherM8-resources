@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_summary">मुख्य मौसम के तापमान के रूप में वास्तविक अनुभव तापमान दिखाएं</string>
     <string name="prefs_data_feelslike_as_main_title">मुख्य तापमान के रूप में अनुभव जैसा</string>
 
+    <string name="prefs_pressure_level_title">दबाव प्रदर्शन के लिए</string>
+    <string name="prefs_pressure_level_default">चूक</string>
+    <string name="prefs_pressure_level_sensor">फोन दबाव सेंसर</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">डेटा अपडेट</string>
     <string name="prefs_data_update_autoupdate_summary">स्वचालित रूप से मौसम का पूर्वानुमान</string>

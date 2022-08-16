@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Gerçek sıcaklık derecesini ana hava sıcaklığı olarak göster</string>
     <string name="prefs_data_feelslike_as_main_title">Ana sıcaklıkta olduğu gibi hissettiriyor</string>
 
+    <string name="prefs_pressure_level_title">Görüntü basıncı</string>
+    <string name="prefs_pressure_level_default">Varsayılan</string>
+    <string name="prefs_pressure_level_sensor">Telefon basınç sensörü</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Veri güncellemesi</string>
     <string name="prefs_data_update_autoupdate_summary">Hava Durumunu Otomatik Olarak Güncelleştir</string>

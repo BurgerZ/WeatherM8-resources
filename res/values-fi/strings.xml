@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_title">Tuntuu kuin pää lämpötilana</string>
     <string name="prefs_data_feelslike_as_main_summary">Näytä reaaliaikainen lämpötila päälämpötilana</string>
 
+    <string name="prefs_pressure_level_title">Näytä paine</string>
+    <string name="prefs_pressure_level_default">Oletus</string>
+    <string name="prefs_pressure_level_sensor">Puhelinpaineanturi</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Tietojen päivitys</string>
     <string name="prefs_data_update_autoupdate_title">Automaattinen päivitys</string>

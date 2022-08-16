@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_title">מרגיש כמו טמפרטורה ראשית</string>
     <string name="prefs_data_feelslike_as_main_summary">צג תחושת טמפרטורה אמיתית כמו טמפרטורת מזג אוויר ראשית</string>
 
+    <string name="prefs_pressure_level_title">תצוגת לחץ עבור</string>
+    <string name="prefs_pressure_level_default">ברירת מחדל</string>
+    <string name="prefs_pressure_level_sensor">>חיישן לחץ בטלפון</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">עדכון נתונים</string>
     <string name="prefs_data_update_autoupdate_title">עדכון אוטומטי</string>

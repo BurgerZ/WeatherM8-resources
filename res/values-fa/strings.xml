@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_title">احساس واقعی به جای دمای اصلی</string>
     <string name="prefs_data_feelslike_as_main_summary">نمایش دمای احساس واقعی به جای دمای اصلی</string>
 
+    <string name="prefs_pressure_level_title">نمایش فشار برای</string>
+    <string name="prefs_pressure_level_default">پیش فرض</string>
+    <string name="prefs_pressure_level_sensor">سنسور فشار تلفن</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">به روز رسانی داده ها</string>
     <string name="prefs_data_update_autoupdate_title">به روز رسانی خودکار</string>

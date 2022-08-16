@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_title">Feelslike as main temperature</string>
     <string name="prefs_data_feelslike_as_main_summary">Show realfeel temperature as a main weather temperature</string>
 
+    <string name="prefs_pressure_level_title">Toon druk voor</string>
+    <string name="prefs_pressure_level_default">Standaard</string>
+    <string name="prefs_pressure_level_sensor">Telefoondruksensor</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Gegevens bijwerken</string>
     <string name="prefs_data_update_autoupdate_title">Automatisch bijwerken</string>

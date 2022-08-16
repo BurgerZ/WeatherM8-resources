@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_summary">У якасці асноўнай будзе адлюстроўвацца тэмпература, якая адчуваецца</string>
     <string name="prefs_data_feelslike_as_main_title">"Тэмпература, што адчуваецца, як асноўная"</string>
 
+    <string name="prefs_pressure_level_title">Паказваць ціск для</string>
+    <string name="prefs_pressure_level_default">Па змаўчанні</string>
+    <string name="prefs_pressure_level_sensor">Датчык цiску тэлефона</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Абнаўленне дадзеных</string>
     <string name="prefs_data_update_autoupdate_title">Аўтаматычнае абнаўленне</string>

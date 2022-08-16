@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_title">Ressenti comme la température principale</string>
     <string name="prefs_data_feelslike_as_main_summary">Afficher la température réelle comme température principale</string>
 
+    <string name="prefs_pressure_level_title">Afficher la pression pour</string>
+    <string name="prefs_pressure_level_default">Défaut</string>
+    <string name="prefs_pressure_level_sensor">Capteur de pression (si disponible)</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Mise à jour des données</string>
     <string name="prefs_data_update_autoupdate_summary">Mettre à jour les prévisions automatiquement</string>

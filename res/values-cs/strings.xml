@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Zobrazit pocitovou teplotu jako hlavní teplotu počasí</string>
     <string name="prefs_data_feelslike_as_main_title">Pocitová teplota jako hlavní teplota</string>
 
+    <string name="prefs_pressure_level_title">Zobrazit tlak pro</string>
+    <string name="prefs_pressure_level_default">Výchozí</string>
+    <string name="prefs_pressure_level_sensor">Snímač tlaku telefonu</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Data update</string>
     <string name="prefs_data_update_autoupdate_title">Aktualizovat automaticky</string>

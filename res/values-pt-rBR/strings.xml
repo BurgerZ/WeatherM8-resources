@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Mostrar informação da sensação térmica como a temperatura principal</string>
     <string name="prefs_data_feelslike_as_main_title">Sensação térmica</string>
 
+    <string name="prefs_pressure_level_title">Dados da pressão</string>
+    <string name="prefs_pressure_level_default">Padrão</string>
+    <string name="prefs_pressure_level_sensor">Sensor de pressão (se disponível)</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Atualização de dados</string>
     <string name="prefs_data_update_autoupdate_summary">Atualizar automaticamente a informação do tempo</string>

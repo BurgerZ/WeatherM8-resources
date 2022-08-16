@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_title">\"Se simte a fi\" ca temperatură principală</string>
     <string name="prefs_data_feelslike_as_main_summary">Se afişează temperatura resimţită ca temperatură meteo principală</string>
 
+    <string name="prefs_pressure_level_title">Afişare presiune pentru</string>
+    <string name="prefs_pressure_level_default">Implicit</string>
+    <string name="prefs_pressure_level_sensor">Senzor de presiune al telefonului</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Actualizarea datelor</string>
     <string name="prefs_data_update_autoupdate_summary">Actualizare automată a prognozei meteo</string>

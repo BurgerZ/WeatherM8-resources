@@ -205,6 +205,10 @@
     <string name="prefs_data_feelslike_as_main_title">体感温度作为主要温度</string>
     <string name="prefs_data_feelslike_as_main_summary">将主要温度显示更改为体感温度</string>
 
+    <string name="prefs_pressure_level_title">气压数值基准</string>
+    <string name="prefs_pressure_level_default">默认</string>
+    <string name="prefs_pressure_level_sensor">手机压力传感器</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">数据更新</string>
     <string name="prefs_data_update_autoupdate_title">自动更新</string>

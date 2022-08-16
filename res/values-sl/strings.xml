@@ -206,6 +206,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Prikaži temperaturo realnega občutka kot glavno temperaturo</string>
     <string name="prefs_data_feelslike_as_main_title">Real. občutek kot glavna temperatura</string>
 
+    <string name="prefs_pressure_level_title">Prikaži pritisk za</string>
+    <string name="prefs_pressure_level_default">Privzeto</string>
+    <string name="prefs_pressure_level_sensor">Senzor tlaka telefona</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Posodobitev podatkov</string>
     <string name="prefs_data_update_autoupdate_title">Samod. posodobi</string>

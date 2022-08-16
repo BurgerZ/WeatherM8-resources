@@ -205,6 +205,10 @@
     <string name="prefs_data_feelslike_as_main_title">Fühlt sich wie die Haupttemperatur an</string>
     <string name="prefs_data_feelslike_as_main_summary">Real gefühlte Temperatur als Hauptwettertemperatur anzeigen</string>
 
+    <string name="prefs_pressure_level_title">Druck anzeigen für</string>
+    <string name="prefs_pressure_level_default">Standard</string>
+    <string name="prefs_pressure_level_sensor">Telefon-Drucksensor</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Daten aktualisieren</string>
     <string name="prefs_data_update_autoupdate_title">Autom. aktualisieren</string>

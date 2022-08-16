@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Hiện nhiệt độ cảm nhận là nhiệt độ thời tiết chính</string>
     <string name="prefs_data_feelslike_as_main_title">Cảm nhận là nhiệt độ chính</string>
 
+    <string name="prefs_pressure_level_title">Áp suất hiển thị</string>
+    <string name="prefs_pressure_level_default">Mặc định</string>
+    <string name="prefs_pressure_level_sensor">Cảm biến áp suất điện thoại</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Cập nhật dữ liệu</string>
     <string name="prefs_data_update_autoupdate_summary">"Cập nhật thời tiết tự động "</string>

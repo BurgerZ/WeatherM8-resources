@@ -193,6 +193,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Wyświetlaj temperaturę odczuwalną jako główną temperaturę pogody</string>
     <string name="prefs_data_feelslike_as_main_title">Pokazuj temperaturę odczuwalną</string>
 
+    <string name="prefs_pressure_level_title">Pokazuj ciśnienie dla</string>
+    <string name="prefs_pressure_level_default">Domyślne</string>
+    <string name="prefs_pressure_level_sensor">Czujnik ciśnienia telefonu</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Aktualizacja danych</string>
     <string name="prefs_data_update_autoupdate_summary">Aktualizuj prognozę pogody automatycznie</string>

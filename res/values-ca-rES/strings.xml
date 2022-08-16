@@ -195,6 +195,10 @@
     <string name="prefs_data_feelslike_as_main_title">Sensació tèrmica com a temperatura principal</string>
     <string name="prefs_data_feelslike_as_main_summary">Mostra la temperatura de sensació real com a temperatura principal</string>
 
+    <string name="prefs_pressure_level_title">Mostra la pressió per a</string>
+    <string name="prefs_pressure_level_default">Per defecte</string>
+    <string name="prefs_pressure_level_sensor">Sensor de pressió del telèfon</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Actualització de dades</string>
     <string name="prefs_data_update_autoupdate_title">Actualització automàtica</string>

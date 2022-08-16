@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_summary">Прикажи субјективни осећај као главну температуру</string>
     <string name="prefs_data_feelslike_as_main_title">Субјективни осећај као главна температура</string>
 
+    <string name="prefs_pressure_level_title">Прикажи притисак за</string>
+    <string name="prefs_pressure_level_default">Подразумевано</string>
+    <string name="prefs_pressure_level_sensor">Сензор притиска телефона</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Ажурирање података</string>
     <string name="prefs_data_update_autoupdate_summary">Аутоматски ажурирај временску прогнозу</string>

@@ -197,6 +197,10 @@
     <string name="prefs_data_feelslike_as_main_title">Terasa seperti suhu utama</string>
     <string name="prefs_data_feelslike_as_main_summary">Tunjukkan suhu sesungguhnya sebagai suhu cuaca utama</string>
 
+    <string name="prefs_pressure_level_title">Tampilkan tekanan untuk</string>
+    <string name="prefs_pressure_level_default">Default</string>
+    <string name="prefs_pressure_level_sensor">Sensor tekanan telepon</string>
+
     <!-- Data update preferences -->
     <string name="prefs_data_update_title">Pembaruan data</string>
     <string name="prefs_data_update_autoupdate_title">Perbarui otomatis</string>
