@@ -57,13 +57,6 @@
 
     <!-- AQI -->
     <string name="aqi_title">Kakovost zraka</string>
-    <string name="aqi_pm2_5" translatable="false">PM2.5</string>
-    <string name="aqi_so2" translatable="false">SO₂</string>
-    <string name="aqi_pm10" translatable="false">PM10</string>
-    <string name="aqi_no2" translatable="false">NO₂</string>
-    <string name="aqi_co" translatable="false">CO</string>
-    <string name="aqi_o3" translatable="false">O³</string>
-    <string name="aqi_small_text" translatable="false">AQI %s %s</string>
     <string name="aqi_summary_1">Dobro</string>
     <string name="aqi_summary_2">Zmerno</string>
     <string name="aqi_summary_3">Nezdravo za občutljive</string>
@@ -238,8 +231,6 @@
     <!-- Units preferences -->
     <string name="prefs_units_title">Enote</string>
     <string name="prefs_units_temperature">Temperatura</string>
-    <string name="prefs_units_temperature_c" translatable="false">°C</string>
-    <string name="prefs_units_temperature_f" translatable="false">°F</string>
     <string name="prefs_units_pressure">Pritisk</string>
     <string name="prefs_units_wind">Veter</string>
     <string name="prefs_units_precip">Padavine</string>
@@ -282,19 +273,10 @@
 
     <!-- Contact developer dialog -->
     <string name="dialog_contact_dev_send_email">Pošljite e-pošto</string>
-    <string name="dialog_contact_dev_send_email_subject_message" translatable="false">Weather Mate [%1$s]</string>
     <string name="dialog_contact_dev_send_email_message">Opišite problem:\n\n</string>
     <string name="dialog_contact_dev_send_email_report_bug">Prijavite napako</string>
     <string name="dialog_contact_dev_send_email_request_new_feature">Zahtevajte kaj novega</string>
     <string name="dialog_contact_dev_send_email_other">Ostalo</string>
-    <string name="dialog_contact_dev_send_email_help_localize" translatable="false">Pomagajte nam pri lokalizaciji</string>
-    <string name="dialog_contact_dev_send_email_help_localize_message" translatable="false">Pozdravljeni, lahko vam pomagam pri lokalizaciji na %1$s</string>
-
-    <!-- Widgets -->
-    <string name="widget_name_4x1_pixel" translatable="false">Google Pixel</string>
-    <string name="widget_name_4x1_f" translatable="false">Ura in napoved</string>
-    <string name="widget_name_4x2_clock" translatable="false">Ura in napoved</string>
-    <string name="widget_name_4x2_stock" translatable="false">Napoved</string>
 
     <!-- Widget config -->
     <string name="widget_config_title">Konfig. pripomočkov</string>
