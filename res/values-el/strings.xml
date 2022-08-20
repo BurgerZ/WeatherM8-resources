@@ -6,7 +6,7 @@
     <string name="app_translation_author">Spyros Kaparos</string>
 
     <!-- Common strings -->
-    <string name="app_language">Language</string>
+    <string name="app_language">Γλώσσα</string>
     <string name="wait">Παρακαλώ περιμένετε…</string>
     <string name="downloading">Λήψη…</string>
     <string name="download_failed">Σφάλμα λήψης. Δοκιμάστε αργότερα</string>
@@ -198,7 +198,7 @@
     <string name="prefs_data_feelslike_as_main_summary">Ένδειξη θερμοκρασίας αίσθησης ως κύρια θερμοκρασία του καιρού</string>
 
     <string name="prefs_pressure_level_title">Εμφάνιση πίεσης από</string>
-    <string name="prefs_pressure_level_default">Προκαθορισμένο</string>
+    <string name="prefs_pressure_level_default">Προεπιλογή</string>
     <string name="prefs_pressure_level_sensor">Αισθητήρα πίεσης τηλεφώνου</string>
 
     <!-- Data update preferences -->
@@ -211,6 +211,8 @@
     <string name="prefs_data_update_quiet_hours_end_time_title">Τέλος</string>
     <string name="prefs_data_update_quiet_hours_start_time_title">Έναρξη</string>
     <string name="prefs_data_update_quiet_hours_title">Ώρες ησυχίας</string>
+    <string name="prefs_data_update_dkma_title">Δεν ενημερώνονται τα δεδομένα;</string>
+    <string name="prefs_data_update_dkma_summary">Δείτε πώς θα λειτουργήσουν στο τηλεφώνο σας</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">Μονάδες</string>
