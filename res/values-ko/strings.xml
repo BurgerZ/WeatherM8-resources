@@ -19,6 +19,10 @@
     <string name="city_manager_locating_no_permission">"기기의 위치를 특정할 수 없습니다"</string>
 
     <!-- Main menu (Not used) -->
+    <string name="menu_item_sun_info" translatable="false">@string/sun_info_title</string>
+    <string name="menu_item_moon_info" translatable="false">@string/moon_info_title</string>
+    <string name="menu_item_widgets" translatable="false">@string/prefs_widgets_title</string>
+    <string name="menu_item_settings" translatable="false">@string/settings_menu_title</string>
 
     <!-- Location manager -->
     <string name="location_manager_title">위치</string>
@@ -34,6 +38,7 @@
     <string name="weather_details_precip">강수</string>
     <string name="weather_details_visibility">가시거리</string>
     <string name="weather_details_uvindex">자외선 지수</string>
+    <string name="weather_details_kpindex" translatable="false">@string/forecast_kpindex_title</string>
     <string name="weather_details_timezone">시간대</string>
     <string name="weather_details_daylight_hours">일조시간</string>
 
@@ -57,6 +62,13 @@
 
     <!-- AQI -->
     <string name="aqi_title">공기 품질</string>
+    <string name="aqi_pm2_5" translatable="false">PM2.5</string>
+    <string name="aqi_so2" translatable="false">SO₂</string>
+    <string name="aqi_pm10" translatable="false">PM10</string>
+    <string name="aqi_no2" translatable="false">NO₂</string>
+    <string name="aqi_co" translatable="false">CO</string>
+    <string name="aqi_o3" translatable="false">O³</string>
+    <string name="aqi_small_text" translatable="false">AQI %s %s</string>
     <string name="aqi_summary_1">좋음</string>
     <string name="aqi_summary_2">보통</string>
     <string name="aqi_summary_3">예민한 부류에게 나쁨</string>
@@ -89,6 +101,15 @@
     <string name="sun_info_eclipse_type_partial">부분</string>
     <string name="sun_info_eclipse_type_annular">고리 형태</string>
 
+    <!--string name="sun_info_sunrise_legend">수평선에서 해의 윗 부분이 나타나는 시각</string>
+    <string name="sun_info_sunset_legend">해가 수평선 아래로 사라지고, 저녁 상용박명이 시작되는 시각</string>
+    <string name="sun_info_dawn_legend">아침 항해박명이 끝나고, 아침 상용박명이 시작되는 시각</string>
+    <string name="sun_info_dusk_legend">저녁 항해박명이 시작되는 시각</string>
+    <string name="sun_info_noon_legend">정오. 해가 가장 높은 위치에 있을 때</string>
+    <string name="sun_info_nadir_legend">밤의 가장 어두운 순간, 해가 가장 낮은 위치에 있을 때</string>
+    <string name="sun_info_azimuth_legend">지역 수평선을 따라 해의 상대적인 방향을 정의</string>
+    <string name="sun_info_height_legend">북쪽에서 동쪽으로 측정한 수평선 위의 태양 고도</string>
+    <string name="sun_info_eclipse_legend">지구의 일부가 햇빛을 완전히 또는 부분적으로 차단하는 일식(태양, 달 및 지구가 정렬될 때).</string-->
 
     <!-- Moon Info -->
     <string name="moon_info_title">달</string>
@@ -148,7 +169,7 @@
     <string name="wind_unit_ms">m/s</string>
     <string name="wind_unit_kmh">km/h</string>
     <string name="wind_unit_mph">mph</string>
-    <string name="wind_unit_knot">knot</string>
+    <string name="wind_unit_knot">kn</string>
     <string name="wind_unit_bft">bft</string>
 
     <string name="pressure_unit_hpa">hPa</string>
@@ -156,6 +177,9 @@
     <string name="pressure_unit_mmhg">mmHg</string>
     <string name="pressure_unit_inhg">inHg</string>
 
+    <string name="temperature_unit_c" translatable="false">\u2103</string>
+    <string name="temperature_unit_f" translatable="false">\u2109</string>
+    <string name="temperature_unit_degree" translatable="false">°</string>
 
     <string name="precipitation_unit_mm">mm</string>
     <string name="precipitation_unit_cm">cm</string>
@@ -163,7 +187,7 @@
 
     <string name="visibility_unit_m">m</string>
     <string name="visibility_unit_km">km</string>
-    <string name="visibility_unit_mi">miles</string>
+    <string name="visibility_unit_mi">mi</string>
 
     <string name="weather_aqi_detail_units">단위: µg/m³</string>
 
@@ -181,6 +205,8 @@
     <string name="prefs_ui_theme_dark">다크 모드</string>
     <string name="prefs_ui_theme_light">밝은 모드</string>
     <string name="prefs_ui_theme_battery">배터리에 따름</string>
+    <string name="prefs_ui_theme_def_value" translatable="false">MODE_NIGHT_FOLLOW_SYSTEM</string>
+    <string name="prefs_ui_icons_skin" translatable="false">@string/prefs_icons_skin_title</string>
 
     <!-- Settings - weather icons -->
     <string name="prefs_icons_skin_title">날씨 아이콘 스킨</string>
@@ -216,14 +242,33 @@
     <string name="prefs_data_update_quiet_hours_end_time_title">종료</string>
     <string name="prefs_data_update_quiet_hours_start_time_title">시작</string>
     <string name="prefs_data_update_quiet_hours_title">방해 금지 시간</string>
+    <string name="prefs_data_update_dkma_title">데이터가 업데이트되지 않나요?</string>
+    <string name="prefs_data_update_dkma_summary">휴대폰 제조사에 따라 동작하는 방법을 알아봅시다</string>
 
     <!-- Units preferences -->
     <string name="prefs_units_title">단위</string>
     <string name="prefs_units_temperature">온도</string>
+    <string name="prefs_units_temperature_c" translatable="false">°C</string>
+    <string name="prefs_units_temperature_f" translatable="false">°F</string>
     <string name="prefs_units_pressure">공기압</string>
+    <string name="prefs_units_pressure_hpa" translatable="false">@string/pressure_unit_hpa</string>
+    <string name="prefs_units_pressure_mb" translatable="false">@string/pressure_unit_mb</string>
+    <string name="prefs_units_pressure_mmhg" translatable="false">@string/pressure_unit_mmhg</string>
+    <string name="prefs_units_pressure_inhg" translatable="false">@string/pressure_unit_inhg</string>
     <string name="prefs_units_wind">풍속</string>
+    <string name="prefs_units_wind_ms" translatable="false">@string/wind_unit_ms</string>
+    <string name="prefs_units_wind_kmh" translatable="false">@string/wind_unit_kmh</string>
+    <string name="prefs_units_wind_mph" translatable="false">@string/wind_unit_mph</string>
+    <string name="prefs_units_wind_knot" translatable="false">@string/wind_unit_knot</string>
+    <string name="prefs_units_wind_bft" translatable="false">@string/wind_unit_bft</string>
     <string name="prefs_units_precip">강수량</string>
+    <string name="prefs_units_precip_mm" translatable="false">@string/precipitation_unit_mm</string>
+    <string name="prefs_units_precip_cm" translatable="false">@string/precipitation_unit_cm</string>
+    <string name="prefs_units_precip_in" translatable="false">@string/precipitation_unit_in</string>
     <string name="prefs_units_visibility">가시성</string>
+    <string name="prefs_units_visibility_m" translatable="false">@string/visibility_unit_m</string>
+    <string name="prefs_units_visibility_km" translatable="false">@string/visibility_unit_km</string>
+    <string name="prefs_units_visibility_mi" translatable="false">@string/visibility_unit_mi</string>
 
     <!-- Notifications -->
     <string name="prefs_notifications_title">알림</string>
@@ -266,8 +311,14 @@
     <string name="dialog_contact_dev_send_email_report_bug">버그 제보</string>
     <string name="dialog_contact_dev_send_email_request_new_feature">새로운 기능 요청</string>
     <string name="dialog_contact_dev_send_email_other">기타</string>
+    <string name="dialog_contact_dev_send_email_help_localize" translatable="false">지역화로 우리를 도와주세요</string>
+    <string name="dialog_contact_dev_send_email_help_localize_message" translatable="false">Hello, I can help you with localization to %1$s</string>
 
     <!-- Widgets -->
+    <string name="widget_name_4x1_pixel" translatable="false">구글 픽셀</string>
+    <string name="widget_name_4x1_f" translatable="false">시계와 예보</string>
+    <string name="widget_name_4x2_clock" translatable="false">시계와 예보</string>
+    <string name="widget_name_4x2_stock" translatable="false">예보</string>
 
     <!-- Widget config -->
     <string name="widget_config_title">위젯 설정</string>
@@ -307,5 +358,10 @@
     <string name="press_color_to_apply">적용하려면 색을 누르세요</string>
     <string name="dialog_color_picker">색상 고르기</string>
     <string name="color_picker_use_default_color">기본 색상 사용하기</string>
+
+    <!-- Notification channel -->
+    <string name="notification_widget_update_service_text">알림을 길게 누르고, 앱 설정을 열어 알림을 끄면, 이 알림이 숨겨집니다.</string>
+    <string name="notification_widget_update_service_channel">위젯 업데이트 서비스</string>
+
 
 </resources>
