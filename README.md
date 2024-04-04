@@ -1,4 +1,4 @@
-# Weather M8 Resources
+# Weather M8 (Legacy) Resources
 Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 
 <dl><dd><a href="https://play.google.com/store/apps/details?id=pro.burgerz.miweather8" target="_blank"><img src="http://i.imgur.com/qicfqDr.png" alt="Weather M8"></a></dd></dl>
@@ -43,7 +43,8 @@ Weather Mate (Weather M8) by **Andrei Zhukouski** translation files.
 |values-zh-TW|Chinese (Taiwan)|**cjh**|
 
 ## Download
-**Weather M8** can be downloaded on [Google Play Store](https://play.google.com/store/apps/details?id=pro.burgerz.miweather8)
+[Google Play Store](https://play.google.com/store/apps/details?id=pro.burgerz.miweather8).
+[Microsoft App Center](https://install.appcenter.ms/orgs/burgerz/apps/weather-m8-legacy/distribution_groups/public).
 
 ## Copyright
-Weather Mate (Weather M8) © 2016-2021 zaa.bz, **Andrei Zhukouski**
+Weather Mate (Weather M8) © 2016-2024 zaa.bz, **Andrei Zhukouski**
