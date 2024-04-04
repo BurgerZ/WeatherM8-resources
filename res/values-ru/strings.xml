@@ -93,6 +93,7 @@
     <string name="settings_app_theme_title">Тема</string>
     <string name="settings_app_theme_light">Светлая</string>
     <string name="settings_app_theme_dark">Темная</string>
+    <string name="settings_app_theme_black">Черная</string>
     <string name="settings_sound_volume">Громкость звука</string>
     <string name="settings_category_units">Единицы измерения</string>
     <string name="settings_pressure_unit">Давление</string>
@@ -160,6 +161,8 @@
     <string name="settings_ads_remove_summary">Отключить рекламу на неделю (один раз в месяц)</string>
     <string name="settings_ads_yandex">Яндекс Деньги</string>
     <string name="settings_ads_donation_expl">Пожертвование с помощью Google Play путем нажатия на одну из кнопок, расположенных ниже, НЕ отключит рекламу в приложении. Для ее отключения вы должны воспользоваться кнопкой \"Отключить рекламу\".</string>
+    <string name="settings_tipjar_title">Копилка</string>
+    <string name="settings_tipjar_description">"Если вам нравится данное приложение, вы можете поддержать его будущую разработку небольшим взносом, по желанию."</string>
     <string name="settings_about">О приложении</string>
     <string name="settings_translations">Перевод приложения</string>
     <string name="settings_translations_summary">Список переводчиков приложения</string>
@@ -375,4 +378,9 @@
     <string name="radar_date_format">dd.MM HH:mm</string>
 
     <string name="loading_data">Загрузка данных…</string>
+
+    <!-- App doze -->
+    <string name="app_doze_warning_title">Внимание</string>
+    <string name="app_doze_warning_message">Чтобы использовать виджеты, отключите экономию заряда батареи для приложения: \n\n1. Выберите \"Все приложения\" в выпадающем меню\n2. Кликните по \"Погода М8\" в списке\n3. Выберите \"Не экономить\"</string>
+    <string name="app_doze_mode_btn_title">Отключить оптимизацию</string>
 </resources>
