@@ -1,164 +1,111 @@
-[
-    {
-        "name": "New York"
-    },
-    {
-        "name": "Moscow"
-    },
-    {
-        "name": "Cairo"
-    },
-    {
-        "name": "Beijing"
-    },
-    {
-        "name": "Buenos Aires"
-    },
-    {
-        "name": "Los Angeles"
-    },
-    {
-        "name": "Minsk"
-    },
-    {
-        "name": "Madrid"
-    },
-    {
-        "name": "Malaga"
-    },
-    {
-        "name": "Saint Petersburg"
-    },
-    {
-        "name": "Barcelona"
-    },
-    {
-        "name": "Osaka"
-    },
-    {
-        "name": "Tokyo"
-    },
-    {
-        "name": "Bangkok"
-    },
-    {
-        "name": "São Paulo"
-    },
-    {
-        "name": "Manila"
-    },
-    {
-        "name": "Jakarta"
-    },
-    {
-        "name": "Delhi"
-    },
-    {
-        "name": "Seoul"
-    },
-    {
-        "name": "Mumbai"
-    },
-    {
-        "name": "Mexico City"
-    },
-    {
-        "name": "Guangzhou"
-    },
-    {
-        "name": "Kolkata"
-    },
-    {
-        "name": "Shenzhen"
-    },
-    {
-        "name": "Istanbul"
-    },
-    {
-        "name": "Shanghai"
-    },
-    {
-        "name": "Rio de Janeiro"
-    },
-    {
-        "name": "Lima"
-    },
-    {
-        "name": "London"
-    },
-    {
-        "name": "Paris"
-    },
-    {
-        "name": "Bogotá"
-    },
-    {
-        "name": "Chicago"
-    },
-    {
-        "name": "Kuala Lumpur"
-    },
-    {
-        "name": "Washington, D.C."
-    },
-    {
-        "name": "Hong Kong"
-    },
-    {
-        "name": "Johannesburg"
-    },
-    {
-        "name": "Boston"
-    },
-    {
-        "name": "Toronto"
-    },
-    {
-        "name": "Dallas"
-    },
-    {
-        "name": "Santiago"
-    },
-    {
-        "name": "Houston"
-    },
-    {
-        "name": "Miami"
-    },
-    {
-        "name": "San Francisco"
-    },
-    {
-        "name": "Philadelphia"
-    },
-    {
-        "name": "Atlanta"
-    },
-    {
-        "name": "Milan"
-    },
-    {
-        "name": "Alexandria"
-    },
-    {
-        "name": "Sydney"
-    },
-    {
-        "name": "Casablanca"
-    },
-    {
-        "name": "Melbourne"
-    },
-    {
-        "name": "Phoenix"
-    },
-    {
-        "name": "Colombo"
-    },
-    {
-        "name": "Monterrey"
-    },
-    {
-        "name": "Ankara"
-    }
-]
+{
+    "en": [
+        "New York",
+        "Moscow",
+        "Cairo",
+        "Beijing",
+        "Buenos Aires",
+        "Los Angeles",
+        "Minsk",
+        "Madrid",
+        "Malaga",
+        "Saint Petersburg",
+        "Barcelona",
+        "Osaka",
+        "Tokyo",
+        "Bangkok",
+        "São Paulo",
+        "Manila",
+        "Jakarta",
+        "Delhi",
+        "Seoul",
+        "Mumbai",
+        "Mexico City",
+        "Guangzhou",
+        "Kolkata",
+        "Shenzhen",
+        "Istanbul",
+        "Shanghai",
+        "Rio de Janeiro",
+        "Lima",
+        "London",
+        "Paris",
+        "Bogotá",
+        "Chicago",
+        "Kuala Lumpur",
+        "Washington, D.C.",
+        "Hong Kong",
+        "Johannesburg",
+        "Boston",
+        "Toronto",
+        "Dallas",
+        "Santiago",
+        "Houston",
+        "Miami",
+        "San Francisco",
+        "Philadelphia",
+        "Atlanta",
+        "Milan",
+        "Alexandria",
+        "Sydney",
+        "Casablanca",
+        "Melbourne",
+        "Phoenix",
+        "Colombo",
+        "Monterrey",
+        "Ankara"
+    ],
+    "ru": [
+        "Нью-Йорк",
+        "Москва",
+        "Каир",
+        "Пекин",
+        "Буэнос-Айрес",
+        "Лос-Анджелес",
+        "Минск",
+        "Мадрид",
+        "Малага",
+        "Санкт-Петербург",
+        "Барселона",
+        "Осака",
+        "Токио",
+        "Бангкок",
+        "Сан-Паулу",
+        "Манила",
+        "Джакарта",
+        "Сеул",
+        "Мумбаи",
+        "Мехико",
+        "Гуанджоу",
+        "Колькутта",
+        "Шэньчжэнь",
+        "Стамбул",
+        "Шанхай",
+        "Рио-де-Жанейро",
+        "Лима",
+        "Лондон",
+        "Париж",
+        "Богота",
+        "Чикаго",
+        "Куала-Лумпур",
+        "Вашингтон",
+        "Гонконг",
+        "Йоханнесбург",
+        "Бостон",
+        "Торонто",
+        "Даллас",
+        "Сантьяго",
+        "Хьюстон",
+        "Майами",
+        "Сан-Франциско",
+        "Филаделфия",
+        "Атланта",
+        "Милан",
+        "Александрия",
+        "Сидней",
+        "Касабланка",
+        "Мельбурн",
+        "Феникс",
+        "Анкара"
+    ]
+}
